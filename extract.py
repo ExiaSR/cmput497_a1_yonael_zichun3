@@ -28,6 +28,7 @@ class Extracter:
 
     def re_starring(self, token):
         print(token)
+        print('\n\n\n\n')
 
 
                 

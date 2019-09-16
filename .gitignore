@@ -167,9 +167,6 @@ dmypy.json
 # Ignore all local history of files
 .history
 
-## Project Specific Files ### 
-# Ignore all files that are needed to process in this project 
-*.txt
-*.tsv
-*.wiki
+
+
 # End of https://www.gitignore.io/api/macos,python,visualstudiocode
