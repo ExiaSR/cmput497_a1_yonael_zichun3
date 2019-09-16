@@ -1,0 +1,365 @@
+{{short description|2012 film directed by Peter Ramsey}}
+{{about|the film|the video game|Rise of the Guardians: The Video Game}}
+{{Infobox film
+| name = Rise of the Guardians
+| image = Rise of the Guardians poster.jpg
+| caption = Theatrical release poster
+| director = [[Peter Ramsey]]
+| producer = Christina Steinberg<br />[[Nancy Bernstein]]
+| screenplay = [[David Lindsay-Abaire]]
+| based on = {{based on|''The Guardians of Childhood''|[[William Joyce (writer)|William Joyce]]}}
+| starring = [[Chris Pine]]<br />[[Alec Baldwin]]<br />[[Hugh Jackman]]<br />[[Isla Fisher]]<br />[[Jude Law]]
+| music = [[Alexandre Desplat]]
+| cinematography =
+| editing = Joyce Arrastia
+| studio = [[DreamWorks Animation]]
+| distributor = [[Paramount Pictures]]{{ref|1|1}}
+| released = {{Film date|2012|10|10|[[Mill Valley Film Festival]]|ref1=<ref name="mill"/>|2012|11|21|United States}}
+| runtime = 97 minutes<ref name=THRReview />
+| country = United States
+| language = English
+| budget = $145 million<ref>{{cite news |last=Lieberman |first=David |title=UPDATE: DreamWorks Animation Will Have Distribution Plan By Labor Day |url=http://www.deadline.com/2012/05/dreamworks-animation-beats-q1-forecasts-with-strong-overseas-sales-for-puss-in-boots |accessdate=May 3, 2012 |website=[[Deadline Hollywood]] |date=May 2, 2012}}</ref>
+| gross = $306.9 million<ref name="BOM">{{cite web|title=Rise of the Guardians (2012)|url=http://www.boxofficemojo.com/movies/?id=guardians.htm|publisher=Box Office Mojo|accessdate=October 1, 2014|archiveurl=https://web.archive.org/web/20141009211706/http://boxofficemojo.com/movies/?id=guardians.htm|archivedate=October 9, 2014|deadurl=no}}</ref>
+}}
+'''''Rise of the Guardians''''' is a 2012 American [[3D film|3D]] [[Computer-animated film|computer-animated]] [[action film|action]] [[fantasy film]] based on [[William Joyce (writer)|William Joyce]]'s [[The Guardians of Childhood]] book series and ''The Man in the Moon'' short film by Joyce and [[Reel FX Creative Studios]]. [[Peter Ramsey]] directed the film, while Joyce and [[Guillermo del Toro]] were executive producers with voice acting by [[Chris Pine]], [[Alec Baldwin]], [[Hugh Jackman]], [[Isla Fisher]], and [[Jude Law]]. Produced by [[DreamWorks Animation]] and distributed by [[Paramount Pictures]],{{ref|1|1}} it was released on November 21, 2012. Despite receiving generally positive reviews and grossing $306 million against its $145 million budget, it was a [[box office bomb]], due to production and marketing costs, losing [[DreamWorks Animation]] $83 million.<ref name="write-down"/><ref name="layoffs"/>
+
+Set about 300 years after the book series, the film tells a story about Guardians [[Santa Claus]], the [[Tooth fairy|Tooth Fairy]], the [[Easter Bunny]], and the [[Sandman]], who enlist [[Jack Frost]] to stop the evil [[Bogeyman|Pitch Black]] from engulfing the world in darkness in a fight of dreams. The film was nominated for the [[Golden Globe Award for Best Animated Feature Film]].<ref>{{cite news|last=Globe|first=Golden|title=Golden Globes 2013: full list of nominations|url=https://www.theguardian.com/film/2012/dec/13/golden-globes-2013-nominations-list|accessdate=January 3, 2013|newspaper=guardian.co.uk|date=13 December 2012<!-- 14.32 GMT-->}}</ref> This was the last DreamWorks Animation film to be distributed by Paramount Pictures.<ref name=DeadlineFox /> 
+
+==Plot==
+<!-- Due to [[WP:FILMPLOT]], ALL SUMMARIES MUST BE 400 TO 700 WORDS IN LENGTH! The total length is now 501 words; DO NOT ADD UNLESS NECCESSARY!-->
+
+[[Jack Frost]] awakens from a frozen pond with [[amnesia]]. Upon realizing no one can see or hear him, he disappears. Three hundred years later, Jack, as the young Spirit of Winter, enjoys delivering snow days to school kids, but resents that they do not believe in him. At the [[North Pole]], the [[Man in the Moon]] warns [[Santa Claus|Nicholas St. North]] that [[Bogeyman|Pitch Black]] is threatening the children of the world with his nightmares. He calls [[Easter Bunny|E. Aster Bunnymund]], [[Sandman|Sandy]], and [[Tooth Fairy|Tooth]], to arms. They are then told that Jack Frost has been chosen to be a new Guardian, and has him brought to the [[North Pole]] by Bunnymund. North explains to Jack that every Guardian has a centre - something they are the Guardian of, but a call for help from Tooth's fairies ends the conversation.
+
+Visiting Tooth's world, Jack learns that each and every [[baby teeth|baby tooth]] contains childhood memories of the children who lost it, Jack's teeth included. However, Pitch raids Tooth's home, kidnapping all of her subordinate tooth fairies except Baby Tooth and stealing all the teeth, thus preventing Tooth from sharing Jack's memories and weakening children's belief in Tooth. In order to thwart Pitch's plan, the group decides to collect children's teeth. During their journey, a quarrel between North and Bunnymund awakens a boy, Jamie. Since he still believes, he can see everybody except for Jack. Pitch's nightmares then attack, provoking Sandy as the Guardian of Dreams. Jack tries to intervene, but Sandy is overwhelmed and killed by Pitch.
+
+As Easter approaches, the dejected Guardians gather in Bunnymund's home. With the unexpected aid of Jamie's little sister, Sophie, they begin the process of painting eggs for Easter. After Jack takes Sophie home, he is lured to Pitch's lair by a voice. Pitch taunts him with his memories and fear of non-belief, distracting him long enough for Pitch to destroy the eggs, causing children to stop believing in Easter and Bunnymund. Losing his trust in the Guardians, a shamed Jack isolates himself in [[Antarctica]], where Pitch tries to convince him to join his side. When Jack refuses, Pitch threatens to kill Baby Tooth unless Jack gives him his staff, the source of his magic. He agrees, but Pitch breaks Jack's staff and throws him down a chasm. Unlocking his memories, he learns that he was a mortal teenager who fell into the frozen pond while saving his younger sister. Inspired, Jack repairs his staff and returns to the lair to rescue the kidnapped baby fairies.
+
+Due to Pitch, every child in the world except Jamie disbelieves, drastically weakening the Guardians. Finding Jamie's belief wavering, Jack makes it snow in his room, renewing Jamie's belief and letting him see Jack. Jack and Jamie gather the boy's friends, whose renewed belief bolsters their fight against Pitch. Pitch threatens them, but their dreams prove stronger than his nightmares, resulting in Sandy's resurrection. Defeated and disbelieved in, Pitch tries to retreat, but his nightmares, sensing his own fears, turn on him and trap him in his lair. Afterward, Jamie and his friends bid goodbye to the Guardians as Jack accepts his place as the Guardian of Fun.
+
+==Cast and characters==
+* [[Chris Pine]] as [[Jack Frost]], the spirit of winter.<ref name="DreamWorks1" /> Jack Frost is a teenage hellion who enjoys creating mischief and has no interest in being bound by rules or obligations; he just wants to use his staff to spread his winter magic for the sake of fun, but also wants to be believed in.  At the end of the film, Jack became the Guardian of Fun.  While he cannot fly, per se, he can be carried on currents of wind, allowing him to span great distances.  
+* [[Jude Law]] as Pitch Black ([[Bogeyman|the Boogeyman]]), the essence of fear and the Nightmare King.<ref name="DreamWorks1" />
+*[[Alec Baldwin]] as Nicholas St. North ([[Santa Claus]]), the leader of the guardians,<ref name="DreamWorks1" /> and the Guardian of Wonder. He lives at the [[North Pole]] in the Ice Castle and is served by loyal North Pole natives, the [[Yeti]]s (who built the castle and workshop) and the [[Christmas elf|Christmas Elves]]. He carries a [[Russian people|Russian]] accent/culture persona.<ref>{{cite news | title=Rise of the Guardians – Yetis | quote=Natives of the North Pole, Yetis are the blue-collar workers in North's toy factory. Not only did they build the Ice Castle and workshop for North, the Yetis would also do anything for him and serve him loyally. |url= http://www.facebook.com/photo.php?fbid=418207508233801&set=a.150069698380918.40059.150067278381160&type=1&relevant_count=1 |accessdate=October 18, 2012 |publisher=DreamWorks Animation ''Rise of the Guardians'' official Facebook page | date=October 17, 2012}}</ref>
+* [[Hugh Jackman]] as E. Aster Bunnymund ([[Easter Bunny|the Easter Bunny]]), the fabled keeper and bringer of [[Easter]] eggs and the Guardian of Hope. He has an [[Australian]] accent.<ref name="DreamWorks1" />
+* [[Isla Fisher]] as Tooth ([[Tooth fairy|the Tooth Fairy]]), the mythical tooth collector and the Guardian of Memories.<ref name="DreamWorks1" /> Tooth is part [[human]] and part [[hummingbird]]. Assisted by mini fairies that are split-off extensions of herself, she collects the children's teeth, which hold their most precious memories. Tooth stores them in her palace and returns memories when they are needed the most.<ref>{{cite news|title=You remembered to floss, right?|url=http://www.facebook.com/photo.php?fbid=251565704943925&set=a.251530674947428.40868.212052442228585&type=1|accessdate=October 29, 2012| publisher=DreamWorks Animation ''Rise of the Guardians'' official Facebook page | date=June 13, 2012|author=Tooth}}</ref>
+* Sandy ([[Sandman|the Sandman]]), the Guardian of Dreams is the oldest of the Guardians<ref>{{cite news |title=Did you know Sandman is the oldest of the Guardians? |url=http://www.facebook.com/photo.php?fbid=482327915133186&set=a.432276643471647.104640.377150242317621&type=1 |accessdate=October 18, 2012 |publisher=DreamWorks Animation ''Rise of the Guardians'' official Facebook page  | date=October 11, 2012}}</ref> and the first Guardian chosen by [[Man in the Moon|the Man in the Moon]].<ref>{{cite news |title=Sandman was the first Guardian chosen by the Man in the Moon. |url=http://www.facebook.com/photo.php?fbid=468072463225398&set=a.432276643471647.104640.377150242317621&type=1 |accessdate=October 18, 2012 | publisher=DreamWorks Animation ''Rise of the Guardians'' official Facebook page  |date=September 6, 2012 |author=Sandman}}</ref> He does not speak, but communicates through sand images that he conjures above his head.<ref>{{cite news |title=Although he doesn't speak, he communicates through sand images that he conjures above his head.... |url=http://www.facebook.com/photo.php?fbid=432327370133241&set=a.432276643471647.104640.377150242317621&type=1 |accessdate=October 18, 2012 | publisher=DreamWorks Animation ''Rise of the Guardians'' official Facebook page |date=June 13, 2012}}</ref>
+* [[Dakota Goyo]] as Jamie Bennett, a child who has not given up on believing in the Guardians.<ref>{{cite web | url = https://twitter.com/#!/DWAnimation/status/38323053754585088 | title = Up-and-coming child actor Dakota Goyo will voice a character in DWAnimation's RiseOfTheGuardians! | publisher= DreamWorks Animation verified Twitter page |  date = February 17, 2011 |accessdate = February 25, 2011}}</ref>
+* Georgie Grieve as Sophie Bennett, Jamie's little sister
+* Dominique Grund as Cupcake
+* Olivia Mattingly as Pippa
+
+==Production==
+In 2005, [[William Joyce (writer)|William Joyce]] and [[Reel FX Creative Studios|Reel FX]] launched a joint venture, Aimesworth Amusements,<ref>{{cite web |title=AIMESWORTH AMUSEMENTS, LTD. |url=http://businessprofiles.com/details/aimesworth-amusements-ltd/TX-0800481254 |publisher=Business Profiles |accessdate=October 12, 2012}}</ref> to produce CG-animated feature films,<ref>{{cite news |last=Daly |first=Helen |title=Hot House: Reel FX Creative Studios Ramps Up for Animated Fare |url=http://www.studiodaily.com/2005/06/hot-house-reel-fx-creative-studios-ramps-up-for-animated-fare |accessdate=October 12, 2012 |newspaper=Studio Daily |date=June 1, 2005}}</ref> one of which was set to be ''The Guardians of Childhood'', based on Joyce's idea.<ref name="Slash1">{{cite news | last=Connelly |first=Brendon |title=Dreamworks Teaming Up With William Joyce For The Guardians of Childhood |url=http://www.slashfilm.com/dreamworks-teaming-up-with-william-joyce-for-the-guardians-of-childhood |accessdate=October 12, 2012 |publisher = [[/Film]] |date=April 23, 2009}}</ref> The film was not realized, but they did create a short animated film, ''The Man in the Moon'', directed by Joyce, which introduced the Guardians idea,<ref name="Slash1" /> and served as an inspiration for the film.<ref name="THRReview">{{cite news |last=McCarthy |first=Todd |title=Rise of the Guardians: Film Review |url=http://www.hollywoodreporter.com/review/rise-guardians-film-review-378281 |accessdate=October 12, 2012 |newspaper=[[The Hollywood Reporter]] |date=October 11, 2012}}</ref>
+
+Early in 2008, Joyce sold the film rights to DreamWorks Animation,<ref name="A113Animation">{{cite news |last=Jardine |first=William |title=Interview: William Joyce, Moonbot Studios Co-Founder and Co-Director of Morris Lessmore |url=http://www.a113animation.com/2012/07/interview-william-joyce-moonbot-studios.html |accessdate=July 30, 2012 |publisher=A113 Animation |date=July 29, 2012 | quote = I was [co-director] ... and then there was a tragic thing, my daughter became ill in post-production, and we lost her, so I had to bow out of directing at that point.}}</ref> after the studio assured him it would respect his vision for the characters and that he would be involved with the creative process.<ref name="THRAnalysis">{{cite news |last=Feinberg |first=Scott |title='Rise of the Guardians' Unveiled, Rises to Top Tier of Animated Contenders (Analysis) |url=http://www.hollywoodreporter.com/race/rise-guardians-animated-oscar-contenders-379165 |accessdate=October 17, 2012 |newspaper=The Hollywood Reporter | date=October 15, 2012}}</ref> In November 2009, it was revealed that DreamWorks had hired Peter Ramsey to make his feature debut as director of what was then titled ''The Guardians'', and [[playwright]] [[David Lindsay-Abaire]] to script.<ref>{{cite news |last=Fleming |first=Michael |title=DreamWorks sets scribe for 'Guardians' |url=http://www.variety.com/article/VR1118010765 |accessdate=September 1, 2011 |newspaper=Variety |date=November 2, 2009}}</ref> Joyce acted as a co-director for the first few years, but left this position after the death of his daughter Mary Katherine,<ref name="A113Animation" /> who died of a brain tumor.<ref name="THRAnalysis" /> Joyce continued to assist as an executive producer, while Ramsey took over full directing, making him the first [[African American]] to direct a big-budget CG animated film.<ref>{{cite news | last =Tulich | first = Katherine | title = 'Rise of the Guardians' director a self-taught success | url = http://articles.glendalenewspress.com/2012-07-21/entertainment/tn-gnp-0722-dreamworks_1_dreamworks-animation-glendale-campus-movies | accessdate = September 18, 2012 | newspaper = [[Glendale News-Press]] | location = [[Glendale, California]] | date = July 21, 2012}}</ref> As with some previous DreamWorks films, [[Guillermo del Toro]] came on board as an executive producer. Present almost from the beginning,<ref name="ColliderToro">{{cite news |last=Weintraub |first=Steve |title=Guillermo del Toro Talks 'Rise of the Guardians' and 'Pinocchio'; Hopes to Begin Voice Recording in Jan 2013 and Ron Perlman Will Play Stromboli | url = http://collider.com/guillermo-del-toro-pinocchio-rise-of-the-guardians-interview/186319 | accessdate = October 17, 2012 |publisher=Collider.com |date=August 3, 2012}}</ref> he was able to help shape the story, character design, theme and structure of the film.<ref>{{cite news |title=Guillermo del Toro on his experience as executive producer of Rise of the Guardians |url = http://dreamworksanimation.tumblr.com/post/32885108014/guillermo-del-toro-on-his-experience-as-executive |accessdate=October 17, 2012 |publisher = In The Works (DreamWorks Animation official blog) | date = October 10, 2012}}</ref> He said he was proud that the filmmakers were making parts of the film "dark and moody and poetic," and expressed hope this might "set a different tone for family movies, for entertainment movies."<ref name="ColliderToro" /> The final title, ''Rise of the Guardians'' was announced in early 2011, along with the first cast.<ref name="DreamWorks1">{{cite press release |title=DreamWorks Animation Names All-Star Cast Featuring Chris Pine, Alec Baldwin, Hugh Jackman, Isla Fisher and Jude Law for Rise of the Guardians on November 21, 2012 |work=DreamWorksAnimation.com |date=January 27, 2011 |url=http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=545929 |accessdate=January 28, 2011 |deadurl=yes |archiveurl=http://webarchive.loc.gov/all/20130114100934/http%3A//ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID%3D545929 |archivedate=January 14, 2013 |df= }}</ref>
+
+[[Roger Deakins]], the cinematographer who had already worked on the previous DreamWorks' film, ''[[How to Train Your Dragon (film)|How to Train Your Dragon]]'', advised on the lighting to achieve its real look. He selected photographic references for color keys, and during the production gave notes on contrast, saturation, depth of field and light intensity.<ref>{{cite news|last=Weintraub|first=Steve|title=Director Peter Ramsey Talks RISE OF THE GUARDIANS, Roger Deakins, HOW TO TRAIN YOUR DRAGON 2, Working with David Fincher on FIGHT CLUB, and More|url=http://collider.com/peter-ramsey-rise-of-the-guardians-how-train-your-dragon-2/212668/|accessdate=November 22, 2012|newspaper=Collider.com|date=November 20, 2012}}</ref> The film contains a lot of special effects, particularly the volumetric particles for depicting Sandman and Pitch.<ref>{{cite news|last=Orden|first=Erica|title=DreamWorks Releases Software Used in 'Guardians'|url=https://www.wsj.com/articles/SB10001424127887323622904578129551861947218|accessdate=November 22, 2012|newspaper=The Wall Street Journal|date=November 20, 2012}}</ref> For this, DreamWorks Animation developed OpenVDB, a more efficient tool and format for manipulating and storing volume data, like smoke and other amorphous materials. OpenVDB had been already used on ''[[Puss in Boots (2011 film)|Puss in Boots]]'' and ''[[Madagascar 3: Europe's Most Wanted]]'', and was released in August 2012 for free as an open-source project with a hope to become an industry standard.<ref>{{cite news|title=DreamWorks Animation Releases Proprietary Volumetric Format OpenVDB to Open Source Community|url=http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=698100|archive-url=https://archive.is/20130121175930/http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=698100|dead-url=yes|archive-date=January 21, 2013|accessdate=November 22, 2012|newspaper=DreamWorks Animation|date=August 3, 2012}}</ref>
+
+Although the film is based on the Joyce's book series, it contains differences from the books. The book series, begun in 2011, explains the origins of the characters, while the film takes place about 300 years after the books, and shows how the characters function in present time. Joyce explained, "Because I don't want people to read the book and then go see the movie and go, 'Oh, I like the book better,' and I also didn't want them to know what happens in the movie. And I also knew that during the progress of film production, a lot of things can change. So I wanted to have a sort of distance, so we were able to invoke the books and use them to help us figure out the world of the movie, but I didn't want them to be openly competitive to each other."<ref name="A113Animation" /> The idea for the Guardians came from Joyce's daughter, who asked him "if he thought Santa Claus had ever met the Easter Bunny." The film includes a dedication to her,<ref name="THRAnalysis" /> as well a song, "Still Dream," sung over the end credits.<ref name=DeadlineAFI>{{cite news|last=Hammond|first=Pete|title=AFI Fest: 'Rise Of The Guardians' Tries To Stake Its Claim In Oscar Race And At Holiday Box Office|url=http://www.deadline.com/2012/11/afi-fest-rise-of-the-guardians-oscar-boxoffice/|accessdate=November 6, 2012|website=Deadline Hollywood|date=November 5, 2012}}</ref>
+
+Originally, the film was set to be released on November 2, 2012, but DreamWorks Animation pushed the film to November 21, 2012 to avoid competition with [[Pixar]]'s upcoming film ''[[Monsters University]]'', which in turn had been pushed to November 2, 2012 to avoid competition with ''[[The Twilight Saga: Breaking Dawn – Part 2]]''.<ref name="BOM2">{{cite news |last=Subers |first=Ray |url=http://www.boxofficemojo.com/news/?id=2877 |title=Disney Shifts 'Monsters Inc. 2,' Drops Two Others | publisher=[[Box Office Mojo]] | date=August 4, 2010 |accessdate=December 9, 2010 |archiveurl=https://web.archive.org/web/20131006195001/http://boxofficemojo.com/news/?id=2877|archivedate=October 6, 2013|deadurl=no}}</ref> ''Monsters University'' was then pushed to June 21, 2013, with [[Walt Disney Animation Studios|Disney's]] ''[[Wreck-It Ralph]]'' taking its place.<ref>{{cite news |url=http://www.deadline.com/2011/04/disney-changes-dates-for-reboot-ralph-monsters-university |title=Disney Changes Dates For 'Monsters University', 'Reboot Ralph' |website=Deadline Hollywood |date=April 4, 2011 |accessdate=July 10, 2011}}</ref>
+
+==Soundtrack==
+French composer [[Alexandre Desplat]] composed the original music for the film, which was released on November 13, 2012 by [[Varèse Sarabande]]. The [[Film score|score]] was recorded in London at [[Abbey Road Studios]] and [[Associated Independent Recording|Air Studios]], and performed by the [[London Symphony Orchestra]], with a choral contribution by [[London Voices]]. [[David Lindsay-Abaire]] wrote the lyrics for the end-credit song, "Still Dream," which was performed by soprano [[Renée Fleming]].<ref>{{cite pressrelease |title=Famed Soprano Renee Fleming Performs Original Single "Still Dream" With Music By Alexandre Desplat and Lyrics By David Lindsay-Abaire for DreamWorks Animation's 'Rise of the Guardians' |url=http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=713418 |accessdate=October 17, 2012 |publisher=DreamWorks Animation |date=October 15, 2012 |deadurl=yes |archiveurl=https://archive.is/20130122025356/http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=713418 |archivedate=January 22, 2013 |df= }}</ref> Stravinsky's Firebird Suite can also be heard during the scene where North first appears. This film marks the first time that a DreamWorks Animation film has not been composed by [[Hans Zimmer]] or a member of his [[Remote Control Productions (American company)|Remote Control Productions]] family of composers (mainly [[John Powell (film composer)|John Powell]], [[Henry Jackman]], [[Harry Gregson-Williams]] or his brother [[Rupert Gregson-Williams]]).
+
+{{Infobox album
+| name       = Rise of the Guardians
+| type       = [[Film score]]
+| artist     = [[Alexandre Desplat]]
+| cover      =
+| alt        =
+| released   = November 13, 2012
+| recorded   = 2012
+| venue      =
+| studio     =
+| genre      = [[Film score|Score]]
+| length     = 67:47
+| label      = [[Varèse Sarabande]]
+| producer   = Alexandre Desplat
+| chronology = [[Alexandre Desplat]] film scores
+| prev_title = [[Argo (2012 film)|Argo]]
+| prev_year  = 2012
+| next_title = [[Zero Dark Thirty]]
+| next_year  = 2012
+}}
+
+{{Track listing
+| total_length = 67:47
+| headline = Track listing:<ref>{{cite web |title=Rise of the Guardians |url=http://www.varesesarabande.com/servlet/the-1076/Rise-Of-The-Guardians/Detail |publisher=Varèse Sarabande |accessdate=October 20, 2012|archiveurl=https://web.archive.org/web/20121228030412/http://www.varesesarabande.com/servlet/the-1076/Rise-Of-The-Guardians/Detail|archivedate=December 28, 2012}}</ref>
+| title1 = Still Dream
+| length1 = 3:12
+| note1 = performed by [[Renée Fleming]]
+| title2 = Calling the Guardians
+| length2 = 2:06
+| title3 = Alone in the World
+| length3 = 2:04
+| title4 = Fanfare of the Elves
+| length4 = 0:53
+| title5 = Wind Take Me Home!
+| length5 = 1:28
+| title6 = Dreamsand
+| length6 = 2:03
+| title7 = Pitch on the Globe
+| length7 = 0:57
+| title8 = The Moon
+| length8 = 1:32
+| title9 = Snowballs
+| length9 = 1:31
+| title10 = Busy Workshop
+| length10 = 1:33
+| title11 = Sleigh Launch
+| length11 = 1:45
+| title12 = Nightmares Attack
+| length12 = 7:17
+| title13 = Tooth Collection
+| length13 = 2:22
+| title14 = Jamie's Bedroom
+| length14 = 2:31
+| title15 = Jack & Sandman
+| length15 = 4:18
+| title16 = Memorial
+| length16 = 1:21
+| title17 = Guardians Regroup
+| length17 = 0:58
+| title18 = Easter
+| length18 = 3:39
+| title19 = Jack Betrays
+| length19 = 3:20
+| title20 = Kids Stop Believing
+| length20 = 2:35
+| title21 = Jack's Memories
+| length21 = 2:24
+| title22 = Pitch at North Pole
+| length22 = 2:00
+| title23 = Jamie Believes
+| length23 = 3:01
+| title24 = Jack's Center
+| length24 = 4:52
+| title25 = Sandman Returns
+| length25 = 2:36
+| title26 = Dreamsand Miracles
+| length26 = 2:18
+| title27 = Oath of the Guardians
+| length27 = 3:11
+}}
+
+==Release==
+[[File:Rise of the Guardians, The Mill Valley Film Festival premiere.jpg|thumb|''Rise of the Guardians'' premiere at the [[Mill Valley Film Festival]]: Christina Steinberg, producer; Peter Ramsey, director; [[Jeffrey Katzenberg]], DreamWorks Animation's CEO; [[Nancy Bernstein]], producer; [[Bill Damaschke]], DreamWorks Animation's Chief Creative Officer]]
+''Rise of the Guardians'' had its premiere on October 10, 2012, at [[Mill Valley Film Festival|The Mill Valley Film Festival]] in [[Mill Valley, California]],<ref name="mill">{{cite news|last=Grady|first=Pam|title=Mill Valley Film Fest: stars, new powers|url=http://www.sfgate.com/movies/article/Mill-Valley-Film-Fest-stars-new-powers-3881344.php|accessdate=October 2, 2012| newspaper=San Francisco Chronicle |date=September 23, 2012}}</ref> followed by the international premiere at The [[Rome Film Festival|International Rome Film Festival]] on November 13, 2012.<ref name=Rome>{{cite news|last=J. Lyman|first=Eric|title='Rise of the Guardians' to Receive New 'Vanity Fair' Honor at Upcoming Rome Fest|url=http://www.hollywoodreporter.com/news/rise-guardians-receive-new-vanity-375718|accessdate=October 2, 2012|newspaper=The Hollywood Reporter|date=October 2, 2012}}</ref><ref>{{cite web|title=7 Festival Internazionale del Film di Roma - Guide e Programma|url=http://www.romacinemafest.it/tower-file-storage/cinema/10299/attachment/guida-e-programma-vii-festival-internazionale-del-film-di-roma.pdf|publisher=Roma Cinema Fest|accessdate=November 6, 2012|page=5}}</ref> Under distribution by [[Paramount Pictures]], the film was released on November 21, 2012, in [[United States|American]] theaters.<ref name="BOM2"/> Digitally re-mastered into [[IMAX#IMAX 3D|IMAX 3D]], it was shown in limited international and domestic IMAX theaters.<ref>{{cite news|last=Finke|first=Nikki|title='Rise Of The Guardians' To Play IMAX Nov. 21|url=http://www.deadline.com/2012/11/rise-of-the-guardians-to-play-imax-nov-21/ | accessdate = November 1, 2012 | publisher = Deadline.com | date = November 1, 2012}}</ref> It was the second film released in the firm [[Barco (manufacturer)|Barco]]'s [[Auro 11.1]] 3D audio format, after ''[[Red Tails]]''.<ref>{{cite pressrelease | title = Barco Auro 11.1 3D sound technology will be featured in global release of DreamWorks Animation's 'Rise of the Guardians' | url = http://www.barco.com/en/News/Press-releases/barco-auro-111-3d-sound-technology-will-be-featured-in-global-release-of-dreamworks-animations-rise-.aspx | accessdate = October 10, 2012 | publisher = Barco | date=October 5, 2012}}</ref> The film was also shown in [[Dolby Atmos]], a surround sound technology introduced in 2012.<ref>{{cite news|last=Giardina|first=Carolyn|title='Rise of the Guardians,' 'Gravity,' 'Pacific Rim' Will Be Mixed in Dolby Atmos|url=http://www.hollywoodreporter.com/news/rise-guardians-gravity-pacific-rim-384661|accessdate=October 31, 2012|newspaper=The Hollywood Reporter|date=October 31, 2012}}</ref> ''Rise of the Guardians'' was the last DreamWorks Animation film distributed by Paramount, as DreamWorks has signed a five-year distribution deal with [[20th Century Fox]], which started in 2013 with ''[[The Croods]]''.<ref name=DeadlineFox>{{cite news |last=Finke |first=Nikki |title=DreamWorks Animation To Fox For New 5-Year Distribution Deal; UPDATE: Paying Fees Of 8% Theatrical And 6% Digital |url=http://www.deadline.com/2012/08/exclusive-dreamworks-animation-to-fox |accessdate=August 21, 2012 | publisher = Deadline.com | date=August 20, 2012}}</ref>
+
+===Home media===
+''Rise of the Guardians'' was released on [[Blu-ray|Blu-ray Disc]] (2D and 3D) and [[DVD]] on March 12, 2013.<ref>{{cite web | url = http://www.thehdroom.com/news/Rise-of-the-Guardians-Blu-ray-3D-Release-Date-Details-and-Pre-Order/11933 | title = Rise of the Guardians Blu-ray 3D Release Date, Details and Pre-Order | date = January 19, 2013 | publisher = The HD Room | accessdate = January 21, 2013}}</ref>
+
+That was the last DreamWorks Animation home media release to be distributed by [[Paramount Home Entertainment]], since 20th Century Fox announced its distribution agreement with DreamWorks Animation a few months before the theatrical release.<ref name=DeadlineFox /> The film was more successful at home media sales than at the box office, having at the end of the second quarter of 2013 "the highest box office to DVD conversion ratio among major releases."<ref name=SeekingAlphaQ2>{{cite news|title=DreamWorks Animation SKG Management Discusses Q2 2013 Results - Earnings Call Transcript|url=http://seekingalpha.com/article/1591842-dreamworks-animation-skg-management-discusses-q2-2013-results-earnings-call-transcript|accessdate=August 3, 2013|newspaper=Seeking Alpha|date=July 31, 2013}}</ref> In the first quarter of 2013, it sold 3.2 million home entertainment units worldwide,<ref>{{cite news|title=DreamWorks Animation Reports First Quarter 2013 Financial Results|url=http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=760612|accessdate=August 3, 2013|newspaper=DreamWorks Animation|date=April 30, 2013|deadurl=yes|archiveurl=https://archive.is/20130803122435/http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=760612|archivedate=August 3, 2013|df=}}</ref> and in the second quarter 0.9 million units, for a total of 4.1 million units.<ref>{{cite news|title=DreamWorks Animation Reports Second Quarter 2013 Financial Results|url=http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=781777|accessdate=August 3, 2013|newspaper=DreamWorks Animation|date=July 31, 2013|deadurl=yes|archiveurl=https://archive.is/20130803122514/http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=781777|archivedate=August 3, 2013|df=}}</ref> As of August 2013, 2 million DVDs were sold domestically.<ref>{{cite web|title=Rise of the Guardians - DVD Sales|url=http://www.the-numbers.com/movies/2012/GURDN-DVD.php|publisher=The Numbers|accessdate=August 3, 2013}}</ref>
+
+It was re-released on DVD on November 5, 2013 and comes with a wind-up marching elf toy.<ref>{{cite video|url=https://www.amazon.com/Rise-Of-The-Guardians-Marching/dp/B00EDDUKGY/ref=sr_1_7?ie=UTF8&qid=1383683671&sr=8-7&keywords=rise+of+the+guardians|title=Rise of the Guardians}}</ref>
+
+It was re-released on DVD and Blu-ray on June 5, 2018 by [[Universal Pictures Home Entertainment]].
+
+==Reception==
+
+===Critical response===
+Based on 148 reviews, the film holds a rating of 74% on review aggregator [[Rotten Tomatoes]], with an average rating of 6.5/10, based on 151 reviews. The website's critical consensus reads: "A sort of ''[[The Avengers (2012 film)|Avengers]]'' for the elementary school set, ''Rise of the Guardians'' is wonderfully animated and briskly paced, but it's only so-so in the storytelling department."<ref name=RT>{{cite web|title=Rise of the Guardians (2012)|url=http://www.rottentomatoes.com/m/rise_of_the_guardians_2012/|publisher=[[Fandango Media]]|work=[[Rotten Tomatoes]]|accessdate=June 18, 2018}}</ref> Another review aggregator, [[Metacritic]], which assigns a rating out of 100 top reviews from mainstream critics, calculated a score of 57 based on 34 reviews, or "Mixed or average."<ref name=Metacritic>{{cite web|title=Rise of the Guardians Reviews|url=http://www.metacritic.com/movie/rise-of-the-guardians|publisher=[[CBS Interactive]]|work=[[Metacritic]]|accessdate=March 5, 2018}}</ref> The film earned an "A" from audiences polled by [[CinemaScore]].<ref name=BOMWeekend />
+
+Carrie Rickey of ''[[The Philadelphia Inquirer]]'' gave the film three-and-a-half out of four stars and found the film's characters to have "a primal familiarity, as though they were developed by a tag team of [[Maurice Sendak]] and [[Walt Disney]]."<ref>[http://www.philly.com/philly/entertainment/movies/reviews/20121121__Rise_of_the_Guardians___protecting_truth__justice_and_the_childhood_way.html 'Rise of the Guardians,' protecting truth, justice and the childhood way 'Rise of the Guardians,' protecting truth, justice and the childhood way] Retrieved February 17, 2013</ref> Olly Richards of ''[[Empire (film magazine)|Empire]]'' wrote, "It's gorgeously designed, deftly written and frequently laugh-out-loud funny. For child or adult, this is a fantasy to get lost in."<ref>[http://www.empireonline.com/reviews/reviewcomplete.asp?FID=137457 Reviews Rise Of The Guardians] Retrieved February 17, 2013</ref> ''[[The Washington Post]]''{{'}}s Michael O'Sullivan also gave the film a positive review and said, "Thoughts become things. That's the message of ''Rise of the Guardians'', a charming if slightly dark and cobwebbed animated feature about how believing in something makes it real, or real enough."<ref>[https://www.washingtonpost.com/gog/movies/rise-of-the-guardians,1179348/critic-review.html#reviewNum1 Rise of the Guardians Scaring up Magic from Childhood] Retrieved February 17, 2013</ref> [[Roger Ebert]] of the ''[[Chicago Sun-Times]]'' gave the film three stars and wrote in his review, "There's an audience for this film. It's not me. I gather younger children will like the breakneck action, the magical ability to fly and the young hero who has tired of only being a name." Though he did say, "Their parents and older siblings may find the 89-minute running time quite long enough."<ref>[http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20121120/REVIEWS/121129994/1023 Rise of the Guardians (PG)] Retrieved February 17, 2013</ref>
+
+[[Todd McCarthy]] of ''[[The Hollywood Reporter]]'' called the film "a lively but derivative 3D storybook spree for some unlikely action heroes."<ref name="THRReview" /> Conversely, Justin Chang in ''[[Variety (magazine)|Variety]]'' said, "Even tots may emerge feeling slightly browbeaten by this colorful, strenuous and hyperactive fantasy, which has moments of charm and beauty but often resembles an exploding toy factory rather than a work of honest enchantment."<ref name="VarietyReview">{{cite news | last = Chang |first=Justin |title=Rise of the Guardians |url=http://www.variety.com/review/VE1117948527 |accessdate=October 18, 2012 |newspaper=Variety |date=October 11, 2012}}</ref> [[Joe Morgenstern]] of ''[[The Wall Street Journal]]'' found that the film "lacks a resonant center," and that the script, "seems to have been written by committee, with members lobbying for each major character, and the action, set in vast environments all over the map, spreads itself so thin that a surfeit of motion vitiates emotion."<ref>[https://www.wsj.com/articles/SB10001424127887323713104578132912697702772 A Visionary Director's Sumptuous 'Pi'] Retrieved February 17, 2013</ref>
+
+===Box office===
+''Rise of the Guardians'' grossed $103.4 million in the United States and Canada, and $203.5 million in other countries, for a worldwide total of $306.9 million.<ref name="BOM"/>
+
+In North America, the film opened to $32.3 million over its extended five-day weekend, and with $23.8 million over the three-day weekend, it reached fourth place behind ''[[The Twilight Saga: Breaking Dawn – Part 2]]'', ''[[Skyfall]]'', and ''[[Lincoln (2012 film)|Lincoln]]''. The film's opening was the lowest debut for a DreamWorks Animation film since ''[[Flushed Away]]''.<ref name=BOMWeekend>{{cite news|last=Subers|first=Ray|title=Weekend Report: 'Twilight,' Bond Dominate Fruitful Thanksgiving|url=http://www.boxofficemojo.com/news/?id=3574&p=.htm|accessdate=November 26, 2012|newspaper=Box Office Mojo|date=November 25, 2012|archiveurl=https://web.archive.org/web/20141007004540/http://www.boxofficemojo.com/news/?id=3574&p=.htm|archivedate=October 7, 2014|deadurl=no}}</ref> While the film did gross more than double of its $145 million budget, it still did not turn a profit for DreamWorks Animation due to its high production and marketing costs, forcing the studio to take an $83 million [[Revaluation of fixed assets|write-down]].<ref name="write-down"/> This marked the first time that the studio had lost money on an animated film since ''[[Sinbad: Legend of the Seven Seas]]''.<ref name="write-down">{{cite news|last=Child|first=Ben|title=DreamWorks Animation facing jobs cuts after Rise of the Guardians tanks|url=https://www.theguardian.com/film/2013/feb/27/dreamworks-animation-job-cuts-guardians|accessdate=February 27, 2013|newspaper=The Guardian|date=February 27, 2013}}</ref><ref name="layoffs"/> As a result of this combined with other factors, in February 2013, the studio announced it was laying off 350 employees as part of a company-wide restructuring.<ref name="layoffs">{{cite news|last=Shaw|first=Lucas|title=DreamWorks Animation to Lay Off 350 Employees|url=http://www.thewrap.com/movies/article/dreamworks-animation-lay-350-employees-79381|accessdate=February 26, 2013|newspaper=The Wrap|date=February 27, 2013 | quote=The Glendale, Calif.-based company posted a loss of $83 million in the fourth quarter of fiscal year 2012 due to development costs and the poor performance of its latest film, ''Rise of the Guardians''.}}</ref>
+
+===Accolades===
+The Rome Film Festival and ''[[Vanity Fair (magazine)|Vanity Fair]]'' magazine awarded the new Vanity Fair International Award for Cinematic Excellence in November 2012 to ''Rise of the Guardians''.<ref name="Rome" /> The film also received the Hollywood Animation Award at the 16th Annual [[Hollywood Film Festival]], held on October 22, 2012.<ref name="HFF">{{cite news |last=Feinberg |first=Scott |title='Rise of the Guardians' to Receive Animation Prize at 16th Hollywood Film Awards (Exclusive) |url=http://www.hollywoodreporter.com/race/rise-of-the-guardians-hollywood-film-awards-367598 |accessdate=October 6, 2012 |newspaper=The Hollywood Reporter |date=September 4, 2012}}</ref>
+
+{| class="wikitable" width=100%
+|+List of awards and nominations
+! Award !! Category !! Recipients !! Result
+|-
+|[[African-American Film Critics Association]]
+|Best Animation
+|
+|{{won}}
+|-
+|[[Alliance of Women Film Journalists]]
+| Best Animated Female
+| Isla Fisher (Tooth)
+|rowspan=3 {{nom}}
+|-
+|[[American Cinema Editors]]
+| Best Edited Animated Feature Film
+|Joyce Arrastia
+|-
+| rowspan=10 | [[Annie Award]]s<ref>{{cite news|title=Annie Award Nominations Unveiled|url=http://www.deadline.com/2012/12/2012-annie-award-nominations/|accessdate=December 3, 2012|newspaper=Deadline|date=December 3, 2012}}</ref><ref>{{cite news|last=Beck|first=Jerry|title=Annie Award Winners|url=http://www.cartoonbrew.com/events/annie-award-winners-77380.html|accessdate=February 3, 2013|newspaper=[[Cartoon Brew]]|date=February 2, 2013}}</ref>
+| [[Annie Award for Best Animated Feature|Best Animated Feature]]
+|
+|-
+| Animated Effects in an Animated Production
+| Andy Hayes, Carl Hooper, David Lipton
+|{{Won}}
+|-
+| rowspan=3 | Character Animation in a Feature Production
+| David Pate
+| rowspan=5 {{Nominated}}
+|-
+| Phillppe LeBrun
+|-
+| Pierre Perifel
+|-
+| Music in an Animated Feature Production
+| Alexandre Desplat
+|-
+| Production Design in an Animated Feature Production
+| Patrick Hanenberger, Max Boas, Jayee Borcar<br />Woonyoung Jung, Perry Maple, Peter Maynez<br />Stan Seo, Felix Yoon
+|-
+| Storyboarding in an Animated Feature Production
+| Johanne Matte
+| {{Won}}
+|-
+| Voice Acting in an Animated Feature Production
+| Jude Law
+| rowspan=6 {{Nominated}}
+|-
+| Editorial in an Animated Feature Production
+| Joyce Arrastia
+|-
+|[[Critics Choice Awards]]<ref>{{cite news|last=Hammond|first=Pete|title='Lincoln', 'Les Miserables', 'Silver Linings' Top List Of Nominees For 18th Annual Critics Choice Movie Awards|url=http://www.deadline.com/2012/12/critics-choice-movie-awards-2012-nominations-lincoln/|accessdate=December 11, 2012|newspaper=Deadline|date=December 11, 2012}}</ref>
+|Best Animated Feature
+|
+|-
+|[[Cinema Audio Society]]
+|Outstanding Achievement in Sound Mixing for Motion Pictures Animated
+|
+|-
+| [[70th Golden Globe Awards|Golden Globe Awards]]<ref>{{cite news|title=70th Golden Globe Awards Nominations|url=http://www.deadline.com/2012/12/golden-globe-awards-nominations-2013/|accessdate=December 13, 2012|newspaper=Deadline|date=December 13, 2012}}</ref>
+| [[Golden Globe Award for Best Animated Feature Film|Best Animated Feature Film]]
+|
+|-
+| [[Motion Picture Sound Editors|Golden Reel Awards]]
+| Best Sound Editing in an Animated Feature Film
+|
+|-
+| [[Hollywood Film Festival]]<ref name="HFF" />
+| Best Animated Feature
+| [[Peter Ramsey]]
+| {{Won}}
+|-
+| rowspan=2 | [[International Film Music Critics Association|International Film Music Critics Association Awards]]
+| Film Composer of the Year
+| [[Alexandre Desplat]], also for ''[[Argo (2012 film)|Argo]]'', ''[[Moonrise Kingdom]]'', ''[[Rust and Bone]]'', and ''[[Zero Dark Thirty]]''
+| {{nominated}}
+|-
+| Best Original Score for an Animated Feature
+| [[Alexandre Desplat]]
+| rowspan=2 {{won}}
+|-
+| [[Mill Valley Film Festival]]<ref>{{cite news |last=Kay |first=Jeremy |title=Life Of Pi wins 35th Mill Valley Film Festival audience award |url=http://www.screendaily.com/festivals/other-festivals/life-of-pi-wins-35th-mill-valley-film-festival-audience-award/5047804.article |accessdate=October 18, 2012 |newspaper=Screen Daily |date=October 15, 2012}}</ref>
+|Audience Favorite Children's Film
+| Peter Ramsey
+|-
+|[[Producers Guild of America]]
+|Outstanding Producer of An Animated Theatrical Motion Picture
+|[[Nancy Bernstein]], Christina Steinberg
+|{{nom}}
+|-
+|[[Satellite Awards 2012]]<ref>{{cite news|last=Kilday|first=Gregg|title=Satellite Awards Nominates 10 Films for Best Motion Picture|url=http://www.hollywoodreporter.com/race/satellite-awards-nominates-10-films-396865|accessdate=December 4, 2012|newspaper=The Hollywood Reporter|date=December 3, 2012}}</ref>
+| [[Satellite Award for Best Animated or Mixed Media Feature|Best Animated or Mixed Media]]
+|
+|{{Won}}
+|-
+|rowspan=3 |[[Visual Effects Society]]<ref>{{cite news|title=Nominations for the 11th Annual VES Awards|url=http://www.comingsoon.net/news/gamenews.php?id=98578|accessdate=January 7, 2013|newspaper=ComingSoon.net|date=January 7, 2013}}</ref><ref>{{cite news|title=VES Awards: 'Life Of Pi' Wins 4 Including Feature, 'Brave', 'Game Of Thrones' Other Big Winners|url=http://www.deadline.com/2013/02/visual-effects-society-awards-2013-winners-list/|accessdate=February 7, 2013|newspaper=Deadline|date=February 5, 2013}}</ref>
+|Outstanding Animation in an Animated Feature Motion Picture
+|Nancy Bernstein, David Prescott, Peter Ramsey, Christina Steinberg
+|{{nom}}
+|-
+|Outstanding Created Environment in an Animated Feature Motion Picture
+|The North Pole: Eric Bouffard, Sonja Burchard, Andy Harbeck, Peter Maynez
+|{{nom}}
+|-
+|Outstanding FX and Simulation Animation in an Animated Feature Motion Picture
+|Last Stand: Andy Hayes, Carl Hooper, Andrew Wheeler, Stephen Wood
+|{{nom}}
+|-
+| [[Women Film Critics Circle]]<ref>{{cite news|last=Tapley|first=Kristopher|title='Zero Dark Thirty' fares well with Women Film Critics Circle|url=http://www.hitfix.com/in-contention/zero-dark-thirty-fares-well-with-women-film-critics-circle|accessdate=December 31, 2012|newspaper=HitFix|date=December 22, 2012}}</ref>
+| Best Family Film
+| ''Rise of the Guardians'' – tied with ''[[Life of Pi (film)|Life of Pi]]''
+|{{won}}
+|-
+|}
+
+==Video game==
+{{Main|Rise of the Guardians: The Video Game}}
+A video game based on the film was released by [[D3 Publisher]] on November 20, 2012 in North America,<ref>{{cite news|last=Marchiafava|first=Jeff|title=Rise of the Guardians|url=http://www.gameinformer.com/games/rise_of_the_guardians/b/xbox360/archive/2012/06/07/childhood-legends-team-up-for-fun-rpg-action.aspx|accessdate=November 8, 2012|newspaper=Game Informer|date=June 7, 2012}}</ref> and released on November 23, 2012 in Europe.<ref>{{cite news |title=D3Publisher reveals product details for 'Rise of the Guardians: The Video Game' | url = http://www.uk.namcobandaigames.eu/news/2012/07/16/d3publisher-reveals-product-details-for-rise-of-the-guardians-the-video-game/3000 | accessdate = July 16, 2012 |newspaper=Bandai Namco |date=July 16, 2012}}</ref> It allows gamers to lead the Guardians in their battle against Pitch. The game is a 3D beat-em-up, where the player travels through each of the worlds: Burgess, North Pole, Bunnymund Valley, Tooth Palace, and Sandman's Ship, to fight Pitch's army of Nightmares. The player can switch between all five guardians at any time, and freely customize their powers, and they learn new special abilities as they level up. All the game versions support up to 4-player gameplay.<ref>{{cite pressrelease | title = D3Publisher and DreamWorks Animation Announce Multi-Property Agreement for Next Three Animated Feature Films | url = http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=646657 | accessdate = February 7, 2012 | publisher = DreamWorks Animation | date = February 7, 2012 | deadurl = yes | archiveurl = https://archive.is/20120713060439/http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=646657 | archivedate = July 13, 2012 | df =  }}</ref> It is available on the [[Wii]], [[Wii U]], [[Xbox 360]], [[PlayStation 3]], [[Nintendo DS]], and [[Nintendo 3DS]].<ref>{{cite news |title=E3 2012 : Rise of the Guardians annoncé |url=http://www.jeuxvideo.com/news/2012/00059151-e3-2012-rise-of-the-guardians-annonce.htm | accessdate=June 9, 2012 |publisher=JeuxVideo.com |date=June 6, 2012 | quote = 'Les versions PS3, Xbox 360, Wii, DS et 3DS sont attendues pour cet automne, et la déclinaison Wii U est déjà confirmée. / The PS3, Xbox 360, Wii, DS and 3DS are expected this autumn and the ... Wii U is already confirmed.}}</ref>
+
+==Cancelled sequels==
+After the release of the film, the creators of ''Rise of the Guardians'' expressed hope that the strong A− Cinemascore average for the film and an enthusiastic word-of-mouth would gather support for the "chance to make a sequel or two."<ref>{{cite news|last=Willman|first=Chris|title='Rise of Guardians' Filmmakers Hoping to Make Sword-Wielding-Santa Sequels|url=http://www.thewrap.com/movies/column-post/rise-guardians-filmmakers-still-hoping-make-sword-wielding-santa-sequels-67076|accessdate=April 20, 2013|newspaper=The Wrap|date=November 29, 2012}}</ref> Author and co-producer of the series, William Joyce, also mentioned in March 2013 that he was still in talks about a sequel with DreamWorks Animation: "There is something that we are proposing that we hope they will want to do."<ref>{{cite news|last=Philbrick|first=Jami|title=IAR EXCLUSIVE INTERVIEW: AUTHOR/ILLUSTRATOR WILLIAM JOYCE TALKS 'RISE OF THE GUARDIANS' BLU-RAY/DVD, AND A POSSIBLE SEQUEL|url=http://www.iamrogue.com/news/interviews/item/8435-iar-exclusive-interview-author/illustrator-william-joyce-talks-rise-of-the-guardians-blu-ray/dvd-and-a-possible-sequel.html|accessdate=April 20, 2013|newspaper=iamROGUE.COM|date=March 11, 2013}}</ref>
+
+==Notes==
+{{refbegin}}
+#{{note|1}} In July 2014, the film's distribution rights were purchased by [[DreamWorks Animation]] from [[Paramount Pictures]] and transferred to [[20th Century Fox]].<ref>{{cite news|last1=Chney|first1=Alexandra|title=DreamWorks Animation Q2 Earnings Fall Short of Estimates, SEC Investigation Revealed|url=https://variety.com/2014/biz/news/dreamworks-animation-q2-earnings-fall-short-of-estimates-1201271262/|accessdate=July 30, 2014|work=Variety|date=July 29, 2014}}</ref> The rights were moved to [[Universal Pictures]] in 2018 after the buyout of DreamWorks Animation by Comcast/NBCUniversal.
+{{refend}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons}}
+{{wikiquote}}
+* {{Official website|http://www.riseoftheguardians.com}}
+* {{IMDb title|1446192|Rise of the Guardians}}
+* {{bcdb title|110710|Rise of the Guardians}}
+* {{Rotten Tomatoes|rise_of_the_guardians_2012|Rise of the Guardians}}
+* {{Mojo title|guardians|Rise of the Guardians}}
+
+{{Navboxes
+|title=Links to related articles|state=collapsed
+|list1=</span>
+{{Peter Ramsey}}
+{{DreamWorks animated films}}
+{{Works of William Joyce}}
+{{Jack Frost}}
+{{Satellite Award Best Animated or Mixed Media Feature Film}}
+}}
+
+{{DEFAULTSORT:Rise Of The Guardians}}
+[[Category:2012 films]]
+[[Category:2012 3D films]]
+[[Category:2012 animated films]]
+[[Category:2012 computer-animated films]]
+[[Category:2010s adventure films]]
+[[Category:2010s fantasy films]]
+[[Category:American 3D films]]
+[[Category:American children's animated adventure films]]
+[[Category:American children's animated fantasy films]]
+[[Category:American Christmas films]]
+[[Category:American computer-animated films]]
+[[Category:American fantasy adventure films]]
+[[Category:American films]]
+[[Category:2010s children's fantasy films]]
+[[Category:Animated Christmas films]]
+[[Category:Animated films based on children's books]]
+[[Category:Animated films about rabbits and hares]]
+[[Category:Crossover animation]]
+[[Category:Crossover films]]
+[[Category:Directorial debut films]]
+[[Category:DreamWorks Animation animated films]]
+[[Category:Easter films]]
+[[Category:English-language films]]
+[[Category:Features based on short films]]
+[[Category:Films about fairies and sprites]]
+[[Category:Films scored by Alexandre Desplat]]
+[[Category:Films about amnesia]]
+[[Category:Films about children]]
+[[Category:Films featuring anthropomorphic characters]]
+[[Category:Films set in Antarctica]]
+[[Category:Films set in the Arctic]]
+[[Category:Films using computer-generated imagery]]
+[[Category:IMAX films]]
+[[Category:Paramount Pictures films]]
+[[Category:Paramount Pictures animated films]]
+[[Category:Jack Frost]]
+[[Category:Moon in film]]
+[[Category:Santa Claus in film]]
+[[Category:Films adapted into video games]]
+[[Category:3D animated films]]

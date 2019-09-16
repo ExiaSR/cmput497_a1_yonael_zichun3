@@ -1,0 +1,431 @@
+{{short description|2013 American animated film}}
+{{Use mdy dates|date=December 2014}}
+{{Infobox film
+| name           = The Croods
+| image          = The Croods poster.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = {{Plainlist|
+* [[Kirk DeMicco]]
+* [[Chris Sanders]]
+}}
+| producer       = {{Plainlist|
+* [[Kristine Belson]]
+* [[Jane Hartwell]]
+}}
+| screenplay     = {{Plainlist|
+* Kirk DeMicco
+* Chris Sanders
+}}
+| story          = {{Plainlist|
+* [[John Cleese]]<ref name=VarietyReview>{{cite news|last=Felperin|first=Leslie|title=The Croods|url=https://variety.com/2013/film/reviews/the-croods-1117949263/|accessdate=March 8, 2013|newspaper=Variety|date=February 15, 2013}}</ref>
+* Kirk DeMicco
+* Chris Sanders
+}}
+| starring       = {{Plainlist|
+* [[Nicolas Cage]]
+* [[Emma Stone]]
+* [[Ryan Reynolds]]
+* [[Catherine Keener]]
+* [[Clark Duke]]
+* [[Cloris Leachman]]
+* [[Randy Thom]]
+}}
+| music          = [[Alan Silvestri]]<ref>{{cite news |url=http://filmmusicreporter.com/2012/05/08/alan-silvestri-to-score-dreamworks-animations-the-croods |title=Alan Silvestri to Score Dreamworks Animation's 'The Croods' |work=FilmMusicReporter.com |date=May 8, 2012 |accessdate=August 17, 2012}}</ref>
+| editing        = {{Plainlist|
+* Eric Dapkewicz
+* [[Darren T. Holmes]]
+}}
+| studio         = [[DreamWorks Animation]]
+| distributor    = [[20th Century Fox]]
+| released       = {{Film date|2013|2|15|[[63rd Berlin International Film Festival|Berlin]]|2013|3|22|United States}}
+| runtime        = 98 minutes<!--Theatrical runtime: 98:30--><ref name="bbfc">{{cite web|title=''THE CROODS'' (U)|url=http://www.bbfc.co.uk/releases/croods-2013-5|archive-url=https://archive.is/20130419203609/http://www.bbfc.co.uk/releases/croods-2013-5|dead-url=yes|archive-date=April 19, 2013|work=[[British Board of Film Classification]]|date=February 19, 2013|accessdate=February 19, 2013}}</ref>
+| country        = United States
+| language       = English
+| budget         = $135–175 million<ref name=mojo>{{cite web|title=The Croods (2013)|url=http://boxofficemojo.com/movies/?id=croods.htm|website=[[Box Office Mojo]]|accessdate=April 19, 2013 |archiveurl=https://web.archive.org/web/20141009211333/http://boxofficemojo.com/movies/?id=croods.htm |archivedate=October 9, 2014 |deadurl=no}}</ref><ref name=profit/>
+| gross          = $587.2 million<ref name=mojo />
+}}
+
+'''''The Croods ''''' is a 2013 American [[List of 3D films|3D]] [[computer-animated]] [[Comedy film|comedy]] [[Adventure film|adventure]] film produced by [[DreamWorks Animation]] and distributed by [[20th Century Fox]]. It stars the voices of [[Nicolas Cage]], [[Emma Stone]], [[Ryan Reynolds]], [[Catherine Keener]], [[Clark Duke]],  [[Cloris Leachman]], and [[Randy Thom]]. The film is set in a fictional prehistoric [[Pliocene]] era known as "The Croodaceous" (a prehistoric period which contains fictional prehistoric creatures) when a [[caveman]]'s position as a "Leader of the Hunt" is threatened by the arrival of a prehistoric genius who comes up with revolutionary new inventions as they trek through a dangerous but exotic land in search of a new home.
+
+''The Croods'' was written and directed by [[Kirk DeMicco]] and [[Chris Sanders]], and produced by Kristine Belson and Jane Hartwell.<ref name="Slate2014">{{cite press release |title=DreamWorks Animation Announces Feature Film Release Slate Through 2014 |work=DreadWorksAnimation.com |publisher=DreamWorks Animation SKG, Inc |date=March 8, 2011 |url=http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=555383 |accessdate=March 8, 2011}}</ref> The film premiered at the [[63rd Berlin International Film Festival]] on February 15, 2013,<ref name="Berlin" /> and was released in the United States on March 22, 2013.<ref name=DeadlineDate>{{cite news |url=http://www.deadline.com/2011/04/dreamworks-animation-shifts-the-croods |title=DreamWorks Animation Shifts 'The Croods' |website=[[Deadline Hollywood]] |date=April 4, 2011 |accessdate=April 6, 2011}}</ref> As part of the distribution deal, this was the first DreamWorks Animation film to be distributed by 20th Century Fox, since the end of their distribution deal with [[Paramount Pictures]].<ref name="20thFox">{{cite news |last=Finke |first=Nikki |title=EXCLUSIVE: DreamWorks Animation To Fox For New 5-Year Distribution Deal; UPDATE: Paying Fees Of 8% Theatrical And 6% Digital |url=http://www.deadline.com/2012/08/exclusive-dreamworks-animation-to-fox |accessdate=August 21, 2012 |newspaper=Deadline.com |date=August 20, 2012}}</ref>
+
+''The Croods'' received generally positive reviews, and proved to be a box office success, earning more than $587 million on a budget of $135–175 million. It was nominated for [[Academy Award for Best Animated Feature]] and for [[Golden Globe Award for Best Animated Feature Film]]. The film launched a new franchise,<ref name=SAQ12013>{{cite news|title=DreamWorks Animation SKG Management Discusses Q1 2013 Results - Earnings Call Transcript|url=http://seekingalpha.com/article/1387061-dreamworks-animation-skg-management-discusses-q1-2013-results-earnings-call-transcript?part=single|accessdate=May 1, 2013|newspaper=Seeking Alpha|date=April 30, 2013|quote=So I think you can anticipate there'll be a TV show, there will be ways that we will be able to integrate that into our location-based entertainment.}}</ref> with a television series, ''[[Dawn of the Croods]]'', which debuted on December 24, 2015, on [[Netflix]].<ref name=DeadlineAmongSeries /> A sequel is set to be released in December 2020.
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries should be between 400-700 words only, the summary has over 669 words currently. Detailed actions and sequences should be avoided; DO NOT AT ALL ADD TO THE SUMMARY UNLESS NECESSARY. -->
+A [[Archaic humans|cave family]] called the Croods survives a [[natural disaster]], due to the overprotective nature of their stubborn patriarch Grug. The only one who questions the family's sheltered life is his teenaged daughter Eep, who frequently disobeys her father's orders out of curiosity, which he finds dangerous. The family spend time sheltered in their cave.
+
+One night, while her family is asleep, Eep sneaks out when she sees what she discovers to be a [[torch]] of fire, and she encounters an inventive [[anatomically modern human|modern human]] boy named Guy and his [[pet]] [[sloth]] Belt. He warns her of an impending apocalypse and offers to take her with him, but concerned for her family, Eep stays, getting a shell horn from him to blow in case she needs his help. Reuniting with her frantic family, Eep tries to tell them what Guy told her, but fearing things that are "different" and "new", they destroy her horn.
+
+A massive earthquake then destroys their home, and to avoid carnivores and omnivores, they descend into a tropical forest that lay hidden behind their cave all the time. Encountering a "Macawnivore", a brightly colored feline with [[nyctophobia]] that Eep's grandmother Gran dubs "Chunky", the family flees him until he is scared off by swarms of piranhakeets that devour a ground [[whale]]. Using another horn, Eep calls to Guy who rescues them from the birds with his fire. After a great deal of confusion regarding their first contact with fire, Grug imprisons Guy in a log until he can guide them somewhere safe. Guy suggests the Croods go to a mountain where there are caves because the Crood family desires a cave. Grug refuses at first, but he decides to go with the promise of a cave. The other Croods were worried that they would get tired and bicker, but Grug doesn't listen.
+
+When Grug finds a bird, he decides to hunt its egg for dinner. Eep also wants to hunt the egg, but as she's grounded, she gets replaced by her younger brother Thunk, who is too tired to hunt it. Grug and Thunk fail to capture the bird's egg, so they get a scorpion instead. During a fight between Thunk and Gran, Eep notices Guy moving away and stops him. Guy wants Eep to stop, so he asks her hunt with him. Eep goes with Guy to hunt, while the others fight among themselves.
+
+Eep and Guy make a trap in order to capture the bird but fail when the two get tangled up, and the bird doesn't step in the trap. The bird captures the puppet with Guy in it and throws him up in the sky until he lands on the log. Grug asks Guy where Eep is, and he finds her being chased by the bird. Grug gets angry but doesn't notice that he was about to step on the trap, so Eep pushes him out to save her father. The bird steps on the trap and is thrown up in the sky until it crash-lands on the ground.
+
+The Croods cook the bird, and Guy is tied up with a root chain on his left leg. After dinner, Grug tells them a story, which is based on a true story, about a tiger who is similar to Eep and embarrasses Eep. Guy says that his stories never end up like Grug's stories, so the Croods decide to listen to Guy's story much to their interest. Guy tells them about a tiger who flew into a place with more suns in the sky called “Tomorrow”. Guy also tells them stories of "Tomorrow", a heaven of safety where he is headed and in which curiosity is not deadly as Grug has claimed.
+
+Outrunning the destruction, Guy is trusted enough to be let out of the log, and he gives the Croods rudimentary shoes to walk over the harsh landscape as he leads them to a mountain in which he says will be safe. After the family is split up in a labyrinth of tunnels, all but Grug manage to escape by coming up with ideas of overcoming obstacles in their paths. At his treetop home, Grug sees the impression Guy is leaving on his family, and he becomes jealous, especially when he realizes that Eep has fallen in love with Guy. Attempting to invent things like Guy, Grug only further embarrasses himself and drives his family further away from him.
+
+Reaching the mountain, Grug tries to force his family to hide out in a cave, but they resist, telling him that they can't live in caves anymore, that they don't want to survive but to live. This enrages Grug, who places blame on Guy and tries to beat the answer out of him, but they both end up in a [[tar]] flow where Grug learns that Guy's family had perished in one. Realizing that Guy's method of survival is better for his family, Grug works with him, and they lure Chunky into a trap to free themselves. The family reunites, then flees a massive cataclysm as the land begins to violently rip apart.
+
+The family is cut off from their destination by a continental split, but Grug, realizing the errors of his ways, decides to throw his family to safety. He shares an invention he calls a "hug" with Eep, briefly before sending her across as well. Cut off from his family, Grug finds a cave for safety, where he encounters Chunky, who is truly a frightened and sweet feline, and he comes up with an idea to getting them across the chasm. Using a ribcage and the Piranhakeets to fashion a simple airship, Grug manages to send themselves, and several animals the family had encountered during their journey, across the chasm, reuniting with his family once again. He apologizes to them all and promises to never be so overbearing again. Later, the Croods have settled on a vast beach, where every day they can follow the light to "Tomorrow".
+
+==Voice cast==
+*[[Nicolas Cage]] as Grug Crood, a caveman who is the well-meaning, but overprotective and old-fashioned patriarch of the Crood family.<ref name=EWFirstLook>{{cite news|last=Breznican|first=Anthony|title=FIRST LOOK: Emma Stone as cavegirl in DreamWorks Animation's 'The Croods' -- EXCLUSIVE|url=http://family-room.ew.com/2012/08/31/first-look-the-croods/|accessdate=September 1, 2012|newspaper=Entertainment Weekly|date=August 31, 2012}}</ref>
+*[[Emma Stone]] as Eep Crood, a rebellious teenaged cavegirl who is Grug and Ugga's eldest daughter, Thunk and Sandy's elder sister, and Gran's eldest granddaughter and is filled with curiosity and a desire for exploring and wonder.<ref name=EWFirstLook />
+*[[Ryan Reynolds]] as Guy, a nomadic boy and Eep's love interest, who is not as strong as the Croods, but prefers using his brain and comes up with various ideas and inventions. He is accompanied by a pet anthropomorphic sloth named Belt ([[Chris Sanders]]<ref name="THRReview" />), who both provides comedy and keeps Guy's pants up.<ref name=EWFirstLook />
+*[[Catherine Keener]] as Ugga Crood, a cavewoman who is Grug's wife, the daughter of Gran, and the mother of Eep, Thunk, and Sandy. She is more open-minded than Grug, but also finds it difficult to keep her family safe.<ref name="EWFirstLook" />
+*[[Clark Duke]] as Thunk Crood, a caveboy who is Grug's and Ugga's son, Eep and Sandy's brother, and Gran's grandson. Thunk is the middle child and is not bright and has bad coordination, but has a good heart.<ref name=EWFirstLook /> He gets a crocopup named Douglas for a pet.
+*[[Cloris Leachman]] as Gran, an old and ferocious cavewoman who is the mother of Ugga, the mother-in-law of Grug, and the grandmother of Eep, Thunk, and Sandy.<ref name=EWFirstLook />
+*[[Randy Thom]] as Sandy Crood, Grug and Ugga's youngest daughter, Eep and Thunk's younger sister, and Gran's youngest granddaughter who still bites and growls instead of speaking. Thom created her voice with creature noises.<ref name="EWFirstLook" />
+
+==Production==
+[[File:41st Annie Awards, Kirk DeMicco and Chris Sanders.jpg|thumb|right|Directors and writers Kirk DeMicco and Chris Sanders at the [[41st Annie Awards]].]]
+The film was announced in May 2005, under the working title ''Crood Awakening'',<ref>{{cite news |title=DreamWorks and Aardman Are in for a 'Crood Awakening' |url=http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=539109 |accessdate=March 10, 2012 |newspaper=DreamWorks Animation |date=May 12, 2005 |deadurl=yes |archiveurl=https://archive.is/20120712141541/http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=539109 |archivedate=July 12, 2012 |df=mdy-all }}</ref> originally a stop motion film being made by [[Aardman Animations]]<ref>{{cite news |title='Wallace & Grommit' bring clay to Cannes |url=http://today.msnbc.msn.com/id/7832249/ns/today-entertainment/t/wallace-grommit-bring-clay-cannes |accessdate=March 10, 2012 |newspaper=MSNBC |date=May 12, 2005 |agency=Associated Press}}</ref> as a part of a "five film deal" with DreamWorks Animation. [[John Cleese]] and [[Kirk DeMicco]] had been working together on a feature based on [[Roald Dahl]]'s story ''[[The Twits]]'',<ref>{{cite news|last=Brodesser|first=Claude|title=‘Twits’ pic pleases Cleese|url=https://variety.com/2003/film/news/twits-pic-pleases-cleese-1117880020/|accessdate=March 29, 2013|newspaper=Variety|date=February 4, 2003}}</ref> a project that never went into production.
+
+DreamWorks got a copy of their script and liked it, and invited Cleese and DeMicco over to take a look at the company's ideas to see if they found something they would like to work with.<ref name="TOCKSandersMicco">{{cite news|last=Behrens|first=Web|title=The Croods directors Chris Sanders and Kirk De Micco {{!}} Interview|url=http://timeoutchicagokids.com/things-to-do/hipsqueak-blog/257426/the-croods-directors-chris-sanders-and-kirk-de-micco-interview|accessdate=March 21, 2013|newspaper=Time Out Chicago Kids|date=March 29, 2013}}</ref> They chose a basic story idea about two cavemen on the run, an inventor and a [[luddite]],<ref name="TOCKSandersMicco" /> and wrote the first few drafts of the script.<ref>{{cite news |title=Kirk DeMicco: Monkey Business |url=http://totalscifionline.com/interviews/2236-kirk-demicco-monkey-business |accessdate=January 21, 2012 |newspaper=Total Sci-Fi Online |date=July 15, 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20120226095434/http://totalscifionline.com/interviews/2236-kirk-demicco-monkey-business |archivedate=February 26, 2012 |df=mdy-all }}</ref> In January 2007, with the departure of Aardman, the rights for the film reverted to DreamWorks.<ref name="Variety" >{{cite news |url=http://www.variety.com/article/VR1117958381 |title=Aardman, DWA end partnership |first=Ben |last=Fritz |work=Variety |date=January 30, 2007 |accessdate=November 18, 2010}}</ref> Aardman, however, continued experimenting with the idea of a stone age-themed story into ''[[Early Man (film)|Early Man]]'' which would eventually be released in 2018.
+
+In March 2007, [[Chris Sanders]], one of the writers of ''[[Mulan (1998 film)|Mulan]]'' and writer/director of ''[[Lilo & Stitch]]'', joined DreamWorks to direct the film, with intentions to significantly rewrite the script.<ref>{{cite news |last=Fritz |first=Ben |title=Sanders joins DreamWorks |url=http://www.variety.com/article/VR1117961927 |archive-url=https://archive.is/20130209020039/http://www.variety.com/article/VR1117961927 |dead-url=yes |archive-date=February 9, 2013 |accessdate=March 5, 2012 |newspaper=Variety |date=March 27, 2007 }}</ref> In September 2008, it was reported that Sanders took over ''[[How to Train Your Dragon (film)|How to Train Your Dragon]]'' putting ''Crood Awakening'' on hold,<ref>{{cite news |last=Amidi |first=Amid |title=UPDATE: Chris Sanders Still Crood and Directing Dragon |url=http://www.cartoonbrew.com/feature-film/sanders-off-crood-film-onto-dragon.html |accessdate=March 5, 2012 |newspaper=[[Cartoon Brew]] |date=September 25, 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20120229041921/http://www.cartoonbrew.com/feature-film/sanders-off-crood-film-onto-dragon.html |archivedate=February 29, 2012 |df=mdy-all }}</ref> and thus postponing its original schedule for a year to a then planned March 2012.<ref>{{cite news |last=Horn |first=John |title='How to Train Your Dragon' was fire-tested during whirlwind production |url=http://herocomplex.latimes.com/2010/03/12/how-to-train-your-dragon-was-tested-by-fire-during-production |accessdate=March 5, 2012 |newspaper=Los Angeles Times |date=March 12, 2010}}</ref> The film's final title, ''The Croods'', was revealed in May 2009, along with new co-director, Kirk DeMicco.<ref>{{cite news |title=DreamWorks Animation Announces Plans to Release Five Feature Films Every Two Years |url=http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=540593 |accessdate=March 5, 2012 |newspaper=DreamWorks Animation |date=May 28, 2009}}</ref> In March 2011, the film got another delay, being pushed back a year to March 1, 2013,<ref>{{cite news |title=DreamWorks Animation Announces Feature Film Release Slate Through 2014 |url=http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=555383 |accessdate=March 5, 2012 |newspaper=DreamWorks Animation |date=March 8, 2011}}</ref> and finally settled at March 22.<ref>{{cite news |title=DreamWorks Animation Shifts 'The Croods' |url=http://www.deadline.com/2011/04/dreamworks-animation-shifts-the-croods |accessdate=March 5, 2012 |newspaper=Deadline.com |date=April 4, 2011}}</ref>
+
+==Release==
+''The Croods'' had its [[Film premiere|world premiere]] in the out of competition section at the [[63rd Berlin International Film Festival]] on February 15, 2013.<ref name="Berlin">{{cite web|title=The Croods|url=http://www.berlinale.de/en/programm/berlinale_programm/datenblatt.php?film_id=20132227|publisher=Berlinale|accessdate=February 10, 2013}}</ref> It premiered in the United States on March 22, 2013.<ref name=DeadlineDate /> The film was the first feature film to be shown in the [[4DX]] format, featuring strobe lights, tilting seats, blowing wind and fog and odor effects in [[Hungary]], which is shown at the [[Cinema City International|Cinema City]] theater in [[Budapest]], Hungary.<ref>{{cite news|last=Ádám|first=Straub|title=4DX: Hátba rúg a szék az első magyar élménymoziban|url=http://www.origo.hu/techbazis/geekturiszt/20130313-4dx-hatba-rugnak-es-lekopnek-az-elso-magyar-elmenymoziban.html|accessdate=April 11, 2013|date=March 14, 2013}}</ref> It was also the first film in China to be distributed by [[Oriental DreamWorks]], a film production and distribution company founded in 2012 by DreamWorks Animation and Chinese investment companies.<ref>{{cite news|title=DreamWorks Animation SKG Management Discusses Q1 2013 Results - Earnings Call Transcript|url=http://seekingalpha.com/article/1387061-dreamworks-animation-skg-management-discusses-q1-2013-results-earnings-call-transcript?part=single|accessdate=May 1, 2013|newspaper=Seeking Alpha|date=April 30, 2013}}</ref>
+
+===Home media===
+''The Croods'' was released on Blu-ray (2D and 3D) and DVD on October 1, 2013. The DVD and Blu-ray comes with a Belt plush toy.<ref>{{cite news|title=The Croods Officially Announced|url=http://www.blu-ray.com/news/?id=11800|accessdate=August 1, 2013|newspaper=Blu-ray.com|date=August 1, 2013}}</ref><ref>{{cite news|title=The Croods Blu-ray 3D, Blu-ray and DVD Arrive October 1st - MovieWeb.com|url=http://www.movieweb.com/news/the-croods-blu-ray-3d-blu-ray-and-dvd-arrive-october-1st|accessdate=August 2, 2013|newspaper=MovieWeb.com|date=August 1, 2013}}</ref>
+
+==Reception==
+===Critical response===
+''The Croods'' received generally positive reviews from critics. Film review aggregator [[Rotten Tomatoes]] reports that 71% of critics gave the film a positive review based on 141 reviews, with an average score of 6.53/10. The website's critical consensus reads: "While it may not be as (ahem) evolved as the best modern animated fare, ''The Croods'' will prove solidly entertaining for families seeking a fast-paced, funny cartoon adventure."<ref>{{cite web|url=http://www.rottentomatoes.com/m/the-croods/|title=The Croods (2013)|last=|first=|date=|work=[[Rotten Tomatoes]]|publisher=[[Fandango Media]]|archive-url=|archive-date=|dead-url=|accessdate=May 21, 2019}}</ref> On [[Metacritic]], which assigns a [[Normalization (statistics)|normalized]] rating out of 100 top reviews from mainstream critics, the film was given a score of 55 based on 30 reviews, indicating "mixed or average reviews".<ref>{{cite web|url=http://www.metacritic.com/movie/the-croods |title=The Croods Reviews |publisher= [[CBS Interactive]] | work= [[Metacritic]] |accessdate=March 5, 2018}}</ref>
+
+Claudia Puig of ''[[USA Today]]'' gave the film two and a half stars out of four, saying, "A visually dazzling animated adventure with a well chosen voice cast is hampered by lackluster humor and a meandering story."<ref>{{cite news|last=Puig|first=Claudia |url=https://www.usatoday.com/story/life/movies/2013/03/21/the-croods-review/1967491/ |title='The Croods' hunts down humor, gathers great talent |work=[[USA Today]] |date=March 21, 2013 |accessdate=March 22, 2013}}</ref> Tom Russo of ''[[The Boston Globe]]'' gave the film two and a half out of four, saying, "Had the movie figured out a way to stay the less cliched course, it might have helped the DreamWorks oeuvre take steps toward [[Pixar]]'s emotional resonance."<ref>{{cite news|last=Russo|first=Tom|title=‘The Croods’ explores the modern Stone Age family|url=http://www.boston.com/ae/movies/2013/03/21/movie-review-the-croods/bhsfFSUsPSc60Jon7a7GKO/story.html|accessdate=May 4, 2013|newspaper=Boston Globe|date=March 21, 2013}}</ref>
+
+Keith Staskiewicz of ''[[Entertainment Weekly]]'' gave the film a C+, and wrote in his review, "A handful of adrenalizing sequences of animated anarchy can't save this story from feeling overly primitive."<ref>{{cite news|author=Keith Staskiewicz |url=http://www.ew.com/ew/article/0,,20609141_20657975,00.html |title=The Croods Review |work=[[Entertainment Weekly]] |date=March 18, 2013 |accessdate=March 22, 2013}}</ref> David Rooney of ''[[The Hollywood Reporter]]'' called the film, "Further back on the evolutionary chain than the Flintstones, and also lagging in the comedy stakes, this sweet Stone Age clan nonetheless will captivate the youngsters."<ref name="THRReview">{{cite news|last=Rooney|first=David|title=The Croods: Berlin Review|url=http://www.hollywoodreporter.com/movie/croods/review/421866|accessdate=February 17, 2013|newspaper=The Hollywood Reporter|date=February 15, 2013}}</ref> Leslie Felperin of ''[[Variety (magazine)|Variety]]'' found that, "The main problem with the film is that the script simply isn't very funny, and its various subplots never quite mesh satisfyingly together."<ref>{{cite news|author=Leslie Felperin |url=https://variety.com/2013/film/reviews/the-croods-1117949263/ |title=The Croods |work=Variety |date=March 22, 2013 |accessdate=March 22, 2013}}</ref>
+
+Tirdad Derakhshani of ''[[The Philadelphia Inquirer]]'' gave the film two and a half stars out of four, saying, "The movie is well edited and lean, a fast paced, action filled bit of froth that manages to be diverting and surprisingly fun."<ref>{{cite web|author=Tirdad Derakhshani |url=http://www.philly.com/philly/entertainment/movies/20130322__The_Croods___Suspend_reality_and_reason__and_be_surprised.html |title='The Croods': Suspend reality and reason, and be surprised |work=The Philadelphia Inquirer |date=March 21, 2013 |accessdate=March 22, 2013}}</ref> Lisa Kennedy of ''[[The Denver Post]]'' gave the film three and a half stars out of four, saying "It captures the wonder (and more gently, the anxiety) of discovery time and time again. And the filmmakers have a hoot playing with the Croods' encounters with, as well as their misunderstandings of, all things new."<ref>{{cite news|author=Lisa KennedyDenver Post Film Critic |url=http://www.denverpost.com/movies/ci_22834223/review-croods-awakenings-and-blunfrtd-make-fantastic-journey |title=Movie review: "The Croods" a fantastic animated journey |newspaper=The Denver Post |date=March 22, 2013 |accessdate=January 16, 2014}}</ref> Laremy Legel of ''[[Film.com]]'' gave the film a B, saying "''How to Train Your Dragon'' and ''Lilo & Stitch'' are completely indicative of the experience you'll have with ''The Croods'', which is to say a supremely positive one."<ref>{{cite web|author=The 100 Best Movie Scenes of 2013 |url=http://www.film.com/movies/review-the-croods |title=Review: ‘The Croods’ |publisher=Film.com |date=March 21, 2013 |accessdate=January 16, 2014}}</ref>
+
+===Box office===
+''The Croods'' grossed $187.2 million in the United States and Canada, and $400 million in other countries, for a worldwide total of $587.2 million.<ref name="mojo"/> ''[[Deadline Hollywood]]'' calculated the net profit of the film to be $106.5{{nbsp}}million, when factoring together all expenses and revenues.<ref name=profit>{{cite web|last=Fleming Jr.|first=Mike|title=2013 Most Valuable Blockbuster – #6 ‘Fast & Furious 6′ Vs. #11 ‘The Croods’; #3 ‘Despicable Me 2′ Vs. #14 Star Trek Into Darkness’|url=http://www.deadline.com/2014/03/fast-furious-6-star-trek-into-darkness-despicable-me-2-profit-most-profitable-movies-2013/|website=Deadline Hollywood|accessdate=March 22, 2014|date=March 21, 2014}}</ref> It is the eleventh highest grossing [[2013 in film#Highest-grossing films|2013 film]], and the fourth highest grossing [[List of animated feature films of 2013#Highest-grossing animated films of 2013|2013 animated film]] (behind ''[[Frozen (2013 film)|Frozen]]'', ''[[Despicable Me 2]]'', and ''[[Monsters University]]''). It became the second highest grossing original DreamWorks Animation film, behind ''[[Kung Fu Panda]]''.<ref name=SeekingAlphaQ2>{{cite news|title=DreamWorks Animation SKG Management Discusses Q2 2013 Results - Earnings Call Transcript|url=http://seekingalpha.com/article/1591842-dreamworks-animation-skg-management-discusses-q2-2013-results-earnings-call-transcript|accessdate=August 3, 2013|newspaper=Seeking Alpha|date=July 31, 2013}}</ref> As of January 2014, it is the 89th-highest-grossing film, and the 21st-highest-grossing [[List of highest-grossing animated films#Highest-grossing animated films|animated film]].<ref name=mojo />
+
+In North America, the film earned $11.6 million on its opening day.<ref>{{cite news|title=Friday Report: 'Croods,' 'Olympus' Excel, 'Admission' Fails|url=http://boxofficemojo.com/news/?id=3655&p=.htm|publisher=IMDB|work=[[Box Office Mojo]] |first=Ray|last=Subers|date=March 23, 2013|accessdate=April 5, 2013 |archiveurl=https://web.archive.org/web/20140924063657/http://www.boxofficemojo.com/news/?id=3655&p=.htm |archivedate=September 24, 2014 |deadurl=no}}</ref> On its opening weekend, the film topped the box office with $43.6 million from 4,046 locations, a vast improvement over the DreamWorks Animation's directly preceding release ''[[Rise of the Guardians]]'',<ref>{{cite news|title=Weekend Report: 'Croods' Crushes, 'Olympus' Surprises|url=http://boxofficemojo.com/news/?id=3656&p=.htm|publisher=IMDB|work=Box Office Mojo|first=Ray|last=Subers|date=March 24, 2013|accessdate=April 5, 2013|archiveurl=https://web.archive.org/web/20140924070537/http://www.boxofficemojo.com/news/?id=3656&p=.htm|archivedate=September 24, 2014|deadurl=no}}</ref> yet still below some of the studio's other original films, like ''[[Megamind]]'' and ''[[How to Train Your Dragon (film)|How to Train Your Dragon]]''.<ref>{{cite web|url=http://boxofficemojo.com/weekend/chart/?yr=2013&wknd=12&p=.htm|title=Weekend Box Office Results for March 22-24, 2013|publisher=IMDB|work=Box Office Mojo|date=March 25, 2013|accessdate=March 25, 2013|archiveurl=https://web.archive.org/web/20141007231029/http://www.boxofficemojo.com/weekend/chart/?yr=2013&wknd=12&p=.htm|archivedate=October 7, 2014|deadurl=no}}</ref>
+
+Outside North America, the film topped the box office during its first weekend with $62.4 million (including previews from the previous weekend).<ref>{{cite news|last=Subers|first=Ray|title=Around-the-World Roundup: 'Croods' Opens to $62.4 Million Overseas|url=http://boxofficemojo.com/news/?id=3657&p=.htm|accessdate=May 4, 2013|newspaper=Box Office Mojo|date=March 26, 2013|archiveurl=https://web.archive.org/web/20140924065037/http://www.boxofficemojo.com/news/?id=3657&p=.htm|archivedate=September 24, 2014|deadurl=no}}</ref> It opened at number one in 54 countries,<ref name=SAQ12013 /> with the biggest openings achieved in the United Kingdom, Ireland and Malta ($8.08 million), Russia and the CIS ($7.82 million), China ($6.34 million), and Mexico ($4.37 million).
+
+In total grosses, the film's biggest market was China with $63.3 million,<ref name=BOMInter /> becoming the highest grossing original animated film, surpassing DreamWorks Animation's film ''[[Kung Fu Panda]]''.<ref name=LATPulledChina>{{cite news|last=Verrier|first=Richard|title=DreamWorks Animation's 'The Croods' pulled from theaters in China|url=http://articles.latimes.com/2013/jun/07/entertainment/la-et-ct-croods-dreamworks-china-20130607|accessdate=January 29, 2014|newspaper=Los Angeles Times|date=June 7, 2013}}</ref> In addition, the film earned $43.1 million in the United Kingdom, Ireland and Malta, $28.6 million in Russia and the CIS, $27.7 million in Mexico, and $23.8 million in Australia.<ref name=BOMInter>{{cite web|title=The Croods (2013) - International Box Office Results|url=http://www.boxofficemojo.com/movies/?page=intl&id=croods.htm|website=Box Office Mojo|accessdate=August 23, 2013|archiveurl=https://web.archive.org/web/20140924145759/http://www.boxofficemojo.com/movies/?page=intl&id=croods.htm|archivedate=September 24, 2014|deadurl=no}}</ref> Earning a total of $400 million,<ref>{{cite news|title=DreamWorks Animation Reports Third Quarter 2013 Financial Results|url=http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=801340|accessdate=January 4, 2014|newspaper=DreamWorks Animation|date=October 29, 2013}}</ref> it is the highest grossing 2013 film distributed by 20th Century Fox.<ref>{{cite news|last=Busch|first=Anita|title=International Box Office Update: Iron Man No. 1 In 2013 With $1.2B Global Take, Best Gross for Marvel/Walt Disney Studios which Tops $3B For First Time; Fox International Down 14% In 2013 But Still Grosses $2.33B; ‘Hunger Games’ Heading Over $400M|url=http://www.deadline.com/2014/01/international-box-office-sony-3b-hobbit-desolation-of-smaug-frozen-despicable-me-2-47-ronin/|accessdate=January 4, 2014|newspaper=Deadline|date=January 2, 2014}}</ref>
+
+===Accolades===
+{| class="wikitable sortable"
+|- style="background:#ccc; text-align:center;"
+! colspan="5" style="background: LightSteelBlue;" | Awards
+|- style="background:#ccc; text-align:center;"
+! Award
+! Date of ceremony
+! Category
+! Recipients and nominees
+! Result
+|-
+| [[Academy Awards]]<ref name=cartoon>{{cite news|url=http://blog.bcdb.com/animated-film-oscar-nominations-6724/|title=Animated Film Oscar Nominations|first=Dave|last=Koch|publisher=Big Cartoon News|date=January 16, 2014|accessdate=January 16, 2014|deadurl=yes|archiveurl=https://archive.is/20140116182933/http://blog.bcdb.com/animated-film-oscar-nominations-6724/|archivedate=January 16, 2014|df=mdy-all}}</ref>
+| [[86th Academy Awards|March 2, 2014]]
+| [[Academy Award for Best Animated Feature|Best Animated Feature]]
+| [[Chris Sanders (director)|Chris Sanders]], [[Kirk De Micco]] and [[Kristine Belson]]
+| {{nom}}
+|-
+| rowspan="2"| [[Alliance of Women Film Journalists]]<ref>{{cite news|title=2013 EDA Award Nominess|url=http://awfj.org/eda-awards/2013-eda-award-nominees/|accessdate=December 11, 2013|newspaper=[[Alliance of Women Film Journalists]]|date=December 11, 2013}}</ref>
+| rowspan="2"| December 16, 2013
+| Best Animated Feature
+| [[Kirk De Micco]] and [[Chris Sanders (director)|Chris Sanders]]
+| {{nominated}}
+|-
+| Best Animated Female
+| Eep ([[Emma Stone]])
+| {{nominated}}
+|-
+| rowspan="9"| [[Annie Awards]]<ref>{{cite news|title=Complete list of 2013 Annie Award nominees for animation|url=http://www.latimes.com/entertainment/envelope/moviesnow/la-et-mn-complete-list-of-2013-annie-award-noms-20131202,0,3639869.story#axzz2mGyTLClR|accessdate=December 5, 2013|newspaper=[[Los Angeles Times]]|date=December 2, 2013}}</ref>
+| rowspan="9"| [[41st Annie Awards|February 1, 2014]]
+| [[Annie Award for Best Animated Feature|Best Animated Feature]]
+|
+| {{Nominated}}
+|-
+| Animated Effects in an Animated Production
+| Jeff Budsberg, Andre Le Blanc, Louis Flores, and Jason Mayer
+| {{won}}
+|-
+| Character Animation in an Animated Feature Production
+| Jakob Jensen
+| {{won}}
+|-
+| Character Design in an Animated Feature Production
+| Carter Goodrich, Takao Noguchi, and Shane Prigmore
+| {{won}}
+|-
+| [[Annie Award for Directing in a Feature Production|Directing in an Animated Feature Production]]
+| [[Kirk De Micco]] and [[Chris Sanders (director)|Chris Sanders]]
+| {{Nominated}}
+|-
+| [[Annie Award for Music in a Feature Production|Music in an Animated Feature Production]]
+| [[Alan Silvestri]]
+| {{Nominated}}
+|-
+| Production Design in an Animated Feature Production
+| Christophe Lautrette, Paul Duncan, and Dominique R. Louis
+| {{Nominated}}
+|-
+| Storyboarding in an Animated Feature Production
+| Steven MacLeod
+| {{Nominated}}
+|-
+| Editorial in an Animated Feature Production
+| [[Darren T. Holmes]]
+| {{Nominated}}
+|-
+| [[Broadcast Music, Inc.|BMI Film & TV Music Awards]]<ref>{{cite web|url=http://www.bmi.com/news/entry/bmi_congratulates_the_41st_annual_annie_awards_nominees |title=BMI Congratulates the 41st Annual ANNIE Awards Nominees &#124; News |publisher=BMI.com |date=December 12, 2013 |accessdate=January 16, 2014}}</ref>
+| May 15, 2013
+| Film Music
+| [[Alan Silvestri]]
+| {{won}}
+|-
+| [[Cinema Audio Society Awards]]<ref>{{cite news|title=Cinema Audio Society Unveils Nominations For The 50th Annual CAS Awards|url=http://www.deadline.com/2014/01/cas-awards-nominations-gravity-iron-man-3/|accessdate=January 14, 2014|newspaper=Deadline|date=January 14, 2014}}</ref><ref>{{cite news|last=The Deadline Team|title=Cinema Audio Society Awards: 'Gravity', 'Frozen' Take Film Honors|url=http://www.deadline.com/2014/02/cas-award-winners-2014-cinema-audio-society-awards/|accessdate=February 23, 2014|newspaper=Deadline|date=February 22, 2014}}</ref>
+| [[Cinema Audio Society Awards 2013|February 22, 2014]]
+| Outstanding Achievement in Sound Mixing for Motion Pictures – Animated
+| Tighe Sheldon, Randy Thom, Gary A. Rizzo, Dennis Sands, Corey Tyler
+| {{nom}}
+|-
+| [[Critics' Choice Movie Award]]<ref>{{cite news|title=19TH ANNUAL CRITICS’ CHOICE MOVIE AWARDS NOMINATIONS|url=http://www.criticschoice.com/movie-awards/19th-annual-critics-choice-movie-awards-nominations/|accessdate=December 17, 2013|newspaper=Critics' Choice|date=December 17, 2013}}</ref>
+| [[19th Critics' Choice Awards|January 16, 2014]]
+| Best Animated Feature
+|
+| {{Nominated}}
+|-
+| [[Denver Film Critics Society]]
+| [[2013 Denver Film Critics Society Awards|January 13, 2014]]
+| Best Animated Feature Film
+|
+| {{Nominated}}
+|-
+| [[Golden Globe Award]]<ref>{{cite news|title=Golden Globe Awards Nominations: ‘12 Years A Slave’ & ‘American Hustle’ Lead Pack|url=http://www.deadline.com/2013/12/golden-globe-awards-2014-nominations-full-list/|accessdate=December 12, 2013|newspaper=Deadline|date=December 12, 2013}}</ref>
+| [[71st Golden Globe Awards|January 12, 2014]]
+| Best Animated Feature Film
+| [[Chris Sanders (director)|Chris Sanders]]<br />[[Kirk DeMicco]]
+| {{Nominated}}
+|-
+| International 3D Society's Creative Arts Awards<ref>{{cite news|last=Giardina|first=Carolyn|title='Gravity,' 'The Great Gatsby' Among 3D Society's Noms for Top Live-Action Movie|url=http://www.hollywoodreporter.com/behind-screen/gravity-great-gatsby-3d-societys-671791|accessdate=January 21, 2014|newspaper=[[The Hollywood Reporter]]|date=January 21, 2014}}</ref>
+| January 28, 2014
+| Outstanding Animated 3D Feature Film
+|
+| {{Nominated}}
+|-
+| Made-in-Hollywood Awards<ref>{{cite news|title='Her,' 'Croods,' 'Frozen' to be Honored With Made-in-Hollywood Awards|url=http://www.hollywoodreporter.com/news/her-croods-frozen-be-honored-679191|accessdate=February 13, 2014|work=[[The Hollywood Reporter]]|date=February 11, 2014|first=Debbie|last=Emery}}</ref>
+| February 13, 2014
+| 
+| Shared with ''[[Frozen (2013 film)|Frozen]]'' and ''[[Her (film)|Her]]''
+| {{won}}
+|-
+| [[Producers Guild of America Award]]<ref>{{cite web|title=Nominations for Theatrical Motion Picture, Animated Theatrical Motion Picture and Long-Form TV|url=http://www.producersguild.org/news/151419/|publisher=producersguild.org|accessdate=January 2, 2014|date=January 2, 2014}}</ref> 
+| January 19, 2014
+| Outstanding Producer of Animated Theatrical Motion Picture
+| Kristine Belson, Jane Hartwell
+| {{Nominated}}
+|-
+| [[San Francisco Film Critics Circle]]<ref>{{cite news|last=Stone|first=Sasha|url=http://www.awardsdaily.com/blog/san-francisco-film-critics-nominations/|title=San Francisco Film Critics Nominations|publisher=Awards Daily|date=December 13, 2013|accessdate=December 13, 2013 }}</ref>
+| December 15, 2013
+| Best Animated Feature
+|
+| {{nom}}
+|-
+| rowspan="3"| [[Satellite Awards]]<ref>{{cite news|title=The International Press Academy Announces Nominations For The 18th Annual Satellite Awards™|url=http://www.prnewswire.com/news-releases/the-international-press-academy-announces-nominations-for-the-18th-annual-satellite-awards-234075351.html|accessdate=December 3, 2013|newspaper=PR Newswire|date=December 2, 2013|author=International Press Academy}}</ref>
+| rowspan="3"| [[18th Satellite Awards|February 23, 2014]]
+| [[Satellite Award for Best Animated or Mixed Media Feature|Best Motion Picture, Animated or Mixed Media]]
+| ''The Croods''
+| {{nom}}
+|-
+| [[Satellite Award for Best Visual Effects|Best Visual Effects]]
+| Markus Manninen and Matt Baer
+| {{nom}}
+|-
+| Best Youth Blu-ray
+| ''The Croods'' Blu-ray/DVD combo pack
+| {{nom}}
+|-
+| [[Toronto Film Critics Association]]<ref>{{cite news|last=Lacey|first=Liam|url=https://www.theglobeandmail.com/arts/awards-and-festivals/film-awards/toronto-film-critics-name-coen-brothers-movie-the-best-of-2013/article15984465/|title=Toronto film critics name Coen brothers movie the best of 2013|newspaper=[[The Globe and Mail]]|date=December 17, 2013|accessdate=December 17, 2013 }}</ref><ref>{{cite news|last=Szklarski|first=Cassandra|url=http://metronews.ca/scene/886778/toronto-critics-pick-inside-llewyn-davis/|title=Toronto critics pick Inside Llewyn Davis|publisher=[[Metro International|Metron News]]|date=December 17, 2013|accessdate=December 17, 2013}}</ref>
+| December 17, 2013
+| Best Animated Feature
+|
+| {{draw|Runner-up}}
+|-
+| rowspan=4 | [[Visual Effects Society|Visual Effects Society Awards]]<ref>{{cite news|last=Pond|first=Steve|title=‘Gravity’ Soars in Visual Effects Society Nominations|url=http://www.thewrap.com/Visual-Effects-Society-Awards-Gravity|accessdate=January 14, 2014|newspaper=The Wrap|date=January 14, 2014}}</ref>
+| rowspan=4 | [[Visual Effects Society Awards 2013|February 12, 2014]]
+| Outstanding Animation in an Animated Feature Motion Picture
+| Jane Hartwell, Chris Sanders, Kirk Demicco, Markus Manninen
+| {{nom}}
+|-
+| Outstanding Animated Character in an Animated Feature Motion Picture
+| Eep (Line Andersen, Won Young Byun, Koji Morihiro, Chris De St. Jeor)
+| {{nom}}
+|-
+| Outstanding Created Environment in an Animated Feature Motion Picture
+| The Maze (Jonathan Harman, Violette Sacre-Shaik, Benjamin Venancie, Philippe Brochu)
+| {{nom}}
+|-
+| Outstanding FX and Simulation Animation in an Animated Feature Motion Picture
+| Jeff Budsberg, Andre Le Blanc, Jason Mayer, Michael Losure
+| {{nom}}
+|-
+| [[Washington D.C. Area Film Critics Association]]<ref>{{cite news|last=Tapley|first=Kristopher|title='12 Years a Slave' and 'Her' lead the way with Washington D.C. critics nominations|url=http://www.hitfix.com/in-contention/12-years-a-slave-and-her-lead-the-way-with-washington-dc-critics-nominations|accessdate=December 8, 2013|newspaper=Hitfix|date=December 8, 2013}}</ref>
+| [[Washington D.C. Area Film Critics Association Awards 2013|December 9, 2013]]
+| Best Animated Feature
+|
+| {{nom}}
+|-
+| [[Women Film Critics Circle]]<ref>{{cite news|last=Tapley|first=Kristopher|url=http://www.hitfix.com/in-contention/2013-women-film-critics-circle-winners|title=2013 Women Film Critics Circle winners|work=[[HitFix]]|date=December 16, 2013|accessdate=December 16, 2013 }}</ref>
+| December 16, 2013
+| Best Animated Females
+|
+| {{draw|Runner-up}}
+|}
+
+==Soundtrack==
+{{Infobox album
+| name       = The Croods
+| type       = [[Film score]]
+| artist     = [[Alan Silvestri]]
+| cover      =
+| alt        =
+| released   = March 15, 2013
+| recorded   = 2012
+| venue      =
+| studio     =
+| genre      = [[Film score|Score]]
+| length     = 70:17
+| label      = [[Relativity Media|Relativity Music Group]]
+| producer   =
+| chronology = [[Alan Silvestri]] film scores
+| prev_title = [[Flight (2012 film)|Flight]]
+| prev_year  = 2012
+| next_title = [[RED 2 (film)|RED 2]]
+| next_year  = 2013
+}}
+[[Alan Silvestri]], who previously worked with Sanders on ''[[Lilo & Stitch]]'' (2002), composed the film's original score, which was released digitally on March 15, 2013, by [[Relativity Media|Relativity Music Group]],<ref>{{cite web|title=The Croods (Music from the Motion Picture)|url=https://www.amazon.com/Croods-Music-Motion-Picture/dp/B00BKBELJO/ref=sr_1_2?s=music&ie=UTF8&qid=1362084831&sr=1-2&keywords=the+croods|publisher=Amazon|accessdate=February 28, 2013}}</ref> and on CD on March 26, 2013, by [[Sony Classical Records|Sony Classical]]. The soundtrack also includes "Shine Your Way", an original song performed by [[Owl City]] and [[Yuna (singer)|Yuna]].<ref>{{cite news|title=‘The Croods’ Soundtrack Announced|url=http://filmmusicreporter.com/2013/02/20/the-croods-soundtrack-announced/|accessdate=February 28, 2013|newspaper=Film Music Reporter|date=February 20, 2013}}</ref>
+{{Track listing
+| total_length = 70:17
+| headline = Track listing:
+| title1 = Shine Your Way
+| length1 = 3:27
+| note1 = performed by [[Owl City]] and [[Yuna (singer)|Yuna]]
+| title2 = Prologue
+| length2 = 2:08
+| title3 = Smash and Grab
+| length3 = 4:09
+| title4 = Bear Owl Escape
+| length4 = 2:45
+| title5 = Eep and the Warthog
+| length5 = 3:52
+| title6 = Teaching Fire to Tiger Girl
+| length6 = 1:55
+| title7 = Exploring New Dangers
+| length7 = 3:33
+| title8 = Piranhakeets
+| length8 = 2:24
+| title9 = Fire and Corn
+| length9 = 2:06
+| title10 = Turkey Fish Follies
+| length10 = 4:17
+| title11 = Going Guys Way
+| length11 = 3:15
+| title12 = Story Time
+| length12 = 3:55
+| title13 = Family Maze
+| length13 = 3:21
+| title14 = Star Canopy
+| length14 = 2:07
+| title15 = Grug Flips His Lid
+| length15 = 1:44
+| title16 = Planet Collapse
+| length16 = 1:44
+| title17 = We'll Die If We Stay Here
+| length17 = 5:28
+| title18 = Cave Painting
+| length18 = 1:12
+| title19 = Big Idea
+| length19 = 2:34
+| title20 = Epilogue
+| length20 = 4:25
+| title21 = Cave Painting Theme
+| length21 = 2:52
+| title22 = The Crood's Family Theme
+| length22 = 5:54
+| title23 = Cantina Croods
+| length23 = 1:12
+}}
+{{Track listing
+| headline = iTunes bonus track:<ref>{{cite web|title=The Croods (Music from the Motion Picture)|url=https://itunes.apple.com/us/album/croods-music-from-motion-picture/id605930038|publisher=iTunes|accessdate=September 12, 2013}}</ref>
+| title24 = Shine Your Way ([[Owl City|Adam Young]] Remix)
+| length24 = 3:19
+| note24 = performed by Owl City feat. Yuna
+}}
+
+==Video games==
+A video game based on the film, titled ''The Croods: Prehistoric Party!'', was released on March 19, 2013. Developed by [[Torus Games]], [[Bandai Namco]], and published by [[D3 Publisher]], it was adapted for [[Wii U]], [[Wii]], [[Nintendo 3DS]], and [[Nintendo DS]]. The game enables players to take the members of the Croods family on an adventure through 30 party style mini games.<ref>{{cite news|title=Compete in a Survival of the Crood-est in The Croods: Prehistoric Party! Video Game from D3Publisher|url=http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=724393|archive-url=https://archive.is/20130122022414/http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=724393|dead-url=yes|archive-date=January 22, 2013|accessdate=December 4, 2012|newspaper=DreamWorks Animation|date=December 3, 2012|author=D3Publisher}}</ref> It received mainly negative reviews.<ref>{{cite web|last=Hardin|first=Jeremy|title=REVIEW – The Croods: Prehistoric Party (WiiU, Wii, 3DS, DS)|url=http://www.nintendofuse.com/2013/05/23/review-the-croods-prehistoric-party-wiiu-wii-3ds-ds/|publisher=Nintendo Fuse|accessdate=March 2, 2014|date=March 23, 2013}}</ref><ref>{{cite web|title=The Croods: Prehistoric Party! (Wii U) Review|url=http://www.cubed3.com/review/1265/1/the-croods-prehistoric-party-nintendo-wii-u.html|publisher=Cubed3|accessdate=March 2, 2014|author=SirLink|date=May 2, 2013}}</ref><ref>{{cite web|last=Sleeper|first=Morgan|title=Review: The Croods: Prehistoric Party! (Wii U)|url=http://www.nintendolife.com/reviews/wiiu/croods_prehistoric_party|website=Nintendo Life|accessdate=March 2, 2014|date=April 12, 2013}}</ref><ref>{{cite web|last=Poxon|first=Ryan|title=The Croods: Prehistoric Party|url=http://gaming.thedigitalfix.com/content/id/1812/the-croods-prehistoric-party.html|publisher=The Digital Fix|accessdate=March 2, 2014|date=June 21, 2013}}</ref>
+
+A mobile game, titled ''The Croods'', which is a village building game, was developed and published by [[Rovio Entertainment|Rovio]], the creator of ''[[Angry Birds]]''. It was released on March 14, 2013 to the [[iOS]] and [[Android (operating system)|Android]] platforms.<ref>{{cite news|title=Rovio and DreamWorks Animation Make Prehistory and Bring The Croods to Your Fingertips on March 14th|url=http://www.rovio.com/en/news/press-releases/274/rovio-and-dreamworks-animation-make-prehistory-and-bring-the-croods-to-your-fingertips-on-march-14th/|accessdate=March 2, 2013|newspaper=Rovio|date=March 1, 2013}}</ref> It received negative reviews from critics with [[Metacritic]] giving it a 40 out of 100.<ref>{{cite web|url=http://www.metacritic.com/game/ios/the-croods |title=The Croods for iPhone/iPad Reviews |website=Metacritic |date=March 14, 2013 |accessdate=April 7, 2014}}</ref>
+
+==Expanded franchise==
+===Sequel===
+By April 2013, DreamWorks Animation had started developing a sequel to the film, with Sanders and DeMicco returning to direct it.<ref>{{cite web|url=http://www.comingsoon.net/news/movienews.php?id=103135 |title=The Croods 2 in the Works at DreamWorks Animation |publisher=ComingSoon.net |date=April 17, 2013 |accessdate=April 17, 2013}}</ref> According to DeMicco, the sequel would focus on Ugga and motherhood, making it "the first chapter of society," expanding on the first film, which is about "the last chapter of the caveman."<ref name=THRExploringDynamics>{{cite news|last=Giardina|first=Carolyn|title='The Croods': Exploring Family Dynamics -- And What's Next for the Sequel|url=http://www.hollywoodreporter.com/behind-screen/croods-exploring-family-dynamics-whats-682641|accessdate=February 24, 2014|newspaper=The Hollywood Reporter|date=February 24, 2014}}</ref>
+
+In September 2013, it had been confirmed that Nicolas Cage, Emma Stone, and Ryan Reynolds would reprise their roles in the sequel.<ref>{{cite web|title=Nicolas Cage, Ryan Reynolds and Emma Stone Confirmed for The Croods 2|url=http://www.comingsoon.net/news/movienews.php?id=108718|work=[[ComingSoon.net]]|publisher=[[CraveOnline]]|date=September 9, 2013|accessdate=September 9, 2013}}</ref> On June 12, 2014, it was announced that the sequel would be released on November 3, 2017.<ref>{{cite web|url=http://www.comingsoon.net/news/movienews.php?id=119483 |title=Dates Set for Madagascar 4, The Croods 2, Puss in Boots 2, Captain Underpants, and Hitman |publisher=ComingSoon.net |date= |accessdate=June 12, 2014}}</ref> Two months later, it was pushed back from its original release date of November 3, 2017 to December 22, 2017.<ref name=CSShiftsTwo>{{cite web|title=DreamWorks Animation Shifts Two Sequels Back Slightly|url=http://www.comingsoon.net/news/movienews.php?id=122167|publisher=ComingSoon.net|accessdate=August 22, 2014|date=August 21, 2014}}</ref> By May 21, 2015, [[Leslie Mann]] and [[Kat Dennings]] had joined the voice cast. Mann would lend her voice to an upscale mother of a rival family, while Dennings would voice her daughter. Catherine Keener and Clark Duke would also reprise their roles.<ref name=THRMannDennings>{{cite web|url=http://www.hollywoodreporter.com/heat-vision/leslie-mann-kat-dennings-joining-797398|title=Leslie Mann, Kat Dennings Joining 'Croods 2' (Exclusive)|author=Borys Kit|work=[[The Hollywood Reporter]]|publisher=([[Prometheus Global Media]])|date=May 21, 2015|accessdate=May 22, 2015}}</ref> On August 9, 2016, nearing [[NBCUniversal]]/[[Comcast]]'s impending acquisition of DreamWorks Animation, 20th Century Fox removed the film from its planned December 22, 2017 release schedule. The film would be instead released by [[Universal Pictures]] sometime in 2018.<ref>{{cite magazine|last=McClintock|first=Pamela|title='Croods 2' Release Delayed Amid DreamWorks Animation Sale|url=http://www.hollywoodreporter.com/news/croods-2-release-delayed-dreamworks-918493|magazine=The Hollywood Reporter|date=August 9, 2016|accessdate=August 10, 2016}}</ref> Two weeks later, it was reported that ''[[The Lego Movie]]'' and ''[[Hotel Transylvania]]'' co writers Kevin and Dan Hageman had been hired to rewrite the script.<ref name="DeadlineHagemanBrothers">{{cite web|last1=Busch|first1=Anita|title=DreamWorks Animation’s ‘Croods 2’ Gets Rewrite With Hageman Brothers|url=http://deadline.com/2016/08/dreamworks-animation-croods-2-kevin-dan-hageman-brothers-1201807624/|website=Deadline Hollywood|accessdate=November 12, 2016|date=August 23, 2016}}</ref>
+
+On November 11, 2016, DreamWorks announced that production for the sequel was cancelled.<ref name="VarietyTakenOff">{{cite news|last1=Rainey|first1=James|title=DreamWorks Animation and Universal Kill ‘Croods 2’ (EXCLUSIVE)|url=https://variety.com/2016/film/news/dreamworks-animation-universal-kill-croods-2-sequel-1201916453/|accessdate=November 12, 2016|work=Variety|date=November 11, 2016}}</ref> According to reports, there had been doubts about proceeding with the project before Universal's acquisition of DreamWorks, and it was DreamWorks' decision to cancel the film.<ref name="VarietyTakenOff" /> However, in September 2017, DreamWorks and Universal revealed that the movie was back in production with a release date scheduled for September 18, 2020. It was also confirmed that the original actors would reprise their roles.<ref name="CroodsReturn">{{cite magazine|last=Kroll|first=Justin|title=‘Croods 2’ Revived as Animated Sequel and Jason Blum’s ‘Spooky Jack’ Get Release Dates|url=https://variety.com/2017/film/news/croods-2-spooky-jack-release-dates-1202563635/|magazine=Variety|date=September 19, 2017|accessdate=September 19, 2017}}</ref><ref>{{cite news|last=Amidi|first=Amid|title=Dreamworks Confirms ‘The Croods’ Sequel Is Back On, And Announces ‘Spooky Jack’|url=http://www.cartoonbrew.com/feature-film/dreamworks-confirms-making-croods-sequel-announces-spooky-jack-153604.html|publisher=[[Cartoon Brew]]|date=September 19, 2017|accessdate=September 19, 2017}}</ref> However, DeMicco, the co-director of the first film, won't be returning as he is directing ''Vivo'' for [[Sony Pictures Animation]].<ref>{{cite press release|url=http://www.prnewswire.com/news-releases/sony-pictures-animation-unveils-varied-upcoming-slate-300392965.html|title=Sony Pictures Animation Unveils Varied Upcoming Slate|agency=[[PR Newswire]]|publisher=Sony Pictures Animation|date=January 18, 2017|accessdate=September 19, 2017}}</ref> In October 2017, it was reported that Joel Crawford will serve as director and Mark Swift is set to produce.<ref>{{cite magazine|last=Giardina|first=Carolyn|title='Croods 2' Finds Its Director (Exclusive)|url=http://www.hollywoodreporter.com/behind-screen/croods-2-finds-director-1050172|magazine=The Hollywood Reporter|date=October 18, 2017|accessdate=October 18, 2017}}</ref> On October 5, 2018, it was announced that [[Peter Dinklage]] had joined the cast to voice Phil Betterman.<ref>{{cite press release|url=https://deadline.com/2018/10/peter-dinklage-the-croods-2-dreamworks-1202476719/|title=Peter Dinklage Joins Voice Cast Of ‘The Croods 2’|last1=N'Duka|last2=D'Alessandro|first1=Amanda|first2=Anthony|publisher=Deadline Hollywood|date=October 5, 2018}}</ref> In April 2019, the film's release date was moved to December 23, 2020.<ref>{{cite news|last=D'Alessandro|first=Anthony|title='Sing 2’ To Croon Summer 2021; ‘The Croods 2’ Moves To Holiday Season 2020|url=https://deadline.com/2019/04/sing-2-croods-2-release-date-changes-1202594951/|accessdate=April 12, 2019|work=[[Deadline Hollywood]]|date=April 12, 2019}}</ref>
+
+===Television series===
+{{Main|Dawn of the Croods}}
+A traditionally-animated television series based on the film, titled ''Dawn of the Croods'', debuted on December 24, 2015 on [[Netflix]].<ref name=DeadlineAmongSeries>{{cite web|last1=Petski|first1=Denise|title=Lego’s ‘Bionicle’ & DreamWorks’ ‘Croods’ Among 7 Kids Series Ordered By Netflix|url=http://deadline.com/2015/10/lego-bionicle-dreamworks-croods-kids-series-netflix-1201563792/|website=Deadline Hollywood|accessdate=October 2, 2015|date=October 1, 2015}}</ref><ref>{{cite web|url=http://www.ew.com/article/2015/11/24/new-netflix-december|title=What's new on Netflix in December|publisher=|accessdate=August 8, 2016}}</ref> As none of the original cast members that voiced the Croods family in the film reprise their roles in the series, the voice cast consists of [[Dan Milano]] as Grug, [[Stephanie Lemelin]] as Eep, [[Cree Summer]] as Ugga, [[A.J. Locascio]] as Thunk, [[Laraine Newman]] as Gran, and [[Grey DeLisle|Grey Griffin]] as Sandy.
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons}}
+{{Wikiquote}}
+*{{Official website|http://www.dreamworksanimation.com/croods/}}
+*{{IMDb title|0481499|The Croods}}
+*{{bcdb title|92867|The Croods}}
+*{{mojo title|croods|The Croods}}
+*{{rotten-tomatoes|the-croods|The Croods}}
+*{{metacritic film|the-croods|The Croods}}
+
+{{Chris Sanders (director)}} 
+{{DreamWorks animated films}}
+{{Portal bar|Cartoon|Animation}}
+
+{{DEFAULTSORT:Croods}}
+[[Category:2013 films]]
+[[Category:English-language films]]
+[[Category:2013 3D films]]
+[[Category:2013 computer-animated films]]
+[[Category:2010s American animated films]]
+[[Category:2010s adventure films]]
+[[Category:2010s children's comedy films]]
+[[Category:20th Century Fox animated films]]
+[[Category:20th Century Fox films]]
+[[Category:American adventure comedy films]]
+[[Category:American children's animated comedy films]]
+[[Category:American computer-animated films]]
+[[Category:American films]]
+[[Category:American road movies]]
+[[Category:Animated adventure films]]
+[[Category:Animated comedy films]]
+[[Category:Animated films set in prehistory]]
+[[Category:Annie Award winners]]
+[[Category:Evolution in popular culture]]
+[[Category:Films about families]]
+[[Category:Films about volcanoes]]
+[[Category:Films featuring anthropomorphic characters]]
+[[Category:Films using computer-generated imagery]]
+[[Category:Neanderthals in fiction]]
+[[Category:Prehistoric life in popular culture]]
+[[Category:DreamWorks Animation animated films]]
+[[Category:Films scored by Alan Silvestri]]
+[[Category:Films directed by Chris Sanders]]
+[[Category:Films with screenplays by Chris Sanders]]
+[[Category:3D animated films]]

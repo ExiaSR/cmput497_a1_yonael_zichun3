@@ -1,0 +1,369 @@
+{{about||the video game based on the film|Antz (video game)}}
+{{short description|1998 American animated film}}
+{{Use mdy dates|date=September 2016}}
+{{Infobox film
+| name           = Antz
+| image          = Antz-Poster.jpg
+| caption        = Theatrical release poster
+| border         = yes
+| director       = {{Plainlist|
+* [[Eric Darnell]]
+* [[Tim Johnson (film director)|Tim Johnson]]
+}}
+| producer       = {{Plainlist|
+* [[Brad Lewis]]
+* [[Aron Warner]]
+* Patty Wooton
+}}
+| writer         = {{Plainlist|
+* [[Paul Weitz (filmmaker)|Paul Weitz]]
+* [[Chris Weitz]]
+* [[Todd Alcott]]
+}}
+| story          = 
+| starring       = {{Plainlist|
+* [[Woody Allen]]
+* [[Dan Aykroyd]]
+* [[Anne Bancroft]]
+* [[Jane Curtin]]
+* [[Danny Glover]]
+* [[Gene Hackman]]
+* [[Jennifer Lopez]]
+* [[John Mahoney]]
+* [[Paul Mazursky]]
+* [[Grant Shaud]]
+* [[Sylvester Stallone]]
+* [[Sharon Stone]]
+* [[Christopher Walken]]}}
+| music          = {{Plainlist|
+* [[John Powell (composer)|John Powell]]
+* [[Harry Gregson-Williams]]
+}}
+| cinematography = [[Simon J. Smith]]
+| editing        = Stan Webb
+| studio         = {{Plainlist|
+* [[DreamWorks Pictures]]<ref name="AFIAntz">{{cite web|title=Antz|url=http://www.afi.com/members/catalog/DetailView.aspx?s=&Movie=60633|publisher=American Film Institute|accessdate=December 26, 2016}}</ref>
+* [[DreamWorks Animation]]<ref name="AntzNumbers">{{cite web |title=Antz |url=https://www.the-numbers.com/movie/Antz#tab=summary |website=[[The Numbers (website)|The Numbers]] |accessdate=June 14, 2019}}</ref>
+* [[Pacific Data Images]]<ref>{{cite web|title=D’Works, PDI trumpet ‘Tusker’|url=https://variety.com/1998/film/news/d-works-pdi-trumpet-tusker-1117489121/|publisher=[[Variety (magazine)|Variety]]|accessdate=January 8, 2018}}</ref>
+}}
+| distributor    = DreamWorks Pictures<ref name="AFIAntz"/>
+| released       = {{Film date|1998|9|19|[[Toronto International Film Festival|TIFF]]|1998|10|2|United States}}
+| runtime        = 83 minutes<ref>{{cite web|title=Antz|url=http://www.bbfc.co.uk/releases/antz-1970-1|publisher=British Board of Film Classification|accessdate=August 23, 2015|quote=Approved Running time 83m 7s}}</ref>
+| country        = United States
+| language       = English
+| budget         = {{US$|link=yes}}42<ref name=NYTPrinceNoKing /><ref name=LATAfterRushHour />–105 million<ref>{{cite web|url=https://www.boxofficemojo.com/movies/?id=antz.htm|title=Antz (1998) - Box Office Mojo|website=www.boxofficemojo.com}}</ref><ref>{{cite web|url=https://cinematicfrontier.wordpress.com/2013/08/23/antz-a-bugs-life/|title=‘Antz’ & ‘A Bug’s Life’|first1=le0pard13 |last1=August 23|first2=2013 at 10:03 am |last2=Reply|date=August 23, 2013|publisher=}}</ref>
+| gross          = {{US$|link=yes}}171.8 million<ref name=mojo/>
+}}
+'''''Antz''''' is a 1998 American [[computer animation|computer animated]] [[adventure film|adventure]] [[comedy film]] directed by [[Eric Darnell]] and [[Tim Johnson (film director)|Tim Johnson]], and written by [[Paul Weitz (filmmaker)|Paul Weitz]], [[Chris Weitz]] and [[Todd Alcott]]. The film features an [[ensemble cast]], starring [[Woody Allen]], [[Sharon Stone]], [[Jennifer Lopez]], [[Sylvester Stallone]], [[Christopher Walken]], [[Dan Aykroyd]], [[Anne Bancroft]], [[Danny Glover]] and [[Gene Hackman]]. Some of the main characters share facial similarities with the actors who voice them.<ref>{{cite web |url=http://dvd.ciao.co.uk/Antz_DVD__Review_5030989 |title=Antz DVD – Review – Just a big kid |work=ciao! |date=January 30, 2001 |accessdate=July 13, 2010 |archive-url=https://web.archive.org/web/20150714030815/http://dvd.ciao.co.uk/Antz_DVD__Review_5030989 |archive-date=July 14, 2015 |url-status=dead |df=mdy-all }}</ref> ''Antz'' was the first film to be released by [[DreamWorks Animation]], and the third feature-length computer-animated film after [[Walt Disney Pictures|Disney]]/[[Pixar]]'s ''[[Toy Story]]'', and NDR Filmes' ''[[Cassiopeia (film)|Cassiopeia]]''.
+
+The film's production resulted in a controversial public feud between DreamWorks co-founder [[Jeffrey Katzenberg]], [[Steve Jobs]] and [[John Lasseter]] of Pixar, concerning the parallel productions of this film and Pixar's ''[[A Bug's Life]]''. This only worsened when Disney refused to avoid competition with DreamWorks' intended first animated release, ''[[The Prince of Egypt]]'' (1998).
+
+''Antz'' premiered on September 19, 1998, at the [[Toronto International Film Festival]],<ref name=EOnlinePremiere>{{cite news|last=Neville|first=Ken|title="Antz" Crashing Toronto Film Fest|url=http://uk.eonline.com/news/36935/antz-crashing-toronto-film-fest|accessdate=November 19, 2013|newspaper=E! Online UK|date=August 29, 1998}}</ref> and was released theatrically in the United States on October 2, 1998. It grossed $171.8 million worldwide on a budget of $42–105 million. [[Rotten Tomatoes]]'s consensus was that critics praised the voice cast, animation, humor and its appeal towards adults.<ref name=rt/>
+
+==Plot==
+<!--Per WP:FILMPLOT, plot summaries should be between 400 and 700 words.-->
+Z-4195, or "Z" for short, is a neurotic and pessimistic worker ant who longs to express himself. Z falls in love with the [[ant colony]]'s princess, Bala, when she visits a bar to escape her suffocating royal life.
+
+The ant colony declares war on an encroaching [[termite]] colony and a large force of soldier ants is mobilized for an attack. To see Bala again, Z exchanges places with his soldier friend Weaver and joins the army, where he befriends Barbatus, a staff sergeant. Z is unaware that the army's leader and Bala's fiancé General Mandible is secretly sending the soldiers loyal to the Queen Ant to die so he can stage a [[coup]]. At the base of a tree near nightfall, Z realizes he is marching into battle. Everyone except Z is killed by [[Fontanellar gun|acid-shooting]] termite defenders. Before dying, Barbatus tells Z to think for himself instead of following orders.
+
+Z returns home and is hailed as a war hero. Secretly irate, Mandible congratulates him and introduces him to the Queen. There he meets Bala, who eventually recognizes him as a worker. Z panics and pretends to take Bala hostage, causing him and Bala to fall out of the anthill via a garbage chute. Z decides to search for Insectopia, a legendary insect paradise. Bala attempts to return to the colony but quickly rejoins Z after encountering a [[Mantis|praying mantis]].
+
+News of the incident spreads through the colony, and Z's act of individuality inspires the workers and some soldier ants, halting productivity. To gain control, Mandible publicly portrays Z as a self-centered war criminal. Mandible promotes the glory of conformity and promises them a better life through the reward of completing a "Mega Tunnel" planned by himself. However, Colonel Cutter, Mandible's second-in-command, becomes concerned about Mandible's plans.
+
+After various misadventures, Z and Bala find Insectopia, a human waste-bin overfilled with decaying food. The two of them encounter other insects, especially ladybugs, flies, and cockroaches. Bala begins to reciprocate Z's feelings. After interrogating Weaver, Mandible learns that Z is looking for Insectopia and sends Cutter to retrieve Bala and kill Z. That night, Cutter arrives in Insectopia and forcibly flies Bala back to the colony. Z finds them gone and returns to the colony.
+
+When Z arrives, he encounters soldiers who forcibly direct him toward the Mega Tunnel. Along the way he finds Bala held captive in Mandible's office. After freeing her, she tells him that Mandible's "Mega Tunnel" leads straight to the lake (a puddle next to Insectopia) which Mandible will use to drown the Queen Ant and workers at the opening ceremony. Bala warns the ants at the ceremony, while Z goes to the tunnel exit to stop the workers but fails, and the water leaks in. Z and Bala unify the workers into building a [[Human tower (gymnastic formation)|towering ladder]] of themselves towards the surface as the water rises.
+
+Meanwhile, Mandible and his soldiers gather at the surface, where he explains his vision of a new colony with none of the "weak elements of the colony". When the workers break through, Mandible tries to kill Z, but Cutter rebels against Mandible and instead helps Z and the worker ants. Enraged, Mandible tries to lunge at Cutter, but Z pushes Cutter out of the way and is accidentally tackled into the flooded colony with Mandible, who lands upon a root, dying on impact. Cutter orders the soldiers to help the workers and the Queen Ant up to the surface while he himself goes after Z. Although Z has seemingly drowned, Bala resuscitates him.
+
+Z is praised for his heroism and marries Bala. Together they rebuild the colony, transforming it from a conformist military state into a community that values all of its members. The camera zooms out to reveal the whole story took place in the middle of [[Central Park]], [[New York City]].
+
+==Voice cast==
+<!--PLEASE DO NOT ADD "OTHER FILMS" TO THIS SECTION.-->
+* [[Woody Allen]] as Z-4195 "Z", an [[Idealism|idealistic]] but [[Generalized anxiety disorder|anxious]] worker ant.
+* [[Gene Hackman]] as General Mandible, the mean-spirited and arrogant [[Commander|supreme commander]] of the ant military. He is also the fianće of Princess Bala.
+* [[Sharon Stone]] as Princess Bala, the Queen Ant's daughter, Mandible's fiancée and Z's love interest.
+* [[Sylvester Stallone]] as Corporal Weaver, a brave soldier ant and Z's best friend who becomes Azteca's boyfriend.
+* [[Jennifer Lopez]] as Azteca, another friend of Z's and a worker ant who becomes Weaver's girlfriend.
+* [[Christopher Walken]] as Colonel Cutter, a [[Nuptial flight|flying ant]] that serves as Mandible's patient and [[Empathy|empathetic]] adviser who becomes disillusioned by the general's actions.
+* [[Danny Glover]] as Staff Sergeant Barbatus, a soldier ant who befriends Z.
+* [[Anne Bancroft]] as Queen Ant, Princess Bala's mother and the ruler of the ants.
+* [[Dan Aykroyd]] as Chip the Wasp, a wasp whom Z befriends.
+* [[Grant Shaud]] as The Foreman, the head of the worker ants.
+* [[John Mahoney]] as Grebs, the Drunk Scout who talked about Insectopia.
+* [[Jane Curtin]] as Muffin "Muffy" the Wasp, Chip's wife.
+* [[Paul Mazursky]] as Z's Psychiatrist
+* Jerry Sroka as a Bartender
+
+The cast features several actors from movies Allen wrote, starred in and directed, including Stone (''[[Stardust Memories]]''), Stallone (''[[Bananas (film)|Bananas]]''), Hackman (''[[Another Woman]]''), and Walken (''[[Annie Hall]]''). Aykroyd later co-starred in Allen's ''[[The Curse of the Jade Scorpion]]''.
+
+==Production==
+===Development===
+In 1988, [[Walt Disney Feature Animation]] was pitched a movie called ''Army Ants'', about a pacifist worker ant teaching lessons of independent thinking to his militaristic colony.<ref name=BWAntzVsBugs>{{cite news|last1=Burrows|first1=Peter|url=http://www.businessweek.com/1998/47/b3605013.htm|title=Antz vs. Bugs: The Inside Story of How Dreamworks Beat Pixar to the Screen |work=[[Business Week]] |date=November 12, 1998 |accessdate=September 3, 2016 |archiveurl=https://web.archive.org/web/19991128083348/http://www.businessweek.com/1998/47/b3605013.htm |archivedate=November 28, 1999}}</ref> Years later, [[Jeffrey Katzenberg]], then chairman of Disney's [[Walt Disney Studios (division)|film division]], had left the company in a feud with CEO [[Michael Eisner]] over the vacant president position after the death of [[Frank Wells]]. Katzenberg would later go on to help co-found [[DreamWorks Pictures]] with [[Steven Spielberg]] and [[David Geffen]], and the three planned to rival Disney with the company's new [[DreamWorks Animation|animation division]].<ref name="Isaacson307">{{cite book|last=Isaacson|first=Walter|title=[[Steve Jobs (book)|Steve Jobs]]|publisher=[[Simon & Schuster]]|location=[[New York City|New York]]|year=2011|page=307|isbn=1-4516-4853-7}}</ref> Katzenberg at DreamWorks began developing he tried to pursue or suggested while at Disney, including ''[[The Prince of Egypt]]'', a collaboration with [[Aardman Animations]] which resulted in ''[[Chicken Run]]'', ''[[Sinbad: Legend of the Seven Seas|Sinbad]]'', and ''Army Ants''.
+
+Production began in May 1996, after production had already commenced on ''[[The Prince of Egypt]]''. DreamWorks had contracted [[Pacific Data Images]] (PDI) in Palo Alto, California to begin working on computer-animated films to rival [[Pixar]]'s features.<ref>{{cite web|url=http://www.rottentomatoes.com/m/antz/ |title=Antz |publisher=[[Rotten Tomatoes]] |accessdate=September 3, 2016}}</ref> [[Woody Allen]] was cast in the lead role of Z, and much of Allen's trademark humor is present within the film. Allen himself made some uncredited rewrites to the script, to make the dialogue better fit his style of comedic timing.{{citation needed|date=January 2018}} An altered line from one of his early directed films, ''[[Everything You Always Wanted to Know About Sex* (*But Were Afraid to Ask) (film)|Everything You Always Wanted to Know About Sex* (*But Were Afraid to Ask)]]'' was included – "I was going to include you in my most erotic fantasies..."
+
+===Feud between DreamWorks and Pixar===
+After DreamWorks' acquisition of PDI, Pixar director [[John Lasseter]], [[Steve Jobs]], and others at Pixar were dismayed to learn from the trade papers that PDI's first project at DreamWorks would be another ant film, to be called ''Antz''.<ref name="PixarTouch09">Price, p. 170</ref> By this time, Pixar's project, then similarly called ''Bugs'', was well known within the animation community.<ref name="PixarTouch10">Price, p. 171</ref> In general, both ''Antz'' and ''[[A Bug's Life]]'' center on a young male ant, a drone with oddball tendencies, who struggles to win a princess's hand by saving their society. Lasseter and Jobs believed that the idea was stolen by Katzenberg.<ref name="Isaacson307"/><ref name=BWAntzVsBugs /> Katzenberg had stayed in touch with Lasseter after the acrimonious Disney split, often calling to check up. In October 1995, when Lasseter was overseeing postproduction work on ''Toy Story'' at the [[Universal Studios]] lot, where DreamWorks was also located, Lasseter and [[Andrew Stanton]] visited Katzenberg and they discussed their plans for ''Bugs'' in detail.<ref name="Isaacson307"/><ref name="PixarTouch08">Price, p. 169</ref> Lasseter had high hopes for ''Toy Story'', and he was telling friends throughout the tight-knit computer-animation business to get cracking on their own films. "If this hits, it's going to be like space movies after ''[[Star Wars (film)|Star Wars]]''" for computer-animation studios, he told various friends.<ref name=BWAntzVsBugs /> "I should have been wary," Lasseter later recalled. "Jeffrey kept asking questions about when it would be released."<ref name="Isaacson307"/>
+
+When the trades indicated production on ''Antz'', Lasseter, feeling betrayed, called Katzenberg and asked him bluntly if it were true, Katzenberg confirming it.<ref name=BWAntzVsBugs /> Katzenberg recalled ''Antz'' came from a 1991 story pitch by [[Tim Johnson (film director)|Tim Johnson]] that was related to Katzenberg in October 1994.<ref name=BWAntzVsBugs /> Another source gives [[Nina Jacobson]], one of Katzenberg's executives, as the person responsible for the ''Antz'' pitch.<ref name="PixarTouch10"/> Lasseter refused to believe Katzenberg's story.<ref name="Isaacson308">{{cite book|last=Isaacson|first=Walter|title=[[Steve Jobs (book)|Steve Jobs]]|publisher=[[Simon & Schuster]]|location=[[New York City|New York]]|year=2011|page=308|isbn=1-4516-4853-7}}</ref> Lasseter recalled that Katzenberg was under the impression that Disney was "out to get him" and that he realized that he was just cannon fodder in Katzenberg's fight with Disney.<ref name="PixarTouch10"/><ref name=BWAntzVsBugs /> Eisner had decided not to pay Katzenberg his contract-required bonus, convincing Disney's board not to give him anything.<ref name="PixarTouch10"/> Lasseter grimly relayed the news of ''Antz'' to Pixar employees but kept morale high. Privately, Lasseter told other executives that he and Stanton felt terribly let down.<ref name="PixarTouch10"/>
+
+===Competition with Disney===
+At the time, the current Disney studio executives were starting a bitter competitive rivalry with Jeffrey Katzenberg and his new DreamWorks films. In 1995, Katzenberg announced ''The Prince of Egypt'' to debut in November 1998 as DreamWorks' first animated release.<ref name=BWAntzVsBugs /> A year later, Disney scheduled ''Bugs'' to open on the same weekend, which infuriated Katzenberg. Katzenberg invited Disney executives to DreamWorks to negotiate a release date change for ''Bugs'', but the company refused to budge. DreamWorks pushed ''Prince of Egypt'' to the Christmas season and the studio had decided not to begin full marketing for ''Antz'' until after ''Prince of Egypt'' was released.<ref>{{cite web|url=http://www.aintitcool.com/node/704|title=Tons of ANIMATION news!!! |publisher=[[Ain't it Cool News]] |accessdate=September 3, 2016}}</ref> Disney afterward announced release dates for films that were going to compete with ''The Prince of Egypt'', and both studios had to compete with [[Paramount Pictures]], which was releasing ''[[The Rugrats Movie]]'' in November, based on the hugely-popular [[Nickelodeon]] cartoon. Katzenberg suddenly moved the opening of ''Antz'' from March 1999 to October 1998, in order to successfully beat ''A Bug's Life'' into cinemas.<ref name="PixarTouch10"/><ref name="Isaacson308"/><ref>{{cite web|url=http://www.aintitcool.com/node/1150|title=Antz (and Schedule History) |publisher=[[Ain't it Cool News]] |accessdate=September 3, 2016}}</ref><ref name="ap">{{cite news|url=http://laprensa-sandiego.org/archieve/october02/ants.htm|title=Of Ants, Bugs, and Rug Rats: The Story of Dueling Bug Movies|agency=AP  |date=October 2, 1998}}</ref>
+
+David Price writes in his 2008 book ''The Pixar Touch'' that a rumor, "never confirmed", was that Katzenberg had given PDI "rich financial incentives to induce them to whatever it would take to have ''Antz'' ready first, despite Pixar's head start".<ref name="PixarTouch10"/><ref name="Isaacson308"/> Jobs furiously called Katzenberg to explain that there was nothing he could do to convince Disney to change the date.<ref name=BWAntzVsBugs /><ref name="Isaacson308"/> Katzenberg said to him that Jobs himself had taught him how to conduct similar business long ago, explaining that Jobs had come to Pixar's rescue from near bankruptcy by making the deal for ''Toy Story'' with Disney.<ref name="Isaacson308"/><ref name="PixarTouch07">Price, p. 163</ref> He flat-out told Jobs that he had enough power with Disney to convince them to change specific plans on their films.<ref name=BWAntzVsBugs /> Lasseter also claimed Katzenberg had phoned him with a final proposition to delay ''Antz'' if Disney and Pixar changed the date of ''A Bug's Life'', but Katzenberg vehemently denied this.<ref name="PixarTouch11">Price, p. 172</ref> Jobs believed it was "a blatant [[Extortion|extortion attempt]]".<ref>{{cite book|last=Isaacson|first=Walter|title=[[Steve Jobs (book)|Steve Jobs]]|publisher=[[Simon & Schuster]]|location=[[New York City|New York]]|year=2011|page=428|isbn=1-4516-4853-7}}</ref>
+
+===Release fallout and comparisons===
+As the release dates for both films approached, Disney executives concluded that Pixar should keep quiet on ''Antz'' and the feud concerning DreamWorks. Regardless, Lasseter publicly dismissed ''Antz'' as a "schlock version" of ''A Bug's Life'';<ref name="PixarTouch12">Price, p. 173</ref> however, Lasseter would later admit that he never saw the film. Lasseter claimed that if DreamWorks and PDI had made the film about anything other than insects, he would have closed Pixar for the day so the entire company could go see it.<ref name=BWAntzVsBugs /><ref name="PixarTouch13">Price, p. 174</ref> Jobs and Katzenberg would not back down and the rivaling ant films provoked a press frenzy. "The bad guys rarely win," Jobs told the ''[[Los Angeles Times]]''. In response, DreamWorks’ head of marketing Terry Press suggested, "Steve Jobs should take a pill."<ref name="Isaacson308"/> Tensions would remain high between Jobs and Katzenberg for many years after the release of both films. According to Jobs, years later, Katzenberg approached him after the opening of ''[[Shrek]]'', and insisted that he had never heard the pitch for ''A Bug's Life'', reasoning that his settlement with Disney would have given him a share of the profits if that were so.<ref name="Isaacson309">{{cite book|last=Isaacson|first=Walter|title=[[Steve Jobs (book)|Steve Jobs]]|publisher=[[Simon & Schuster]]|location=[[New York City|New York]]|year=2011|page=309|isbn=1-4516-4853-7}}</ref> In the end, Pixar and PDI employees kept up the old friendships that had arisen from working in computer animation for years before feature films.<ref name="PixarTouch11"/>
+
+The final product of both films are generally perceived to contrast one another in tone and certain plot points. ''Antz'' in the end seemed to be more geared towards older audiences, featuring moderate violence, mild sexual innuendoes, and profanity, as well as social and political satire. ''A Bug's Life'' was more family-friendly and lighthearted in tone and story. The two films especially differ in their artistic look: ''Antz'' played off more realistic aspects of ants and how they relate to other bugs, like termites and wasps, while ''A Bug's Life'' offered a more fanciful look at insects to better suit its story. ''[[PopMatters]]'' journalist J.C. Maçek III compared the two films and wrote, "The feud deepened with both teams making accusations and excuses and a release date war ensued. While ''Antz'' beat ''A Bug's Life'' to the big screen by two months, the latter film significantly out grossed its predecessor. Rip off or not, ''Antz'''s critical response has proven to be almost exactly as positive as what ''A Bug's Life'' has enjoyed."<ref name=PM>{{cite web|work=[[PopMatters]]|title=Instantly Familiar: Hollywood's Great Duopolies|date=February 14, 2014|first=J.C.|last=Maçek III|url=http://www.popmatters.com/column/177531-instantly-familiar-hollywoods-great-duopolies/}}</ref>
+
+==Release==
+On December 23, 1997, a teaser trailer for ''Antz'', depicting the opening scene with Z in an ant psychiatrist office, first played in theaters in front of select prints of ''[[As Good as It Gets]]''.<ref>{{cite web|url=http://www.aintitcool.com/node/403|title=Is the ANTZ trailer playing at a theater near you' Read here to find out!!! |publisher=[[Ain't it Cool News]] |accessdate=September 3, 2016}}</ref> Anticipation was generally high with adult moviegoers rather than families and children.
+
+===Home media===
+''Antz'' was released to VHS and [[DIVX]] on February 9, 1999,<ref name=AWNSoonVCR /><ref name=TDBTwoCents289912099 /> and to DVD on March 23, 1999,<ref name=TDBTwoCents289912099 /><ref name=TDBStudioNewsDW /> becoming the first feature-length CGI-animated film to be available on DVD.<ref name=LATDVDPopularity /> However, the DVD release used a 35mm print of the film to create the copies, rather than using the original files to encode the movie directly to video.<ref name=TDBAntzReview /><ref name=EWBugsLifeReview /> A special edition version was released on February 14, 2003.{{citation needed|date=October 2018}} The film was released on [[Blu-ray]] on October 16, 2018 for the film's 20th anniversary.<ref>{{cite web|url=http://www.blu-ray.com/movies/Antz-Blu-ray/26239/|title=Antz Blu-ray|work=Blu-ray.com |date=August 26, 2018 |accessdate=August 27, 2018}}</ref>
+
+==Reception==
+===Critical response===
+On review aggregator [[Rotten Tomatoes]], the film has an approval rating of 93% based on 91 reviews and an average rating of 7.7/10. The site's critical consensus reads, "Featuring a stellar voice cast, technically dazzling animation, and loads of good humor, ''Antz'' should delight both children and adults."<ref name=rt>{{cite web|url= http://www.rottentomatoes.com/m/antz/ |title=Antz |publisher=[[Rotten Tomatoes]] |accessdate=July 13, 2010}}</ref> [[Metacritic]] gave the film a score of 72 out of 100 based on 26 critics, indicating "generally favorable reviews".<ref>{{cite web|url= http://www.metacritic.com/movie/antz|title=Antz|work=[[Metacritic]]|accessdate=April 29, 2016}}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "B+" on an A+ to F scale.<ref name="CinemaScore">{{cite web |url= https://cinemascore.com/publicsearch/index/title/ |title= CinemaScore |work= cinemascore.com |access-date= January 19, 2019 |archive-url= https://web.archive.org/web/20180722041238/https://www.cinemascore.com/publicsearch/index/title/ |archive-date= July 22, 2018 |url-status=dead }}</ref>
+
+[[Roger Ebert]] praised the film, saying that it is "sharp and funny". The variety of themes, interesting visuals, and voice acting were each aspects of the film that were praised.<ref>{{cite web|last1=Ebert|first1=Roger|title=Antz Movie Review & Film Summary|url=http://www.rogerebert.com/reviews/antz-1998|publisher=Roger Ebert|accessdate=December 27, 2014|date=October 2, 1998}}</ref> Ebert's partner, [[Gene Siskel]], greatly enjoyed the film and preferred it over ''[[A Bug's Life]]''.<ref>{{cite news|last1=Siskel|first1=Gene|title=`Antz' Distinctive, Delightful|url=http://articles.chicagotribune.com/1998-10-02/entertainment/9810020021_1_antz-star-drone|accessdate=December 27, 2014|work=Chicago Tribune|date=October 2, 1998}}</ref><ref>{{cite web|title=Siskel: 'Babe' Is The Best|url=http://www.cbsnews.com/news/siskel-babe-is-the-best/|accessdate=December 27, 2014|date=December 4, 1998|quote=A Bug's Life is built more for kids than Antz and may not be as entertaining for adults."}}</ref> Siskel later ranked it No. 7 on his picks of the Best Films of 1998.<ref>{{cite news|last1=Snow|first1=Shauna|title=Arts And Entertainment Reports From The Times, News Services And The Nation's Press.|url=http://articles.latimes.com/1999/jan/01/entertainment/ca-59422|accessdate=August 24, 2015|work=Los Angeles Times|date=January 1, 1999|archiveurl=https://web.archive.org/web/20150824120429/http://articles.latimes.com/1999/jan/01/entertainment/ca-59422|archivedate=August 24, 2015|quote=Siskel chose the box-office flop "Babe: Pig in the City" as the year's best film, followed by "The Thin Red Line," "Pleasantville," "Saving Private Ryan," "Shakespeare in Love," "The Truman Show," "Antz," "Simon Birch," "There's Something About Mary" and "Waking Ned Devine."|url-status=live}}</ref>
+
+===Box office===
+The film topped the box office in its opening weekend, earning $17,195,160 for a $7,021 average from 2,449 theatres.<ref name=mojo>{{cite web|title=Antz (1998) – Box Office Mojo|url=http://boxofficemojo.com/movies/?id=antz.htm|accessdate=April 22, 2011}}</ref> In its second weekend, the film held the top spot again, with a slippage of only 14% to $14.7 million for a $5,230 average and expanding to 2,813 sites. It held well also in its third weekend, slipping only 24% to $11.2 million and finishing in third place, for a $3,863 average from 2,903 theatres. The film's widest release was 2,929 theatres, and closed on February 18, 1999. The film altogether picked up $90,757,863 domestically, but failed to outgross the competition with ''A Bug's Life''. The film picked up an additional $81 million in other territories for a worldwide total of $171.8 million.
+
+According to DreamWorks, the film's budget was about $42 million,<ref name=NYTPrinceNoKing /><ref name=LATAfterRushHour /> while the number $60 million was also reported at the time.<ref name=AntzToTitanic /><ref name="SFBTAntzAimsTopHill" /> According to ''[[Los Angeles Times]]'', the first figure was doubted by the film industry, considering that other computer-animated films at the time cost twice of that amount, and that the budget did not include start-up costs of PDI.<ref name=LATAfterRushHour />
+
+===Accolades===
+<!-- PLACE EXTRA AWARDS BELOW IN ALPHABETICAL ORDER-->
+{| class="wikitable sortable"  style="margin:auto; font-size:100%;"
+|-
+! Award
+! Category
+! Recipient(s)
+! Result
+|-
+| [[AFI's 10 Top 10]]<ref>{{cite web|title=AFI's 10 Top 10 - Official Ballot|url=http://connect.afi.com/site/DocServer/10top10.pdf?docID=381&AddInterest=1781|publisher=AFI|accessdate=September 3, 2016|archiveurl=https://web.archive.org/web/20110716071937/http://connect.afi.com/site/DocServer/10top10.pdf?docID=381&AddInterest=1781|archivedate=July 16, 2011|date=2008}}</ref>
+| Animated
+| ''Antz''
+| {{Nom}}
+|-
+| 1999 [[American Society of Composers, Authors, and Publishers|ASCAP]] Film and Television Music Awards<ref>{{cite web|title=The American Society of Composers, Authors and Publishers 14th Annual Film & Television Music Awards|url=http://www.ascap.com/filmtv/filmtv99.html|publisher=The American Society of Composers, Authors and Publishers|accessdate=August 24, 2015|archiveurl=https://web.archive.org/web/20000411131057/http://www.ascap.com/filmtv/filmtv99.html|archivedate=April 11, 2000|date=April 27, 1999}}</ref>
+| Top Box Office Films
+| [[Harry Gregson-Williams]], [[John Powell (composer)|John Powell]]
+| {{Won}}
+|-
+| rowspan="4"| [[Annie Award|16th Annie Awards]]<ref>{{cite web|title=27th Annual  Annie Award Nominees and Winners|url=http://annieawards.org/27th-annie-awards|publisher=Annie Awards|accessdate=August 24, 2015}}</ref>
+| Outstanding Individual Achievement for Directing in an Animated Feature Production 
+| [[Eric Darnell]], [[Tim Johnson (film director)|Tim Johnson]]
+| {{Nom}}
+|-
+| Outstanding Individual Achievement for Music in an Animated Feature Production
+| Harry Gregson-Williams, John Powell
+| {{Nom}}
+|-
+| Outstanding Individual Achievement for Production Design in an Animated Feature Production
+| [[John Bell (special effects artist)|John Bell]]
+| {{Nom}}
+|-
+| Outstanding Individual Achievement for Writing in an Animated Feature Production 
+| [[Todd Alcott]], [[Chris Weitz]] & [[Paul Weitz (filmmaker)|Paul Weitz]]
+| {{Nom}}
+|-
+| [[52nd British Academy Film Awards]]<ref>{{cite web|title=Nomination for the 51st British Academy Film Awards, in Association with Orange|url=http://www.bafta.org/bafta/3_film/3_PAST_nom99.htm|publisher=British Academy of Film and Television Artis|accessdate=August 24, 2015|archiveurl=https://web.archive.org/web/20000823002701/http://www.bafta.org/bafta/3_film/3_PAST_nom99.htm|archivedate=August 23, 2000}}</ref>
+| [[BAFTA Award for Best Special Visual Effects|The Best Achievement in Special Visual Effects]]
+| Philippe Gluckman, John Bell, Kendal Cronkhite, Ken Bielenberg
+| {{Nom}}
+|-
+| rowspan="2"| [[Motion Picture Sound Editors|1999 Golden Reel Awards]]
+| Best Sound Editing in Animated Feature Film — Music Editing<ref>{{cite web|title=46 Anniversary (1998) Motion Picture Sound Editors Golden Reel Winners|url=http://mpse.org/awards/Winners46.html|publisher=Motion Picture Sound Editors|accessdate=August 24, 2015|archiveurl=https://web.archive.org/web/20010716115402/http://mpse.org/awards/Winners46.html|archivedate=July 16, 2001 }}</ref><ref>{{cite news|title=‘Ryan’ nabs Golden Reel|url=https://variety.com/1999/film/news/ryan-nabs-golden-reel-1117492538/|accessdate=August 24, 2015|work=Variety|date=March 21, 1999}}</ref>
+| Adam Milo Smalley, Brian Richards
+| {{Won}}
+|-
+| Best Sound Editing in Animated Feature Film — Sound Editing
+| ''Antz''
+| {{Nom}}
+|-
+| [[Golden Satellite Awards 1998]]<ref>{{cite web|title=1999 3rd Annual Satellite Awards|url=http://www.pressacademy.com/satawards/awards1999.shtml|publisher=International Press Academy|accessdate=August 24, 2015|archiveurl=https://web.archive.org/web/20111111085240/http://www.pressacademy.com/satawards/awards1999.shtml|archivedate=November 11, 2011}}</ref>
+| [[Satellite Award for Best Animated or Mixed Media Feature]]
+| [[Brad Lewis]], [[Aron Warner]], Patty Wooton
+| {{Nom}}
+|}
+
+==Soundtrack==
+{{Infobox album
+| name       = Antz
+| type       = film
+| artist     = [[Harry Gregson-Williams]] and [[John Powell (composer)|John Powell]]
+| cover      =
+| alt        =
+| released   = November 3, 1998
+| recorded   = 1998
+| venue      =
+| studio     =
+| genre      = [[Film score]]
+| length     = 49:02
+| label      = [[Angel Records]]<ref name=AlMusicAntz>{{cite web|title=Antz|url=http://www.allmusic.com/album/release/antz-mr0001379250/credits|publisher=AllMusic|accessdate=September 13, 2015}}</ref>
+| producer   = [[Hans Zimmer]]<ref name=AlMusicAntz />
+| chronology = [[Harry Gregson-Williams]] film scores
+| prev_title = [[The Replacement Killers]]
+| prev_year  = 1998
+| next_title = [[Enemy of the State (film)|Enemy of the State]]
+| next_year  = 1998
+| misc       = {{Extra chronology
+ | artist     = [[John Powell (film composer)|John Powell]]
+ | type       = soundtrack
+ | prev_title = [[With Friends Like These...]]
+ | prev_year  = 1998
+ | title      = Antz
+ | year       = 1998
+ | next_title = [[Endurance (film)|Endurance]]
+ | next_year  = 1999
+}}
+}}
+The original music for the film was composed by [[Harry Gregson-Williams]] and [[John Powell (composer)|John Powell]]. The soundtrack was released on November 3, 1998 by [[Angel Records]].<ref name=AlMusicAntz /><ref>{{cite news|last1=Jeffries|first1=Neil|title=Antz Soundtrack Review|url=http://www.empireonline.com/reviews/reviewcomplete.asp?SID=3802|accessdate=September 13, 2015|work=Empire|date=1998}}</ref>
+
+Initially, Jeffrey Katzenberg wanted [[Hans Zimmer]] to compose the music, but he was too busy with other projects. Instead, Zimmer suggested two composers from his studio — either Harry Gregson-Williams or John Powell — both of whom had already collaborated on the DreamWorks animated film ''[[The Prince of Egypt]]''.<ref>{{cite news|last1=Freer|first1=Ian|title=Empire Meets John Powell|url=http://www.empireonline.com/features/john-powell-career|accessdate=September 13, 2015|work=Empire|date=April 22, 2014}}</ref><ref>{{cite web|last1=Ciafardini|first1=Marc|title=Exclusive: Interview (Part II)…Film Composer Harry Gregson-Williams Talks Tony Scott, Hans Zimmer and His Career|url=http://goseetalk.com/exclusive-interview-film-composer-harry-gregson-williams-part-ii/|publisher=GoseeTalk|accessdate=September 13, 2015|date=June 7, 2013}}</ref>
+
+; Songs featured in the film
+* "[[Almost Like Being in Love]]" – [[Woody Allen]]
+* "[[Give Peace a Chance]]" – [[John Lennon]]
+* "[[Guantanamera]]" – [[Joseíto Fernández]]
+* "[[High Hopes (Frank Sinatra song)|High Hopes]]" – [[Doris Day]]
+* "[[I Can See Clearly Now]]" – [[Neil Finn]]
+* "[[When Johnny Comes Marching Home]]" – [[Patrick Gilmore]]
+
+{{Track listing
+| total_length    = 49:02
+| all_writing     =  John Powell and Harry Gregson-Williams 
+| title1          =  Opening Titles - Z's Theme
+| length1         = 1:59
+| title2          = The Colony
+| length2         = 1:55
+| title3          = General Mandible
+| length3         = 2:21
+| title4          = Princess Bala
+| length4         = 0:56
+| title5          = The Bar
+| length5         =  1:27
+| title6          = "There Is A Better Place..."
+| length6         = 1:19
+| title7          = "Guantanamera" / "6:15 Time To Dance"
+| length7         =  3:16
+| title8          =  The Antz Go Marching To War
+| length8         = 3:48
+| title9          = Weaver and Azteca Flirt
+| length9         = 1:53
+| title10         = The Death of Barbados
+| length10        =  2:06
+| title11         = The Antz Marching Band
+| length11        = 1:15
+| title12         = The Magnifying Glass
+| length12        = 1:58
+| title13         = Ant Revolution
+| length13        = 1:47
+| title14         = Mandible and Cutter Plot
+| length14        = 2:05
+| title15         = The Picnic Table
+| length15        =  2:43
+| title16         = The Big Shoe
+| length16        = 2:08
+| title17         =  Romance in Insectopia
+| length17        = 2:29
+| title18         =  Back To The Colony
+| length18        = 2:26
+| title19         =  Z To The Rescue
+| length19        = 7:43
+| title20         =  Z's Alive!
+| length20        = 3:28
+}}
+
+==Video games==
+{| class="wikitable sortable"
+|-
+! Title
+! Release Date
+! Platform
+! Developer
+! Publisher
+|-
+| ''[[Antz (video game)|Antz]]'' || September 24, 1999<ref>{{cite web |url=http://www.ign.com/articles/1999/10/05/antz |title=Antz |last=Harris |first=Craig |date=October 5, 1999 |publisher=[[IGN]]}}</ref> || rowspan="3"| [[Game Boy Color]] || Panet Interactive || [[Infogrames]]
+|-
+| ''[[Antz Racing]]'' || 2001|| [[RFX Interactive]] || [[Acclaim Entertainment|Club Acclaim]] / [[Electronic Arts]]
+|-
+| ''Antz World Sportz'' || November 30, 2001 || Light & Shadow Production || M4 Ltd.
+|-
+| ''[[Antz Extreme Racing]]'' || August 28, 2002<br>September 5, 2002<br>September 19, 2002<br>November 20, 2002 || [[Microsoft Windows]]<br>[[Xbox]]<br>[[PlayStation 2]]<br>[[Game Boy Advance]] || [[Supersonic Software]]<br>Magic Pockets (GBA) || [[Empire Interactive]]
+|}
+
+==Cancelled sequel==
+A direct-to-video sequel was in development at DreamWorks at the time of the release of ''Antz''. Like the first film, it was planned to be produced by Pacific Data Images, and was also considered for theatrical release.<ref>{{cite web|title=DreamWorks is having a picnic; "Antz II" marching on|url=http://www.awn.com/news/dreamworks-having-picnic-antz-ii-marching|publisher=Animation World Network|accessdate=August 26, 2015|date=October 12, 2015}}</ref> By early 1999, when DreamWorks closed its television animation unit and merged the direct-to-video unit with the feature animation, the sequel was still planned, but eventually the project was cancelled.<ref>{{cite web|last1=Amidi|first1=Amid|title=DreamWorks TV shuts down|url=http://www.awn.com/news/dreamworks-tv-shuts-down|publisher=Animation World Network|accessdate=August 26, 2015|date=March 9, 1999}}</ref><ref>{{cite web|last1=Teo|first1=Loenard|title=3D Festival interviews Andy Murdock, the artist behind "Lots of Robots"|url=http://www.cgsociety.org/index.php/CGSFeatures/CGSFeatureSpecial/lots_of_robots_interview|publisher=CG Society|accessdate=August 26, 2015|date=November 22, 2002|archive-url=https://web.archive.org/web/20170202032925/http://www.cgsociety.org/index.php/CGSFeatures/CGSFeatureSpecial/lots_of_robots_interview|archive-date=February 2, 2017|url-status=dead}}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name=AWNSoonVCR>{{cite web|last1=Amidi|first1=Amid|title=Coming soon to a VCR near you|url=http://www.awn.com/news/coming-soon-vcr-near-you|publisher=Animation World Network|accessdate=August 26, 2015|archiveurl=https://web.archive.org/web/20150705072519/http://www.awn.com/news/coming-soon-vcr-near-you|archivedate=July 5, 2015|date=February 4, 1999|quote=DreamWorks will release "Antz" on home video on February 9...|url-status=live}}</ref>
+<ref name=TDBStudioNewsDW>{{cite web|title=Studio News - DreamWorks SKG|last1=Hunt|first1=Bill|url=http://www.thedigitalbits.com/site_archive/articles/oldstudionews/dreamworks.html|publisher=The Digital Bits|accessdate=August 26, 2015|archiveurl=https://web.archive.org/web/20130310121151/http://thedigitalbits.com/site_archive/articles/oldstudionews/dreamworks.html|archivedate=March 10, 2013|date=February 8, 1999|url-status=live}}</ref>
+<ref name=TDBTwoCents289912099>{{cite web|last1=Hunt|first1=Bill|title=My Two Cents (Archived Posts 2/8/99 - 1/20/99)|url=http://www.thedigitalbits.com/site_archive/mytwocentsa9.html|publisher=The Digital Bits|accessdate=August 26, 2015|date=January 22, 1999|quote=...a Divx version of ANTZ is going to be released day-and-date with VHS in early February... I spoke with the studio's DVD production guru today, who assured me that the delay is only due to the added time needed to pack the DVD version with lots of extra material. Look for it to street probably in late March.|archiveurl=https://web.archive.org/web/20130310120425/http://thedigitalbits.com/site_archive/mytwocentsa9.html|archivedate=March 10, 2013|url-status=live}}</ref>
+<ref name=LATDVDPopularity>{{cite news|last1=King|first1=Susan|title=As DVD Popularity Grows, So Do Extras|url=http://articles.latimes.com/1999/jul/15/entertainment/ca-56076|accessdate=August 26, 2015|work=Los Angeles Times|date=July 15, 1999|archiveurl=https://web.archive.org/web/20150826142603/http://articles.latimes.com/1999/jul/15/entertainment/ca-56076|archivedate=August 26, 2015|url-status=live|quote=Being the very first full-length CGI [computer generated image] animated film ever released on DVD,...}}</ref>
+<ref name=TDBAntzReview>{{cite web|last1=Hunt|first1=Bill|title=DVD Review - Antz: Signature Edition|url=http://www.thedigitalbits.com/site_archive/reviews/antz.html|publisher=The Digital Bits|accessdate=August 26, 2015|date=March 16, 1999|quote=It begs the question - how much better can a straight-digital transfer of CGI animation be (like that of the forthcoming A Bug's Life), versus a top-flight, telecine film transfer like this one?}}</ref>
+<ref name=EWBugsLifeReview>{{cite news|last1=Daly|first1=Steve|title=A Bug's Life|url=http://www.ew.com/article/1999/04/22/bugs-life|accessdate=August 26, 2015|work=Entertainment Weekly|date=April 22, 1999|quote=That’s a far superior approach than outputting the imagery to movie film and then copying that version onto video. (That’s how the computer-animated ”Toy Story” and ”Antz” were transferred to home-viewing formats – and why they don’t look as good as ”Bug’s Life.”)}}</ref>
+<ref name=NYTPrinceNoKing>{{cite news|last1=Fabrikant|first1=Geraldine|title='Prince of Egypt' Is No King at the Box-Office|url=https://www.nytimes.com/1998/12/28/business/prince-of-egypt-is-no-king-at-the-box-office.html|accessdate=February 25, 2017|work=The New York Times|date=December 28, 1998|archiveurl=https://web.archive.org/web/20150527084912/http://www.nytimes.com/1998/12/28/business/prince-of-egypt-is-no-king-at-the-box-office.html|archivedate=May 27, 2015|url-status=live}}</ref>
+<ref name=LATAfterRushHour>{{cite news|last1=Natale|first1=Richard|title=After 'Rush Hour,' Fall's Box-Office Traffic Is Light|url=http://articles.latimes.com/1998/nov/03/business/fi-38846|accessdate=February 25, 2017|work=Los Angeles Times|date=November 3, 1998|archiveurl=https://web.archive.org/web/20151204185432/http://articles.latimes.com/1998/nov/03/business/fi-38846|archivedate=December 4, 2015|url-status=live}}</ref>
+<ref name=AntzToTitanic>{{cite book|last1=Barker|first1=Martin|last2=Austin|first2=Thomas|title=From Antz to Titanic: Reinventing Film Analysis|date=2000|publisher=Pluto Press|location=London|isbn=0745315798|page=72|quote=On a $60 million budget, Antz had to succeed.}}</ref>
+<ref name="SFBTAntzAimsTopHill">{{cite news|last1=Feuerstein|first1=Adam|title=`Antz' aims for top of the hill|url=http://www.bizjournals.com/sanfrancisco/stories/1998/08/31/story5.html|accessdate=February 25, 2017|work=San Francisco Business Times|date=August 30, 1998|archiveurl=https://web.archive.org/web/20001218045700/http://www.bizjournals.com/sanfrancisco/stories/1998/08/31/story5.html|archivedate=December 18, 2000|url-status=live}}</ref>
+}}
+
+==External links==
+{{wikiquote}}
+{{Commons}}
+* {{Official|http://www.dreamworksanimation.com/antz/}}
+* {{bcdb title|25028}}
+* {{IMDb title|0120587}}
+* {{Amg movie|173454}}
+* {{AFI film|id=60633|title=Antz}}
+* {{mojo title|antz}}
+* {{Rotten Tomatoes|antz}}
+* {{metacritic film|antz}}
+
+{{Portal bar|United States|Film|Animation|1990s}}
+{{DreamWorks animated films}}
+{{Chris Weitz}}
+
+[[Category:1998 films]]
+[[Category:1998 animated films]]
+[[Category:1990s adventure films]]
+[[Category:1990s American animated films]]
+[[Category:1990s comedy films]]
+[[Category:1990s computer-animated films]]
+[[Category:1990s fantasy films]]
+[[Category:American films]]
+[[Category:American adventure comedy films]]
+[[Category:American animated fantasy films]]
+[[Category:American children's animated adventure films]]
+[[Category:American children's animated comedy films]]
+[[Category:American children's animated fantasy films]]
+[[Category:American computer-animated films]]
+[[Category:American fantasy adventure films]]
+[[Category:Animated adventure films]]
+[[Category:Animated comedy films]]
+[[Category:Animated films about insects]]
+[[Category:Antz]]
+[[Category:Directorial debut films]]
+[[Category:DreamWorks Animation animated films]]
+[[Category:DreamWorks Pictures films]]
+[[Category:English-language films]]
+[[Category:Fictional ants]]
+[[Category:Fictional Hymenoptera]]
+[[Category:Films scored by John Powell]]
+[[Category:Films scored by Harry Gregson-Williams]]
+[[Category:Films directed by Tim Johnson]]
+[[Category:Films featuring anthropomorphic characters]]
+[[Category:Films produced by Aron Warner]]
+[[Category:Films using computer-generated imagery]]
+[[Category:Films set in New York City]]
+[[Category:Psychotherapy in fiction]]
+[[Category:Films with screenplays by Chris Weitz]]
+[[Category:Films with screenplays by Paul Weitz]]
+[[Category:Films with screenplays by Todd Alcott]]
+[[Category:Films adapted into video games]]

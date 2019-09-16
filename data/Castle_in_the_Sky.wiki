@@ -1,0 +1,298 @@
+{{About|the Japanese 1986 film||Castles in the Sky (disambiguation)}}
+{{Infobox film
+| name           = Castle in the Sky
+| film name      = {{Film name
+ | kanji           = 天空の城ラピュタ
+ | romaji          = Tenkū no Shiro Rapyuta}}
+| image          = Castle in the Sky (1986).png
+| caption        = Japanese theatrical release poster
+| director       = [[Hayao Miyazaki]]
+| writer         = Hayao Miyazaki
+| starring       = [[Mayumi Tanaka]]<br />[[Keiko Yokozawa]]<br />Kotoe Hatsui<br />[[Minori Terada]]
+| music          = [[Joe Hisaishi]]
+| producer       = [[Isao Takahata]]
+| editing        = [[Takeshi Seyama]]<br />Yoshihiro Kasahara
+| cinematography = Hirokata Takahashi
+| studio         = [[Studio Ghibli]]
+| distributor    = [[Toei Company]]
+| released       = {{Film date|df=yes|1986|8|2}} <!-- Do not add the US release date here, please; see [[WP:FILMRELEASE]]. -->
+| runtime        = 124 minutes
+| country        = Japan
+| language       = Japanese
+| budget         = 
+| gross          = {{US$|{{#expr:8.1+1.679853+0.327559+5.434627 round 1}} million|long=no}}
+}}
+{{Nihongo|'''''Castle in the Sky'''''|天空の城ラピュタ|Tenkū no Shiro Rapyuta|lead=yes}}, known as '''''Laputa: Castle in the Sky''''' in Europe and Australia, is a 1986 [[Anime|Japanese animated]] [[steampunk]] [[Fantasy film|fantasy]]-[[adventure film]] written and directed by [[Hayao Miyazaki]].<ref>{{cite web |title=Laputa - Castle in the Sky |url=https://shop.bfi.org.uk/laputa-castle-in-the-sky.html |website=[[British Film Institute]] |accessdate=5 January 2019}}</ref><ref name="steampunk"/> It was the very first film animated by [[Studio Ghibli]] and was animated for [[Tokuma Shoten]]. It follows the adventures of a young boy and girl attempting to keep a magic crystal from a group of military agents, while searching for a legendary floating castle. The film was distributed by [[Toei Company|Toei Kabushiki Kaisha]].<ref name=bcdb>"[http://www.bcdb.com/cartoon/20680-Tenku_No_Shiro_Rapyuta.html Tenkû No Shiro Rapyuta]". ''www.bcdb.com'', 13 May 2012</ref>
+
+''Laputa: Castle in the Sky'' won the [[Animage]] Anime Grand Prix in 1986. The film has received positive reviews and grossed over {{US$|15.5 million|long=no}} at the box office, and went on to gross a total of approximately {{US$|{{#expr:15.5+100+41 round 0}} million|long=no}} in box office, [[home video]] and [[soundtrack]] sales. In Japanese polls of [[List of films considered the best|greatest animations]], ''Castle in the Sky'' was voted the second best animated film at the 2006 [[Japan Media Arts Festival]] and was voted first place in a 2008 [[Oricon]] audience poll. Considered a milestone in the steampunk genre, ''Castle in the Sky'' has had a strong influence on [[Japanese popular culture]], and has inspired numerous films, media and games, in Japan and internationally.
+
+==Plot==
+An airship carrying Sheeta, a young orphan girl who has been abducted by government agent Muska, is attacked by Captain Dola and her [[air pirate]] sons who are in search of Sheeta's small blue crystal [[pendant]]. In the resulting struggle, Sheeta falls from the airship but her descent is slowed by a mysterious power within the amulet. She safely lands in a small mining town where she is discovered by a brave young orphan boy named Pazu, who takes her into his home to recover. Pazu tells her of a mysterious floating island named [[Laputa]] which is visible in a picture taken by his father. Later, they are pursued by Dola's pirates, and then by Muska's soldiers. Eventually, the two fall into an abandoned mine, where they encounter the local eccentric Uncle Pomme, who informs them that Sheeta's amulet is made of 'volucite' crystal ('Aetherium' in the American release), a material used to keep Laputa and the other flying cities aloft.<ref>{{cite web |title=Tenkuu no Shiro Rapyuta – Synopsis |publisher=The Hayao Miyazaki Web |work=Nausicäa |url=http://www.nausicaa.net/miyazaki/laputa/synopsis/ |accessdate=2009-12-13 |archive-url=https://web.archive.org/web/20100323093136/http://www.nausicaa.net/miyazaki/laputa/synopsis/ |archive-date=2010-03-23 |dead-url=no |df= }}</ref>
+
+Upon leaving the mines, Sheeta tells Pazu that her full name is 'Lucita Toel Ul Laputa'. They are then captured by Muska and taken to the fortress of Tedis, where Pazu is imprisoned in a dungeon tower while Sheeta is imprisoned in a more lavish room. Muska shows Sheeta a dormant Laputan [[robot]] and reveals his knowledge of her secret name, which he interprets to be that of the Laputan royal line. Muska then threatens Pazu's life to obtain Sheeta's cooperation. For his own safety, Sheeta orders Pazu to leave and Muska offers him money to leave and forget about Laputa.
+
+A distraught Pazu returns home, where he is ambushed by Dola and her sons. After hearing Pazu out, they prepare to intercept and capture the crystal, allowing Pazu to join them. As preparations proceed, Sheeta recites an [[apotropaic]] verse and unexpectedly activates the amulet and the robot, which follows Sheeta, destroying the fortress along the way until it is overcome by the military's airship ''Goliath''. Pazu arrives and rescues Sheeta, but Muska obtains the amulet. The pirates, accompanied by Pazu and Sheeta, return to their airship, ''Tiger Moth''. They pursue the ''Goliath'', which is following directions indicated by Sheeta's amulet to locate Laputa. Both airships arrive at Laputa on the following day, with the ''Tiger Moth'' having been shot down by ''Goliath''. The two children, separated from Dola's pirates, discover the city to be ruined and overgrown.
+
+Dola's pirates are captured and Muska's soldiers plunder the city's treasures. Upon gaining entrance to the city's central sphere, a vast repository for all of Laputa's scientific knowledge, Muska captures Sheeta and his agents open fire upon Pazu, who escapes and frees the pirates. In the center of Laputa, which contains the immense 'volucite' crystal keeping the city aloft, Muska identifies himself as "Romuska Palo Ul Laputa", another member of Laputa's royal line, and uses Sheeta's crystal to access the advanced Laputan technology. He betrays his own soldiers and destroys the ''Goliath'' by unleashing Laputa's [[weapon of mass destruction]]. During the mayhem, the horrified Sheeta retrieves the crystal amulet and flees, but Muska pursues her. Hearing Pazu's voice, Sheeta gives the amulet to him through a gap in the wall and is cornered by Muska in Laputa's [[throne room]].
+
+During her confrontation with Muska, Sheeta explains that the people of Laputa left the castle because they realized that man was meant to live on earth and not in the sky. Muska refuses her arguments, shoots off her braids and threatens to kill her unless the crystal amulet is given to him. Pazu requests to be allowed to talk with Sheeta; Muska grants them one minute (three in the original Japanese version). Sheeta and Pazu recite a "Spell of Destruction", which causes the castle to disintegrate, causing Muska to fall to his death. After surviving the collapse, Pazu and Sheeta reunite with Dola and her pirates and leave Laputa behind. When they part with the pirates, Pazu flies Sheeta home as he had promised her, to start a new life together.
+
+During the end credits, the remnants of Laputa float in orbit, maintained by the volucite crystal embedded in the roots of the central tree.
+
+==Cast==
+{| class="wikitable"
+|-
+! Character name
+! Original cast
+! English voice actor<br><small>(Magnum/[[Tokuma Shoten|Tokuma]]/[[Streamline Pictures|Streamline]], 1989)</small>
+! English voice actor<br><small>([[Buena Vista Distribution|Disney]], 1998/2003)</small>
+|-
+| '''Pazu''' || [[Mayumi Tanaka]]|| [[Barbara Goodson]] (Bertha Greene) || [[James Van Der Beek]]
+|-
+| '''Princess Sheeta<br>(Lusheeta Toel Ur Laputa)''' || [[Keiko Yokozawa]] || [[Lara Cody]] (Louise Chambell) || [[Anna Paquin]]<br>[[Debi Derryberry]] (young)
+|-
+| '''Captain Dola''' || Kotoe Hatsui || Rachel Vanowen || [[Cloris Leachman]]
+|-
+| '''Colonel Muska<br>(Romuska Palo Ur Laputa)''' || [[Minori Terada]] || [[Jeff Winkless]] (Jack Witte) || [[Mark Hamill]]
+|-
+| '''General Muoro''' || [[Ichirō Nagai]] || [[Mike Reynolds (actor)|Mike Reynolds]] (Mark Richards) || [[Jim Cummings]]
+|-
+| '''Uncle Pom''' || Fujio Tokita || [[Edward Mannix]] (Cyn Branch) || [[Richard Dysart]]
+|-
+| '''Charles''' (''Shalulu'') || Takuzō Kamiyama || [[Barry Stigler]] (Bob Stuart) || [[Mike McShane]]
+|-
+| '''Louis''' (''Lui'') || [[Yoshito Yasuhara]] || [[Dave Mallow]] (Colin Phillips) || [[Mandy Patinkin]]
+|-
+| '''Henri''' (''Anli'') || Sukekiyo Kamiyama || [[Eddie Frierson]] (Ernest Fessler) || [[Andy Dick]]
+|-
+| '''Mr. Duffi (Boss)''' || [[Hiroshi Ito (voice actor)|Hiroshi Ito]] || Clifton Wells (Charles Wilson) || [[John Hostetter]]
+|-
+| '''Old Engineer''' || rowspan="2"| [[Ryūji Saikachi]] || rowspan="2"| [[Eddie Frierson]] (Ernest Fessler) || rowspan="2"| [[Matt K. Miller]]
+|-
+| '''Motro'''
+|-
+| '''Okami''' || [[Machiko Washio]] || [[Lara Cody]] (Louise Chambell) || [[Tress MacNeille]]
+|-
+| '''Madge''' || [[Tarako (singer)|Tarako]] || [[Barbara Goodson]] (Bertha Greene) || [[Debi Derryberry]]
+|-
+| '''Narrator''' || {{N/A}} || [[Peter Fernandez]] || {{N/A}}
+|}
+
+==Development==
+Miyazaki's earlier [[anime]] series ''[[Future Boy Conan]]'' (1978) featured a number of elements that he later adapted for ''Castle in the Sky''. Conan and Lana, for example, were precedents for Pazu and Sheeta, and it had similarities to Sheeta's rescue by Pazu.<ref name="McCarthy_(1999)">{{cite book | last=McCarthy | first=Helen | authorlink=Helen McCarthy | year=1999 | title=Hayao Miyazaki Master of Japanese Animation | edition=2002 | location=Berkeley, Ca | publisher=Stone Bridge Press | pages=39, 223 | isbn=1880656418 | deadurl=yes | url=http://www.stonebridge.com/shopexd.asp?id=210 | archive-url=https://web.archive.org/web/20131203192230/http://www.stonebridge.com/shopexd.asp?id=210 | archivedate=2013-12-03 | df= }}</ref> Some of the characters and themes in ''Future Boy Conan'' set the blueprint for ''Castle in the Sky''.<ref name="hg101">{{cite web|title=Mega Man Legends|url=https://hg101.kontek.net/megamanlegends/megamanlegends.htm|website=Hardcore Gaming 101|date=August 8, 2016|access-date=2018-03-04|archive-url=https://web.archive.org/web/20180305063433/https://hg101.kontek.net/megamanlegends/megamanlegends.htm|archive-date=2018-03-05|dead-url=no|df=}}</ref>
+
+The name 'Laputa' is derived from [[Jonathan Swift]]'s novel ''[[Gulliver's Travels]]'', wherein Swift's [[Laputa]] is also a flying island controlled by its citizens. Anthony Lioi feels that Miyazaki's ''Laputa: Castle in the Sky'' is similar to Swift's Laputa, where the technological superiority of the castle in the sky is used for political ends.<ref>{{cite web|url=http://www.english.ufl.edu/imagetext/archives/v5_2/lioi/|title=The City Ascends: Laputa: Castle in the Sky as Critical Ecotopia|author=Anthony Lioi|work=ufl.edu|access-date=2010-10-29|archive-url=https://web.archive.org/web/20100531195652/http://www.english.ufl.edu/imagetext/archives/v5_2/lioi/|archive-date=2010-05-31|dead-url=no|df=}}</ref>
+
+Laputa is credited by Colonel Muska with having informed [[Bible|Biblical]] and [[Hindu mythology|Hindu]] [[legend]]s — thus tying the world of Laputa to our Earth (and to western [[Culture of Europe|European civilization]]) — as do the [[Medieval architecture|medieval castle architecture]] on the ground; the [[Gothic architecture|Gothic]] and half-timbered buildings in the village near the fort; the Welsh mining-town architecture, clothing, and ground vehicles of Pazu's homeland; and the Victorian ambiance of the pirate ship. The anime also features the use of [[cuneiform script]] on Laputa's interactive panels and tombstones; and makes references to the [[Indian epic poetry|Hindu epic]] ''[[Ramayana]]'', including "[[Indra]]'s arrow", while the name Sheeta may be a related to [[Sita]], the female lead in the ''Ramayana''.<ref>Ryoko Toyama, [http://www.nausicaa.net/miyazaki/laputa/faq.html ''Laputa: The Castle in the Sky'' FAQ] {{Webarchive|url=https://web.archive.org/web/20070223195001/http://www.nausicaa.net/miyazaki/laputa/faq.html |date=2007-02-23 }}, ''Nausicaa.net''</ref>
+
+Some of the architecture seen in the film was inspired by a [[Wales|Welsh]] mining town. Miyazaki first visited Wales in 1984 and witnessed the [[UK miners' strike (1984–1985)|miners' strike]] firsthand. He returned to the country in 1986 to prepare for ''Laputa'', which he said reflected his Welsh experience: "I was in Wales just after the miners' strike. I really admired the way the miners' unions fought to the very end for their jobs and communities, and I wanted to reflect the strength of those communities in my film."<ref>{{cite web |last=Gordon |first=David |title=Studio Ghibli: Animated Magic |publisher=Hackwriters.com |date=May 2006 |url=http://www.hackwriters.com/anime2.htm |accessdate=2008-12-30 |archive-url=https://web.archive.org/web/20081218214816/http://www.hackwriters.com/anime2.htm |archive-date=2008-12-18 |dead-url=no |df= }}</ref> Miyazaki told ''[[The Guardian]]'', "I admired those men, I admired the way they battled to save their way of life, just as the coal miners in Japan did. Many people of my generation see the miners as a symbol; a dying breed of fighting men. Now they are gone."<ref>{{cite news |last=Brooks |first=Xan |title=A god among animators |work=guardian.co.uk |date=September 14, 2005 |url=http://film.guardian.co.uk/interview/interviewpages/0,6737,1569689,00.html |accessdate=2008-12-30 |archive-url=https://web.archive.org/web/20080625111513/http://film.guardian.co.uk/interview/interviewpages/0,6737,1569689,00.html |archive-date=2008-06-25 |dead-url=no }}</ref>
+
+Except for the technology of Laputa itself, the technologies (especially the flying machines) are an example of the [[retro-futurism|retrofuturistic]] genre of [[steampunk]].
+
+==Release and distribution==
+In the late 1980s, an English dubbed version, produced by Magnum Video Tape and Dubbing<ref>{{cite web|url=http://www.crystalacids.com/database/title/1430/laputa-castle-in-the-sky/|title=Laputa: Castle in the Sky (movie)|work=crystalacids.com|access-date=2014-11-17|archive-url=https://web.archive.org/web/20141129024836/http://www.crystalacids.com/database/title/1430/laputa-castle-in-the-sky/|archive-date=2014-11-29|dead-url=no|df=}}</ref> for international [[Japan Airlines]] flights at the request of Tokuma Shoten, was briefly screened in the United States by [[Streamline Pictures]]. [[Carl Macek]], the head of Streamline, was disappointed with this dub, deeming it "adequate, but clumsy".<ref>{{cite news|last=Macek|first=Carl|title=ANN Cast Episode 23|url=http://www.animenewsnetwork.com/anncast/2014-01-09|work=Anime News Network|accessdate=11 January 2014|time=48:49|quote=We didn't dub it. Streamline didn't dub it. And I told the people at Tokuma Shoten that I thought the dubbing was marginal on ''Laputa'' and I thought that it could be a better product if they had a better dubbing... To me, there's a certain element of class that you can bring to a project. ''Laputa'' is a very classy film, so it required a classy dub and the dub given to that particular film was adequate but clumsy. I didn't like it all... It's not something that I appreciated intellectually as well as aesthetically.|archive-url=https://web.archive.org/web/20140110221759/http://www.animenewsnetwork.com/anncast/2014-01-09|archive-date=2014-01-10|dead-url=no}}</ref> Following this, Tokuma allowed Streamline to dub their future acquisitions ''[[My Neighbor Totoro]]'' and ''[[Kiki's Delivery Service]]''. The original dub of ''Castle in the Sky'' is also seen on the 1996 Ghibli ga Ippai Laserdisc set, and on the first Japanese DVD release. The initial Japanese DVD release is now out of print and the subsequent re-release in 2014 replaces it with the Disney dubbed version.
+
+The [[Walt Disney Studios (division)|Disney]]-produced English dub was recorded in 1998 and planned for release on video in 1999, but the release was cancelled after ''[[Princess Mononoke]]'' (1997) did not fare as well in the US as Japan, and so ''Laputa's'' release date was pushed back yet again; on occasion the completed dub was screened at select children's festivals. The film was finally released on DVD and video in the US on April 15, 2003  alongside a re-release of ''[[Kiki's Delivery Service]]'' and ''[[Spirited Away]]''.<ref>{{cite web|last1=Conrad|first1=Jeremy|title=Spirited Away|url=http://www.ign.com/articles/2003/03/14/spirited-away|website=IGN|accessdate=2 June 2016|date=14 March 2003|archive-url=https://web.archive.org/web/20160409215418/http://www.ign.com/articles/2003/03/14/spirited-away|archive-date=2016-04-09|dead-url=no}}</ref> As with ''Mononoke'' and ''Kiki'', critical opinion was mixed about the new dub, but [[Cloris Leachman]] and [[Mark Hamill]]'s performances as Dola and Muska drew praise.<ref>{{Cite news |last=Moure |first=Dani |url=http://www.mania.com/laputa-castle-sky_article_74336.html |title=Laputa: Castle in the Sky |work=Mania |date=April 4, 2006 |location=[[Santa Monica, California]] |publisher=[[Demand Media]] |accessdate=2008-12-30 |archiveurl=https://web.archive.org/web/20150411071701/http://www.mania.com/laputa-castle-sky_article_74336.html |archivedate=April 11, 2015 |deadurl=yes }}</ref> ''Laputa'' was reissued on American home video in March 2010 as a tribute accompanying the home video release of ''[[Ponyo]]''. The film was released on Blu-ray in North America on May 22, 2012, alongside ''[[Whisper of the Heart]]'' and ''[[The Secret World of Arrietty]]''. [[GKIDS]] re-issued the film on Blu-ray & DVD on October 31, 2017.<ref>{{cite web|url=http://www.hollywoodreporter.com/behind-screen/gkids-studio-ghibli-ink-home-entertainment-deal-1021746|title=Gkids, Studio Ghibli Ink Home Entertainment Deal|author=Carolyn Giardina|work=[[The Hollywood Reporter]]|date=July 17, 2017|accessdate=July 17, 2017}}</ref>
+
+The film received a re-screening on May 22, 2011 in [[Aberystwyth]] as part of a charity fund for Japan. The print shown was the original theatrical Japanese print with English subtitles. For a special promotion, it went back into US theaters November 18-20th 2018, with the widest release at 648 theaters.<ref>{{cite web |title=Castle in the Sky |url=https://www.fathomevents.com/events/studio-ghibli-fest-2018-castle-in-the-sky |website=[[Fathom Events]] |accessdate=November 20, 2018}}</ref><ref>https://www.boxofficemojo.com/movies/?page=daily&id=castleinthesky2018.htm</ref>
+
+===Box office===
+At the Japanese box office, the film grossed [[Japanese yen|¥]]1.16{{nbsp}}billion<ref name="manga">{{cite news|title=6 Fascinating Trivia About 'Laputa: Castle in the Sky'|url=https://manga.tokyo/otaku-articles/trivia-to-better-enjoy-laputa-castle-in-the-sky/|work=[[MANGA.TOKYO]]|date=February 12, 2017|access-date=2018-03-04|archive-url=https://web.archive.org/web/20180304231536/https://manga.tokyo/otaku-articles/trivia-to-better-enjoy-laputa-castle-in-the-sky/|archive-date=2018-03-04|dead-url=no|df=}}</ref> ({{US$|8.1 million|link=yes}}).<ref name="jpninfo">{{cite web|title=Top 7 Studio Ghibli Films of All Time|url=http://jpninfo.com/14771|website=Japan Info|date=July 14, 2015|access-date=2018-03-04|archive-url=https://web.archive.org/web/20180303040510/http://jpninfo.com/14771|archive-date=2018-03-03|dead-url=no|df=}}</ref> In [[Hong Kong]], the film's 1987 release grossed [[HK$]]13.1{{nbsp}}million<ref name="nausicaa">{{cite web|title=Laputa: Castle in the Sky (Credits & Figures)|url=http://www.nausicaa.net/miyazaki/laputa/credits.html|website=[[Nausicaa.net]]|accessdate=March 3, 2018|language=en|archive-url=https://web.archive.org/web/20160408150428/http://www.nausicaa.net/miyazaki/laputa/credits.html|archive-date=2016-04-08|dead-url=no|df=}}</ref> (US$1,679,853).<ref>{{cite web|title=Pacific Exchange Rate Service (7.7983 HKD per USD)|url=http://fx.sauder.ubc.ca/etc/USDpages.pdf#page=3|website=[[UBC Sauder School of Business]]|publisher=[[University of British Columbia]]|page=3|year=1987|accessdate=21 November 2017|archive-url=https://web.archive.org/web/20150512095429/http://fx.sauder.ubc.ca/etc/USDpages.pdf#page=3|archive-date=2015-05-12|dead-url=no|df=}}</ref> In the United Kingdom, the film's 2012 release grossed $327,559 in its first week.<ref name="numbers">{{cite web |title=Castle in the Sky (2010) - Financial Information |url=https://www.the-numbers.com/movie/Castle-in-the-Sky |website=[[The Numbers (website)|The Numbers]] |accessdate=December 18, 2018 |archive-url=https://web.archive.org/web/20181218112525/https://www.the-numbers.com/movie/Castle-in-the-Sky |archive-date=2018-12-18 |dead-url=no |df= }}</ref> In other territories, the film's 2003 release grossed $5,434,627, including $4,670,084 in France.<ref>{{cite web |title=Tenkû no shiro Rapyuta (Castle in the Sky) |url=https://www.boxofficemojo.com/movies/intl/?page=&id=_fTENKUNOSHIRORAPY01 |website=[[Box Office Mojo]] |accessdate=August 15, 2018 |archive-url=https://web.archive.org/web/20180817023049/https://www.boxofficemojo.com/movies/intl/?page=&id=_fTENKUNOSHIRORAPY01 |archive-date=2018-08-17 |dead-url=no |df= }}</ref> This adds up to a combined worldwide box office gross of {{US$|{{#expr:8100000+1679853+327559+5434627}}|long=no}}.
+
+===Home video===
+By 2003, ''Laputa: Castle in the Sky'' had sold 1.612{{nbsp}}million [[VHS]] and [[DVD]] units in Japan.<ref>{{cite book |last=検索結 |first=果 |title=宮崎駿全書 |date=2006 |publisher=フィルムアート社 |isbn=9784845906871 |url=https://www.amazon.co.jp/%E5%AE%AE%E5%B4%8E%E9%A7%BF%E5%85%A8%E6%9B%B8-%E5%8F%B6-%E7%B2%BE%E4%BA%8C/dp/4845906872 |access-date=2018-08-16 |archive-url=https://web.archive.org/web/20160523190051/http://www.amazon.co.jp/%E5%AE%AE%E5%B4%8E%E9%A7%BF%E5%85%A8%E6%9B%B8-%E5%8F%B6-%E7%B2%BE%E4%BA%8C/dp/4845906872 |archive-date=2016-05-23 |dead-url=no |df= }}</ref><ref>{{cite news |last=均 |first=中村 |title=110万冊無料配布。"ゲドを読む。"の狙いを読む 宮崎吾朗監督作品「ゲド戦記」DVDのユニークなプロモーション |url=https://business.nikkeibp.co.jp/article/manage/20070521/125248/ |work=[[Nikkei Business Publications|Nikkei Business]] |publisher=[[Nikkei Business Publications]] |date=May 23, 2007 |language=ja-JP |access-date=2018-08-16 |archive-url=https://web.archive.org/web/20180816194818/https://business.nikkeibp.co.jp/article/manage/20070521/125248/ |archive-date=2018-08-16 |dead-url=yes |df= }}</ref> At an average retail price of {{JPY|4600}} ({{JPY|4700}} on DVD and {{JPY|4500}} on VHS),<ref>{{cite web |title=Video List: Tenkuu no Shiro Rapyuta |url=http://www.nausicaa.net/miyazaki/video/laputa/ |website=Nausicaa.net |accessdate=August 15, 2018 |archive-url=https://web.archive.org/web/20180731180503/http://www.nausicaa.net/miyazaki/video/laputa/ |archive-date=2018-07-31 |dead-url=no |df= }}</ref> this is equivalent to approximately {{JPY|{{#expr:1.612*4600 round 0}} million}} ({{US$|{{To USD|7415|JPN|year=2012|round=yes}} million|long=no}}) in Japanese sales revenue as of 2012. In the United States, the 2010 DVD release grossed over {{US$|7 million|long=no}} in sales revenue.<ref name="numbers"/> This adds up to a total sales revenue of approximately {{US$|{{#expr:93+7}} million|long=no}} in Japan and the United States.
+
+==Soundtrack==
+{{Infobox album
+| name       = Castle in the Sky
+| type       = soundtrack
+| artist     = [[Joe Hisaishi]]
+| cover      =
+| alt        =
+| released   = 25 August 1986
+| recorded   =
+| venue      =
+| studio     =
+| genre      =
+| length     =
+| label      = [[Tokuma]]
+| producer   =
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+
+''All compositions by [[Joe Hisaishi]].''
+
+#"The Girl Who Fell from the Sky" – 2:27
+#"Morning in the Slag Ravine" – 3:04
+#"A Fun Brawl (Pursuit)" – 4:27
+#"Memories of Gondoa" – 2:46
+#"Discouraged Pazu" – 1:46
+#"Robot Soldier (Resurrection/Rescue)" – 2:34
+#"Carrying You" – 2:02 ''(Chorus: Suginami Children's Choir)''
+#"Sheeta's Decision" – 2:05
+#"On the Tiger Moth" – 2:32
+#"An Omen to Ruin" – 2:18
+#"The Sea of Cloud Under the Moonlight" – 2:33
+#"Laputa: Castle in the Sky" – 4:36
+#"The Collapse of Laputa" – 2:00 ''(Chorus: Suginami Children's Choir)''
+#"Carrying You" – 4:07 ''(sung by [[Azumi Inoue]])''/''(music & lyrics by [[Hayao Miyazaki]], [[Joe Hisaishi]])''
+
+===Discography===
+{| class="wikitable sortable"
+|-
+! Title
+! Release<ref name="Hisaishi">{{cite web |last=Hisaishi |first=Joe |authorlink=Joe Hisaishi |title=天空の城ラピュタ |url=http://joehisaishi.com/discography.php |website=Joe Hisaishi Official Site |quote=天空の城ラピュタ |accessdate=27 December 2018}}</ref>
+! Sales<ref name="Kano">{{cite book | title=宮崎駿全書 (Miyazaki Hayao complete book) | publisher=フィルムアート社 (Film Art, Inc.) | author=[[:ja:叶精二|叶精二]] (Kano Seiji) | year=2006 | page=101 | isbn=4-84590687-2}}</ref>
+! Revenue ({{estimation}})<ref name="Hisaishi"/>
+|-
+| {{Nihongo|''Castle in the Sky Laputa Image Album ~The Girl Falling From the Sky~''<br />|天空の城ラピュタ イメージアルバム 〜空から降ってきた少女〜}}
+| 25 May 1986
+| 155,000
+| {{JPY|{{#expr:155000*2500}}|link=no}}
+|-
+| {{Nihongo|''Castle in the Sky Laputa Soundtrack ~Flight Mystery of the Stone~''<br />|天空の城ラピュタ サウンドトラック　〜飛行石の謎〜}}
+| 25 August 1986
+| 380,000
+| {{JPY|{{#expr:380000*2500}}|link=no}}
+|-
+| {{Nihongo|''Castle in the Sky Laputa Symphony Version ~ Tree''|天空の城ラピュタ シンフォニー編 〜 大樹}}
+| 25 January 1987
+| 95,000
+| {{JPY|{{#expr:95000*2500}}|link=no}}
+|-
+| {{Nihongo|"Carrying You"|[[:ja:君をのせて (井上あずみの曲)|君をのせて]]|Kimi wo Nosete}} ([[Azumi Inoue]] single)
+| 25 March 1988<ref name="Kimi">{{cite web |title=君をのせて |url=https://www.oricon.co.jp/prof/193043/products/4810/1/ |website=[[Oricon]] |accessdate=27 December 2018}}</ref>
+| 75,000
+| {{JPY|{{#expr:75000*983}}|link=no}}<ref name="Kimi"/>
+|-
+| {{Nihongo|''Castle in the Sky Laputa Drama ~Light Rebirth!~''|天空の城ラピュタ シンフォニー編 〜光よ甦れ!〜}}
+| 25 February 1989
+| 60,000
+| {{JPY|{{#expr:380000*3568}}|link=no}}
+|-
+| {{Nihongo|''Castle in the Sky Laputa: Hi-Tech Series''|天空の城ラピュタ ハイテックシリーズ}}
+| 25 November 1989
+| 85,000
+| {{JPY|{{#expr:85000*2500}}|link=no}}
+|-
+| {{Nihongo|''Castle in the Sky: Laputa USA Version Version Soundtrack''<br />|CASTLE IN THE SKY〜天空の城ラピュタ USAヴァージョンサウンドトラック〜}}
+| 2 October 2002
+| 30,000
+| {{JPY|{{#expr:30000*2500}}|link=no}}
+|-
+! Total sales
+!
+! 880,000
+! {{JPY|3,292,065,000}} ({{US$|{{To USD|3292065000|JPN|year=2012|round=yes}}|long=no}})
+|}
+
+==Reception==
+According to the [[review aggregator]] website [[Rotten Tomatoes]], 96% of critics have given the film a positive review based on 23 reviews, with an [[average rating]] of 7.45/10. The site's critics consensus reads, "With a storytelling palette as rich and brilliant as its animation, ''Castle in the Sky'' thrillingly encapsulates Studio Ghibli's unique strengths."<ref>{{cite web |url=https://www.rottentomatoes.com/m/castle_in_the_sky_1989 |title=Castle in the Sky (1989) |website=[[Rotten Tomatoes]] |publisher=[[Fandango (company)|Fandango]] |accessdate=2019-05-28 |archiveurl=https://web.archive.org/web/20171129184906/https://www.rottentomatoes.com/m/castle_in_the_sky_1989/ |archivedate=2017-11-29 |deadurl=no}}</ref> At [[Metacritic]], the film has a weighted average score of 78 out of 100 based on 7 critics, indicating "generally favorable reviews".<ref>{{cite web |url=https://www.metacritic.com/movie/castle-in-the-sky |title=Castle in the Sky Reviews |website=[[Metacritic]] |publisher=[[CBS Interactive]] |accessdate=2019-05-28}}</ref> In a 2006 poll of 100 [[Films considered the greatest ever|best animations of all time]], conducted by Japan's [[Agency for Cultural Affairs]] conducted at the 2006 [[Japan Media Arts Festival]], ''Castle in the Sky'' was the second highest-ranked animated film (after ''[[Nausicaä of the Valley of the Wind (film)|Nausicaä of the Valley of the Wind]]'', and third highest-ranked animation overall on the list (below ''[[Neon Genesis Evangelion]]'' and ''Nausicaä'').<ref>{{cite web |title=Top 100 Animations |publisher=[[Agency for Cultural Affairs]] |year=2007 |url=http://plaza.bunka.go.jp/hundred/bumon_anime.html |accessdate=2009-03-15 |deadurl=yes |archiveurl=https://web.archive.org/web/20070210224349/http://plaza.bunka.go.jp/hundred/bumon_anime.html |archivedate=February 10, 2007 }} (translation: [https://translate.google.com/translate?sl=auto&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fweb.archive.org%2Fweb%2F20070210224349%2Fhttp%3A%2F%2Fplaza.bunka.go.jp%2Fhundred%2Fbumon_anime.html&act=url Google.com] {{Webarchive|url=https://web.archive.org/web/20150910065447/http://translate.google.com/translate?sl=auto&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fweb.archive.org%2Fweb%2F20070210224349%2Fhttp%3A%2F%2Fplaza.bunka.go.jp%2Fhundred%2Fbumon_anime.html&act=url |date=2015-09-10 }})</ref> In a 2008 animation audience poll conducted by [[Oricon]] in Japan, ''Laputa: Castle in the Sky'' was voted first place, above ''Nausicaä'' in second place.<ref>{{cite news |title=面白かったアニメ映画、宮崎作品が人気 |url=https://web.archive.org/web/20080506094052/life.oricon.co.jp/news/080502.html |accessdate=6 May 2008 |publisher=[[Oricon]] |date=1 May 2008}}</ref> The film is also considered a milestone in the [[steampunk]] genre, with ''The Steampunk Bible'' calling it "one of the first modern steampunk classics."<ref <ref name="steampunk">{{cite book |last1=VanderMeer |first1=Jeff |last2=Chambers |first2=S. J. |title=The Steampunk Bible: An Illustrated Guide to the World of Imaginary Airships, Corsets and Goggles, Mad Scientists, and Strange Literature |date=2012 |publisher=[[Abrams Books]] |isbn=9781613121665 |page=186 |url=https://books.google.com/books?id=Xp12RPAYgrIC&pg=PT184}}</ref>
+
+===Awards===
+* [[Ōfuji Noburō Award]]; [[Mainichi Film Award]]
+* First Place; Pia Ten ([[Best Films of the Year]])
+* First Place; Japanese Movies; City Road
+* First Place; Japanese Movies; Eiga Geijutsu (Movie Art)
+* First Place; Japanese Films Best 10; [[Osaka]] Film Festival
+* Eighth Place; Japanese Films; [[Kinema Junpo]] Best 10
+* Second Place; Readers' Choice; Kinema Junpo Best 10
+* Best Anime; 9th [[Anime Grand Prix]]
+* Special Recommendation; The Central Committee for Children's Welfare
+* Special Award (to Miyazaki & Takahata); Revival of Japanese Movies
+* Best Design Award; Anime
+
+===Popular culture===
+''Castle in the Sky'' has had a strong influence on [[Japanese popular culture]], with the "Laputa Effect" comparable to "a modern day [[monomyth]] for Japanese genre films and media."<ref name="hg101"/><ref name="gamespite">{{cite web|title=Laputa Effect|url=http://www.gamespite.net/toastywiki/index.php/Games/LaputaEffect|website=GameSpite|date=April 28, 2008|access-date=2018-03-04|archive-url=https://web.archive.org/web/20170710133843/http://www.gamespite.net/toastywiki/index.php/Games/LaputaEffect|archive-date=2017-07-10|dead-url=no|df=}}</ref> It has influenced [[anime]] series such as ''[[Nadia: The Secret of Blue Water]]'' (1990)<ref name="darkhorizons">{{cite web|title=Review: "Castle in the Sky"|url=http://www.darkhorizons.com/review-castle-in-the-sky/|website=[[Dark Horizons]]|date=April 1, 2005|access-date=2018-01-10|archive-url=https://web.archive.org/web/20180110235804/http://www.darkhorizons.com/review-castle-in-the-sky/|archive-date=2018-01-10|dead-url=no|df=}}</ref> and ''[[No Game No Life]]'' (2014), which references the film in episode 5. [[Manga]] author [[Katsura Hoshino]] was fascinated by the film to the point where she decided to seek work as an animator when growing up, but instead she ended up writing manga.<ref>{{cite web|url=http://jumpsq.shueisha.co.jp:80/contents/m_int_hoshino/index.html|title=Mangaka Interview 01|language=Japanese|publisher=Shueisha|archiveurl=https://web.archive.org/web/20100315091947/http://jumpsq.shueisha.co.jp/contents/m_int_hoshino/index.html|archivedate=2010-03-15|accessdate=April 14, 2018|dead-url=yes|df=}}</ref>
+
+Game designer [[Hironobu Sakaguchi]] cited ''Laputa'' as an inspiration behind his ''[[Final Fantasy]]'' video game series, particularly citing it as an influence on the series' airships.<ref>{{cite web |last= Rogers|first= Tim|date=27 March 2006 |url= http://www.edge-online.com/features/defense-final-fantasy-xii |archiveurl= https://archive.today/20130831220204/http://www.edge-online.com/features/defense-final-fantasy-xii/2/ |archivedate=31 August 2013 |deadurl=yes|title=In Defense of Final Fantasy XII |work= [[Edge (magazine)|Edge]] |quote= Okay, so the Chocobos – big, yellow riding birds – were actually stolen from Hayao Miyazaki's movie ''Nausicaa and the Valley of the Wind'', and Hironobu Sakaguchi freely admitted that way back when.  He also admits that the airships were inspired by "Laputa," also directed by Miyazaki. |page=2 | accessdate=26 January 2014}}</ref> ''Castle in the Sky'' also inspired a number of other video games, including the ''[[Mega Man Legends]]'' series, ''[[Zack & Wiki]]'', [[Japanese role-playing video games]] such as the ''[[Lunar (series)|Lunar]]'' series, ''[[Valkyrie Profile]]'' (1999), ''[[Skies of Arcadia]]'' (2000) and ''[[Steambot Chronicles]]'' (2005),<ref name="gamespite"/><ref name="hg101"/> as well as first-person shooter ''[[BioShock Infinite]]'' (2013).<ref>{{cite news |last1=LeJacq |first1=Yannick |title=Bioshock Infinite Trailer Goes From Ocean Depths To City In The Sky |url=https://blogs.wsj.com/speakeasy/2013/01/31/bioshock-infinite-trailer-goes-from-ocean-depths-to-city-in-the-sky/ |work=[[Wall Street Journal]] |date=31 January 2013}}</ref><ref>{{cite news |title=BioShock Infinite announcement trailer takes flight |url=https://www.denofgeek.com/games/12024/bioshock-infinite-announcement-trailer-takes-flight |work=[[Den of Geek]] |date=August 13, 2010}}</ref>
+
+''Castle in the Sky'' influenced a number of animated films from Disney and [[Pixar]]. For example, Disney films such as ''[[Atlantis: The Lost Empire]]'' (2001),<ref name="darkhorizons"/> and Pixar films such as ''[[WALL-E]]'' (2008)<ref>{{cite web|title=30 Years of CASTLE IN THE SKY: The Robots of Laputa and Earth|url=https://www.yomyomf.com/30-years-of-castle-in-the-sky-the-robots-of-laputa-and-earth/|website=[[YOMYOMF]]|date=August 4, 2016|access-date=2018-01-10|archive-url=https://web.archive.org/web/20180110234012/https://www.yomyomf.com/30-years-of-castle-in-the-sky-the-robots-of-laputa-and-earth/|archive-date=2018-01-10|dead-url=no|df=}}</ref> and ''[[Up (2009 film)|Up]]'' (2009).<ref>{{cite book|last=Ebert|first=Roger|authorlink=Roger Ebert|title=Roger Ebert's Movie Yearbook 2010|date=2009|publisher=[[Andrews McMeel Publishing]]|isbn=9780740792182|page=567|url=https://books.google.com/books?id=-1aM7D_ymdAC&pg=PA567}}</ref>
+
+The most tweeted moment in the history of Twitter was during the airing of ''Castle in the Sky'' on August 2, 2013, when fans tweeted the word "balse" at the exact time that it played in the movie. There was a global peak of 143,199 tweets in one second.<ref>{{cite web |last=Oremus |first=Will |url=http://www.slate.com/blogs/future_tense/2013/08/19/balse_festival_japan_castle_in_the_sky_airing_breaks_twitter_record_for.html |title=Balse Festival: Japan "Castle in the Sky" airing breaks Twitter record for tweets per second |publisher=Slate.com |date=2013-08-19 |accessdate=2014-06-26 |archive-url=https://web.archive.org/web/20140528120609/http://www.slate.com/blogs/future_tense/2013/08/19/balse_festival_japan_castle_in_the_sky_airing_breaks_twitter_record_for.html |archive-date=2014-05-28 |dead-url=no |df= }}</ref>
+
+''Castle in the Sky'' has also had a influence on popular music; the popular jazz-funk band [[Hiatus_Kaiyote|Haitus Kaiyote]] has a song called 'Laputa' and its lyrics directly reference the film.
+
+==Title==
+Although meaningless in Japanese, the name "Laputa" comes from [[Jonathan Swift]]'s ''[[Gulliver's Travels]]''. English language dubs of ''Laputa'' have been released under three different titles by three separate distributors, which is largely because it is identical to the Spanish rude term "la puta" (lit. "the whore").
+
+In 2003, the film's title was shortened to ''Castle in the Sky'' in several countries, including the United States, United Kingdom, Mexico, and Spain. In Spain the castle was named ''Lapuntu'' in the first dub in 2003, although in the second one made in 2010 retains the original name ''Laputa.'' In the catalan dub in 2012, the meaning of ''Laputa'' was said with the tonic syllable in "La".
+
+The film's full title was later restored in Britain, in February 2006, when Optimum Asia – a division of London-based Optimum Releasing ([[StudioCanal UK]] since 2011) – acquired the UK distribution rights to the Studio Ghibli collection from Buena Vista Home Entertainment.
+
+Additionally, during the late 1980s and early 1990s, the pre-Disney dub was screened in the UK as an art house film, under the alternative title ''Laputa: The Flying Island''. It also aired at least twice on British television, but with some scenes cut.<ref name="autogenerated1">{{cite web |title=Tenkuu no Shiro Rapyuta FAQ |publisher=The Hayao Miyazaki Web |url=http://www.nausicaa.net/miyazaki/laputa/faq.html |accessdate=2008-12-30 |archive-url=https://web.archive.org/web/20081216061438/http://www.nausicaa.net/miyazaki/laputa/faq.html |archive-date=2008-12-16 |dead-url=no |df= }}</ref>
+
+==Differences between versions==
+Although the plot and much of the script was left intact, Disney's English dub of ''Castle in the Sky'' contains some changes.
+
+* A significant amount of background chatter as well as one-liners were added (even more so than in Disney's dub of ''Kiki's Delivery Service''), filling in moments of silence and increasing the frenetic effect of certain scenes.
+* Composer [[Joe Hisaishi]] was commissioned to rework and extend his original 60-minute electronic-orchestral score into a 90-minute symphonic orchestral score, to make the film more palatable to American audiences. The sound mix received a vast overhaul as well. 
+* Pazu and Sheeta, voiced by [[James Van Der Beek]] and [[Anna Paquin]], respectively, are made to sound several years older, placing them in their mid-teens rather than their pre-teens.
+* Several modifications were made to the Dola gang's dialogue regarding Sheeta, including a declaration of love by one of the pirates. In the original Japanese version, the dialogue presented Sheeta as a potential mother figure to the pirates, rather than a potential romantic interest.
+* References to [[Robert Louis Stevenson]]'s ''[[Treasure Island]]'' and [[Jonathan Swift]]'s ''[[Gulliver's Travels]]'' were removed, the latter of which had also been removed from the original dub.<ref>{{Cite news |last=Tei |first=Andrew |url=http://www.mania.com/laputa-castle-sky_article_75073.html |title=Laputa: Castle in the Sky |work=Mania |date=October 14, 2003 |location=Santa Monica, California |publisher=Demand Media |accessdate=July 14, 2013 |archiveurl=https://web.archive.org/web/20140103145935/http://www.mania.com/laputa-castle-sky_article_75073.html |archivedate=January 3, 2014 |deadurl=yes }}</ref>
+
+Although all these alterations were approved by Studio Ghibli and Miyazaki, some critics have called them into question. Regarding the soundtrack, Miyazaki himself is said to have approved of Hisaishi's reworking;<ref>{{cite web |title=Tenkuu no Shiro Rapyuta |publisher=The Hayao Miyazaki Web |url=http://www.nausicaa.net/miyazaki/laputa/music.html |accessdate=2008-12-30 |archive-url=https://web.archive.org/web/20081220094432/http://www.nausicaa.net/miyazaki/laputa/music.html |archive-date=2008-12-20 |dead-url=no |df= }}</ref> his compliments were echoed by several reviewers.<ref>{{cite web |last=Pinsky |first=Michael |title=Castle In The Sky |publisher=DVD Verdict |date=May 21, 2003 |url=http://www.dvdverdict.com/reviews/castleinsky.php |accessdate=2008-12-30 |deadurl=yes |archiveurl=https://web.archive.org/web/20081220002905/http://www.dvdverdict.com/reviews/castleinsky.php |archivedate=December 20, 2008 |df= }}</ref><ref>{{cite web |last=Franklin |first=Garth |title=Review: "Castle in the Sky" |publisher=Dark Horizons |url=http://www.darkhorizons.com/reviews/castleinthesky.php |archive-url=https://archive.is/20130104001731/http://www.darkhorizons.com/reviews/castleinthesky.php |dead-url=yes |archive-date=2013-01-04 |accessdate=2008-12-30 }}</ref><ref>{{cite web |last=Taylor |first=Dawn |title=Castle in the Sky |publisher=DVD Journal Review |url=http://www.dvdjournal.com/quickreviews/c/castleinthesky.q.shtml |accessdate=2008-12-30 |archive-url=https://web.archive.org/web/20081220085906/http://www.dvdjournal.com/quickreviews/c/castleinthesky.q.shtml |archive-date=2008-12-20 |dead-url=no |df= }}</ref>
+
+The 2010 DVD re-release reverts some of these changes. The updated score and sound mix are replaced by the originals in the subs, retaining the updates in the dub. Some of the added dialogue is removed in the dub, restoring silence where it is in the original Japanese version. However, the English subtitles are not updated to reflect the trimmed dialogue, which sometimes results in text being displayed when no characters are speaking.
+
+These changes are also seen in the 2012 US Blu-ray release. However, for the Japanese, Australian, and British Blu-rays, the updated score is used, and the subtitles are properly timed, literal translations from the original Japanese, rather than the improperly timed [[dubtitles]].
+
+The 2017 Blu-ray re-release by GKids includes both the original track and the Disney dub with the redone soundtrack. For subtitles, the correctly translated from Japanese to English subtitles are added.
+
+==See also==
+{{portal|Anime and Manga|Film}}
+*''[[Windaria]]'' (another anime film, premiering ''earlier'' in the summer of 1986, with a large tree central to the story)
+*''[[Nadia: The Secret of Blue Water]]'' (an anime that was based on a similar idea by [[Hayao Miyazaki]])
+*''[[The Fabulous World of Jules Verne]]'' (1958)
+*''[[Atlantis: The Lost Empire]]''
+*''[[April and the Extraordinary World]]'' (2015)
+
+==References==
+{{reflist|2|refs=
+<!--
+<ref>{{cite web|url=http://www.allmovie.com/movie/castle-in-the-sky-v163047|title=Castle in the Sky (1986) - Hayao Miyazaki - Synopsis, Characteristics, Moods, Themes and Related - AllMovie|author=Andrea LeVasseur|work=AllMovie}}</ref> 
+<ref>{{cite web|url=http://www.film4.com/reviews/1986/castle-in-the-sky|title=Castle In The Sky|work=film4.com}}</ref>
+-->
+}}
+
+==External links==
+* {{Official website|http://movies.disney.com/castle-in-the-sky}}
+* {{ann|movie|481}}
+* {{AllMovie title|163047|Castle in the Sky}}
+* {{Rotten Tomatoes|castle_in_the_sky_1989}}
+* {{IMDb title|0092067|Laputa: Castle in the Sky}}
+* [http://www.nausicaa.net/miyazaki/laputa ''Laputa: Castle in the Sky''] at [[Nausicaa.net]]
+* {{bcdb title|20680|Tenkû No Shiro Rapyuta}}
+* [http://www.jmdb.ne.jp/1986/dj002100.htm 天空の城ラピュタ (''Tenkū no Shiro Rapyuta'')] at the [[Japanese Movie Database]] (Japanese)
+
+{{Hayao Miyazaki}}
+{{Studio Ghibli}}
+{{Anime Grand Prix}}
+{{Ōfuji Noburō Award}}
+
+[[Category:1986 anime films]]
+[[Category:1986 films]]
+[[Category:1980s fantasy films]]
+[[Category:Adventure anime and manga]]
+[[Category:Anime with original screenplays]]
+[[Category:Animated films about aviation]]
+[[Category:Animated films about orphans]]
+[[Category:1980s children's fantasy films]]
+[[Category:Fantasy adventure films]]
+[[Category:Fantasy anime and manga]]
+[[Category:Films scored by Joe Hisaishi]]
+[[Category:Films directed by Hayao Miyazaki]]
+[[Category:Mecha anime and manga]]
+[[Category:Romance anime and manga]]
+[[Category:Studio Ghibli animated films]]
+[[Category:Pirates in anime and manga]]
+[[Category:Toei Company films]]
+[[Category:Japanese-language films]]
+[[Category:Abandoned buildings and structures in fiction]]
+[[Category:Robot films]]
+[[Category:Airships in fiction]]
+[[Category:Steampunk anime and manga]]
+[[Category:Steampunk films]]

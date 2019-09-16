@@ -1,0 +1,383 @@
+{{Use mdy dates|date=August 2011}}
+{{Infobox film
+| name         = How to Train Your Dragon
+| image        = How to Train Your Dragon Poster.jpg
+| caption      = Theatrical release poster
+| director     = {{Plainlist|
+* [[Chris Sanders]]
+* [[Dean DeBlois]]
+}}
+| producer     = [[Bonnie Arnold]]
+| screenplay   = {{Plainlist|
+* [[William Davies (screenwriter)|Will Davies]]
+* Dean DeBlois
+* Chris Sanders
+}}
+| based on     = {{Based on|''[[How to Train Your Dragon]]''|[[Cressida Cowell]]}}
+| starring     = {{Plainlist|
+* [[Jay Baruchel]]
+* [[Gerard Butler]]
+* [[Craig Ferguson]]
+* [[America Ferrera]]
+* [[Jonah Hill]]
+* [[Christopher Mintz-Plasse]]
+* [[T. J. Miller]]
+* [[Kristen Wiig]]
+}}
+| music         = [[John Powell (film composer)|John Powell]]
+| editing       = {{Plainlist|
+* [[Darren T. Holmes]]
+* [[Maryann Brandon]]
+}}
+| studio        = [[DreamWorks Animation]]
+| distributor   = [[Paramount Pictures]]
+| released      = {{Plainlist|
+* {{Film date|2010|3|21|[[Universal Amphitheater|Gibson Amphitheater]]|2010|3|26|United States|}}
+}}
+| runtime       = 98&nbsp;minutes
+| country       = United States
+| language      = English
+| budget        = $165 million<ref name="BoxOfficeMojo" />
+| gross         = $494.9 million<ref name="BoxOfficeMojo">{{cite web|url=http://www.boxofficemojo.com/movies/?id=howtotrainyourdragon.htm|title=How to Train Your Dragon (2019)|access-date=May 17, 2019|work=[[Box Office Mojo]]|publisher=[[IMDb]]}}</ref>
+}}
+'''''How to Train Your Dragon''''' is a 2010 American [[Computer animation|computer-animated]] [[Action film|action]] [[fantasy film]] loosely based on the [[How to Train Your Dragon#How to Train Your Dragon (2003)|2003 book of the same name]] by British author [[Cressida Cowell]], produced by [[DreamWorks Animation]] and distributed by [[Paramount Pictures]]. The film was directed by [[Chris Sanders]] and [[Dean DeBlois]] from a screenplay by [[William Davies (screenwriter)|Will Davies]], Sanders, and DeBlois, and stars the voices of [[Jay Baruchel]], [[Gerard Butler]], [[Craig Ferguson]], [[America Ferrera]], [[Jonah Hill]], [[Christopher Mintz-Plasse]], [[T. J. Miller]], and [[Kristen Wiig]]. The story takes place in a mythical [[Vikings|Viking]] world where a young Viking teenager named Hiccup aspires to follow his tribe's tradition of becoming a [[dragon]] slayer. After finally capturing his first dragon, and with his chance at last of gaining the tribe's acceptance, he finds that he no longer wants to kill the dragon and instead befriends it.
+
+The film premiered at the [[Universal Amphitheater|Gibson Amphitheater]] on March 21, 2010,<ref name="HTTYDPremiere" /> and was released in the United States five days later on March 26. The film was a critical and commercial success, earning praise from film critics and audiences and earning nearly $500 million worldwide. It was nominated for the [[Academy Award for Best Animated Feature]] and [[Academy Award for Best Original Score|Best Original Score]] at the [[83rd Academy Awards]], but lost to ''[[Toy Story 3]]'' and ''[[The Social Network]]'', respectively. ''How to Train Your Dragon'' also won ten [[Annie Awards]], including [[Annie Award for Best Animated Feature|Best Animated Feature]].
+
+Two sequels, ''[[How to Train Your Dragon 2]]'' and ''[[How to Train Your Dragon: The Hidden World]]'', were released on June 13, 2014, and February 22, 2019, respectively. Much like their predecessor, both sequels were widely praised and became box office successes. The film's success has also inspired other merchandise, including a [[How to Train Your Dragon (video game)|video game]] and a [[DreamWorks Dragons|television series]].
+
+== Plot ==
+The [[Vikings|Viking]] village of Berk, located on a remote island, is attacked frequently by dragons, which take livestock and damage property. Hiccup, the awkward fifteen-year-old son of the village chieftain, Stoick the Vast, is deemed too scrawny and weak to fight the dragons, so he instead creates mechanical devices under his apprenticeship with Gobber, the village blacksmith, though Hiccup's inventions often backfire. During one attack, Hiccup uses a [[bolas]] launcher to shoot down a Night Fury, a dangerous and rare dragon of which little is known, but no one believes him, so he searches for the fallen dragon on his own. He finds the dragon in the forest, tangled in his net, but cannot bring himself to kill it, and instead sets it free.
+
+Stoick assembles a fleet to find the dragons' nest, and enters Hiccup in a dragon-fighting class with Astrid, Fishlegs, Snotlout, Ruffnut, Tuffnut, and taught by Gobber, to train while he is away. Hiccup returns to the forest and finds the Night Fury still there, unable to fly because Hiccup's bolas tore off half of its tail fin. Hiccup befriends the dragon, giving it the name 'Toothless'. Feeling guilty for crippling Toothless, Hiccup designs a harness rig and a [[prosthetic]] fin that allow the dragon to fly with Hiccup controlling the prosthetic.
+
+Hiccup learns about dragon behavior as he works with Toothless, and is able to nonviolently subdue all the captive dragons during training, earning him the admiration of his peers, but causing Astrid, a tough Viking girl on whom Hiccup has a crush, to become increasingly suspicious of his behavior. Meanwhile, Stoick's fleet arrives home unsuccessful, though Stoick is cheered by Hiccup's unexpected success in dragon training. Hiccup is judged the winner of his training class, and must kill a dragon for his final exam. He tries to run away with Toothless, only to be followed by Astrid in the forest. Hiccup takes Astrid for a flight to demonstrate that the dragon is friendly. When Astrid reminds Hiccup of the exam, Toothless unexpectedly takes the pair to the dragons' nest, where they discover a gargantuan dragon named the Red Death, which eats the smaller dragons unless they constantly bring it live food; the two realize that the dragons have been attacking Berk under duress. Astrid wishes to tell the village about their discovery, but Hiccup advises against it to protect Toothless. 
+
+Back at the village the next day, Hiccup faces a captive Monstrous Nightmare dragon in his final exam. Instead of killing it, however, he subdues it in an attempt to prove that dragons are peaceful. When Stoick inadvertently angers the dragon into attacking, Toothless arrives to protect Hiccup, but is captured by the Vikings in the process. Hiccup accidentally reveals to Stoick that Toothless knows the location of the dragons' nest; Stoick disowns his son, and sets off for the nest with Toothless chained to the lead ship as a guide. After the Vikings have left, Hiccup is devastated, but Astrid prompts him to come to the realization that he spared Toothless out of compassion and empathy, not weakness. Hiccup then regains his confidence to go after Toothless and save him along with Astrid and the other teens.
+
+The Viking attackers locate and break open the dragon's nest, causing most of the dragons to fly out, but also awakening the Red Death, which soon overwhelms the Vikings. Hiccup, Astrid, and their fellow pupils fly in, riding Berk's captive training dragons, providing cover fire, and distracting the Red Death while Hiccup frees Toothless. Hiccup almost drowns while doing so, but Stoick saves them both, reconciling with his son. Toothless and Hiccup destroy the Red Death by puncturing its wing membranes and then tricking the beast into making a plunge from which it cannot pull up after shooting a fireball into its mouth. Hiccup is injured in the fight, losing his lower left leg. Hiccup awakens back on Berk, finding that Gobber has fashioned him a prosthesis, and he is now admired by his village, especially Astrid, who kisses him. Berk begins a new era, with humans and dragons living in harmony.
+
+==Cast==
+* [[Jay Baruchel]] as Hiccup Horrendous Haddock III, the awkward son of Stoick the Vast.<ref name=cast>"Viking-Sized Cast", ''How to Train Your Dragon'' Blu-ray</ref>
+* [[America Ferrera]] as Astrid Hofferson, Hiccup's fellow student in dragon training and his love interest. 
+* [[Gerard Butler]] as Stoick the Vast, the chieftain of Berk and Hiccup's father.<ref name=cast/>
+* [[Craig Ferguson]] as Gobber the Belch, Berk's blacksmith, a close friend of Stoick's and teacher of the tribe's young dragon-training recruits.<ref>{{cite web|url=http://www.moviesonline.ca/movienews_17051.html |title=Gerard Butler Interview, Movies Online |deadurl=yes |archiveurl=https://web.archive.org/web/20090722103059/http://www.moviesonline.ca/movienews_17051.html |archivedate=July 22, 2009 }}</ref><ref name=cast/>
+* [[Christopher Mintz-Plasse]] as Fishlegs Ingerman, an enthusiastic youth knowledgeable in dragon lore which he often relates in [[role-playing game]] style.<ref>{{cite news|title=Nadder, Zippleback and Gronckle Lessons From 'How to Train Your Dragon' |work=Lineboil |date=February 17, 2010 |url=http://lineboil.com/2010/02/nadder-zippleback-and-gronckle-lessons-from-how-to-train-your-dragon |accessdate=February 17, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100223003151/http://lineboil.com/2010/02/nadder-zippleback-and-gronckle-lessons-from-how-to-train-your-dragon/ |archivedate=February 23, 2010}}</ref><ref name=cast/>
+* [[Jonah Hill]] as Snotlout Jorgenson, one of Hiccup's dragon-training classmates. Snotlout is brash, overconfident, and fairly unintelligent, but reliable.
+* [[T.J. Miller]] and [[Kristen Wiig]] as Tuffnut and Ruffnut Thorston, a pair of quarrelsome twins.
+* [[David Tennant]] as Spitelout, Snotlout's father.<ref>{{cite web |url=http://tennantnews.blogspot.com/2010/03/how-to-train-your-dragon.html |title=David Tennant News Updates: How To Train Your Dragon |accessdate=November 21, 2010}}</ref>
+
+== Production ==
+[[File:Toothlessconceptart.jpg|thumb|left|Early production concept artwork of "Toothless" and "Hiccup"]]
+The book series by [[Cressida Cowell]] began coming to attention to the executives at [[DreamWorks Animation]] in 2004. Coming off her success in ''[[Over the Hedge (film)|Over the Hedge]]'', producer [[Bonnie Arnold]] shortly became interested in the newly acquired property. She kept focusing on the project as time went on, and when DreamWorks Animation co-president of production [[Bill Damaschke]] asked her what she wanted to work on next, she chose "How to Train Your Dragon".<ref>{{cite web|last=Nasson |first=Tim |url=http://www.wildaboutmovies.com/behind_the_scenes/HowToTrainYourDragon-BEHINDTHESCENES.php |title=How To Train Your Dragon&nbsp;— BEHIND THE SCENES |publisher=Wild About Movies |date=March 18, 2010 |accessdate=May 15, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20111105114736/http://www.wildaboutmovies.com/behind_the_scenes/HowToTrainYourDragon-BEHINDTHESCENES.php |archivedate=November 5, 2011}}</ref>
+
+During initial development, the plot followed the original novel closely, but about halfway through production [[Chris Sanders]] and [[Dean DeBlois]], previously the writers & directors of [[Walt Disney Animation Studios|Disney]]'s ''[[Lilo & Stitch]]'', took over as co-directors and it was altered. The original plot was described as, "heavily loyal to the book", but was regarded as being too "sweet" and "whimsical" as well as geared towards a too-young demographic, according to Baruchel.<ref name="devusatoday">[https://www.usatoday.com/life/movies/news/2009-11-04-how-to-tame-a-dragon_N.htm First look: DreamWorks' 3-D 'How to Train Your Dragon']. ''USA Today''. April 11, 2009. Retrieved November 21, 2010.</ref> In the novel, Hiccup's dragon, Toothless, is a Common or Garden Dragon, a small breed. In the film, Toothless is a Night Fury, the rarest of all dragons, and is large enough to serve as a flying mount for both Hiccup and Astrid. The filmmakers hired cinematographer [[Roger Deakins]] (known for frequently collaborating with [[the Coen brothers]]) as a visual consultant to help them with lighting and overall look of the film and to "add a live-action feel".<ref name="devusatoday"/> Extensive research was done to depict both flight, as the directors knew they would be the biggest draw of the film's 3D effects, and fire, given animation could break away from the limitations seen in live-action films, where [[propane]] flames are usual due to being easier to extinguish. The dragons' design made sure to create animals that were comical and also innovative compared to other dragon fiction. Toothless in particular tried to combine various dragon traits in a [[black panther]]-inspired design, that also had large ears and eyes to convey emotion better.<ref name=tech>"The Technical Artistry of 'Dragon'", ''How to Train Your Dragon'' Blu-ray</ref>
+
+The directors made sure to cash in the improvisation abilities of the secondary cast—Christopher Mintz-Plasse, Jonah Hill, Kristen Wiig and T.J Miller—by frequently bringing them together in the recording sessions.<ref name=cast/>
+{{clear}}
+
+== Music ==
+{{Main|How to Train Your Dragon: Music from the Motion Picture}}
+[[John Powell (film composer)|John Powell]] returned to DreamWorks Animation to score ''How to Train Your Dragon'', making it his sixth collaboration with the studio, following his previous score for ''[[Kung Fu Panda]]'' (which he scored with [[Hans Zimmer]]). Powell composed an orchestral score, combining bombastic brass with loud percussion and soothing strings, while also using exotic, Scottish and Irish tones with instruments like the [[penny whistle]] and [[bagpipes]]. Additionally, Icelandic singer [[Jón Þór Birgisson|Jónsi]] wrote and performed the song "Sticks & Stones" for the film. The score was released by [[Varèse Sarabande]] on March 23, 2010.
+
+Overall, the score was well received by film score critics. Powell earned his first [[Academy Award for Best Original Score|Academy Award]] nomination for his work on the film, ultimately losing to [[Trent Reznor]] and [[Atticus Ross]] for their score for ''[[The Social Network]]''.
+
+== Release ==
+''How to Train Your Dragon'' had its United States premiere on March 21, 2010 at the [[Gibson Amphitheatre]] in [[Universal City, California]],<ref name=HTTYDPremiere>{{cite web|last1=Murray|first1=Rebecca|title='How to Train Your Dragon' Exclusive Premiere Photos|url=http://movies.about.com/od/howtotrainyourdragon/ig/Train-Your-Dragon-Premiere/|publisher=About.com|accessdate=August 19, 2014|date=March 21, 2010|archive-url=https://web.archive.org/web/20140726195454/http://movies.about.com/od/howtotrainyourdragon/ig/Train-Your-Dragon-Premiere/|archive-date=July 26, 2014|dead-url=yes|df=mdy-all}}</ref> and was theatrically released on March 26, 2010 in the United States.<ref name=GNFliesIMAX>{{cite press release|author1=IMAX Corporation|title=DreamWorks Animation's How to Train Your Dragon Flies Into IMAX(R) Theatres on March 26, 2010|url=http://globenewswire.com/news-release/2010/03/24/417062/187344/en/DreamWorks-Animation-s-How-to-Train-Your-Dragon-Flies-Into-IMAX-R-Theatres-on-March-26-2010.html|publisher=GlobeNewswire|accessdate=August 19, 2014|date=March 24, 2010}}</ref> It was originally scheduled for release on November 20, 2009, but was pushed back to avoid competition with crowded family films released in November.<ref>{{cite news |last1=Bond |first1=Paul |title=DreamWorks delays "Dragon" 3-D film to 2010 |url=https://www.reuters.com/article/us-dragon/dreamworks-delays-dragon-3-d-film-to-2010-idUSN27122320080227 |accessdate=26 May 2019 |work=Reuters |date=27 February 2008 |language=en}}</ref> The film was digitally re-mastered into [[IMAX 3D]], and released to 186 North American IMAX theatres, and approximately 80 IMAX theatres outside North America.<ref name=GNFliesIMAX />
+
+=== Competition for 3D screens ===
+A month before the release, DreamWorks Animation CEO [[Jeffrey Katzenberg]] protested [[Warner Bros.]]' decision to convert ''[[Clash of the Titans (2010 film)|Clash of the Titans]]'' from 2D to 3D, then to release it one week after ''How to Train Your Dragon''.<ref>{{cite web |url=http://latimesblogs.latimes.com/entertainmentnewsbuzz/2010/02/katzenberg-.html |title=Katzenberg angry over Warner's 'Clash of the Titans' 3-D release |author1=Verrier, Richard |author2=Claudia Eller |work=Los Angeles Times |accessdate=April 1, 2010 |date=February 10, 2010}}</ref> Entertainment reporter Kim Masters described the 3D release schedule around March 2010 as a "traffic jam", and speculated that the lack of 3D screen availability could hurt Katzenberg's prospects despite his support of the 3D format.<ref>{{cite web |url=https://www.npr.org/templates/story/story.php?storyId=125086877 |title=Coming To A Screen Near You: A 3-D Clash |author1=Kim Masters |author2=Renee Montagne |work=Morning Edition |publisher=NPR |accessdate=April 1, 2010 |date=March 21, 2010}}</ref>
+
+In March 2010, theater industry executives accused [[Paramount Pictures]] (who distributed the film on behalf of DreamWorks) of using high-pressure tactics to coerce theaters to screen ''How to Train Your Dragon'' rather than competing 3D releases, ''Clash of the Titans'' and [[Tim Burton]]'s ''[[Alice in Wonderland (2010 film)|Alice in Wonderland]]''. As theater multiplexes often had just one 3D screen, theaters were unable to accommodate more than one 3D presentation at a time.<ref>{{cite web |url=https://www.washingtonpost.com/wp-dyn/content/article/2010/03/18/AR2010031806233.html |title='How to Train Your Dragon,' 'Clash of the Titans' clash for 3-D screens |author1=Richard Verrier |author2=Ben Fritz |work=The Washington Post |accessdate=April 1, 2010 |date=March 21, 2010}}</ref>
+
+=== Box office ===
+''How to Train Your Dragon'' topped the North American box office with $43.7&nbsp;million in its first weekend of release.<ref>{{cite web |url=http://www.boxofficemojo.com/news/?id=2693&p=.htm|title=Weekend Report: ‘Dragon’ Takes Flight, ‘Hot Tub’ Gets Soaked|author=Gray, Brandon |publisher=[[IMDb]]|work=[[Box Office Mojo]]|accessdate=March 28, 2010|date=March 28, 2010}}</ref> The film grossed $217,581,231 in the United States and Canada and $277,297,528 in foreign countries with a worldwide total of $494,878,759.<ref name="BoxOfficeMojo" /> ''How to Train Your Dragon'' is [[DreamWorks Animation]]'s highest-grossing film in the American and Canadian box office other than the [[Shrek (franchise)|''Shrek'' films]].<ref>{{cite web|title=DreamWorks Animation|url=http://boxofficemojo.com/franchises/chart/?id=dwanimation.htm|publisher=Box Office Mojo|accessdate=July 13, 2012}}</ref> It is the fifth-highest-grossing animated film of 2010 with $494.8&nbsp;million, behind ''[[Toy Story 3]]'' with $1,063.2&nbsp;million, ''[[Shrek Forever After]]'' with $752.6&nbsp;million, ''[[Tangled]]'' with $576.6&nbsp;million, and ''[[Despicable Me]]'' with $543.1&nbsp;million and the [[2010 in film#Highest-grossing films|10th-highest-grossing movie of 2010]].<ref>{{cite web |url=http://www.boxofficeprophets.com/column/index.cfm?columnID=12766 |title=Dragons Roast Fake Hero Wannabes |author=Hamann, John |publisher=Box Office Prophets |accessdate=April 27, 2010|date=April 18, 2010}}</ref> {{as of|2019}}, the ''How to Train Your Dragon'' series has grossed over $1 billion worldwide.<ref>{{Cite web|url= https://www.boxofficemojo.com/franchises/chart/?id=httyd.htm |title= How to Train Your Dragon Movies at the Box Office |website=www.boxofficemojo.com| access-date= September 11, 2019}}</ref>
+
+=== Critical response ===
+''How to Train Your Dragon'' was widely praised upon its release. Review aggregator [[Rotten Tomatoes]] reports that 99% of critics gave the film a positive review, based on 207 reviews from professional critics, with an overall rating average of 7.88/10.<ref name="RottenTomatoes">{{cite web |url=https://www.rottentomatoes.com/m/how_to_train_your_dragon |title=How to Train Your Dragon (2010) |publisher=[[Fandango Media]] |work=[[Rotten Tomatoes]] |access-date= November 16, 2018}}</ref> The website's critical consensus states, "Boasting dazzling animation, a script with surprising dramatic depth, and thrilling 3-D sequences, ''How to Train Your Dragon'' soars."<ref name="RottenTomatoes" /> The film is DreamWorks Animation's highest-rated film on the ''Rotten Tomatoes'' website.<ref>{{cite web | author = Alex Vo | date = January 26, 2016 | page= 13 |url= https://editorial.rottentomatoes.com/gallery/history-of-dreamworks-animation/#&gid=1&pid=13 |title= THE HISTORY OF DREAMWORKS ANIMATION |publisher=[[Fandango Media]] |work=[[Rotten Tomatoes]] |quote= The studio got the highest critical marks of its existence with this adaptation of the Cressida Crowell children’s books. | archive-url = https://web.archive.org/web/20160201185423/https://editorial.rottentomatoes.com/gallery/history-of-dreamworks-animation/#&gid=1&pid=13 | archive-date = 2016-02-01 |access-date= November 16, 2018}}</ref> On [[Metacritic]], the film has a weighted average score of 74 based on 33 reviews from critics, indicating "generally favorable reviews".<ref>{{cite web |url=http://www.metacritic.com/film/titles/howtotrainyourdragon |title=How to Train Your Dragon Reviews|work=[[Metacritic]] |publisher=[[CBS Interactive]] |accessdate=March 27, 2010}}</ref> [[CinemaScore]] polls conducted during the opening weekend revealed the average grade cinemagoers gave ''How to Train Your Dragon'' was A on an A+ to F scale.<ref>{{cite news|first=Christopher |last=Rosen |url=http://www.observer.com/2010/culture/box-office-breakdown-idragoni-slays-all-comers# |title=Box Office Breakdown: Dragon Slays All Comers |publisher=[[The New York Observer]] |work=Daily Transom |date=March 28, 2010 |accessdate=March 28, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100331095926/http://www.observer.com/2010/culture/box-office-breakdown-idragoni-slays-all-comers |archivedate=March 31, 2010}}</ref>
+
+[[Roger Ebert]] of ''[[The Chicago Sun-Times]]'' gave it 3 stars out of 4, stating that: "It devotes a great deal of time to aerial battles between tamed dragons and evil ones, and not much to character or story development. But it's bright, good-looking, and has high energy".<ref name="ebert">{{cite web |url=https://www.rogerebert.com/reviews/how-to-train-your-dragon-2010 |title=How to Train Your Dragon|authorlink=Roger Ebert |last=Ebert |first=Roger |date=March 24, 2010 |publisher=Ebert Digital LLC |work=RogerEbert.com |accessdate=March 20, 2018}}</ref> Claudia Puig of ''[[USA Today]]'' gave it 3.5 out of 4 stars, saying, "It's a thrilling action-adventure saga with exhilarating 3-D animation, a clever comedy with witty dialogue, a coming-of-age tale with surprising depth and a sweetly poignant tale of friendship between man and animal."<ref name="Puig">{{cite web |url=https://www.usatoday.com/life/movies/reviews/2010-03-26-dragonreview26_ST_N.htm |title='Dragon': How to do smart dialogue, 3-D visuals the right way |last=Puig |first=Claudia |date=March 26, 2010 |work=[[USA Today]] |accessdate=March 26, 2010}}</ref> ''[[Rolling Stone (magazine)|Rolling Stone]]'' film critic [[Peter Travers]] praised the film, giving it three out of four stars and writing in his print review that the film "works enough miracles of 3-D animation to charm your socks off."<ref>{{cite web |last=Travers |first=Peter |work=[[Rolling Stone]] |date=March 18, 2010 |title=How to Train Your Dragon: Review |url=https://www.rollingstone.com/movies/reviews/how-to-train-your-dragon-20100318 |accessdate=June 28, 2011}}</ref> Roger Moore of ''[[The Orlando Sentinel]]'', who gave the film 2{{sfrac|1|2}} stars out of 4, wrote a mixed review describing the film as a "more coming-of-age dramedy or 'everything about your world view is wrong' message movie than it is a comedy, and that seems like a waste of a funny book, some very funny actors and some darned witty animation."<ref>{{cite web|url=http://blogs.orlandosentinel.com/entertainment_movies_blog/2010/03/movie-review-how-to-train-your-dragon.html |title=Movie Review: How to Train Your Dragon |last=Moore |first=Roger |work=[[The Orlando Sentinel]] |accessdate=March 27, 2010 |date=March 24, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100805071654/http://blogs.orlandosentinel.com/entertainment_movies_blog/2010/03/movie-review-how-to-train-your-dragon.html |archivedate=August 5, 2010 }}</ref> [[Kyle Smith]] of the ''[[New York Post]]'' gave the film 2/4 stars labeling the film as, "''[[Avatar (2009 film)|Avatar]]'' for simpletons. But that title is already taken, by ''Avatar''".<ref>{{cite web |url=http://www.nypost.com/p/entertainment/movies/dragon_breathes_little_fire_mQ5lMP9zQMvwzF0RcSRgjK |title='How to Train Your Dragon' breathes little fire |last=Smith |first=Kyle |work=[[New York Post]] |publisher=NYP Holdings, Inc |accessdate=March 27, 2010 |date=March 26, 2010}}</ref> Contrarily, Brett Michel of ''The Boston Phoenix'' stated that the film was better than ''Avatar''. [[A. O. Scott]] of ''[[At the Movies (1986 TV program)|At The Movies]]'' felt the characters and the story were not strong points, but loved the cinematography and said, "that swooping and soaring, they are worth the price of a ticket, so go see it."<ref name="A. O. Scott">{{cite web|first=A. O. |last=Scott |title=How to Train Your Dragon film review |publisher=AtTheMoviesTV.com |accessdate=March 27, 2010 |url=http://www.atthemoviestv.com |deadurl=yes |archiveurl=https://web.archive.org/web/20081118195041/http://www.atthemoviestv.com/ |archivedate=November 18, 2008 }}</ref> ''[[Village Voice]]'' film critic [[Ella Taylor]] gave a more negative review of the film, describing it as an "adequate but unremarkable animated tale".<ref name="village voice">{{cite web |url=http://www.villagevoice.com/2010-03-24/film/how-to-train-your-dragon-an-adequate-but-unremarkable-animated-tale |title=How to Train Your Dragon, an Adequate but Unremarkable Animated Tale |last=Taylor |first=Ella |work=[[Village Voice]] |accessdate=March 27, 2010 |date=March 24, 2010}}</ref> Film critic [[James Berardinelli]] of ''ReelViews'' praised the film and its story, giving it 3.5 out of 4 stars he wrote, "Technically proficient and featuring a witty, intelligent, surprisingly insightful script, ''How to Train Your Dragon'' comes close to the level of [[Pixar]]'s recent output while easily exceeding the [[juvenilia]] DreamWorks has released in the last nine years."<ref>{{cite web |last=Berardinelli |first=James |work=ReelViews |date=March 26, 2010 |title='How to Train Your Dragon' review |url=http://www.reelviews.net/php_review_template.php?identifier=2048 |accessdate=March 28, 2010}}</ref> ''[[Entertainment Weekly]]'' film critic [[Owen Gleiberman]] praised the film giving it an A- and wrote, "''How to Train Your Dragon'' rouses you in conventional ways, but it's also the rare animated film that uses 3-D for its breathtaking spatial and emotional possibilities."<ref>{{cite web |last=Gleiberman |first=Owen |work=[[Entertainment Weekly]] |date=March 24, 2010 |title=How to Train Your Dragon |url=http://ew.com/article/2010/03/24/how-train-your-dragon-2/ |publisher=[[Time (magazine)|Time]] |accessdate=March 27, 2010}}</ref> ''ViewLondon''{{'}}s Mathew Turner gave the film 4/5 stars, calling it, "beautifully animated and superbly written", and praised the voice cast, humor, and action. Matt Risley of ''[[Variety (magazine)|Variety]]'' gave the film a perfect score of 5/5 stars, hailing it as, "undoubtedly Dreamworks' best film yet, and quite probably the best dragon movie ever made".<ref>{{Cite news|url=http://www.sky.com/tv/movie/how-to-train-your-dragon-2010|title=How To Train Your Dragon|work=Find and Watch|access-date=2018-07-13}}</ref>
+
+=== Accolades ===
+{| class="wikitable"
+|- style="background:#ccc; text-align:center;"
+! colspan="4" style="background: LightSteelBlue;" | Awards
+|- style="background:#ccc; text-align:center;"
+! Award
+! Category
+! Name
+! Outcome
+|-
+| rowspan=2|'''[[83rd Academy Awards|Academy Awards]]'''<ref>{{cite news|title=83rd Academy Award Nominations|url=https://variety.com/2011/scene/news/83rd-academy-award-nominations-1118030824/|accessdate=March 29, 2015|work=Variety|date=January 25, 2011}}</ref>
+| [[Academy Award for Best Animated Feature]]
+| [[Chris Sanders (director)|Chris Sanders]]<br />[[Dean DeBlois]]
+| rowspan=3 align="center" {{Nom}}
+|-
+| [[Academy Award for Best Original Score]]
+| [[John Powell (film composer)|John Powell]]
+|-
+| rowspan=2|'''[[Alliance of Women Film Journalists]]'''<ref>{{cite web|title=2010 EDA Awards Nominees|url=http://awfj.org/eda-awards-2/2010-eda-awards-nominees/|publisher=Alliance of Women Film Journalists|accessdate=March 29, 2015}}</ref>
+| Best Animated Feature
+|
+|-
+| Best Animated Female
+| [[America Ferrera]] (Astrid)
+| rowspan=3 align="center" {{won}}
+|-
+| style="border-top:10px black" rowspan=15| '''[[38th Annie Awards|Annie Awards]]'''<ref>{{cite web|title=38th Annial Annie Nominations|url=http://annieawards.org/38th-annie-awards|publisher=Annie Awards|accessdate=March 29, 2015}}</ref><ref>{{cite web|last1=Finke|first1=Nikki|title=38th Annual Annie Animation Awards: DWA's 'How To Train Your Dragon' Wins (After Disney Boycotts)|url=http://deadline.com/2011/02/38th-annual-annie-animation-awards-dwas-how-to-train-your-dragon-wins-after-disney-exits-103897/|publisher=Deadline|accessdate=March 29, 2015|date=February 5, 2011}}</ref>
+| [[Annie Award for Best Animated Feature]]
+| [[Bonnie Arnold]]<br />[[Chris Sanders (director)|Chris Sanders]]<br />[[Dean DeBlois]]
+|-
+| rowspan=2| [[Annie Awards#Individual achievement|Annie Award for Best Animated Effects in an Animated Production]]
+| Brett Miller
+|-
+| Jason Mayer
+| {{Nom}}
+|-
+| rowspan=3| [[Annie Awards#Individual achievement|Annie Award for Best Character Animation in a Feature Production]]
+| Gabe Hordos
+| {{Won}}
+|-
+| Jakob Hjort Jensen
+| rowspan=2 align="center" {{Nom}}
+|-
+| David Torres
+|-
+| [[Annie Awards#Individual achievement|Annie Award for Best Character Design in an Animated Feature Production]]
+| Nico Marlet
+| rowspan=5 align="center" {{Won}}
+|-
+| [[Annie Awards#Individual achievement|Annie Award for Best Directing in an Animated Feature Production]]
+| Chris Sanders<br />Dean DeBlois
+|-
+| [[Annie Awards#Individual achievement|Annie Award for Best Music in an Animated Feature Production]]
+| John Powell
+|-
+| [[Annie Awards#Individual achievement|Annie Award for Production Design in an Animated Feature Production]]
+| Pierre-Olivier Vincent
+|-
+| rowspan=2| [[Annie Awards#Individual achievement|Annie Award for Best Storyboarding in an Animated Feature Production]]
+| Tom Owens
+|-
+| Alessandro Carloni
+| {{Nom}}
+|-
+| rowspan=2| [[Annie Awards#Individual achievement|Annie Award for Best Voice Acting in an Animated Feature Production]]
+| [[Jay Baruchel]] (Hiccup)
+| {{Won}}
+|-
+| [[Gerard Butler]] (Stoick)
+| {{Nom}}
+|-
+| [[Annie Awards#Individual achievement|Annie Award for Best Writing in an Animated Feature Production]]
+| [[William Davies (screenwriter)|William Davies]]<br />Chris Sanders<br />Dean DeBlois
+| {{Won}}
+|-
+| style="border-top:10px black" rowspan=2| '''[[64th British Academy Film Awards|British Academy Film Awards]]'''<ref>{{cite web|title=Bafta Film Awards 2011: Winners|url=https://www.bbc.com/news/entertainment-arts-12445061|publisher=BBC News|accessdate=March 29, 2015|date=February 13, 2011}}</ref>
+| [[BAFTA Award for Best Animated Film]]
+|
+| rowspan=4 align="center" {{Nom}}
+|-
+| [[BAFTA Award for Best Film Music]]
+| John Powell
+|-
+| '''[[Chicago Film Critics Association Awards 2010|Chicago Film Critics Association Awards]]'''<ref>{{cite news|title=The 'Social Network' Tops Chicago Film Critics Nominations|url=http://www.hollywoodreporter.com/news/social-network-tops-chicago-film-61348|accessdate=March 29, 2015|work=The Hollywood Reporter|date=December 17, 2010}}</ref>
+| [[Chicago Film Critics Association Award for Best Animated Film|Best Animated Film]]
+| Chris Sanders<br>Dean DeBlois
+|-
+| |'''[[16th Critics' Choice Awards|Critics' Choice Awards]]'''<ref>{{cite web|last1=Goldberg|first1=Matt|title=Critics Choice Awards Nominations Announced; BLACK SWAN Lands Record 12 Nominations|url=http://collider.com/critics-choice-awards-nominations/|publisher=Collider|accessdate=March 29, 2015|date=December 13, 2010}}</ref>
+| Best Animated Feature Film
+|
+|-
+| |'''[[Genesis Awards]]'''<ref>{{cite web|last1=Pond|first1=Steve|title=Oprah Winfrey, Steven Colbert, ‘How to Train Your Dragon’ Win Genesis Awards|url=http://www.thewrap.com/awards/column-post/oprah-winfrey-steven-colbert-how-train-your-dragon-win-genesis-awards-25661/|publisher=The Wrap|accessdate=March 29, 2015|date=March 20, 2011}}</ref>
+| Best Feature Film
+|
+| {{Won}}
+|-
+| | '''[[68th Golden Globe Awards|Golden Globe Awards]]'''<ref>{{cite web|last1=Finke|first1=Nikki|title=2011 Golden Globe Nominations Announced|url=http://deadline.com/2010/12/2011-golden-globe-nominations-announced-90609/|publisher=Deadline|accessdate=March 29, 2015|date=December 14, 2010}}</ref>
+| [[Golden Globe Award for Best Animated Feature Film]]
+|
+| {{Nom}}
+|-
+| |'''[[Motion Picture Sound Editors|Golden Reel Awards]]'''<ref>{{cite news|last1=Giardina|first1=Carolyn|title='Inception' Tops Sound Editors Golden Reel Awards|url=http://www.hollywoodreporter.com/news/inception-tops-sound-editors-golden-159640|accessdate=March 30, 2015|work=The Hollywood Reporter|date=February 20, 2011}}</ref>
+| Best Sound Editing in an Animated Feature Film
+|
+| rowspan=3 align="center" {{Won}}
+|-
+| rowspan=4|'''[[International Film Music Critics Association]]'''<ref>{{cite web|title=IFMCA announces its 2010 nominees for scoring excellence|url=http://filmmusiccritics.org/2011/02/ifmca-announces-its-2010-nominees-for-scoring-excellence/|publisher=International Film Music Critics Association|accessdate=March 30, 2015|date=February 11, 2011}}</ref><ref>{{cite web|title=IFMCA announces its 2010 Winners for scoring excellence|url=http://filmmusiccritics.org/2011/02/ifmca-announces-its-2010-winners-for-scoring-excellence/|publisher=International Film Music Critics Association|accessdate=March 30, 2015|date=February 24, 2011}}</ref>
+| Film Score of the Year
+| John Powell
+|-
+| Best Original Score for an Animated Feature
+| John Powell
+|-
+| rowspan=2|Film Music Composition of the Year
+| John Powell&nbsp;– "Forbidden Friendship"
+| rowspan=11 align="center" {{Nom}}
+|-
+| John Powell&nbsp;– "Test Drive"
+|-
+| '''[[Kids' Choice Awards]]'''<ref>{{cite web|last1=Bricker|first1=Tierney|title=Kids' Choice Awards 2011 Nominees: Miley Cyrus, Justin Bieber and Selena Gomez lead|url=http://www.zap2it.com/blogs/kids_choice_awards_2011_nominees_miley_cyrus_justin_bieber_and_selena_gomez_lead-2011-02|publisher=Zap2it|accessdate=March 29, 2015|date=February 10, 2011}}</ref>
+| Favorite Animated Movie
+|
+|-
+| '''[[Online Film Critics Society Awards 2010|Online Film Critics Society Awards]]'''<ref>{{cite web|title=2010 Awards (14th Annual)|url=http://www.ofcs.org/awards/2010-awards/|publisher=Online Film Critics Society|accessdate=March 30, 2015}}</ref>
+| [[Online Film Critics Society Award for Best Animated Film|Best Animated Feature]]
+| Chris Sanders<br>Dean DeBlois
+|-
+| |'''[[37th People's Choice Awards|People's Choice Awards]]'''<ref>{{cite news|last1=Day|first1=Kevin|title='Alice in Wonderland', 'Twilight Saga' among People's Choice Awards Nominees|url=http://latimesblogs.latimes.com/awards/2010/11/alice-in-wonderland-twilight-saga-among-peoples-choice-award-nominees.html|accessdate=March 30, 2015|work=Los Angeles Times|date=November 9, 2010}}</ref>
+| Favorite Family Movie
+|
+|-
+| |'''[[Producers Guild of America Awards 2010|Producers Guild of America Awards]]'''
+| [[Producers Guild of America Award for Best Animated Motion Picture|Outstanding Producer of Animated Theatrical Motion Pictures]]
+| Bonnie Arnold
+|-
+| |'''[[Satellite Awards]]'''<ref>{{cite web|title=2010 Satellite Awards|url=http://www.pressacademy.com/award_cat/satellite-awards/|publisher=International Press Academy|accessdate=March 30, 2015}}</ref>
+| Motion Picture (Animated or Mixed)
+|
+|-
+| rowspan=3|'''[[37th Saturn Awards|Saturn Awards]]'''<ref>{{cite web|last1=Bettinger|first1=Brendan|title=INCEPTION, LET ME IN, TRON, and THE WALKING DEAD Top the 2011 Saturn Award Nominations|url=http://collider.com/saturn-awards-2011-nominations/|publisher=Collider.com|accessdate=March 29, 2015|date=February 23, 2011}}</ref>
+| [[Saturn Award for Best Music]]
+| John Powell
+|-
+| Saturn Award for Best Production Design
+| Kathy Altieri
+|-
+| [[Saturn Award for Best Animated Film]]
+| [[Chris Sanders (director)|Chris Sanders]]<br />Dean DeBlois
+|-
+| '''[[Teen Choice Awards]]'''<ref>{{cite web|last1=Soll|first1=Lindsay|title=Teen Choice Awards 2010: First Round Of Nominees Announced|url=http://hollywoodcrush.mtv.com/2010/06/14/teen-choice-awards-2010-nominees/|publisher=MTV|accessdate=March 29, 2015|date=June 14, 2010|deadurl=yes|archiveurl=https://web.archive.org/web/20120606092606/http://hollywoodcrush.mtv.com/2010/06/14/teen-choice-awards-2010-nominees|archivedate=June 6, 2012|df=mdy-all}}</ref>
+| Choice Animated Movie
+|
+|-
+| |'''[[Toronto Film Critics Association]]'''<ref>{{cite news|last1=Barnard|first1=Linda|title=Toronto critics name Incendies best Canadian movie|url=https://www.thestar.com/entertainment/movies/2011/01/12/toronto_critics_name_incendies_best_canadian_movie.html|accessdate=March 29, 2015|work=The Star|date=January 12, 2011}}</ref>
+| [[Toronto Film Critics Association Award for Best Animated Film]]
+|
+| rowspan=5 align="center" {{Won}}
+|-
+| |'''[[Venice Film Festival]]'''<ref>{{cite news|last1=Vivarelli|first1=Nick|title=Venice Film Festival winners|url=https://variety.com/2010/film/markets-festivals/venice-film-festival-winners-1118024040/|accessdate=March 29, 2015|work=Variety|date=September 12, 2010}}</ref>
+| Most Creative 3D Film of the Year
+| [[Chris Sanders (director)|Chris Sanders]] and [[Dean DeBlois]]<br />Tied with [[James Cameron]] for ''[[Avatar (2009 film)|Avatar]]''
+|-
+| style="border-top:10px black" rowspan=3| '''[[Visual Effects Society]]'''<ref>{{cite news|last1=Giardina|first1=Carolyn|title='Inception' Tops Visual Effects Society Awards|url=http://www.hollywoodreporter.com/news/film-visual-effects-society-awards-95370|accessdate=March 29, 2015|work=The Hollywood Reporter|date=February 1, 2011}}</ref>
+| [[Visual Effects Society Award for Outstanding Animation in an Animated Feature Motion Picture]]
+| Simon Otto<br />Craig Ring<br />[[Bonnie Arnold]]
+|-
+| Visual Effects Society Award for Outstanding Animated Character in an Animated Feature Motion Picture
+| Gabe Hordos<br/>Cassidy Curtis<br/>Mariette Marinus<br/>Brent Watkins
+|-
+| Visual Effects Society Award for Outstanding Effects Animation in an Animated Feature Motion Picture
+| Andy Hayes<br/>Laurent Kermel<br/>Jason Mayer<br/>Brett Miller
+|-
+| '''[[Washington D.C. Area Film Critics Association Awards 2010|Washington D.C. Area Film Critics Association Awards]]'''<ref>{{cite web|last1=Gordon|first1=Tim|title=The 2010 WAFCA Award Winners|url=http://www.wafca.com/awards/2010.htm|publisher=The Washington, D.C. Area Film Critics Association|accessdate=March 30, 2015|date=December 6, 2010}}</ref>
+| [[Washington D.C. Area Film Critics Association Award for Best Animated Feature|Best Animated Feature]]
+| Chris Sanders<br>Dean DeBlois
+| rowspan=3 align="center" {{Nom}}
+|-
+| rowspan=2|'''[[World Soundtrack Academy]]'''<ref>{{cite web|title=ASCAP Members & Affiliates Score 2010 World Soundtrack Award Nominations|url=http://www.ascap.com/eventsawards/awards/worldsoundtrack/2010/worldsoundtracknoms.aspx|publisher=The American Society of Composers, Authors and Publishers|accessdate=March 30, 2015|date=August 23, 2010}}</ref>
+| [[World Soundtrack Award for Soundtrack Composer of the Year]]
+| John Powell
+|-
+| [[World Soundtrack Award for Best Original Song Written Directly for a Film]]
+| [[Jón Þór Birgisson]]
+|}
+
+=== Home media ===
+''How to Train Your Dragon'' was released on single-disc DVD, two-disc double DVD pack and [[Blu-ray]]/DVD combo pack in Canada and the United States on Friday, October 15, 2010. Among the features available in the two-disc DVD edition is an original sequel short film, ''[[Legend of the Boneknapper Dragon]]''. {{as of|2012|July|18|df=US}}, units sold for the DVD stand at more than 6.5 million copies and has grossed $121,663,692.<ref>{{cite web | url=http://www.the-numbers.com/movies/2010/HTRYD-DVD.php | title=''How to Train Your Dragon'' - DVD Sales | publisher=The Numbers | accessdate=July 18, 2012}}</ref> 
+
+In July 2014, the film's distribution rights were purchased by [[DreamWorks Animation]] from [[Paramount Pictures]] and transferred to [[20th Century Fox]]<ref>{{cite news|last1=Chney|first1=Alexandra|title=DreamWorks Animation Q2 Earnings Fall Short of Estimates, SEC Investigation Revealed|url=https://variety.com/2014/biz/news/dreamworks-animation-q2-earnings-fall-short-of-estimates-1201271262/|accessdate=July 30, 2014|work=Variety|date=July 29, 2014}}</ref> before reverting to [[Universal Pictures|Universal Studios]] in 2018. As a result, [[Universal Pictures Home Entertainment]] released a [[Ultra HD Blu-ray|4K Ultra HD]] [[Blu-ray]] version of the film on January 22, 2019 alongside the film’s sequel ''[[How to Train Your Dragon 2]]'', making them the first DreamWorks Animation catalog titles to be released on that format, and for the release of ''[[How to Train Your Dragon: The Hidden World]]'' the following month. <ref>{{Cite web|url=https://ultrahd.highdefdigest.com/65832/howtotrainyourdragon4kultrahdbluray.html|title=How to Train Your Dragon - 4K Ultra HD Blu-ray Ultra HD Review {{!}} High Def Digest|website=ultrahd.highdefdigest.com|language=en|access-date=January 21, 2019}}</ref><ref>{{Cite web|url=https://ultrahd.highdefdigest.com/65837/howtotrainyourdragon4kultrahdbluray2.html|title=How to Train Your Dragon 2 - 4K Ultra HD Blu-ray Ultra HD Review {{!}} High Def Digest|website=ultrahd.highdefdigest.com|language=en|access-date=January 21, 2019}}</ref>
+
+== Expanded franchise ==
+{{main|How to Train Your Dragon (franchise)}}
+
+=== Sequels ===
+{{main|How to Train Your Dragon 2|How to Train Your Dragon: The Hidden World}}
+A sequel, ''[[How to Train Your Dragon 2]]'', was confirmed on April 27, 2010.<ref>{{cite web|last=Bond |first=Paul |url=http://www.hollywoodreporter.com/news/train-your-dragon-sequel-works-23042 |title=Train Your Dragon’ sequel in the works |work=[[The Hollywood Reporter]] |date=April 27, 2010 |accessdate=April 27, 2010}}</ref> The film was directed and written by [[Dean DeBlois]], the co-director of the first film. [[Bonnie Arnold]], the producer of the first film, also returned.<ref>{{cite news|last=Giardina|first=Carolyn|title=Details of 'How to Train Your Dragon' Sequel Revealed|url=http://www.hollywoodreporter.com/news/details-dragon-sequal-revealed-97216|accessdate=September 8, 2011|newspaper=The Hollywood Reporter|date=February 7, 2011}}</ref> The film was released on June 13, 2014 by [[20th Century Fox]], to generally positive reviews.<ref name=DWAreleases>{{cite web|title=Upcoming Releases|url=http://www.dreamworksanimation.com/company/news/releases|publisher=DreamWorks Animation|accessdate=August 21, 2013|archive-url=https://web.archive.org/web/20121220045813/http://www.dreamworksanimation.com/company/news/releases|archive-date=December 20, 2012|dead-url=yes}}</ref><ref name="slate2014">{{Cite press release|title=DreamWorks Animation Announces Feature Film Release Slate Through 2014 |publisher=DreamWorks Animation SKG, Inc |date=March 8, 2011 |url=http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=555383 |accessdate=March 8, 2011 |deadurl=yes |archiveurl=https://www.webcitation.org/614v7Q4g4?url=http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=555383 |archivedate=August 20, 2011 |df=mdy-all }}</ref> The entire original voice cast—Baruchel, Butler, Ferguson, Ferrera, Hill, Mintz-Plasse, Miller, and Wiig—returned for the sequel<ref>{{cite web |url=http://www.comingsoon.net/news/movienews.php?id=70596 |title=More How to Train Your Dragon Sequel Details |work=[[ComingSoon.net]] |date=October 11, 2010 |accessdate=October 11, 2010}}</ref> with the addition of [[Cate Blanchett]], [[Djimon Hounsou]], and [[Kit Harington]].
+
+A third film, ''[[How to Train Your Dragon: The Hidden World]]'', was released on February 22, 2019. The film was also directed by DeBlois, written by DeBlois and Cressida Cowell, produced by Bonnie Arnold, and executive produced by Chris Sanders. Cate Blanchett and Kit Harington reprise their roles as Valka and Eret respectively from the second film, along with the original main cast.<ref name=CSBackTo2017>{{cite web|title=How to Train Your Dragon 3 Pushed Back to 2017|url=http://www.comingsoon.net/news/movienews.php?id=122543|publisher=ComingSoon.net|accessdate=September 2, 2014}}</ref><ref>{{cite news|last=Chitwood|first=Adam|title=Director Dean DeBlois Talks HOW TO TRAIN YOUR DRAGON 3 at VES Awards|url=http://collider.com/how-to-train-your-dragon-3-plot-dean-deblois/|accessdate=February 5, 2015|newspaper=Collider|date=February 5, 2015}}</ref> It was released on February 22, 2019 by [[Universal Pictures]].<ref>{{cite magazine|url=https://variety.com/2015/film/news/cutbacks-at-dreamworks-animation-jeffrey-katzenberg-on-what-went-wrong-1201412230/| title=Jeffrey Katzenberg on DWA’s Cutbacks: ‘3 Films a Year Was Too Ambitious’ |last=Graser| first=Marc| magazine=[[Variety (magazine)|Variety]]| date=January 22, 2015| accessdate=January 22, 2015}}</ref>
+
+=== Short films ===
+Four post-movie [[How to Train Your Dragon (franchise)#Short films|short films]] were released: ''[[Legend of the Boneknapper Dragon]]'' (2010), ''[[Book of Dragons]]'' (2011), ''[[Gift of the Night Fury]]'' (2011),<ref>{{Cite web|url=https://www.imdb.com/list/ls056685801/|title=How To Train Your Dragon Animation Collection|website=IMDb|access-date=2018-05-27}}</ref> and ''[[How to Train Your Dragon (franchise)#Dawn of the Dragon Racers|Dawn of the Dragon Racers]]'' (2014).<ref>{{Citation|last=Bogan|first=Elaine|title=Dragons: Dawn of the Dragon Racers|date=2014-11-11|url=https://www.imdb.com/title/tt4191768/|last2=Sanford|first2=John|others=Jay Baruchel, America Ferrera, Christopher Mintz-Plasse|accessdate=2018-05-27}}</ref>
+
+=== Television series ===
+{{main|DreamWorks Dragons}}
+A television series based on the film premiered on [[Cartoon Network]] in Autumn 2012. [[Jay Baruchel]], [[America Ferrera]], [[Christopher Mintz-Plasse]], and [[T. J. Miller]] reprise their roles as Hiccup, Astrid, Fishlegs, and Tuffnut. The series, set between the first and second film, follows Hiccup and his friends as they learn more about dragons, discover new ones, teach others to feel comfortable around them, adapt traditions within the village to fit their new friends and battle against enemies as they explore new worlds. Hiccup has been made head of Berk Dragon Academy.<ref name=Reuters>{{cite news|title=Cartoon Network Celebrates 20th Anniversary with Ratings Growth and a New Generation of Content for a New Generation of Kids|url=https://www.reuters.com/article/2012/03/28/idUS252113+28-Mar-2012+BW20120328|accessdate=April 22, 2012|newspaper=Reuters|date=March 28, 2012}}</ref>
+
+=== Video games ===
+An [[Action-adventure game|action adventure]] video game released by [[Activision]], called ''[[How to Train Your Dragon (video game)|How to Train Your Dragon]]'', was released for the [[Wii]], [[Xbox 360]], [[PS3]] and [[Nintendo DS]] gaming consoles. It is loosely based on the film and was released on March 23, 2010.
+
+''School of Dragons'', a 3D [[free-to-play]] [[Massively multiplayer online game|MMO]], was released on July 17, 2013, at the [[San Diego Comic-Con]].<ref>{{cite web|title=School of Dragons at San Diego Comic Con 2013!|url=http://blog.schoolofdragons.com/?p=126|work=School of Dragons blog|accessdate=July 29, 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20141227195006/http://blog.schoolofdragons.com/?p=126|archivedate=December 27, 2014|df=mdy-all}}</ref><ref>{{cite web|title=School of Dragons producer interview|url=http://www.berksgrapevine.com/2013/07/school-of-dragons-producer-interview.html|publisher=Berk's Grapevine|accessdate=July 29, 2013}}</ref> The game is available for [[Personal computer|PC]], [[Android (operating system)|Android]] and [[iOS]].<ref>{{cite web|title=School of Dragons Mobile App|url=http://www.schoolofdragons.com/how-to-train-your-dragon/mobile|publisher=schoolofdragons.com|accessdate=July 29, 2013}}</ref>
+
+=== Arena show ===
+{{main|How to Train Your Dragon (franchise)#Live Show}}
+''How to Train Your Dragon Arena Spectacular'' is an arena show adaptation of the first film featuring 24 animatronic dragons, acrobats and projections. It premiered on March 2, 2012, in Melbourne, Australia.<ref>{{cite news|last=Morgan|first=Clare|title=Craft and heart breathe fiery life into dragons|url=http://www.brisbanetimes.com.au/entertainment/craft-and-heart-breathe-fiery-life-into-dragons-20110808-1ij15.html|accessdate=August 13, 2011|newspaper=Brisbane Times|date=August 9, 2011}}</ref>
+
+== See also ==
+{{Portal|Animation|Film}}
+* [[List of animated feature-length films]]
+* [[List of computer-animated films]]
+
+== Notes ==
+{{refbegin}}
+# {{note|1}} Though the dragon is never named in the film itself, its name is mentioned in the official illustrated tie-in book,<ref>{{cite book |last=Miller-Zarneke |first=Tracey |title=The Art of DreamWorks: How to Train Your Dragon |year=2009 |publisher=Newmarket Press |location=New York |isbn=1557048630 |edition=1st}}</ref> as well as in ''[[DreamWorks Dragons]]''. On the film's soundtrack, the dragon is erroneously referred to as the "Green Death" in the track listings.
+{{refend}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Wikiquote}}
+{{commonscat}}
+* {{Official website|http://www.howtotrainyourdragon.com}}
+* {{IMDb title|0892769|How to Train Your Dragon}}
+* {{Bcdb title|89705|How to Train Your Dragon}}
+* {{AllMovie title|379338|How to Train Your Dragon}}
+* {{Rotten Tomatoes|1194522-how_to_train_your_dragon|How to Train Your Dragon}}
+* {{Metacritic film|how-to-train-your-dragon|How to Train Your Dragon}}
+* {{Mojo title|howtotrainyourdragon|How to Train Your Dragon}}
+
+{{How to Train Your Dragon}}
+{{Chris Sanders}}
+{{Dean DeBlois}}
+{{DreamWorks animated films}}
+{{Annie Award for Best Animated Feature}}
+{{Authority control}}
+
+{{DEFAULTSORT:How To Train Your Dragon}}
+[[Category:2010 films]]
+[[Category:2010 3D films]]
+[[Category:2010 computer-animated films]]
+[[Category:2010s American animated films]]
+[[Category:2010s fantasy films]]
+[[Category:2010 animated films]]
+[[Category:American computer-animated films]]
+[[Category:American children's animated adventure films]]
+[[Category:American children's animated fantasy films]]
+[[Category:American fantasy-comedy films]]
+[[Category:American films]]
+[[Category:Animated comedy films]]
+[[Category:Animated drama films]]
+[[Category:Animated films about dragons]]
+[[Category:Animated films based on children's books]]
+[[Category:Best Animated Feature Annie Award winners]]
+[[Category:Dragons in popular culture]]
+[[Category:DreamWorks Animation animated films]]
+[[Category:English-language films]]
+[[Category:Films about amputees]]
+[[Category:Films based on British novels]]
+[[Category:Films directed by Chris Sanders]]
+[[Category:Films directed by Dean DeBlois]]
+[[Category:Films featuring anthropomorphic characters]]
+[[Category:Films produced by Bonnie Arnold]]
+[[Category:Films scored by John Powell]]
+[[Category:Films set in the Viking Age]]
+[[Category:Films using computer-generated imagery]]
+[[Category:How to Train Your Dragon]]
+[[Category:IMAX films]]
+[[Category:Paramount Pictures animated films]]
+[[Category:Prosthetics in fiction]]
+[[Category:Films with screenplays by Chris Sanders]]
+[[Category:Films with screenplays by Dean DeBlois]]
+[[Category:Films with screenplays by William Davies]]
+[[Category:3D animated films]]
