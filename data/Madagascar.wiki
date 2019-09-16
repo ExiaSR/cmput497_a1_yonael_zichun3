@@ -1,0 +1,283 @@
+{{short description|2005 American computer-animated comedy film}}
+{{Use American English|date=August 2019}}
+{{Use mdy dates|date=August 2019}}
+{{Infobox film
+| name           = Madagascar
+| image          = Madagascar Theatrical Poster.jpg
+| caption        = Theatrical release poster
+| director       = {{Plainlist|
+* [[Eric Darnell]]
+* [[Tom McGrath (animator)|Tom McGrath]]
+}}
+| producer       = [[Mireille Soria]]
+| writer         = {{Plainlist|
+* [[Mark Burton (writer)|Mark Burton]]
+* [[Billy Frolick]]
+* Eric Darnell
+* Tom McGrath
+}}
+| story          = 
+| starring       = {{Plainlist|
+* [[Ben Stiller]]
+* [[Chris Rock]]
+* [[David Schwimmer]]
+* [[Jada Pinkett Smith]]
+* [[Sacha Baron Cohen]]
+* [[Cedric the Entertainer]]
+* [[Andy Richter]]
+* [[Tom McGrath (animator)|Tom McGrath]]
+* [[Chris Miller (animator)|Chris Miller]]
+* [[Christopher Knights]]
+* [[Jeffrey Katzenberg]]
+}}
+| editing        = {{Plainlist|
+* [[H. Lee Peterson]]
+}}
+| music          = [[Hans Zimmer]]
+| production companies = {{Plainlist|
+* [[DreamWorks Animation]]
+* [[Pacific Data Images|PDI/DreamWorks]]
+}}
+| distributor    = [[DreamWorks Pictures]]{{ref|1|1}}
+| released       = {{Film date|2005|5|25|Philippines|2005|5|27|United States}}
+| runtime        = 86 minutes
+| language       = English
+| country        = United States
+| budget         = $75&nbsp;million<ref name=TheNumbers>{{cite web|title=Madagascar|url=http://www.the-numbers.com/movies/2005/MADGS.php|publisher=The Numbers|accessdate=December 3, 2012}}</ref>
+| gross          = $532.7&nbsp;million
+}}
+'''''Madagascar''''' is a 2005 American [[computer animation|computer-animated]] [[comedy film]] produced by [[DreamWorks Animation]] and distributed by [[DreamWorks Pictures]]. It was directed by [[Eric Darnell]] and [[Tom McGrath (animator)|Tom McGrath]] (the latter in his directional debut) from a screenplay by [[Mark Burton (writer)|Mark Burton]], [[Billy Frolick]], Darnell, and McGrath, and features the voices of [[Ben Stiller]], [[Chris Rock]], [[David Schwimmer]], and [[Jada Pinkett Smith]], with [[Sacha Baron Cohen]], [[Cedric the Entertainer]], and [[Andy Richter]] voicing secondary characters. The film's plot revolves around four animals from the [[Central Park Zoo]] who unexpectedly find themselves stranded in Madagascar, and must learn to adapt to the wild.
+
+''Madagascar'' was released to theaters on May 27, 2005. Despite its mixed critical reception, it was a commercial success at the box office. The film launched a [[Madagascar (franchise)|franchise]] with a series of films, including two sequels: ''[[Madagascar: Escape 2 Africa]]'' in 2008 and ''[[Madagascar 3: Europe's Most Wanted]]'' in 2012, both to more positive reception. A spin-off featuring the series' penguin characters, ''[[Penguins of Madagascar]]'', was released on November 26, 2014.
+
+==Plot==
+At the [[Central Park Zoo]], [[List of Madagascar (franchise) characters#Marty|Marty]] the [[Plains zebra|zebra]] is celebrating his 10th birthday, but has grown bored with his daily routine and longs to experience the [[wilderness|wild]]. Marty's best friend is [[List of Madagascar (franchise) characters#Alex|Alex]] the [[lion]], who enjoys showing off for the public and is somewhat self-centered due to his celebrity status as "the King of New York City" attempts to cheer Marty up, but Marty, still unsatisfied, gets some tips from the zoo's [[Adélie penguin|penguin]]s—[[List of Madagascar (franchise) characters#Skipper|Skipper]], [[List of Madagascar (franchise) characters#Kowalski|Kowalski]], [[List of Madagascar (franchise) characters#Rico|Rico]], and [[List of Madagascar (franchise) characters#Private|Private]]—who are trying to escape the zoo, and follows them out. Alex, [[List of Madagascar (franchise) characters#Melman|Melman]] the [[Reticulated giraffe|giraffe]], and [[List of Madagascar (franchise) characters#Gloria|Gloria]] the [[hippopotamus]] pursue Marty in an attempt to convince him to return. The four, along with the penguins and two [[Common chimpanzee|chimpanzee]]s named [[List of Madagascar (franchise) characters#Mason and Phil|Mason and Phil]], find themselves at [[Grand Central Terminal]], where they are quickly sedated via [[Tranquillizer gun|tranquillizer]] when Alex's attempt to communicate with humans is mistaken for aggression. The zoo, under pressure from anti-captivity activists, is forced to ship the escaped animals by sea to a [[Kenya]]n wildlife preserve. During their travels, the penguins escape from their enclosure and take over the ship, intent on taking it to [[Antarctica]]. Their antics on the bridge cause the crates containing Alex, Marty, Melman, and Gloria to fall overboard and wash ashore on [[Madagascar]], because the strap securing the crates broke off due to Alex and Marty fighting.
+
+The animals eventually regroup ashore the beach, initially believing themselves to be at the [[San Diego Zoo]]. Upon exploring, however, they come across a pack of [[lemur]]s, led by [[List of Madagascar (franchise) characters#King Julien XIII|King Julien XIII]] the [[ring-tailed lemur]], and learn their true location. Alex blames Marty for their predicament and attempts to signal for help to get back to civilization. Marty, on the other hand, finds the wild to be exactly what he was looking for, with Gloria and Melman soon joining him in enjoying the island after getting tired of Alex's arrogance and complaining. Alex, eventually having a change of heart, comes around, but, deprived from the raw [[steak]]s he was provided with at the zoo, his [[prey drive]] begins to show as hunger kicks in. The group is accepted by the lemurs, though Julien's adviser, [[List of Madagascar (franchise) characters#Maurice|Maurice]] the [[aye-aye]], cautions them about Alex's predatory nature. Julien ignores Maurice's concerns and persuades the group to help the lemurs fend off the [[fossa (animal)|fossa]], who hunt the lemurs as prey. While Alex initially scares the fossa away and is worshiped by the lemurs, later, compelled by hunger, he attacks Marty. Realizing that Alex is now a threat, Julien banishes him to the far side of the island where the fossa live. Seeing what has happened to Alex, and how difficult it is to survive with so many predators around the island, Marty regrets his decision to leave the zoo and reflects on the consequences of his impulsive actions.
+
+The penguins, having been to Antarctica and found it not to their liking, land the ship at Madagascar. Seeing this as a chance to return Alex to New York, Marty rushes after his friend against the wishes of Melman and Gloria. Marty attempts to convince the now grizzled, starving Alex to return, but Alex refuses out of fear of attacking Marty again. The penguins, Gloria, and Melman go to find Marty, but are trapped by the fossa. At the last minute, Alex overcomes his predatory instincts and scares the fossa away from the lemur territory forever. The lemurs regain their respect for Alex, and the penguins help him satisfy his hunger through [[sushi]]. As the lemurs throw a farewell celebration for the foursome, the penguins decide not to break the news that the ship has run out of fuel.
+
+==Cast==
+[[File:David Schwimmer 2005 Madagascar.jpg|thumb|[[David Schwimmer]] at the film's British premiere in London.]]
+{{See also|List of Madagascar (franchise) characters}}
+* [[Ben Stiller]] as [[List of Madagascar (franchise) characters#Alex|Alex]], a [[lion]]. Tom McGrath explained that "Ben Stiller was the first actor we asked to perform, and we knew we wanted his character, Alex, to be a big performing lion with a vulnerable side."<ref name=TSTGroupEnthusiasts />
+* [[Chris Rock]] as [[List of Madagascar (franchise) characters#Marty|Marty]], a [[plains zebra]]. McGrath explained the character: "Marty is a guy who thinks there might be more to life than what's in the zoo. We wanted his character to be energetic, so we listened to Chris Rock."<ref name=TSTGroupEnthusiasts />
+* [[David Schwimmer]] as [[List of Madagascar (franchise) characters#Melman|Melman]], a hypochondriac [[reticulated giraffe]] who is afraid of germs.<ref name=TSTGroupEnthusiasts /> When they were looking for a voice actor for Melman, they listened to Schwimmer's voice on ''[[Friends]]'' and, according to McGrath, thought that it "sounded really neat."<ref name=TSTGroupEnthusiasts>{{cite news|last1=Keogh|first1=Tom|title=Animator talks to group of young enthusiasts about his new film, "Madagascar"|url=http://seattletimes.com/html/movies/2002282715_madagascar21.html|accessdate=September 20, 2014|work=The Seattle Times|date=May 21, 2005|archiveurl=https://web.archive.org/web/20140920185750/http://seattletimes.com/html/movies/2002282715_madagascar21.html|archivedate=September 20, 2014}}</ref>
+* [[Jada Pinkett Smith]] as [[List of Madagascar (franchise) characters#Gloria|Gloria]], a strong, confident, but sweet [[hippopotamus]].<ref name=TSTGroupEnthusiasts /> McGrath said that they found all these traits in Pinkett Smith's voice, when they listened to her.<ref name=TSTGroupEnthusiasts />
+* [[Sacha Baron Cohen]] as [[List of Madagascar (franchise) characters#King Julien XIII|King Julien XIII]], a [[ring-tailed lemur]] and the king of the lemurs. King Julien was initially only meant to be a "two-line" character until auditioning Baron Cohen improvised eight minutes of dialogue in an Indian accent.<ref name=LATReview>{{cite news|last1=Lloyd|first1=Robert|title=Review: 'All Hail King Julien' lets the 'Madagascar' rave begin|url=http://www.latimes.com/entertainment/tv/la-et-st-all-hail-king-julien-20141219-column.html|accessdate=December 20, 2014|work=Los Angeles Times|date=December 19, 2014}}</ref>
+* [[Cedric the Entertainer]] as [[List of Madagascar (franchise) characters#Maurice|Maurice]], an [[aye-aye]] and King Julien's royal advisor (to whom Julien never listens).
+* [[Andy Richter]] as [[List of Madagascar (franchise) characters#Mort|Mort]], a [[Goodman's mouse lemur]].
+* [[Tom McGrath (animator)|Tom McGrath]] as [[List of Madagascar (franchise) characters#Skipper|Skipper]], the leader of [[penguin]]s. McGrath, who was also the film's co-director and co-writer, initially only lent his voice to the temporary tracks.<ref name=LATColorfulQuarter /><ref name=MFreakMcGrath>{{cite web|last1=Fetters |first1=Sara Michelle |title=Keeping Control of the Zoo |url=http://www.moviefreak.com/features/interviews/tommcgrath.htm |publisher=MovieFreak.com |accessdate=November 2, 2014 |archiveurl=https://web.archive.org/web/20060328131831/http://www.moviefreak.com/features/interviews/tommcgrath.htm |archivedate=March 28, 2006 |date=2005 |deadurl=yes |df= }}</ref> Growing up with films starring tough actors like [[John Wayne]], [[Charlton Heston]], and [[Robert Stack]], McGrath wanted Stack for the voice of Skipper.<ref name=LALittleGuys>{{cite news|last1=King|first1=Susan|title=Little guys take over in 'Penguins of Madagascar'|url=http://www.latimes.com/entertainment/movies/la-et-mn-sneaks-penguins-tom-mcgrath-20141102-story.html|accessdate=November 2, 2014|work=Los Angeles Times|date=October 31, 2014|archiveurl=https://web.archive.org/web/20141031180229/http://www.latimes.com/entertainment/movies/la-et-mn-sneaks-penguins-tom-mcgrath-20141102-story.html|archivedate=October 31, 2014|deadurl=no}}</ref> Stack was approached about voicing the character, but died two weeks before production on the animation began.<ref name=LALittleGuys /><ref name=DeseretStealsShow>{{cite news|last1=Vice|first1=Jeff|title='Madagascar' co-director steals show as penguin leader|url=http://www.deseretnews.com/article/705260914/Madagascar-co-director-steals-show-as-penguin-leader.html?pg=all|accessdate=November 2, 2014|work=Deseret News|date=November 7, 2008}}</ref><ref name=CBRSDCCPenguins>{{cite web|last1=Molina|first1=Melissa|title=SDCC Directors & Actors Talk Espionage and Hilarity in 'Penguins of Madagascar'|url=http://spinoff.comicbookresources.com/2014/08/13/sdcc-directors-actors-talk-espionage-and-hilarity-in-penguins-of-madagascar/|publisher=Comic Book Resources|accessdate=November 2, 2014|date=August 13, 2014}}</ref> After that, DreamWorks Animation CEO [[Jeffrey Katzenberg]] decided to keep the temporary voice, with McGrath explaining: "People were used to me doing that voice. We knew it worked when we screened it."<ref name=LALittleGuys /> Many character's traits were based on Stack's work.<ref name=CBRSDCCPenguins /> McGrath especially emphasized ''[[The Untouchables (1959 TV series)|The Untouchables]]'', a 1959 television crime drama series starring Stack.<ref name=CBRSDCCPenguins />
+* [[Chris Miller (animator)|Chris Miller]] as [[List of Madagascar (franchise) characters#Kowalski|Kowalski]], a [[penguin]] and Skipper's right hand.<ref name=LATColorfulQuarter />
+** Miller also voices [[List of Madagascar (franchise) characters#Timo|Timo]], a [[tenrec]] who is only seen attending Julien's meeting.
+* [[Jeffrey Katzenberg]] as [[List of Madagascar (franchise) characters#Rico|Rico]], a smart and silent [[penguin]] who is only expressed through grunts and squeals.<ref name=LATColorfulQuarter /> [[Mireille Soria]], the film's producer, commented on Katzenberg's uncredited role: "The irony for us is that he's the one who doesn't talk. There's something very [[Dada]]istic about that, isn't there?"<ref name=LATColorfulQuarter>{{cite news|last1=Rosen|first1=Lisa|title=A colorful quartet of black-and-whites|url=http://articles.latimes.com/2005/jun/05/entertainment/ca-penguins5|accessdate=September 20, 2014|work=The Los Angeles Times|date=June 5, 2005|archiveurl=https://web.archive.org/web/20140920173752/http://articles.latimes.com/2005/jun/05/entertainment/ca-penguins5|archivedate=September 20, 2014|deadurl=no}}</ref>
+** Katzenberg also voices [[List of Madagascar (franchise) characters#Abner|Abner]], a blue-eyed lemur who is only seen at the paradise scene.
+* [[Christopher Knights]] as [[List of Madagascar (franchise) characters#Private|Private]], an eager, lowly [[Adélie penguin|penguin]].<ref name=LATColorfulQuarter /> Knights was also an assistant editor on the film.<ref name=LATColorfulQuarter />
+* [[Conrad Vernon]] as [[List of Madagascar (franchise) characters#Mason|Mason]], a [[Common chimpanzee|chimpanzee]] ([[List of Madagascar (franchise) characters#Phil|Phil]], the other chimpanzee, is unvoiced).
+** Vernon also voices [[List of Madagascar (franchise) characters#Ted 2|Ted]], a Golden Bamboo lemur. He is seen in the film with the other lemurs. His only speaking scene is at the meeting scene in which he tells King Julien that he likes Alex and his friends.
+* [[Eric Darnell]] and Tom McGrath as the [[Fossa (animal)|fossa]]
+** Darnell also voices [[List of Madagascar (franchise) characters#Hector|Hector]] and [[List of Madagascar (franchise) characters#Horst|Horst]], two lemurs.
+* David P. Smith as [[List of Madagascar (franchise) characters#Pancho|Pancho]], a [[crowned lemur]].
+** Smith also voices [[List of Madagascar (franchise) characters#Becca|Becca]], a [[black lemur]].
+* [[Elisa Gabrielli]] as [[List of Madagascar (franchise) characters#Nana|Nana]], an elderly New Yorker
+* [[Bob Saget]] as an unspecified off-screen zoo animal
+* David Cowgill as a [[mounted police|police horse]]
+* [[Stephen Apostolina]] as a police officer
+
+==Production==
+In 1998, DreamWorks and PDI had started development on an animated film titled ''Rockumentary'' without being formally announced as a parody of [[Beatles|The Beatles]] in a most likely animated [[mockumentary]] of their rise and fall to fame, which featured a [[Beatlesque|Beatles-esque]] penguin rock band. The idea was scrapped, but after production on ''Madagascar'' started, director [[Eric Darnell]] decided to revive the penguins, but make them a commando unit instead of a [[rock band]].<ref>{{cite web|title=Escape from Zoo-York: Behind The Scenes of Madagascar|url=http://www.skwigly.co.uk/behind-the-scenes-of-madagascar/|date=November 25, 2005}}</ref>
+
+==Home media==
+''Madagascar'' was released on DVD and VHS on November 15, 2005 by [[DreamWorks Pictures|DreamWorks Home Entertainment]].<ref>{{cite news|title=DreamWorks Launches Multi-Million Campaign For Madagascar DVD|url=http://www.chiefmarketer.com/special-reports-chief-marketer/dreamworks-launches-multi-million-campaign-for-madagascar-dvd-25082005|accessdate=January 19, 2014|newspaper=Chief Marketer|date=August 25, 2005}}</ref> The DVD included a short animated film ''[[The Madagascar Penguins in a Christmas Caper]]'', and a music video "I Like to Move It," featuring characters from the film dancing to the song.<ref>{{cite news|last=Ziebarth|first=Christian|title=Madagascar DVD bonus features review|url=http://animatedviews.com/2005/madagascar-dvd-bonus-features-review/|accessdate=January 19, 2014|newspaper=Animated Views|date=November 14, 2005}}</ref><ref>{{cite news|last=McCutcheon|first=David|title=Madagascar|url=http://www.ign.com/articles/2005/12/08/madagascar|accessdate=January 19, 2014|newspaper=IGN|date=December 8, 2005}}</ref> A Blu-ray version of the film was released on September 23, 2008.
+
+==Reception==
+
+===Critical reception===
+On [[Rotten Tomatoes]], the film received a 54% approval rating based on 189 reviews, with an average rating of 6.1/10. The consensus reads: "Though its story is problematic in spots and its humor is hit-or-miss for the adult crowd, ''Madagascar'' boasts impressive visuals and enough spunky charm to keep children entertained."<ref>{{cite web|url=http://www.rottentomatoes.com/m/madagascar/ | title=Madagascar Movie Reviews, Pictures | publisher=[[Rotten Tomatoes]] | accessdate=March 25, 2019}}</ref> On [[Metacritic]], the film has 57% approval rating based on 36 reviews falling under the "Mixed or Average" category.<ref>{{cite web|url=http://www.metacritic.com/film/titles/madagascar | title=Madagascar Reviews | publisher=[[Metacritic]] | accessdate=October 24, 2008}}</ref>
+
+===Box office===
+Despite the mixed response from critics, the film was a commercial success. On its opening weekend, the film grossed $47,224,594 with a $11,431 average from 4,131 theaters making it the number 3 movie of that weekend behind ''[[Star Wars: Episode III – Revenge of the Sith]]'' and ''[[The Longest Yard (2005 film)|The Longest Yard]]''.<ref>{{cite web|title=Weekend Box Office Results for May 27–29, 2005|url=http://www.boxofficemojo.com/weekend/chart/?view=&yr=2005&wknd=21&p=.htm|work=Box Office Mojo|accessdate=November 27, 2010}}</ref> However, the film managed to claim the top position in the U.S. box office the following week with a gross of $28,110,235.<ref>{{cite web|title=Weekend Box Office Results for June 3–5, 2005|url=http://www.boxofficemojo.com/weekend/chart/?view=&yr=2005&wknd=22&p=.htm|work=Box Office Mojo|accessdate=November 27, 2010}}</ref> In the United States, the film eventually grossed $193,595,521, and in foreign areas grossed $339,085,150 with a summative worldwide gross of $532,680,671.<ref>{{cite web |url=http://www.boxofficemojo.com/movies/?id=madagascar.htm |title=Madagascar (2005) |publisher=Box Office Mojo |accessdate=July 23, 2010}}</ref> As of April 2019, the film is [[DreamWorks Animation]]'s ninth highest-grossing film in the United States behind ''[[Shrek 2]]'', ''[[Shrek the Third]]'', ''[[Shrek]]'', ''[[Shrek Forever After]]'', ''[[How to Train Your Dragon (film)|How to Train Your Dragon]]'', ''[[Madagascar 3: Europe's Most Wanted]]'', ''[[Kung Fu Panda]]'', and ''[[Monsters vs. Aliens]]''.<ref>{{cite web |url=http://www.boxofficemojo.com/franchises/chart/?id=dwanimation.htm |title=DreamWorks Animation Movies at the Box Office |publisher=Box Office Mojo |accessdate=July 23, 2010}}</ref>
+
+===Awards===
+The film has won three awards and several nominations.<ref name="Annie">{{cite news | last=Soares | first=Andre | title = Annie Awards 2006 | publisher=Annie Awards ''via'' Alt Film Guide | url = http://www.altfg.com/blog/awards/annie-awards-2005/| date=February 4, 2006 | accessdate=May 22, 2008}}</ref>
+
+{| class="wikitable"
+|-
+! Award
+! Category
+! Recipient
+! Result
+|-
+| [[AFI's 10 Top 10]]
+| Animated Film
+|
+| {{nom}}
+|-
+| rowspan="9" | [[Annie Award]]<ref name="Annie"/>
+| [[Annie Award for Best Animated Feature|Best Animated Feature]]
+| [[Mireille Soria]]
+| {{nom}}
+|-
+| Animated Effects
+| Matt Baer
+| {{nom}}
+|-
+| Animated Effects
+| Rick Glumac
+| {{nom}}
+|-
+| Animated Effects
+| Martin Usiak
+| {{nom}}
+|-
+| Character Design in an Animated Feature Production
+| Craig Kellman
+| {{nom}}
+|-
+| Music in an Animated Feature Production
+| Hans Zimmer
+| {{nom}}
+|-
+| Production Design in an Animated Feature Production
+| Yoriko Ito
+| {{nom}}
+|-
+| Storyboarding in an Animated Feature Production
+| Tom McGrath
+| {{nom}}
+|-
+| Storyboarding in an Animated Feature Production
+| Catherine Yuh Rader
+| {{nom}}
+|-
+| [[2006 Kids' Choice Awards|Kids' Choice Awards]]
+| Favorite Animated Movie
+|
+| {{won}}
+|}
+
+In 2008, the [[American Film Institute]] nominated this film for its [[AFI's 10 Top 10|Top 10 Animation Films list]].<ref>{{cite web|url=http://connect.afi.com/site/DocServer/10top10.pdf?docID=381&AddInterest=1781 |title=AFI's 10 Top 10 Nominees |format=PDF |date= |accessdate=August 19, 2016 |deadurl=bot: unknown |archiveurl=https://web.archive.org/web/20110716071937/http://connect.afi.com/site/DocServer/10top10.pdf?docID=381&AddInterest=1781 |archivedate=July 16, 2011 |df= }}</ref>
+
+==Soundtrack==
+
+'''''Madagascar''''' is the soundtrack to the 2005 DreamWorks film of the same name. It was released by [[Geffen Records]] on May 24, 2005.
+{{Infobox album
+| name         = Madagascar: Motion Picture Soundtrack
+| type         = soundtrack
+| artist       = Hans Zimmer
+| cover        = 
+| alt          = 
+| released     = May 24, 2005
+| recorded     = 
+| venue        = 
+| studio       = 
+| genre        = [[Soundtrack]], [[disco]], [[new-age music|new-age]]
+| length       = 31:27
+| label        = [[Geffen Records|Geffen]]
+| producer     = [[Hans Zimmer]]
+| prev_title   = 
+| prev_year    = 
+| next_title   = 
+| next_year    = 
+}}
+<br />
+{{Track listing
+| extra_column = Performer(s)
+| total_length = 31:27
+| title1   = Best Friends
+| writer1  = [[Hans Zimmer]], [[Heitor Pereira]], Ryeland Allison & [[James S. Levine]]
+| length1  = 2:24
+| title2   = [[I Like to Move It]]
+| writer2  = [[Erick Morillo]] & [[The Mad Stuntman|Mark H. Quashie]]
+| extra2   =   [[Erick Morillo]] (Instrumental)<br />[[Sacha Baron Cohen]] (Vocals)
+| length2  = 3:51
+| title3   = [[Hawaii Five-O (1968 TV series)#Theme music|Hawaii Five-O]]
+| writer3  = [[Morton Stevens]]
+| extra3   = [[The Ventures]]
+| length3  = 1:49
+| title4   = [[Boogie Wonderland]]
+| writer4  = [[Allee Willis]] & Jonathan G. Lind
+| extra4   = [[Earth, Wind & Fire]]
+| length4  = 4:49
+| title5   = Whacked Out Conspiracy
+| writer5  = [[James Dooley (composer)|James Dooley]]
+| length5  = 2:16
+| title6   = [[Chariots of Fire (instrumental)|Chariots of Fire]]
+| writer6  = [[Evangelos Papathanassiou]]
+| extra6   = [[Vangelis]]
+| length6  = 3:29
+| title7   = [[Stayin' Alive]]
+| writer7  = [[Barry Gibb]], [[Maurice Gibb]] & [[Robin Gibb]]
+| extra7   = the [[Bee Gees]]
+| length7  = 4:44
+| title8   = Zoosters Breakout
+| writer8  = Hans Zimmer
+| length8  = 1:39
+| title9   = [[Born Free (song)|Born Free]]
+| writer9  = [[John Barry (composer)|John Barry]]
+| length9  = 1:24
+| title10  = The [[Fossa (animal)|Fossa]] Attack
+| writer10 = Heitor Pereira
+| length10 = 0:37
+| title11  = Beacon of Liberty
+| writer11 = Hans Zimmer & James S. Levine
+| length11 = 2:09
+| title12  = [[What a Wonderful World]]
+| writer12 = [[Bob Thiele]] & [[George David Weiss]]
+| extra12  = [[Louis Armstrong]]
+| length12 = 2:16
+}}
+
+==Sequels and spin-offs==
+{{main|Madagascar (franchise)}}
+A sequel titled ''[[Madagascar: Escape 2 Africa]]'' was released on November 7, 2008, and picked up right where the first one left off, with the same voice cast. A second sequel, ''[[Madagascar 3: Europe's Most Wanted]]'', was released on June 8, 2012. A short film called ''[[The Madagascar Penguins in a Christmas Caper]]'' was released with the ''Madagascar'' DVD, and was theatrically released with ''[[Wallace & Gromit: The Curse of the Were-Rabbit]]'' in the United States. A 2009 spinoff series, ''[[The Penguins of Madagascar]]'', premiered in March 2009 on [[Nickelodeon (TV channel)|Nickelodeon]]. It is the first [[Nicktoon]] to be produced by both Nickelodeon and [[DreamWorks Animation|DreamWorks]]. ''[[Merry Madagascar]]'', a holiday special featuring characters from the film series, premiered on November 17, 2009 on [[NBC]]. ''[[Madly Madagascar]]'', a [[Valentine's Day]] special featuring characters from the film series, was released on DVD on January 29, 2013. A [[Penguins of Madagascar|spin-off film starring the Penguins]] was released on November 26, 2014 and a third sequel, ''Madagascar 4'', was set for release on May 18, 2018, but it was removed from its schedule due to the studio's restructuring.<ref>{{cite web|url=http://deadline.com/2015/01/dreamworks-animation-restructuring-to-cut-500-jobs-with-290m-charge-1201355918/|last=Lieberman|first=David|title=DreamWorks Animation Restructuring To Cut 500 Jobs With $290M Charge|website=[[Deadline Hollywood]]|date=January 22, 2015|accessdate=April 4, 2015}}</ref>
+
+==Notes==
+{{refbegin}}
+#{{note|1}} In July 2014, the film's distribution rights were purchased by [[DreamWorks Animation]] from [[Paramount Pictures]] (owners of the pre-2005 DreamWorks Pictures catalog) and transferred to [[20th Century Fox]]<ref>{{cite news|last1=Chney|first1=Alexandra|title=DreamWorks Animation Q2 Earnings Fall Short of Estimates, SEC Investigation Revealed|url=https://variety.com/2014/biz/news/dreamworks-animation-q2-earnings-fall-short-of-estimates-1201271262/|accessdate=July 30, 2014|work=Variety|date=July 29, 2014}}</ref> before reverting to [[Universal Pictures|Universal Studios]] in 2018.
+{{refend}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|Madagascar (2005 film)|Madagascar}}
+{{Wikiquote|Madagascar}}
+* [https://web.archive.org/web/20050612022041/http://www.madagascar-themovie.com/ Official Website] archived from [http://www.madagascar-themovie.com/ the original] on June 12, 2005
+* {{IMDb title|0351283|Madagascar}}
+* {{bcdb title|29891|Madagascar}}
+* {{Rotten-tomatoes|madagascar|Madagascar}}
+* {{Metacritic film|madagascar|Madagascar}}
+* {{Mojo title|madagascar|Madagascar}}
+
+{{DreamWorks animated films}}
+{{Madagascar (franchise)}}
+{{Tom McGrath}}
+{{Authority control}}
+
+{{DEFAULTSORT:Madagascar}}
+[[Category:2005 films]]
+[[Category:2005 animated films]]
+[[Category:2005 computer-animated films]]
+[[Category:2000s American animated films]]
+[[Category:2000s buddy films]]
+[[Category:2000s comedy films]]
+[[Category:English-language films]]
+[[Category:American buddy films]]
+[[Category:American children's animated comedy films]]
+[[Category:American computer-animated films]]
+[[Category:American films]]
+[[Category:Animated buddy films]]
+[[Category:Animated comedy films]]
+[[Category:Animated films about lions]]
+[[Category:Animated films about penguins]]
+[[Category:Animated films about apes]]
+[[Category:DreamWorks Animation animated films]]
+[[Category:DreamWorks Pictures films]]
+[[Category:Films scored by Hans Zimmer]]
+[[Category:Films featuring anthropomorphic characters]]
+[[Category:Films set in Madagascar]]
+[[Category:Films set in New York (state)]]
+[[Category:Films set in New York City]]
+[[Category:Films using computer-generated imagery]]
+[[Category:Animated films about mammals]]

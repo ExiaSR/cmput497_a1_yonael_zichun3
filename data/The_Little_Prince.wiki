@@ -1,0 +1,239 @@
+{{Use dmy dates|date=June 2017}}
+{{Infobox film
+| name           = The Little Prince
+| image          = The Little Prince (2015 film) poster.png
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Mark Osborne (filmmaker)|Mark Osborne]]
+| producer       = {{Plainlist|
+* Aton Soumache
+* [[Dimitri Rassam]]
+* Alexis Vonarb
+}}
+| screenplay     = {{Plainlist|
+* Irena Brignull
+* [[Bob Persichetti]]
+}}
+| based on       = ''[[The Little Prince]]''<br />by [[Antoine de Saint-Exupéry]]
+| starring       = {{Plainlist|<!-- PER Starring role. Billing on main part of poster. DO NOT CHANGE. -->
+* [[Jeff Bridges]]
+* [[Rachel McAdams]]
+* [[Paul Rudd]]
+* [[Bud Cort]]
+* [[Marion Cotillard]]
+* [[Benicio del Toro]]
+* [[James Franco]]
+* [[Ricky Gervais]]
+* [[Paul Giamatti]]
+* Riley Osborne
+* [[Albert Brooks]]
+* [[Mackenzie Foy]]
+}}
+| music          = {{Plainlist|
+* [[Hans Zimmer]]
+* [[Richard Harvey]]
+}}
+| editing        = {{Plainlist|
+* Carole Kravetz Aykanian
+* Matt Landon
+}}
+| studio         = {{Plainlist|
+* [[Method Animation|ON Animation Studios]]
+* [[Orange S.A.|Orange Studio]]
+* LPPTV
+* [[M6 Films]]
+}}
+| distributor    = [[Paramount Pictures]] <!--DO NOT ADD THE UNITED STATES, NONE OF THE PRODUCTION COMPANIES ARE AMERICAN OR CANADIAN-->
+| released       = {{Film date|df=no|2015|5|22|[[Cannes Film Festival]]|ref1=<ref name="Cannes">{{cite news |date=7 May 2015 |url=http://rachelmcadams.org/2015/05/07/cannes-2015-schedule |title=Cannes 2015 Schedule |publisher=Rachel McAdams Online |accessdate=7 May 2015 }}</ref>|2015|07|29|France|ref2=<ref name="releasedate">{{cite web |date=4 February 2015 |url=https://www.facebook.com/lepetitprince.lefilm/photos/a.893791330661150.1073741828.889763987730551/934104453296504/ |title=''{{lang|fr|Le Petit Prince|nocat=y}}'' |publisher=[[Facebook]] |accessdate=4 February 2015 }}</ref>}}
+| runtime        = 106 minutes<ref>{{cite web |title=The Little Prince |url= http://www.bbfc.co.uk/releases/little-prince-vod |publisher=[[British Board of Film Classification]] |accessdate=June 3, 2018}}</ref>
+| country        = France<ref>https://en.unifrance.org/movie/32112/the-little-prince</ref>
+| language       = English<ref>{{cite news |last1=Chang|first1=Justin|title=Cannes Unveils 2015 Official Selection Lineup |url=https://variety.com/2015/film/festivals/cannes-film-festival-lineup-2-1201473674/ |accessdate=18 August 2015 |work=[[Variety (magazine)|Variety]] |date=16 April 2015 |quote=...Mark Osborne's French-produced, English-language adaptation of "The Little Prince,"... }}</ref><ref>{{cite news |last1=Zeitchik |first1=Steven |title=Cannes 2015: Woody Allen and Todd Haynes to join Pixar and Portman |url=http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-cannes-film-festival-lineup-haynes-allen-pixar-20150416-story.html |accessdate=18 August 2015 |work=[[Los Angeles Times]] |date=16 April 2015 |quote=...while a second English-language animated movie,...}}</ref>
+| budget         =$77.5 million<ref name="THRinterview">{{cite news |last=Giardina |first=Carolyn |date=8 August 2016|url=https://www.hollywoodreporter.com/behind-screen/little-prince-director-mark-osborne-917961 |title='The Little Prince:' How Director Mark Osborne Gave the Classic a Modern Update |work=[[The Hollywood Reporter]] |accessdate=3 June 2018 }}</ref>
+| gross          = $97.5 million<ref name="BOM">{{cite web |url=http://www.boxofficemojo.com/movies/?id=thelittleprince.htm |title=The Little Prince (2016) |work = boxofficemojo.com |accessdate=15 June 2016}}</ref>
+}}
+'''''The Little Prince''''' is a 2015 English-language French [[3D film|3D]] [[Animation|animated]] [[fantasy film|fantasy]] [[adventure film|adventure]] [[family]] [[drama film]] directed by [[Mark Osborne (filmmaker)|Mark Osborne]] and based on the [[The Little Prince|1943 novella of the same name]] by [[Antoine de Saint-Exupéry]]. The film stars the voices of [[Jeff Bridges]], [[Rachel McAdams]], [[Paul Rudd]], [[Bud Cort]], [[Marion Cotillard]], [[Benicio del Toro]], [[James Franco]], [[Ricky Gervais]], [[Paul Giamatti]], Riley Osborne, [[Albert Brooks]] and [[Mackenzie Foy]].<!-- PER Starring role. Billing on main part of poster. DO NOT CHANGE. --> It is the first adaptation as a full-length animated feature of ''The Little Prince''.<ref name="VarietySecondTrailer">{{cite news |last=Keslassy |first=Elsa |date=20 April 2015 |url=https://variety.com/2015/film/festivals/the-little-prince-trailer-mark-osborne-cannes-1201475384 |title=Watch Second Trailer for Mark Osborne's Cannes-Bound ''The Little Prince'' (Exclusive) |work=[[Variety (magazine)|Variety]] |accessdate=20 April 2015 }}</ref>
+
+The film relates the story of the book using [[stop motion]] animation, which is woven into a [[computer animation|computer animated]] framing narrative about a young girl who has just met the book's now-elderly aviator narrator, who tells her the story of his meeting with the Little Prince in the [[Sahara]] desert. The film's animation was provided by studio [[Mikros Image]].<ref name="THRinterview" />
+
+The film premiered on 22 May 2015 at the [[2015 Cannes Film Festival|68th Cannes Film Festival]] in an out-of-competition screening,<ref name="Cannes"/> followed by a wide release in France on 29 July by [[Paramount Pictures]].<ref name="releasedate"/> The film was originally set to be released in theatres across the United States on March 18, 2016 before being dropped due to budget cuts; [[Netflix]] later acquired the US distribution rights and released it on August 5, 2016.<ref name="releasedateUS">{{cite web |last1=Kit |first1=Borys |title=Paramount Animation sets release dates for ''Little Prince'', ''Spongebob Squarepants 3'' |url=http://www.hollywoodreporter.com/heat-vision/little-prince-release-date-set-839020 |work=[[The Hollywood Reporter]] |accessdate=10 November 2015 }}</ref><ref name="USreleasedropped">{{cite web|url=http://www.ign.com/articles/2016/03/11/paramount-dumps-the-little-prince-a-week-before-release|title=Paramount Drops The Little Prince a Week Before Release - IGN|last=Vejoda|first=Jim|date=11 March 2016|work=IGN|accessdate=12 March 2016}}</ref>
+
+The film has received positive reviews, earning praise for its style of animation and homage paid to the source material, and earned $97.6 million on a [[Euro|€]]55 million budget, becoming the most successful French animated film abroad of all time.<ref>{{cite web |url=http://en.unifrance.org/news/14499/the-little-prince-is-now-the-most-successful-french-animated-film-abroad-to-date |title=The Little Prince is now the most successful French animated film abroad to date |website=[[UniFrance]] | date=3 December 2015 | accessdate=2 February 2016 }}</ref>
+
+==Plot==
+An ambitious young mother just moving to a new neighborhood and imposes a [[Coaching|life plan]] for her daughter that leaves no time for leisure, all for her to enroll in the prestigious Werth Academy. The girl, however, becomes distracted by her elderly retired aviator neighbor, who tells her the story of the "Little Prince", claiming that he encountered him in the [[Sahara]] after crash-landing there. The aviator recounts the Little Prince asking him to draw a sheep. He drew two sheep before the Little Prince complained he needed a sheep that would live forever. The aviator drew a box with three holes saying that the sheep was inside it, which satisfied the Little Prince.
+
+The girl and the aviator continue to read and play together without the mother's knowledge. The aviator tells the girl about the Little Prince's home, "[[Asteroid]] B612", covered in [[Adansonia|baobab sprouts]]. He states that after clearing away the sprouts, the Little Prince found and nurtured a [[Rose]] into maturity. Despite becoming his friend, she was rather selfish, which caused the Little Prince to travel to elsewhere with a flock of birds. After meeting some adults on other asteroids, he eventually landed on Earth, meeting and taming a [[red fox]]. After a while, the fox bid goodbye to the Little Prince, advising him to always see with his heart. The aviator gives the girl a [[Stuffed toy|stuffed]] fox as a gift, telling her that he will leave soon to go find the Little Prince.
+
+The two decide to go out for free "birthday" breakfast, but when they are pulled over by a police officer, the aviator is revealed to have no [[Driver's license|license]] and the officer returns the girl home. Realizing that she has not been following the plan, her mother redoubles her daughter's assignments. Nevertheless, the girl continues to read the story of the Little Prince, secretly visiting the aviator to find out the story's ending. The aviator tells her that the Little Prince had succumbed to a [[venomous snake]] bite in order to be reunited with his beloved Rose. Although the aviator assures the girl that he firmly believes the Little Prince succeeded, she is so upset by the dark twist to the story that she wishes she had never met the aviator or heard the story.
+
+Towards the summer's end, the aviator is hospitalized. Knowing it was her mother's fault and wanting to put things right, the girl sets off in search of the Little Prince. Escaping out her bedroom window and climbing onto a downspout, the girl falls into the aviator's yard and blacks out. After she awakens, the girl, accompanied by her now-conscious stuffed fox (probably the reincarnation of the real one) and the Little Prince's story pages, flies the aviator's now-fixed plane into space. They find all the stars mysteriously gone, all the while landing on an asteroid populated by workaholic adults owned by the "Businessman" from the Little Prince's story, who captures and holds all the stars to power his asteroid and belongings. After encountering a police officer and an [[elevator operator]] – the "Conceited Man" and "the King" from the story – they finally find the Little Prince, who has become an adult named "Mr. Prince" and works as a janitor for the Businessman, having no recollection of his past.
+
+Mr. Prince accordingly takes the girl to an "academy" where she is to be "reconditioned" as an adult by a machine controlled by a sinister Teacher. Recognizing the drawing of his sheep's box from the aviator's pages, which he still kept the original (due to his amnesia, he believed that it might be important), Mr. Prince begins to recover his memories and saves the girl from the same fate that he had by putting the Teacher in the machine instead, (which he was presumably "reconditioned" as an adult).
+
+They escape together and liberate all of the stars from the Businessman's glass vault, which return to their rightful place in the sky. The girl and the fox then take Mr. Prince back to B612, which is overgrown with baobabs. They find the Rose dead, but seeing her image in the sunrise, the baobabs disappear and Mr. Prince turns back to his younger self, giving him renewed hope.
+
+The girl and the fox return home, accompanied by another flock of birds. The next morning, the girl and her mother visit the aviator in the hospital. The girl apologizes and presents him the formerly loose pages bound together as a book, along with all the formerly missing parts filled in. The girl afterwards begins her studies at Werth Academy and reconciles with her mother. Both of them happily [[Amateur astronomy|stargaze]] one night, while the Little Prince and the aviator are heard laughing joyfully together on Asteroid B612.
+
+==Cast==
+[[File:Cannes 2015 47.jpg|thumb|The film's crew at the [[Cannes Film Festival]]: (from bottom right) [[Mackenzie Foy]], Riley Osborne, [[Mark Osborne (filmmaker)|Mark Osborne]], [[Marion Cotillard]] and other actors who provided the French and Japanese voices.]]
+* Riley Osborne as the Little Prince,<ref name="NewsweekTrailer">{{cite news |last1=Mejia |first1=Paula |title=Big-Budget ''The Little Prince'' Film Unveils Official Trailer |url=http://www.newsweek.com/big-budget-little-prince-film-unveils-official-trailer-323895 |accessdate=8 May 2015 |work=[[Newsweek]] |date=21 April 2015 }}</ref> an eternally young boy and resident of "[[Asteroid]] B612", a small asteroid roughly the same size as him.
+** [[Paul Rudd]] as Mr. Prince,<ref name="Variety Review">{{cite news |last1=Foundas |first1=Scott |title=Film  Review: ''The Little Prince'' |url=https://variety.com/2015/film/festivals/the-little-prince-cannes-review-1201503230/ |accessdate=21 June 2015 |work=[[Variety (magazine)|Variety]] |date=22 May 2015}}</ref> the adult Little Prince who has forgotten his own childhood and become an anxious [[janitor]] for the Businessman.
+* [[Mackenzie Foy]] as the Little Girl, a smart, feisty and precocious girl with a kind heart. She has a very inquisitive mind and struggles to balance growing up and basking in her childhood.
+* [[Jeff Bridges]] as the Aviator, an eccentric and retired [[Pilot (aeronautics)|aviator]] who befriended the Little Prince in the [[Sahara Desert]] and acts as a mentor to the Little Girl.
+* [[Rachel McAdams]] as the Mother, a busy and committed mother who cares for her Little Girl. 
+* [[James Franco]] as the Fox, a [[red fox]] whom the Little Prince cares for and tames, and who eventually becomes one of his many friends on Earth. 
+* [[Marion Cotillard]] as the Rose, a bright and beautiful [[rose]] whom the Little Prince cares for and talks to. 
+* [[Benicio del Toro]] as the Snake, a sly and [[venomous snake]] whom the Little Prince meets and is instantly wary of. 
+* [[Albert Brooks]] as the Businessman, an arrogant and greedy [[businessperson]] who owns the stars in the sky and generates money to buy more stars. 
+* [[Paul Giamatti]] as the Academy Teacher, a slim, tall and deceptive [[teacher]] who operates an "Academy", a place where children are transformed into workaholic adults. 
+* [[Bud Cort]] as the King, a king of an asteroid and whom the Little Prince visits. He becomes an [[elevator operator]] for the Businessman later in the movie. 
+* [[Ricky Gervais]] as the Conceited Man, a man who conceives a personality and sticks to it. He becomes a [[police officer]] for the Businessman later in the movie. 
+* Jacquie Barnbrook as the Nurse, a nurse in the hospital where the Aviator is hospitalized. 
+* Marcel Bridges as the Concerned Neighbour, a neighbour who's curious at the Aviator's attitudes. 
+* Jeffy Branion as the Policeman, a [[police officer]] who repeatedly arrests and detains the Aviator.
+
+==Production==
+===Development===
+On 14 October 2010, ''[[Kung Fu Panda]]'' co-director and ''[[More (1998 film)|More]]'' creator [[Mark Osborne (filmmaker)|Mark Osborne]] was hired and set to direct ''The Little Prince'' based on the 1943 [[The Little Prince|novel of the same name]]. Irena Brignull (writer of ''[[The Boxtrolls]]'') and [[Bob Persichetti]] wrote the script for the film based on a story conceived by Mark Osborne.<ref name="Production Notes">{{cite news|title=Press Kit: ''The Little Prince''|url=http://www.festival-cannes.com/assets/Image/Direct/c7a1c29dbea30e0cfe0afcf2d9967baa.pdf|accessdate=22 January 2016|work=festival-cannes.com |archiveurl=https://web.archive.org/web/20150530123754/https://www.festival-cannes.com/assets/Image/Direct/c7a1c29dbea30e0cfe0afcf2d9967baa.pdf |archivedate=May 30, 2015 |deadurl=yes}}</ref> {{lang|fr|Aton Soumache}}, Alexis Vonarb and Dimitri Rassam produced the film with the budget of $70‒80 million for release in 2015.<ref name="THRinterview" />
+
+The film features a framing device not present in the novel with a schoolgirl discovering ''The Little Prince'' through a reclusive elderly neighbour. Mark Osborne made the film's hero a little girl after research from the [[Geena Davis|Geena Davis Institute on Gender in Media]] revealed the gender disparity among characters in animated films. She represents "the spirit of adulthood," according to Osborne.<ref name="LA Times">{{cite web |url=http://www.latimes.com/entertainment/movies/la-ca-mn-sneaks-little-prince-20160110-story.html |title='The Little Prince's' latest journey full of bold, unexpected choices |website=[[Los Angeles Times]] | date=8 January 2016 | accessdate=2 February 2016 }}</ref> "In animation, it always had to be boy-centric. Right now there seems to be a changing of the tide but these things don't happen overnight. These movies take years to make, so back when I was first pushing to make the little girl the main character, it was seen as quite revolutionary", Osborne recalled in April 2015.<ref>{{cite web |url=http://thedissolve.com/news/5433-hows-the-movie-industry-treating-women-this-week/ |title=How's the movie industry treating women this week? |website=[[The Dissolve]] | date=17 April 2015 | accessdate=2 February 2016 }}</ref>
+ 
+The film uses computer animation for the girl's world and stop-motion animation for the world of ''The Little Prince'' as she imagines it.<ref>{{cite web |url=http://www.screendaily.com/festivals/cannes/wild-bunch-boards-little-prince/5071306.article |title=Wild Bunch boards ''Little Prince'' |last=Goodfellow |first=Melanie |work=[[Screen Daily]] |date=5 May 2014 |accessdate=10 December 2014 }}</ref> Development and storyboarding of the film was completed in [[Paris]]. The team then moved to [[Montreal]] for the final phases of animation, lighting, colour and production in order to maximise the tax benefits offered to a French-Canadian project,<ref name="Production Notes"/> a co-venture between Onyx Entertainment in Paris, [[Mediaset]] and Lucky Red in Italy,<ref name="Lucky Red">https://d.facebook.com/LuckyRedItalia/photos/a.412669261514.203230.208142991514/10155816580856515/?type=3&__tn__=EHH-R</ref> and [[Mikros Image]] Canada in Montreal.<ref name="UniFrance"/><ref name="Production Notes"/><ref name="La Presse">{{cite web |url=http://affaires.lapresse.ca/economie/technologie/201309/03/01-4685513-mikros-image-le-petit-prince-renaitra-a-montreal.php|title=Mikros Image: Le Petit Prince renaîtra à Montréal| work=La Presse Canada |date=3 September 2013 |accessdate=26 January 2016}}</ref><ref>{{cite web |url=http://www.prosightspecialty.com/solutions/film-insurance/film-insurance-blog/a-big-solution-for-the-little-prince/|title=A Big Solution for The Little Prince | work=ProSight Specialty |date=4 May 2015 |accessdate=26 January 2016}}</ref> One of the film's associate producers is Brice Garnier from Canada's Kaibou Production.<ref name="La Presse"/><ref name="Kaibou">{{cite web |url=http://www.kaibouproduction.com/en/our-achievements/|title=Our Achievements| work= Kaibou Production |accessdate=2 February 2016}}</ref><ref name="FrenchFlicks">{{cite web |url=http://frenchflicks.com/read/items/the-little-prince-a-franco-american-animated-feature.html|title=The Little Prince, a Franco-American animated feature | work=FrenchFlicks.com |date=9 June 2015 |accessdate=26 January 2016}}</ref> Kaibou service rendered [[Line production]] and service production (3D animation and stop motion). Studio partners were Studio Mikros Image Canada, Toutenkartoon Canada and Technicolor (picture and sound post-production). Kaibou also provided financing through tax credits, gap financing and local taxes.<ref name="Kaibou"/>
+
+Osborne was pitching the film to actors, artists, and distributors all over the world using what he called a "magic suitcase" full of hand-made [[Visual communication|visual aids]] specifically created to communicate the tone and passion for the project. Model maker Joe Schmidt (the modeller of ''[[Coraline (film)|Coraline]]'') created this suitcase, which held the art book, and told the story of the movie visually.<ref name="Production Notes"/> Schmidt had created a snapshot of Osborne's vision for the film. A constellation of tiny planets and stars lit up on one side, a giant art book of illustrations filled the other. From somewhere deep inside the case, Osborne pulled out two large white circles that held slides that when placed up to each eye displayed 3-D images of stop-motion puppets. Then Osborne started flipping switches. In no time, a one-way mirror slid away to reveal a hidden chamber holding a collection of yellowed pages below. It was a mock-up of Saint-Exupéry's original manuscript, a key plot point in Osborne's film.<ref name="LA Times"/> In four years, Osborne pitched the movie close to 400 times.<ref name="Production Notes"/>
+
+===Casting===
+On 5 June 2013, it was announced that [[James Franco]], [[Marion Cotillard]], [[Mackenzie Foy]], [[Benicio del Toro]], [[Paul Giamatti]], [[Rachel McAdams]] and [[Jeff Bridges]] joined the film.<ref>{{cite news |title=James Franco, Rachel McAdams, Jeff Bridges Among Voice Stars for ''The Little Prince'' |url=http://www.hollywoodreporter.com/heat-vision/james-franco-rachel-mcadams-jeff-563612 |accessdate=15 September 2013 |newspaper=[[The Hollywood Reporter]] |date=5 June 2013 }}</ref> [[Albert Brooks]] joined the cast on 12 September to voice The Businessman, a villain.<ref>{{cite news |title=Albert Brooks lends voice to ''The Little Prince'' |url=http://www.deadline.com/2013/09/albert-brooks-lends-voice-to-the-little-prince |accessdate=15 September 2013 |newspaper=[[Deadline Hollywood]] |date=12 September 2013 }}</ref>
+
+Thanks to Osborne's emotionally engaging pitch and the global popularity of Saint-Exupéry's book, a group of A-list actors were able to be recruited to lend their voices to the film's characters. As Osborne explained, "It began with [[Jeff Bridges]]. He was our first and only choice to play the Aviator, so after a great deal of time trying to get to him, I finally got the chance to go to his home in [[Santa Barbara, California|Santa Barbara]] to talk to him directly. He was blown away by the pitch, and it really put us on the road to assembling the perfect cast." As Bridges recalls, he was instantly drawn to the role of the Aviator. "Mark gave me this incredible pitch, brought this suitcase with him which showed me what the movie was going to be about. We shared the same concern, which was if you simply just move around these iconic characters like the book, it might not do justice to the work. He had this great other story, which treated the book as almost another character in the movie. It’s a great way to pay tribute to this classic book, so I was excited and thrilled to be part of it."<ref name="Production Notes"/>
+
+In the early stages of production, Mark Osborne's daughter Maddie and his son Riley, helped by providing the temporary scratch voices for the roles of the Little Girl and the Little Prince. His daughter got older and her voice began to change, so she had to be replaced by the 12-year-old [[Mackenzie Foy]]. Osborne's son Riley was kept as the voice of The Little Prince because they never found anyone who did a better job than him. "He was 11 at the time, and was very  natural in the part so we kept him as the Prince!", Osborne told.<ref name="Production Notes"/>
+  
+To voice the complex role of the Little Girl's Mother, the film-makers approached [[Rachel McAdams]]. ''The Little Prince'' marks the first time McAdams has lent her voice to an animated  project. "I was so excited to be part of this movie, and I loved ''[[Kung Fu Panda]]'', so I knew our director Mark (Osborne) was going to do a wonderful job with the adaptation. I couldn’t have asked for a better introduction to animation." McAdams says it was important for her to connect with the material. "I play the Little Girl's Mother, who is a working single mum. She has this massive, intricate life-plan for her daughter and wants her to follow the rules to a tee. The Mother is a little highly-strung, but she means well. She and her daughter are a real team until the Little Girl drifts away."<ref name="Production Notes"/>
+
+===Music===
+The film's score was composed by [[Hans Zimmer]] and [[Richard Harvey]].<ref>{{cite web |url=http://filmmusicreporter.com/2014/12/10/hans-zimmer-to-score-the-little-prince |title=Hans Zimmer to score ''The Little Prince'' |work=Film Music Reporter |date=10 December 2014 |accessdate=10 December 2014}}</ref><ref>{{cite web |url=http://www.soundtrack.net/movie/the-little-prince-2015 |title=''The Little Prince'' Movie Information |work=soundtrack.net |accessdate=17 August 2015 }}</ref> [[Camille (singer)|Camille]] was featured in the film's soundtrack.
+
+==Release==
+===Premiere===
+The film was chosen in 'Official Selection' for the [[2015 Cannes Film Festival]] on 22 May 2015.<ref>{{cite news |title="The Little Prince" Cannes 2015 |url=http://www.festival-cannes.fr/en/archives/ficheFilm/id/c9482928-89ef-481d-a761-78d87cbc1347/year/2015.html |accessdate=14 May 2015 |publisher=[[Cannes Film Festival]] |date=14 May 2015 }}</ref> ''The Little Prince'' made its US premiere at the [[Santa Barbara Film Festival]] on 3 February 2016. It was the first animated movie to open the Santa Barbara Film Festival since the festival started in 1985.<ref>{{cite news |title=Why Santa Barbara Film Fest Is Kicking Off With an Animated Movie |url=http://www.hollywoodreporter.com/news/why-santa-barbara-film-fest-861071/ |work=[[The Hollywood Reporter]] |date=3 February 2016|accessdate=4 February 2016 }}</ref>
+
+===Release and distribution===
+[[Wild Bunch (film company)|Wild Bunch]] is overseeing international film sales. [[Paramount Pictures]] released the film in France on 29 July 2015 and in some other countries, and had also intended to handle distribution in the United States.<ref name="UniFrance">{{cite web|title=The Little Prince|url=http://en.unifrance.org/movie/32112/the-little-prince|publisher=Unifrance|accessdate=1 September 2016}}</ref> The film was also released in other territories by [[Entertainment One]] in Canada,<ref>{{cite web |last=Vlessing |first=Etan |url=http://www.hollywoodreporter.com/news/cannes-entertainment-one-acquires-trio-705838 |title=Cannes: Entertainment One acquires trio of films for Canada |work=[[The Hollywood Reporter]] |date=20 May 2014|accessdate=23 March 2015}}</ref> and [[The Weinstein Company]] in the UK, Australia and New Zealand.<ref>{{cite news |title=Harvey Weinstein reveals ''Southpaw'' Cannes slot offer |url=http://www.screendaily.com/festivals/cannes-news/weinsteins-in-southpaw-cannes-slot-offer/5088050.article |website=[[Screen Daily]] |date=14 May 2015 }}</ref> Warner Bros. assumed distribution in Austria, Germany and Japan.<ref name="UniFrance"/>
+
+The film was to be released via [[Paramount Animation]] in the United States on 18 March 2016 in [[RealD 3D]].<ref name="releasedateUS"/> However, on 11 March, a week away from its release, Paramount dropped the planned release for the region.<ref>{{cite web|last1=Vejvoda|first1=Jim|title=PARAMOUNT DROPS THE LITTLE PRINCE A WEEK BEFORE RELEASE|url=http://www.ign.com/articles/2016/03/11/paramount-dumps-the-little-prince-a-week-before-release|website=IGN|accessdate=13 March 2016}}</ref> According to [[Cartoon Brew]], Paramount left because the French producers did not pay an additional, previously agreed $20 million for the U.S. prints and advertising budget.<ref>{{cite web|last1=Amidi|first1=Amid|title=Netflix Made A Parade Float to Remind Award Season Voters: Don’t Forget About ‘The Little Prince’|url=http://www.cartoonbrew.com/awards/netflix-made-parade-float-remind-award-season-voters-dont-forget-little-prince-147199.html|publisher=Cartoon Brew|accessdate=3 January 2017|date=2 January 2017}}</ref> [[Netflix]] later acquired the US distribution rights and released the film on 5 August 2016.<ref>{{cite web|url=http://www.ew.com/article/2016/05/26/little-prince-trailer-release-date|title=The Little Prince gets a new trailer and release date|first=Nina|last=Terreo|date=26 May 2016|accessdate=26 May 2016}}</ref><ref>{{cite web|last1=Kilday|first1=Greg|title=Netflix Picks Up 'The Little Prince' from Paramount|url=http://www.hollywoodreporter.com/news/netflix-picks-up-little-prince-876622|work=The Hollywood Reporter|accessdate=18 March 2016}}</ref>
+
+===Marketing===
+On 11 September 2014, [[Warner Bros.|Warner Bros. Japan]] released a teaser from the film.<ref>{{cite news |title=''The Little Prince'' 2015 Japanese Teaser |url=http://www.yam-mag.com/news/trailers/the-little-prince-2015-japanese-teaser |accessdate=12 September 2014 |newspaper=Yam-Mag.com |date=12 September 2014}}</ref> The first trailer in French<ref>{{cite web|url=http://www.firstshowing.net/2015/full-international-trailer-for-french-animated-film-the-little-prince/ |title=Full International Trailer for French Animated Film 'The Little Prince' |website=FirstShowing.net |date=19 November 2015 |accessdate=20 August 2016}}</ref> was released by Paramount Pictures on 8 December 2014.<ref>{{cite news |title=Here's a First Look at The Little Prince Movie |url=http://time.com/3625355/little-prince-trailer/|website=TIME.com |date=9 December 2014|accessdate=4 February 2016 }}</ref> The first trailer in English was released on 12 December 2014.<ref>{{cite news |title=THE LITTLE PRINCE 2015 Trailer (English) |url=https://www.youtube.com/watch?v=x4y55qf5ky0 |website=[[YouTube]] |date=12 December 2014 |accessdate=4 February 2016 }}</ref> The first official English trailer and the first poster<ref>{{cite news |title=Adorable Trailer & Poster For THE LITTLE PRINCE |url=http://www.screenrelish.com/2015/04/22/adorable-trailer-poster-for-the-little-prince/ |work=[[The Hollywood Reporter]] |date=25 April 2015 |accessdate=4 February 2016 }}</ref> for the film were released on 20 April 2015.<ref>{{cite news |title='The Little Prince' Trailer Unveiled for Cannes — Watch |url=https://variety.com/2015/film/festivals/the-little-prince-trailer-mark-osborne-cannes-1201475384/ |website=[[Variety (magazine)|Magazine]] |date=20 April 2015|accessdate=4 February 2016 }}</ref> [[eOne]] Canada released a new trailer on 13 November 2015.<ref>{{cite news |title=The Little Prince Official Teaser Trailer - In theatres March 11 |url=https://www.youtube.com/watch?v=jUucvKHUkNw |website=[[YouTube]] |date=13 November 2015 |accessdate=4 February 2016 }}</ref> The first full U.S. trailer was released by Paramount Pictures on 25 November 2015.<ref>{{cite news |title=Watch: Lovely Full US Trailer for Animated 'The Little Prince' Movie  |url=http://www.firstshowing.net/2015/watch-lovely-full-us-trailer-for-animated-the-little-prince-movie/ |website=FirstShowing.net |date=25 November 2015|accessdate=4 February 2016 }}</ref>
+
+==Reception==
+===Box office===
+As of 20 September 2015, it had grossed $12.1 million in France<ref name="Overseas8thOpening">{{cite web |url=http://deadline.com/2015/09/maze-runner-scorch-trials-everest-minions-mission-impossible-rogue-nation-pixels-universal-record-international-box-office-1201538355/ |title=''Scorch Trials'' Heats Up $43.2M; ''Everest'' Scales $28.8M – Intl Box Office Final |first=Nancy |last=Tartaglione |work=[[Deadline Hollywood]] |publisher=[[Penske Media Corporation]] |date=21 September 2015 |accessdate=22 September 2015 }}</ref> and, as of 20 March 2016, $88.7 million worldwide.<ref name="numbers">{{cite web |url= http://www.the-numbers.com/movie/Little-Prince-The-%28France%29#tab=international |title=The Little Prince (2015) |accessdate=20 March 2016 |work=the-numbers.com }}</ref> In its opening week in France, ''The Little Prince'' earned $3.3 million from 727 screens debuting at No. 2 at the French box office.<ref name="OverseasOpening">{{cite web |url=http://deadline.com/2015/08/international-box-office-results-mission-impossible-rogue-nation-minions-ant-man-pixels-monster-hunt-bajrangi-bhaijaan-1201489609/|title=''Rogue Nation'' Puts Cruise in Control at $64.5M Offshore; Sets Career & ''M:I'' Franchise Bests – Intl Box Office Final |first=Nancy |last=Tartaglione |work=[[Deadline Hollywood]] |publisher=[[Penske Media Corporation]] |date=3 August 2015 |accessdate=4 August 2015 }}</ref> In its second weekend it grossed $1.4 million (down 41%) from 830 screens for a two weekend total of $5.5 million.<ref>{{cite web|url=http://deadline.com/2015/08/mission-impossible-rogue-nation-fantastic-four-ant-man-international-box-office-results-1201496065/|title=''Rogue Nation'' Flies Higher In 2nd Frame with $65m; ''Fantastic Four'' No. 2 With $33.1M Bow – Intl Box Office Update |first=Nancy |last=Tartaglione |work=[[Deadline Hollywood]] |publisher=[[Penske Media Corporation]] |date=10 August 2015 |accessdate=11 August 2015}}</ref> The film debuted at No. 2 in Brazil on 20 August, behind of ''[[Mission: Impossible – Rogue Nation]]'', with 330 thousand tickets sold.<ref name="Overseas2ndOpening">{{cite web |url=http://www.adorocinema.com/noticias/filmes/noticia-115484/ |title=Bilheterias Brasil: ''O Pequeno Príncipe'' não consegue tirar ''Missão Impossível'' da liderança |trans-title=Box office Brazil: ''The Little Prince'' cannot take the leadership from ''Mission: Impossible'' |work=adorocinema.com |date=24 August 2015 |accessdate=18 September 2015 |language=Portuguese }}</ref> In its second weekend, it topped the box office charts, with over 851,000 tickets sold, making history in Brazil as the first non-American animated film to lead the box office in the country. The film kept the first place at the Brazilian box office for three consecutive weeks.<ref>{{cite web |url=http://www.adorocinema.com/noticias/filmes/noticia-115634/ |title=Bilheterias Brasil: Na segunda semana de exibição, ''O Pequeno Príncipe'' assume a liderança |trans-title=Box office Brazil: On its second week of release, ''The Little Prince '' takes the lead |work=adorocinema.com |date=31 August 2015 |accessdate=18 September 2015 |language=Portuguese }}</ref> As of 5 October, the film has grossed over [[Brazilian real|R$]]27 million ({{US$|7.14 million}})<ref>{{cite web |url=http://cinema.uol.com.br/noticias/redacao/2015/10/05/comedia-brasileira-vai-que-cola-estreia-no-topo-das-bilheterias-do-pais.htm |title=Comédia brasileira ''Vai Que Cola'' estreia no topo das bilheterias do país |trans-title=Brazilian comedy ''Vai Que Cola'' débuts at the top of the country's box office |work=cinema.uol.com.br |date=5 October 2015 |accessdate=28 October 2015 |language=Portuguese }}</ref> and as of 18 October, it reached over 2 million admissions in Brazil.<ref>{{cite web |url=http://www.adorocinema.com/filmes/filme-178545/bilheterias/ |title=Bilheterias Brasil: ''O Pequeno Príncipe'' |trans-title=Brazil box office: ''The Little Prince'' |work=adorocinema.com |accessdate=28 October 2015 |language=Portuguese }}</ref>
+
+The film opened in China on 16 October,<ref name="cbooo">{{cite web |url=http://www.cbooo.cn/m/625045 |title=小王子 (2015) |accessdate=24 September 2016 |work=cbooo.cn |language=Chinese }}</ref> where it grossed $10.9 million in its opening weekend ranking third behind ''[[Ant-Man (film)|Ant-Man]]'' and ''[[Goodbye Mr. Loser]]'',<ref>{{cite web |url=http://www.cartoonbrew.com/box-office-report/the-little-prince-launches-in-china-with-10-8-million-120840.html |title=''The Little Prince'' launches in China with $10.8 million |work=cartoonbrew.com |date=20 October 2015 |accessdate=26 October 2015 }}</ref><ref name="GML">{{cite web |url=http://www.hollywoodreporter.com/news/china-box-office-ant-man-833176 |title=China Box Office: ''Ant-Man'' goes big with $43m début |first=Patrick |last=Brzeski |work=[[The Hollywood Reporter]] |publisher=[[Prometheus Global Media]] |date=20 October 2015 |accessdate=20 October 2015 }}</ref> It grossed a total of $20.9 million in 10 days<ref name="GROSS">{{cite web |url=http://www.hollywoodreporter.com/news/china-box-office-ant-man-834782 |title=China Box Office: ''Ant-Man'' Stays Strong, ''Pan'' Flops Hard on début |first=Patrick |last=Brzeski |work=[[The Hollywood Reporter]] |publisher=[[Prometheus Global Media]] |date=27 October 2015 |accessdate=27 October 2015 }}</ref> and by its third weekend, it had grossed {{US$|24 million}}.<ref>{{cite web |url= https://variety.com/2015/film/box-office/china-box-office-1201632169/ |title=China Box Office: ''The Witness'' Sees Victory Over ''Ant-Man'' |first=Patrick |last=Frater |date= 2 November 2015 |accessdate=3 November 2015 |work=[[Variety (magazine)|Variety]] }}</ref> It grossed a total of {{CNY|158.45 million}} in China,<ref name="cbooo"/> with the country being the largest territory for the film.<ref>{{cite web |url= http://www.boxofficemojo.com/movies/?page=intl&id=thelittleprince.htm|title= The Little Prince|accessdate= 24 September 2016|work= [[Box Office Mojo]]}}</ref>  It was [[List of 2015 box office number-one films in Japan|number-one]] on its second weekend in Japan.<ref>{{cite web |url=https://variety.com/2015/film/box-office/japan-box-office-prince-keeps-throne-1201650346/ |title=Japan Box Office: ''Prince'' Takes The Throne |first=Mark |last=Schilling |date=30 November 2015 |accessdate=3 December 2015 |work=[[Variety (magazine)|Variety]] }}</ref>
+
+===Critical response===
+The film has received critical acclaim, earning praise for its style of animation and homage paid to the source material. On [[Rotten Tomatoes]], the film holds a score of 93%, based on 95 reviews, with an average rating of 7.27/10. Its consensus reads: "Beautifully animated and faithful to the spirit of its classic source material, ''The Little Prince'' is a family-friendly treat that anchors thrilling visuals with a satisfying story."<ref>{{cite web |url=http://www.rottentomatoes.com/m/the_little_prince_2016/ |title=''The Little Prince'' (2016) |website=[[Rotten Tomatoes]] |accessdate=2 April 2016}}</ref>
+
+On [[Metacritic]], the film has a score of 70 out of 100, based on 23 critics, indicating "generally favourable reviews".<ref>{{cite web |url=http://www.metacritic.com/movie/the-little-prince |title=''The Little Prince'' reviews |website=[[Metacritic]] |accessdate=2 April 2016}}</ref> Furthermore, ''The Sydney Morning Herald'' reinforces positive reviews on the film, stating "it is deeply personal and profoundly moving, a sensitive and affecting portrait of humanity".<ref>{{cite web |last=Idato |first=M. |date=2016 |title=Review: ''The Little Prince'', Transported to a Whole New World |url=http://www.smh.com.au/entertainment/tv-and-radio/review-the-little-prince-transported-to-a-whole-new-world-20160803-gqjqow.html}}</ref>
+
+===Accolades===
+{| class="wikitable" 
+|-
+! Year
+! Award
+! Category
+! Recipient(s)
+! Result
+! Ref(s)
+|-
+| rowspan="3"| 2016
+| [[Austin Film Critics Association Awards 2016|Austin Film Critics Association]]
+| Best Animated Film
+| ''The Little Prince''
+| {{nom}}
+| <center><ref>{{cite web|url=http://awardswatch.com/news/austin-film-critics-association-afca-nominations-the-handmaiden-lands-top-mentions-trevante-rhodes-double-nominated/ |title=Austin Film Critics Association (AFCA) Nominations: The Handmaiden Lands Top Mentions, Trevante Rhodes Double Nominated |first=Erik |last=Anderson |publisher=AwardsWatch.com |date=15 December 2016 |accessdate=15 December 2016}}</ref><ref>{{cite web|url=https://medium.com/austin-film-critics-association/2016-nominations-5307a85b7c6a#.yjh64hs3i |title=2016 Austin Film Critics Awards Nominees, 'Moonlight' and 'Arrival' lead the way in AFCA's 2016 nominations |first=Neil |last=Miller |publisher=Medium.com |date=15 December 2016 |accessdate=15 December 2016}}</ref></center>
+|-
+| [[41st César Awards|César Awards]]
+| [[César Award for Best Animated Film|Best Animated Feature Film]]
+| [[Mark Osborne (filmmaker)|Mark Osborne]], Dimitri Rassam, Aton Soumache, Alexis Vonarb and ON Animation Studios
+| {{won}}
+| <center><ref>{{cite web |url=http://deadline.com/2016/01/cesar-nominations-2016-full-list-1201691182/ |title=César Award Nominations 2016 — Full List |website=[[Deadline Hollywood]] | date=27 January 2016 | accessdate=2 February 2016 }}</ref></center>
+|-
+| [[Hollywood Music in Media Awards]]
+| Best Original Score – Animated Film
+| [[Hans Zimmer]] and [[Richard Harvey]]
+| {{nom}}
+| <center><ref>{{cite web |url=http://deadline.com/2016/11/hollywood-music-in-media-awards-justin-timberlake-alexandre-desplat-trent-reznot-1201857357/ |title=Justin Timberlake & Alexandre Desplat Among Winners At Hollywood Music In Media Awards |publication-place=Deadline |publication-date=18 November 2016 |access-date=18 November 2016}}</ref><ref>{{cite web | url=https://variety.com/2016/film/news/la-la-land-hollywood-music-in-media-nominations-1201907464/ | title=‘La La Land’ Scores Three Hollywood Music in Media Nominations | work=Variety | date=2 November 2016 | accessdate=3 November 2016 |author=McNary, Dave}}</ref></center>
+|-
+| rowspan="4"| 2017
+| rowspan="2"| [[Annie Awards]]
+| Outstanding Achievement in Production Design in an Animated Feature Production
+| Lou Romano, Alex Juhasz and Celine Desrumaux 
+| {{nom}}
+| rowspan="2"| <center><ref>{{cite web |url=http://annieawards.org/nominees/#1 |title=44th Annie Award Nominees |publisher=International Animated Film Society |date= 28 November 2016 |accessdate= 29 November 2016}}</ref></center>
+|-
+| Outstanding Achievement, Music in an Animated Feature Production
+| [[Hans Zimmer]], [[Richard Harvey]] and [[Camille (singer)|Camille]]
+| {{Won}}
+|-
+| [[Visual Effects Society Awards 2016|Visual Effects Society Awards]]
+| [[Visual Effects Society Award for Outstanding Animation in an Animated Feature Motion Picture|Outstanding Visual Effects in an Animated Feature]]
+| Pascal Bertrand, Jamie Caliri, Jinko Gotoh and Mark Osborne
+| {{nom}}
+| <center><ref>{{cite web|url=http://www.hollywoodreporter.com/lists/rogue-one-leads-visual-effects-society-award-nominations-2017-full-list-962893/item/outstanding-visual-effects-a-student-project-962862|title='Rogue One' Leads Visual Effects Society Feature Competition With 7 Nominations As 'Doctor Strange,' 'Jungle Book' Grab 6 Each|work=Hollywood Reporter|first=Carolyn|last=Giardina|date=10 January 2016|accessdate=10 January 2016}}</ref></center>
+|-
+| [[43rd Saturn Awards|Saturn Awards]]
+| Best Animated Series or Film on Television
+| ''The Little Prince''
+| {{nom}}
+| <center><ref>{{cite web|url=https://variety.com/2017/film/awards/saturn-awards-nominations-2017-rogue-one-walking-dead-1202000833/|title=Saturn Awards Nominations 2017: 'Rogue One,' 'Walking Dead' Lead|last=McNary|first=Dave|work=[[Variety (magazine)|Variety]]|date=March 2, 2017|accessdate=March 2, 2017}}</ref></center>
+|-
+|}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{wikiquote|The Little Prince (film)}}
+{{Commons category|The Little Prince (2015 film)}}
+* {{Official website|http://www.thelittleprincemovie.com/}}
+* {{IMDb title|1754656|The Little Prince}}
+* {{Mojo title |id=thelittleprince|title= The Little Prince}}
+* [http://www.the-numbers.com/movie/Little-Prince-The-(France)#tab=international ''The Little Prince''] at [[The Numbers (website)|The-Numbers.com]]
+* [https://web.archive.org/web/20150530123754/https://www.festival-cannes.com/assets/Image/Direct/c7a1c29dbea30e0cfe0afcf2d9967baa.pdf Production Notes] (PDF)
+
+{{Portal bar|Cartoon|Animation|France|Children's literature}}
+
+{{The Little Prince}}
+{{Mark Osborne}}
+{{Antoine de Saint-Exupéry}}
+{{César Award for Best Animated Film}}
+
+{{DEFAULTSORT:Little Prince, The}}
+[[Category:2015 3D films]]
+[[Category:French films]]
+[[Category:English-language films]]
+[[Category:2010s French animated films]]
+[[Category:2015 animated films]]
+[[Category:2015 films]]
+[[Category:2015 computer-animated films]]
+[[Category:2010s fantasy films]]
+[[Category:French animated fantasy films]]
+[[Category:Annie Award winners]]
+[[Category:Dystopian films]]
+[[Category:Children's drama films]]
+[[Category:2010s children's fantasy films]]
+[[Category:Films scored by Hans Zimmer]]
+[[Category:Films about children]]
+[[Category:Films based on French novels]]
+[[Category:Films directed by Mark Osborne]]
+[[Category:2010s stop-motion animated films]]
+[[Category:Works based on The Little Prince]]
+[[Category:Paramount Pictures animated films]]
+[[Category:Paramount Pictures films]]
+[[Category:Paramount Animation films]]
+[[Category:César Award winners]]
+[[Category:Films about royalty]]
+[[Category:English-language French films]]
+[[Category:3D animated films]]

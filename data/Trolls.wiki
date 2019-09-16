@@ -1,0 +1,375 @@
+{{distinguish|Troll (film)|Troll doll}}
+{{about|the film|the soundtrack|Trolls (soundtrack)}}
+ {{short description|2016 US computer animated film directed by Mike Mitchell}}
+{{Use American English|date=October 2016}}
+{{Use mdy dates|date=January 2019}}
+{{Infobox film
+| name           = Trolls
+| image          = Trolls (film) logo.png
+| alt            = 
+| caption        = Promotional poster
+| director       = [[Mike Mitchell (director)|Mike Mitchell]] <br /> [[Walt Dohrn]] (co-director)
+| producer       = [[Gina Shay]]<ref name=PRNSlate2016 />
+| screenplay     = {{ubl|[[Jonathan Aibel and Glenn Berger|Jonathan Aibel]]|[[Jonathan Aibel and Glenn Berger|Glenn Berger]]}}
+| story          = Erica Rivinoja<ref name=PRNSlate2016 />
+| based on       = {{based on|[[Troll doll]]s|[[Thomas Dam]]}}
+| starring       = {{Plainlist|
+* [[Anna Kendrick]]
+* [[Justin Timberlake]]
+* [[Zooey Deschanel]]
+* [[Russell Brand]]
+* [[James Corden]]
+* [[Gwen Stefani]]
+}}<!--PER poster billing block-->
+| music          = [[Christophe Beck]]<ref>{{cite web|title=Christophe Beck to Score DreamWorks Animation's ‘Trolls’|url=http://filmmusicreporter.com/2015/12/07/christophe-beck-to-score-dreamworks-animations-trolls/|publisher=Film Music Reporter|accessdate=December 9, 2015}}</ref>
+| cinematography = [[Yong Duk Jhun]]
+| editing        = [[Nick Fletcher]]
+| studio         = [[DreamWorks Animation]]<ref name=THRReview/>
+| distributor    = [[20th Century Fox]]
+| released       = {{Film date|2016|10|08|[[BFI London Film Festival]]|2016|11|04|United States}}
+| runtime        = 93 minutes<ref name=THRReview />
+| country        = United States<ref>{{cite web|url=http://www.allmovie.com/movie/trolls-v571273|title=Trolls (2016)|work=[[AllMovie]]|accessdate=June 4, 2017}}</ref>
+| budget         = $125&nbsp;million<ref>{{cite web|url=http://www.latimes.com/entertainment/envelope/cotown/la-fi-ct-movie-projector-20161031-story.html|title='Doctor Strange' is expected to draw a massive audience for Disney's Marvel Studios|author=Ryan Faughnder|work=[[Los Angeles Times]]|date=November 1, 2016|accessdate=November 2, 2016}}</ref>
+| gross          = $346.8&nbsp;million<ref name="BOM">{{cite web |url=http://www.boxofficemojo.com/movies/?id=trolls.htm |title=Trolls (2016) |website=Box Office Mojo |accessdate=June 8, 2017}}</ref>
+}}
+'''''Trolls''''' is a 2016 American [[computer animation|computer-animated]] [[Musical film|musical]]<ref name="VarietyReview">{{cite news|last1=Gleiberman|first1=Owen|title=Film Review: ‘Trolls’|url=https://variety.com/2016/film/reviews/trolls-review-justin-timberlake-anna-kendrick-1201880434/|accessdate=December 20, 2016|work=Variety|date=October 8, 2016}}</ref> [[comedy film]]<ref>[https://festivalreviews.org/2016/11/04/film-review-trolls-usa-2016/ Film Review: TROLLS (USA 2016) ***]</ref> based on the [[Troll doll]]s created by [[Thomas Dam]]. [[Mike Mitchell (director)|Mike Mitchell]] and [[Walt Dohrn]] co-directs this film, with [[Jonathan Aibel and Glenn Berger]] serving as the writers. ''Trolls'' is based on a story by Erica Rivinoja. The film features the voices of [[Anna Kendrick]], [[Justin Timberlake]], [[Christopher Mintz-Plasse]], [[Zooey Deschanel]], [[Christine Baranski]], [[Russell Brand]], [[James Corden]] and [[Gwen Stefani]]. The film follows two trolls who go on a quest, to save their village from destruction by the Bergens, creatures who eat Trolls to be happy.
+
+The 33rd animated feature film produced by [[DreamWorks Animation]], the film premiered on October 8, 2016, at the [[BFI London Film Festival]]<ref name=THRReview /><ref>{{cite web|title=BFI London Film Festival – Trolls|url=https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=trolls|publisher=British Film Institute|accessdate=October 9, 2016}}</ref> and was theatrically released in the United States on November 4, 2016, by [[20th Century Fox]].<ref name=DeadlineTimberlake>{{cite web|last1=Lieberman|first1=David|title=Justin Timberlake To Add His Voice To DreamWorks Animation's ‘Trolls’|url=http://deadline.com/2015/09/justin-timberlake-joins-trolls-dreamworks-animation-1201527740/|website=Deadline Hollywood|accessdate=September 15, 2015|date=September 15, 2015}}</ref> The film grossed $346&nbsp;million worldwide against its $125&nbsp;million budget and received an [[Academy Award]] nomination for [[Academy Award for Best Original Song|Best Original Song]] for "[[Can't Stop the Feeling!]]". A sequel, ''[[Trolls World Tour]]'', is scheduled to be released on April 17, 2020.
+
+==Plot==   
+<!-- Please see WP:FILMPLOT before editing. Per key guideline, the plot summary should be within the desired length of 400-700 words. -->
+The Trolls are small creatures who live in an almost perpetual state of happiness, singing, dancing and hugging all day. However, they are discovered by the Bergens, large miserable creatures, who can feel happy only after eating a Troll. The Bergens imprison the trolls and eat them every year on a special occasion, called Trollstice. The Trolls, led by their king, King Peppy, with his baby daughter, Princess Poppy, escape through underground tunnels on the day of Trollstice, when Prince Gristle Jr. was going to eat his first Troll. Enraged, Gristle Jr.’s father King Gristle Sr. banishes Chef, who was in charge of preparing for Trollstice. Chef promises to leave and find the Trolls herself.
+
+20 years later, Poppy throws a big party to celebrate the Trolls' escape, despite the fears and warnings of the over-cautious and egotistical gray troll, Branch, that loud parties will attract the Bergens. A Zen troll named Creek, who is Poppy's crush, arrives and tells Branch to start being happy instead of being grumpy; Branch refuses. At the party, Branch's fears come true, when Chef sees the fireworks and kidnaps Guy Diamond, Biggie with Mr. Dinkles, Fuzzbert, Smidge, Satin with Chenille, DJ Suki, Cooper, and Creek (which Poppy tried to rescue). Chef then takes the kidnapped Trolls back to Bergen Town, while secretly plotting to overthrow its monarchy in revenge for her banishment.
+
+Alone inside the bunker, Branch looks at a bunch of homemade party invitations, indicating that he appreciates Poppy's offers of friendship and internally would like to have fun with the rest of the trolls. Meanwhile, Poppy goes on a rescue mission alone, as no other troll is willing to venture to Bergen Town, including Branch. But later on, when Poppy gets into trouble, she is saved by Branch, who thinks she will not make it if she goes alone. 
+ 
+Once inside the Bergen king's castle, Poppy and Branch witness Creek get eaten by Gristle Jr. (who is now king), but Poppy remains hopeful that Creek survived. Poppy and Branch find the rest of the captured Trolls being guarded by a scullery maid named Bridget. Poppy discovers that Bridget is secretly in love with King Gristle Jr. and offers to help her get a date with the king while trying to confirm if Creek is alive.
+
+While setting Bridget up for the date with a musical number, Branch refuses to sing and triggers an argument with Poppy, revealing that, as a child, his grandmother was captured and got killed while trying to save him, because his singing compromised his location to Chef. Branch's guilt and shame over his grandmother's death caused his color to turn from blue to gray.
+
+After Poppy comforts him with a hug, Branch decides to help Bridget and the trolls, though he still refuses to sing. Bridget, disguised under the name of "Lady Glittersparkles" gets her date with Gristle Jr. at a roller rink and arcade restaurant and Gristle Jr. asks her to be his "plus one" at Trollstice. Poppy notices Creek being held captive inside the jewel adorning the king's mantle.
+
+Having helped Bridget, the Trolls attempt to rescue Creek from Gristle's room and steal his jewel but discover that it is empty. The Trolls are then captured by Chef and are shocked to discover that Creek sold them out to the Bergens to spare himself from being eaten. Creek lures out every troll from Troll Village via cowbell and they are captured by Chef and the other Bergen cooks. With all the Trolls captured, thrown into a pot, and soon to be eaten, a heartbroken Poppy becomes sad after she had been betrayed by her crush, and loses hope as she and all the other Trolls turn gray.
+
+Branch, even though he is gray, tries to sing "[[True Colors (Cyndi Lauper song)|True Colors]]" for Poppy to cheer her up, and also confesses his affection for her. Poppy, after regaining her colors, returns Branch's feelings, and they both end up restoring all the trolls' colors including Branch's. Bridget saves the trolls, willing to sacrifice herself. Poppy cannot bring herself to abandon Bridget after her sacrifice that is sure to doom her life, and with Branch and her friends, shows the Bergens that Bridget was Lady Glitter Sparkles and that it is not necessary to eat Trolls to be happy, and they too, can find happiness within themselves.
+
+Chef refuses to accept the peace and tries to kill the Trolls, but is knocked into a serving cart that is sent rolling out of Bergen Town. Chef is set on fire with Creek, who was still in her pouch. Both species celebrate, bringing new life to the town and renewing the life of the troll tree. Poppy is then declared queen of the Trolls, and Poppy and Branch share a hug.
+
+In a [[Post-credits scene|mid-credits scene]], Chef and Creek's cart stops rolling. Chef prepares to eat Creek herself, but they soon find out they are on top of a monster, who opens his mouth and eats them both.
+
+==Cast==
+{{multiple image
+|direction = horizontal
+|image1    = Anna Kendrick Cannes 2016.jpg
+|width1    = 149
+|alt1      = Anna Kendrick
+|image2    = Justin Timberlake Cannes 2016.jpg
+|width2    = 130
+|alt2      = Justin Timberlake
+|footer    = Anna Kendrick and Justin Timberlake at the film's preview at the [[2016 Cannes Film Festival]]<ref>{{cite news|last1=Lawson|first1=Richard|last2=Miller|first2=Julie|title=What Happened When Justin Timberlake, Anna Kendrick, and Trolls Came to Cannes|url=http://www.vanityfair.com/hollywood/2016/05/anna-kendrick-justin-timberlake-trolls-cannes|accessdate=July 24, 2016|work=Vanity Fair|date=May 12, 2016}}</ref>
+}}
+* [[Anna Kendrick]] as Poppy, the princess, and later queen, of the Trolls.<ref name=DeadlineTimberlake /><ref name="comingsoon1">{{cite web|url=http://www.comingsoon.net/news/movienews.php?id=119556 |title=Anna Kendrick to Voice DreamWorks Animation's Trolls |publisher=ComingSoon.net |date= |accessdate=June 17, 2014}}</ref><ref name="twitter1">{{cite web|url=https://twitter.com/AnnaKendrick47/status/684782188907237376 |title=Hair we go! Meet Poppy! #DreamWorksTrolls #HairGoals #NewYearNewMe |publisher=Twitter |first1=Anna |last1=Kendrick| date=January 6, 2016 |accessdate=January 6, 2016}}</ref>
+** Iris Dohrn as Baby Poppy
+* [[Justin Timberlake]] as Branch, an over-cautious  pessimist Troll survivalist.<ref name=DeadlineTimberlake>{{cite web|last1=Lieberman|first1=David|title=Justin Timberlake To Add His Voice To DreamWorks Animation’s ‘Trolls’|url=http://deadline.com/2015/09/justin-timberlake-joins-trolls-dreamworks-animation-1201527740/|publisher=Deadline|accessdate=September 15, 2015|date=September 15, 2015}}</ref><ref name="twitter2">{{cite web|url=https://twitter.com/jtimberlake/status/684781983826710528 |title=Hair we go...I'm officially a #Troll.  #TrollsMovie #MeetBranch #HairPuns #ItsJustTheBeginning |publisher=Twitter |last1=Timberlake |first1=Justin |date=January 6, 2016 |accessdate=January 6, 2016}}</ref>
+** Liam Henry as Young Branch
+*[[Christopher Mintz-Plasse]] as King Gristle Jr., the prince/king of the Bergens.<ref name="thr-cast" />
+*[[Zooey Deschanel]] as Bridget, a kind-hearted Bergen who works as a [[scullery maid]] to the Bergen Chef. She also had a secret crush on Gristle Jr.<ref name="thr-cast" />
+*[[Christine Baranski]] as Chef, the evil and power-hungry chef of the Bergens.<ref name="thr-cast" />
+*[[Russell Brand]] as Creek, a Troll with a positive personality and zen-like wisdom. He later turned out to be a coward, a faker and a traitor, when he told the Bergens where the other Trolls were, just so he can save himself.<ref name="twitter6">{{cite web|url=https://twitter.com/rustyrockets/status/684781697511108608 |title=Hair we go! Meet Creek! #DreamWorksTrolls #LetYourHairUp |publisher=Twitter |first=Russel |last1=Brand |date=January 6, 2016 |accessdate=January 6, 2016}}</ref><ref name="thr-cast" />
+* [[James Corden]] as Biggie, a large Troll.<ref name="twitter5">{{cite web|url=https://twitter.com/JKCorden/status/684781501414690816 |title=Hair we go! Meet Biggie! #DreamWorksTrolls #TheySeeMeTrollin |publisher=Twitter |last1=Corden |first1=James |date=January 6, 2016 |accessdate=January 6, 2016}}</ref><ref name=thr-cast/>
+* [[Gwen Stefani]] as DJ Suki, the Trolls' residential DJ Troll who uses DJ equipment made of insects.<ref name="twitter4">{{cite web|url=https://twitter.com/gwenstefani/status/684799797291692032 |title=Hair we go! Meet DJ Suki! #DreamWorksTrolls #RockinTroll |publisher=Twitter |last1=Stefani |first1=Gwen |date=January 6, 2016 |accessdate=January 6, 2016}}</ref><ref name=thr-cast>{{cite web|url=http://www.hollywoodreporter.com/news/zooey-deschanel-jeffrey-tambor-join-884064|title=Zooey Deschanel, Jeffrey Tambor Join DreamWorks Animation's 'Trolls'|last=Vlessing|first=Etan|work=[[The Hollywood Reporter]]|date=April 14, 2016|accessdate=April 19, 2016}}</ref>
+* [[John Cleese]] as King Gristle Sr., the ruler of the Bergens at the start of the film.<ref name="thr-cast" />
+* [[Jeffrey Tambor]] as King Peppy, the king of the Trolls who once led his Trolls to freedom from the Bergens and Poppy's father.<ref name=thr-cast/>
+* [[Icona Pop|Aino Jawo]] as Satin, a Troll who alongside her twin sister Chenille are the most fashion forward.<ref name="twitter7">{{cite web|url=https://twitter.com/iconapop/status/684781559078084608 |title=Hair we go! Meet the Fashionistas! #DreamWorksTrolls #TwiceAsNice |publisher=Twitter |author=Icona Pop |date=January 6, 2016 |accessdate=January 6, 2016}}</ref><ref name=thr-cast/>
+* [[Icona Pop|Caroline Hjelt]] as Chenille, a Troll who alongside her twin sister Satin are the most fashion forward<ref name="twitter7"/>
+* [[Ron Funches]] as Cooper, a giraffe-like Troll.<ref name="twitter8">{{cite web|url=https://twitter.com/RonFunches/status/684785415228788737 |title=Remember Trolls?! They're back! In Ron form.  #DreamWorksTrolls |publisher=Twitter |last1=Funches |first1=Ronald |date=January 6, 2016 |accessdate=January 6, 2016}}</ref><ref name=thr-cast/>
+* [[Kunal Nayyar]] as Guy Diamond, a gray glittery Troll who is always naked.<ref name="twitter9">{{cite web|url=https://twitter.com/kunalnayyar/status/684781765026656257 |title=Hair we go! Meet Guy Diamond! #DreamWorksTrolls #ShineBrightLikeGuyDiamond |publisher=Twitter |last1=Nayyar |first1=Kunal |date=January 6, 2016 |accessdate=January 6, 2016}}</ref><ref name=thr-cast/>
+* [[GloZell]] as Grandma Rosiepuff, an elderly Troll and Branch's late grandmother.<ref name=official>{{cite web|url=http://www.dreamworks.com/trolls/|title=Trolls Official Website|work=[[DreamWorks Animation|DreamWorks]]|accessdate=April 19, 2016}}</ref> [[Dami Im]] voices the character in the Australian version.<ref>{{cite news|last=Bhole|first=Aneeta|url=http://www.dailymail.co.uk/tvshowbiz/article-3934738/Eurovision-finalist-Dami-Im-make-film-debut-new-DreamWorks-animation-Trolls.html|title='It's an honour to voice Timberlake's Grandma': Eurovision finalist Dami Im will make her film debut in the new DreamWorks animation Trolls|publisher=DMG|date=15 November 2016|accessdate=15 November 2016}}</ref> [[Susanna Reid]] voices the character in the UK version. <ref>{{cite web|url=https://www.ok.co.uk/tv/daytime/good-morning-britains-susanna-reid-14736809}}</ref>
+* Meg DeAngelis as Moxie Dewdrop, a dancing Troll.<ref name=official/>
+* [[Ricky Dillon]] as Aspen Heitz, a Troll skitterboarder.<ref name=official/> [[Greg James]] voices the character in the UK version. <ref>{{cite web|url=https://www.ok.co.uk/tv/daytime/good-morning-britains-susanna-reid-14736809}}</ref>
+* Kandee Johnson as Mandy Sparkledust, a Troll who designs and repairs all the treasures of Troll Town.<ref name=official/> [[Abbey Clancy]] voices the character in the UK version.<ref>{{cite web|url=https://www.ok.co.uk/tv/daytime/good-morning-britains-susanna-reid-14736809}}</ref>
+* [[Walt Dohrn]] as Cloud Guy, an anthropomorphic cloud.<ref name=thr-cast/>
+** Dorhn also voices Smidge, Fuzzbert, Mr. Dinkles, Tunnel Troll, and Wedgie Bergen #2
+* [[Quvenzhané Wallis]] as Harper, a Troll artist with [[heterochromia]] who paints with her hair.<ref name=thr-cast/>
+* [[Mike Mitchell (director)|Mike Mitchell]] as Darius / Vinny / Captain Starfunkle / Spider / Wedgie Bergen #1 / Chad / Card
+* [[Grace Helbig]] as Cookie Sugarloaf, one of the trolls. [[Carrie Hope Fletcher]] voices the character in the UK version.<ref>{{cite web|last1=Fletcher|first1=Carrie|title=Voicing A Troll|url=https://www.youtube.com/watch?v=nlV0HFohupo|via=YouTube|publisher=Carrie Hope Fletcher|accessdate=December 3, 2017}}</ref>
+* [[Curtis Stone]] as Todd, a royal guard that works for the Bergen Royal Family.
+* [[Rhys Darby]] as Bibbly, a Bergen shopkeeper of the Bib Store.
+
+==Production==
+[[File:Mike Mitchell & Walt Dohrn, Trolls, 2016 San Diego Comic-Con International.jpg|thumb|right|Director [[Mike Mitchell (director)|Mike Mitchell]] and co-director [[Walt Dohrn]] presented footage from the film at the 2016 [[San Diego Comic-Con International]]]]
+DreamWorks announced plans for a film based on the Troll toyline as early as 2010. This version was to be written by Adam Wilson and Melanie Wilson LaBracio.<ref>{{cite web|last1=Lesnick|first1=Silas|title=DreamWorks Animation Plans Good Luck Trolls Film|url=http://www.comingsoon.net/movies/news/67234-dreamworks-animation-plans-good-luck-trolls-film|website=Coming Soon.net|accessdate=November 5, 2016}}</ref> By 2012, [[Chloë Grace Moretz]] had already been cast in the female lead role and [[Jason Schwartzman]] was reported to have been offered the male lead.<ref name=DeadlineSchwartzman>{{cite news|last=Fleming|first=Mike|title=Jason Schwartzman In ‘Trolls’ Mode?|url=http://www.deadline.com/2012/06/jason-schwartzman-in-trolls-mode/|accessdate=June 25, 2012|publisher=Deadline Hollywood|date=June 20, 2012}}</ref> In September 2012, [[20th Century Fox]] and [[DreamWorks Animation]] announced that the film with the working title ''Trolls'' would be released on June 5, 2015, with [[Anand Tucker]] set to direct the film, written by [[Wallace Wolodarsky]] and [[Maya Forbes]].<ref name=PRNSlate2016>{{cite press release|author1=DreamWorks Animation|title=New Distributor Twentieth Century Fox Unveils DreamWorks Animation's Release Slate Through 2016|url=http://www.prnewswire.com/news-releases/new-distributor-twentieth-century-fox-unveils-dreamworks-animations-release-slate-through-2016-169123176.html|agency=PR Newswire|accessdate=December 13, 2014|date=September 9, 2012}}</ref>
+
+By April 2013, DreamWorks Animation had acquired the intellectual property for the [[Troll doll|Trolls franchise]] from the Dam Family and Dam Things. Having "big plans for the franchise," DreamWorks Animation became the exclusive worldwide licensor of the merchandise rights, except for Scandinavia, where Dam Things remains the licensor.<ref>{{cite news|title=DreamWorks Animation Acquires IP For Trolls With Plans To Take Iconic Dolls' Brand (And Hair) To New Heights|url=http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=756128|accessdate=April 13, 2013|newspaper=DreamWorks Animation|date=April 11, 2013|deadurl=yes|archiveurl=https://archive.is/20130506030237/http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=756128|archivedate=May 6, 2013}}</ref> In May 2013, the film was pushed back for a year to November 4, 2016.<ref name=Collider2016>{{cite news|last=Chitwood|first=Adam|title=DreamWorks Animation Moves B.O.O. Release Up to June 5, 2015 and TROLLS to November 4, 2016; Fox Dates ANUBIS and FERDINAND|url=http://collider.com/boo-release-date-trolls-release-date-dreamworks-animation/|accessdate=May 16, 2013|newspaper=Collider.com|date=May 16, 2013}}</ref> The same month, DreamWorks Animation announced that [[Mike Mitchell (director)|Mike Mitchell]] and Erica Rivinoja has been hired as a director and screenplay writer to "reimagine" the film as a musical comedy, which will present the origin of the Trolls' colorful hair.<ref name=DWAMitchell>{{cite news|title=Acclaimed Comedy Director Mike Mitchell And Emmy Award Winning Writer Erica Rivinoja Bring DreamWorks' Trolls to the Big Screen|url=http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=767658|accessdate=May 31, 2013|newspaper=DreamWorks Animation|date=May 28, 2013|deadurl=yes|archiveurl=https://archive.is/20130629021843/http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=767658|archivedate=June 29, 2013}}</ref> On June 16, 2014, [[Anna Kendrick]] joined the cast to voice Poppy, a princess.<ref name="comingsoon1">{{cite web|url=http://www.comingsoon.net/news/movienews.php?id=119556 |title=Anna Kendrick to Voice DreamWorks Animation's Trolls |publisher=ComingSoon.net |accessdate=June 17, 2014}}</ref> On September 15, 2015, ''[[Deadline Hollywood]]'' reported that [[Justin Timberlake]] will voice a character named Branch.<ref name=DeadlineTimberlake /> Timberlake previously worked with DreamWorks Animation as the voice of Arthur "Artie" Pendragon in ''[[Shrek the Third]]'' in 2007. The full cast announced their respective roles via announcements on Twitter on January 6, 2016.<ref name="bcdb1">{{cite web |url=http://blog.bcdb.com/dreamworks-announces-a-cast-of-trolls-9414/ |title=DreamWorks Announces a Cast of Trolls |publisher=BCDB Blog |date=January 6, 2016 |accessdate=January 6, 2016 |deadurl=yes |archiveurl=https://archive.is/20160224061131/http://blog.bcdb.com/dreamworks-announces-a-cast-of-trolls-9414/ |archivedate=February 24, 2016  }}</ref>
+
+==Music==
+{{main|Trolls (soundtrack)}}
+Justin Timberlake served as an executive producer for the film's music and released the original song "[[Can't Stop the Feeling!]]" in conjunction with "[[Hello Darkness]]" on May 6, 2016.<ref>{{cite web | url=http://www.billboard.com/articles/columns/pop/7357815/justin-timberlake-cant-stop-the-feeling-new-song | title=Justin Timberlake Delivers Delightful Single 'Can't Stop The Feeling': Watch | work=Billboard | date=May 6, 2016 | accessdate=May 6, 2016 | author=Platon, Adelle}}</ref> The song reached No. 1 in the official charts of 17 countries, including the [[Billboard Hot 100|United States]] and [[Canadian Hot 100|Canada]]. In addition to Timberlake, the rest of the cast contributed to the film’s soundtrack, which also features guest appearances from [[Earth, Wind & Fire]] and [[Ariana Grande]].<ref>{{cite web | url=http://www.billboard.com/articles/news/7357909/justin-timberlake-talks-trolls-soundtrack-new-music | title=Justin Timberlake Talks 'Trolls' Soundtrack and New Music | work=Billboard | date=May 6, 2016 | accessdate=May 6, 2016 | author=Kaufman, Gil}}</ref> The soundtrack album was certified [[Music recording sales certification|Platinum]] by the [[Recording Industry Association of America]]<ref>{{cite web |url=https://www.riaa.com/gold-platinum/?tab_active=default-award&se=TROLLS+%28ORIGINAL+MOTION+PICTURE+SOUNDTRACK%29#search_section |title= American certifications – Trolls |accessdate=January 5, 2017 |work=[[Recording Industry Association of America]]}}</ref> and the [[Australian Recording Industry Association]].<ref>{{cite web |url=http://www.ariacharts.com.au/charts/albums-chart |title=Aria Albums Chart |date=January 4, 2017}}</ref>
+
+==Release==
+The film's opening premiere opened at the [[BFI London Film Festival]] Opening Celebration on October 8, 2016 as a special BFI presentation, and was theatrically released on November 4, 2016, in the United States by [[20th Century Fox]].
+
+===Home media===
+''Trolls'' was released on Digital HD on January 24, 2017, and on DVD and [[Blu-ray]] on February 7, 2017.<ref>{{cite news|last1=Milligan|first1=Mercedes|title=DWA's ‘Trolls’ Brings the Happy Home on Disc & Digital|url=http://www.animationmagazine.net/home-entertainment/dwas-trolls-brings-the-happy-home-on-disc-digital/|accessdate=January 14, 2017|work=Animation Magazine|date=January 11, 2017}}</ref> The film topped the home video sales chart for two consecutive weeks.<ref>[https://variety.com/2017/digital/news/trolls-tops-disc-sales-charts-1201989743/ ‘Trolls’ Tops Disc Sales Charts] Variety. Retrieved February 23, 2017</ref><ref>[https://variety.com/2017/digital/news/trolls-trumps-arrival-to-remain-no-1-on-disc-sales-charts-1201994191/ ‘Trolls’ Trumps ‘Arrival’ to Remain No. 1 on Disc Sales Charts] Variety. Retrieved February 23, 2017</ref>
+
+==Reception==
+===Box office===
+''Trolls'' grossed $153.7&nbsp;million in the US and Canada and $193.2&nbsp;million in other countries for a worldwide total of $346.8&nbsp;million, against a budget of $125&nbsp;million.<ref name=BOM />
+
+In the United States and Canada, ''Trolls'' was released alongside the releases of ''[[Doctor Strange (2016 film)|Doctor Strange]]'' and ''[[Hacksaw Ridge]]'', and was projected to gross $35–40&nbsp;million from 4,060 theaters in its opening weekend.<ref name="preview">{{cite web|url=http://deadline.com/2016/11/doctor-strange-hacksaw-ridge-mel-gibson-trolls-1201846210/ |title=‘Doctor Strange’ To Give Booster Shot To Sleepy Fall Box Office |website=[[Deadline Hollywood]]}}</ref> On its first day, the film grossed $12.3&nbsp;million (including $900,000 made from Thursday night previews). It went on to open to $46.5&nbsp;million, finishing second at the box office behind ''Doctor Strange''.<ref name="DeadlineWknd1">{{cite web|url=http://deadline.com/2016/11/doctor-strange-trolls-hacksaw-ridge-weekend-box-office-1201848529/|title=‘Doctor Strange’ Resuscitates Fall Box Office With $81M To $83M+ Opening – Saturday AM Update|last=D'Alessandro|first=Anthony|website=[[Deadline Hollywood]]|accessdate=November 6, 2016}}</ref>
+
+===Critical response===
+On [[review aggregator]] website [[Rotten Tomatoes]], the film holds an approval rating of 75% based on 157 reviews; the [[average rating]] is 6.26/10. The site's critical consensus reads, "''Trolls'' brings its instantly recognizable characters to the big screen in a colorful adventure that, while geared toward the younger set, isn't without rewards for parents."<ref>{{cite web|url=https://www.rottentomatoes.com/m/trolls/|title=Trolls (2016)|last=|first=|date=|work=[[Rotten Tomatoes]]|publisher=[[Fandango Media]]|archive-url=|archive-date=|dead-url=|accessdate=May 23, 2019}}</ref> On [[Metacritic]], which assigns a normalized rating, the film has a score of 56 out of 100, based on 32 critics, indicating "mixed or average reviews".<ref>{{cite web |url=http://www.metacritic.com/movie/trolls |title=Trolls Reviews |publisher=[[Metacritic]] |accessdate=November 10, 2016}}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "A" on an A+ to F scale,<ref name="CinemaScore">{{cite web |url=https://twitter.com/CinemaScore/status/794759203126734848 |title=''Trolls'' |publisher=[[CinemaScore]] on Twitter |date=November 4, 2016 |accessdate=April 10, 2017}}{{Primary source inline|date=January 2019}}</ref> while [[PostTrak]] reported filmgoers gave it an 80% overall positive score.<ref name="DeadlineWknd1"/>
+
+Lindsey Bahr of [[Associated Press]] gave the film a positive review and said, "Ultimately, the 'get happy' moral of the story, while trite compared to something like ''[[Inside Out (2015 film)|Inside Out]]'', is sufficiently sweet enough for its audience. Did you expect more from a piece of candy?"<ref>{{cite web|url=http://www.torontosun.com/2016/11/02/review-trolls-is-big-hearted-sensory-overload|title=Review: 'Trolls' is big-hearted sensory overload|first1=Lindsey|last1=Bahr|first2=The Associated|last2=Press}}</ref> Bill Zwecker of ''[[Chicago Sun-Times]]'' gave the film three-and-a-half stars out of four and said, "You simply will walk out – or perhaps dance out – of the theater feeling very happy yourself."<ref>{{cite web|url=http://chicago.suntimes.com/entertainment/trolls-review/|title=Delightful 'Trolls' achieves maximum smiles per hour}}</ref> Andy Webster of ''[[The New York Times]]'' said, "Exuberant, busy and sometimes funny, DreamWorks Animation's ''Trolls'' is determined to amuse."<ref>{{cite news|url=https://www.nytimes.com/2016/11/04/movies/trolls-review.html|title=Review: The ‘Trolls’ Embark on a High-Haired Rescue Mission|date=November 3, 2016|work=The New York Times}}</ref>
+
+''[[The Hollywood Reporter]]'' called the film "an admittedly vibrant-looking but awfully recognizable animated musical comedy concoction."<ref name=THRReview>{{cite news|url=http://www.hollywoodreporter.com/review/trolls-review-936514|title='Trolls': Film Review|author=Michael Rechtshaffen|work=[[The Hollywood Reporter]]|date=October 8, 2016|accessdate=October 8, 2016}}</ref> [[Alonso Duralde]] of [[TheWrap]] said the film "combines the barely-there characterization and irritating cutesiness of ''[[The Smurfs (film)|The Smurfs]]'' with the hideous character design and awful pop covers of ''[[Strange Magic (film)|Strange Magic]]''."<ref>{{cite web|url=http://www.thewrap.com/trolls-review-justin-timberlake/|title=‘Trolls’ London Review: Justin Timberlake and Anna Kendrick Are Floppin’ to Oldies|author=[[Alonso Duralde]]|work=[[TheWrap]]|date=October 8, 2016|accessdate=October 8, 2016}}</ref> Betsy Bozdech of [[Common Sense Media]] gave the movie 4 stars. She said, "Make no mistake: Kids are going to love this movie. Trolls is cute, it's colorful, it has tons of catchy songs, and the messages are positive and easy to understand (happiness is inside everyone, if you know where/how to find it, and you shouldn't have to change who you are to get someone to like you)."<ref>{{cite web|url=https://www.commonsensemedia.org/movie-reviews/trolls |title=Trolls Movie Review|first=Betsy|last=Bozdech|publisher=Common Sense Media|accessdate=August 27, 2017}}</ref>
+
+===Accolades===
+{| class="wikitable sortable" style="font-size:small"
+|- style="background:#ccc; text-align:center;"
+! colspan="6" style="background: LightSteelBlue;" | List of awards and nominations
+|- style="background:#ccc; text-align:center;"
+! Award
+! Date of ceremony
+! Category
+! Recipient(s)
+! Result
+! class="unsortable"| {{nowrap|{{Abbr|Ref(s)|References}}}}
+|-
+| [[Academy Awards]]
+| [[89th Academy Awards|February 26, 2017]]
+| [[Academy Award for Best Original Song|Best Original Song]]
+| "[[Can't Stop the Feeling!]]" – [[Max Martin]], [[Shellback (record producer)|Shellback]] and [[Justin Timberlake]]
+| {{nom}}
+| style="text-align:center;"|<ref name="Oscars2017">{{cite news |url=http://edit.hollywoodreporter.com/lists/oscar-nominations-2017-complete-list-nominees-960044 |title=Oscars: 'La La Land' Ties Record With 14 Nominations |first=Kimberly |last=Nordyke |work=[[The Hollywood Reporter]] |date=January 24, 2017 |accessdate=January 24, 2017  }}{{dead link|date=November 2018|bot=medic}}{{cbignore|bot=medic}}</ref><br /><ref name="OscarsVar">{{cite news|url=https://variety.com/2017/film/news/2017-oscar-nominations-academy-awards-nominees-1201968107/ |title=Oscar Nominations: Complete List |work=[[Variety (magazine)|Variety]] |date=January 24, 2017 |accessdate=January 24, 2017}}</ref>
+|-
+| [[American Music Award]]s
+| [[American Music Awards of 2017|November 19, 2017]]
+| Top Soundtrack
+| ''[[Trolls (soundtrack)|Trolls: Original Motion Picture Soundtrack]]''
+| {{nom}}
+| style="text-align:center;"|<ref>{{Cite news |url=http://www.billboard.com/articles/events/amas/7997612/ama-nominations-2017-full-list |title=Here Is the Full List of 2017 AMAs Nominations |date=October 12, 2017 |work=Billboard |access-date=October 12, 2017}}</ref>
+|-
+| rowspan="4"| [[Annie Awards]]
+| rowspan="4"| [[44th Annie Awards|February 4, 2017]]
+| Outstanding Achievement, Character Design in an Animated Feature Production
+| Tim Lamb and Craig Kellman
+| {{nom}}
+| rowspan="4" style="text-align:center;"|<ref>{{cite web |url=http://annieawards.org/nominees/#1 |title=44th Annie Award Nominees |publisher=International Animated Film Society |date= November 28, 2016 |accessdate= November 29, 2016}}</ref>
+|-
+| Outstanding Achievement, Production Design in an Animated Feature Production
+| Kendal Cronkhite and Tim Lamb
+| {{nom}}
+|-
+| Outstanding Achievement, Storyboarding in an Animated Feature Production
+| Claire Morrissey
+| {{nom}}
+|-
+| Outstanding Achievement, Voice Acting in an Animated Feature Production
+| [[Zooey Deschanel]]
+| {{nom}}
+|-
+| [[Billboard Music Awards]]
+| [[2017 Billboard Music Awards|May 21, 2017]]
+| [[Billboard Music Award for Top Soundtrack|Top Soundtrack/Cast Album]]
+| ''Trolls: Original Motion Picture Soundtrack''
+| {{nom}}
+| style="text-align:center;"|<ref>{{cite web |url=http://www.billboard.com/articles/news/bbma/7752631/billboard-music-awards-2017-nominations-full-list |title=Drake, The Chainsmokers Lead Nominees for the 2017 Billboard Music Awards |work=[[Billboard (magazine)|Billboard]] |date=April 10, 2017 |accessdate=April 10, 2017}}</ref>
+|-
+| rowspan="2"| [[Critics' Choice Movie Awards|Critics' Choice Awards]]
+| rowspan="2"| [[22nd Critics' Choice Awards|December 11, 2016]]
+| [[Critics' Choice Movie Award for Best Animated Feature|Best Animated Feature]]
+| ''Trolls''
+| {{nom}}
+| rowspan="2" style="text-align:center;"|<ref>{{cite web|title=La La Land Leads with 12 Nominations for the 22nd Annual Critics' Choice Awards |url=http://www.criticschoice.com/critics-choice-awards |publisher=Critics' Choice |date=December 1, 2016 |accessdate=December 1, 2016}}</ref>
+|-
+| [[Critics' Choice Movie Award for Best Song|Best Song]]
+|rowspan="4" | "Can't Stop the Feeling!" – Max Martin, Shellback and Justin Timberlake
+| {{nom}}
+|-
+| [[Golden Globe Award]]s
+| [[74th Golden Globe Awards|January 8, 2017]]
+| [[Golden Globe Award for Best Original Song|Best Original Song]]
+| {{nom}}
+| style="text-align:center;"|<ref name="GoldenGlobe">{{cite web|url=http://www.hollywoodreporter.com/lists/golden-globes-nominees-2017-list-955075 |title=Golden Globes 2017: The Complete List of Nominations |work=[[The Hollywood Reporter]] |date=December 12, 2016|accessdate=December 12, 2016}}</ref>
+|-
+| [[Grammy Award]]s
+| [[59th Annual Grammy Awards|February 12, 2017]]
+| [[Grammy Award for Best Song Written for Visual Media|Best Song Written for Visual Media]]
+| {{won}}
+| style="text-align:center;"|<ref>{{cite web|url=http://www.billboard.com/articles/news/grammys/7686168/grammy-awards-2017-winners-list |title=Grammy Awards 2017: See the Full Winners List |work=Billboard|accessdate=February 12, 2017}}</ref>
+|-
+| [[Guild of Music Supervisors Awards]]
+| February 16, 2017
+| Best Song/Recording Created for a Film
+| {{nom}}
+| style="text-align:center;"|<ref>{{Cite news |url=http://www.billboard.com/biz/articles/news/tv-film/7662395/la-la-land-justin-timberlake-among-guild-of-music-supervisors |title='La La Land,' Justin Timberlake Among Guild of Music Supervisors Awards 2017 Nominees
+|last=Newman |first=Melinda |date=January 19, 2017 |work=Billboard |access-date=April 10, 2017}}</ref>
+|-
+| [[Hollywood Film Awards]]
+| November 6, 2016
+| Hollywood Song Award
+| "Can't Stop the Feeling!" by Justin Timberlake
+| {{won}}
+| style="text-align:center;"|<ref name="Hollywood">{{cite web|url=http://www.hollywoodawards.com/2016/10/justin-timberlake-to-be-honored-at-hollywood-film-awards/ |title=Justin Timberlake to Be Honored at Hollywood Film Awards |date=October 28, 2016 |work=[[Hollywood Film Awards]] |accessdate=November 2, 2016}}</ref>
+|-
+| rowspan="3"| [[Hollywood Music in Media Awards]]
+| rowspan="3"| November 17, 2016
+| Best Song Written for an Animated Film
+| "Can't Stop the Feeling!" – Max Martin, Shellback and Justin Timberlake
+| {{won}}
+| rowspan="3" style="text-align:center;"|<ref>{{cite web | url=https://variety.com/2016/film/news/la-la-land-hollywood-music-in-media-nominations-1201907464/ | title=‘La La Land’ Scores Three Hollywood Music in Media Nominations | work=Variety | date=November 2, 2016 | accessdate=November 3, 2016 |author=McNary, Dave}}</ref><br /><ref>{{cite web |url=http://deadline.com/2016/11/hollywood-music-in-media-awards-justin-timberlake-alexandre-desplat-trent-reznot-1201857357/ |title=Justin Timberlake & Alexandre Desplat Among Winners at Hollywood Music in Media Awards |publication-place=Deadline |publication-date=November 18, 2016 |access-date=November 18, 2016}}</ref>
+|-
+| Best Soundtrack From a Movie
+| ''[[Trolls (soundtrack)|Trolls: Original Motion Picture Soundtrack]]''
+| {{nom}}
+|-
+| Outstanding Music Supervision – Film
+| Justin Timberlake
+| {{nom}}
+|-
+| [[iHeartRadio Music Awards]]
+| [[2017 iHeartRadio Music Awards|March 5, 2017]]
+| Best Song from a Movie
+| "Can't Stop the Feeling!" by Justin Timberlake
+| {{nom}}
+| style="text-align:center;"|<ref>{{Cite news |url=http://www.eonline.com/news/819406/2017-iheartradio-music-awards-complete-list-of-nominations|publisher=E! |title=2017 iHeartRadio Music Awards: Complete List of Nominations |date=January 3, 2017}}</ref>
+|-
+| rowspan="4"| [[Nickelodeon Kids' Choice Awards]]
+| rowspan="4"| [[2017 Kids' Choice Awards|March 11, 2017]]
+| Favorite Animated Movie
+| ''Trolls''
+| {{nom}}
+| rowspan="4" style="text-align:center;"|<ref>{{cite web |url=https://variety.com/2017/tv/news/nickelodeon-kids-choice-awards-nominations-2017-full-list-1201975603/|title=Justin Timberlake and Kevin Hart Lead Nickelodeon's Kids’ Choice Awards Nominations|work=Variety|date= February 24, 2017 |accessdate= February 24, 2017 }}</ref>
+|-
+| Favorite Voice From an Animated Movie
+| rowspan="2" | Justin Timberlake and [[Anna Kendrick]]
+| {{nom}}
+|-
+| Favorite Frenemies
+| {{nom}}
+|-
+| Favorite Soundtrack
+| ''Trolls: Original Motion Picture Soundtrack''
+| {{nom}}
+|-
+| rowspan="2"| [[Satellite Awards]]
+| rowspan="2"| [[21st Satellite Awards|February 19, 2017]]
+| [[Satellite Award for Best Animated or Mixed Media Feature|Best Animated or Mixed Media Feature]]
+| ''Trolls''
+| {{nom}}
+| rowspan="2" style="text-align:center;"|<ref>{{cite web|url=http://www.hollywoodreporter.com/news/2016-satellite-awards-nominees-listed-includes-moonlight-la-la-land-950935|title=Satellite Awards Nominees Revealed|last=Kilday|first=Gregg|work=[[The Hollywood Reporter]]|date=November 29, 2016|accessdate=November 29, 2016}}</ref>
+|-
+| [[Satellite Award for Best Original Song|Best Original Song]]
+| "Can't Stop the Feeling!" – Max Martin, Shellback and Justin Timberlake
+| {{nom}}
+|-
+| [[Saturn Awards]]
+| [[43rd Saturn Awards|June 28, 2017]]
+| [[Saturn Award for Best Animated Film|Best Animated Film]]
+| rowspan="3" | ''Trolls''
+| {{nom}}
+| style="text-align:center;"|<ref name="SaturnAwards">{{cite web|url=https://variety.com/2017/film/awards/saturn-awards-nominations-2017-rogue-one-walking-dead-1202000833/ |title=Saturn Awards Nominations 2017: 'Rogue One,' 'Walking Dead' Lead |last=McNary |first=Dave |work=[[Variety (magazine)|Variety]] |date=March 2, 2017 |accessdate=March 3, 2017}}</ref>
+|-
+| [[St. Louis Gateway Film Critics Association]]
+| [[St. Louis Gateway Film Critics Association Awards 2016|December 18, 2016]]
+| Best Soundtrack
+| {{nom}}
+| style="text-align:center;"|<ref>{{cite web |url=http://www.stlfilmcritics.org/awards |title=2016 StLFCA Annual Award Nominations |publisher=[[St. Louis Gateway Film Critics Association]] |date=December 12, 2016 |accessdate=December 12, 2016}}</ref>
+|-
+| rowspan="2"| [[Teen Choice Awards]]
+| rowspan="2"| [[2016 Teen Choice Awards|July 31, 2016]]
+| Choice AnTEENcipated Movie
+| {{nom}}
+| rowspan="2" style="text-align:center;"|<ref name="TeenChoice">{{cite web |url=http://www.eonline.com/news/767635/teen-choice-awards-2016-nominations-announced-see-the-first-wave-of-potential-winners |title=Teen Choice Awards 2016 Nominations Announced: See the "First Wave" of Potential Winners |last=Vulpo |first=Mike |publisher=[[E!]] |date=May 24, 2016 |accessdate=May 25, 2016 |archiveurl=https://www.webcitation.org/6hm3YMtx8?url=http://www.eonline.com/news/767635/teen-choice-awards-2016-nominations-announced-see-the-first-wave-of-potential-winners |archivedate=May 25, 2016 |deadurl=no  }}</ref>
+|-
+| Choice Music: Song from a Movie or TV Show
+| "Can't Stop the Feeling!" by Justin Timberlake
+| {{nom}}
+|-
+| [[World Soundtrack Academy|World Soundtrack Awards]]
+| October 18, 2017
+| [[World Soundtrack Award for Best Original Song Written Directly for a Film|Best Original Song written directly for a Film]]
+| "Can't Stop the Feeling!" – Max Martin, Shellback and Justin Timberlake
+| {{nom}}
+| style="text-align:center;"|<ref>{{Cite news |url=https://variety.com/2017/music/news/world-soundtrack-academy-award-nominees-2017-1202526811/ |title=‘La La Land,’ ‘Stranger Things’ Among 2017 World Soundtrack Award Nominees |date=August 21, 2017 |work=Variety |access-date=September 15, 2017}}</ref>
+|}
+
+*Regarding music award shows, only film-related categories are included on this list.
+
+==Franchise==
+''DreamWorks Trolls: The Experience'' was the first of multiple mobile pop-up attractions [[Feld Entertainment]] and [[Universal Pictures|Universal Brand Development]] had agreed to develop in April 2018.<ref name="ks">{{cite news|last1=Whyte|first1=Alexandra|title=Universal, Feld develop Trolls interactive attraction|url=http://kidscreen.com/2018/05/01/universal-feld-entertainment-develop-trolls-attraction/|accessdate=May 1, 2018|work=Kidscreen|publisher=Brunico Communications Ltd.|date=May 1, 2018}}</ref> The pop-up attraction opened in [[New York City]] on October 22, 2018.<ref>{{cite news |last1=Gross |first1=Arlene |title=New 'DreamWorks Trolls' event coming to NYC |url=https://www.newsday.com/lifestyle/family/dreamworks-trolls-experience-new-york-1.20213760 |accessdate=August 15, 2018 |work=Newsday |date=July 31, 2018 }}</ref>
+
+{{Anchor|Trolls World Tour}}
+
+=== Sequel ===
+{{main|Trolls World Tour}}
+On February 28, 2017, [[Universal Pictures]], the studio's new distributor and parent company since 2016, and [[DreamWorks Animation]] announced that a sequel titled ''Trolls 2'' would be released on April 10, 2020, with Kendrick and Timberlake reprising their roles of Poppy and Branch as well as Aibel and Berger returning to write the script.<ref name=VarietyTrolls2020>{{cite news|last1=Kroll|first1=Justin|title=Universal DreamWorks Animation Announces ‘Trolls 2’; Sets for April 10, 2020|url=https://variety.com/2017/film/news/trolls-2-announced-april-2020-dreamworks-animation-1201998983/|accessdate=March 5, 2017|work=Variety|date=February 28, 2017}}</ref> On October 4, 2017, the release date for the sequel was moved up to February 14, 2020, as ''[[Fast & Furious 9]]'' took its original April 10, 2020 slot. Along with the new release date, it was announced that Dohrn will be returning to direct and Shay will return to produce the sequel. On December 6, 2017, the film was pushed back to an April 17, 2020 release.<ref name="auto">{{cite web|url=http://deadline.com/2017/10/fast-furious-9-easter-weekend-2020-release-date-trolls-2-valentines-day-opening-2020-1202181866/|title=‘Fast & Furious 9’ Drives To Easter Weekend 2020; DreamWorks Animation's ‘Trolls 2’ Eyes Valentine's Day. |last=D'Alessandro|first=Anthony|date=October 4, 2017|website=Deadline Hollywood|accessdate=November 7, 2017}}</ref>
+
+In May 2018, it was confirmed that [[Sam Rockwell]], [[Chance the Rapper]], [[Anthony Ramos (actor)|Anthony Ramos]], [[Karan Soni]], [[Flula Borg]], and [[Jamie Dornan]] joined the cast. Corden, Icona Pop, Funches, and Nayyar will also reprise their roles.<ref>{{Cite news |url=http://deadline.com/2018/05/sam-rockwell-chance-the-rapper-trolls-2-animated-movie-1202387559/ |title=Sam Rockwell, Chance The Rapper Join DreamWorks’ ‘Trolls 2’|last=Busch|first=Anita |date=May 10, 2018 |website=Deadline Hollywood|access-date=May 10, 2018}}</ref> In October 2018, it was confirmed that [[Kelly Clarkson]] had joined the cast, and will perform an original song.<ref>{{cite web|url=https://deadline.com/2018/10/kelly-clarkson-trolls-2-perform-original-song-1202476507/|title=Kelly Clarkson & Reece McCreless Joins ‘Trolls 2’ & Will Perform Original Song|publisher=Deadline Hollywood|last=N'Duka|first1=Amanda|last2=D'Alessandro|first2=Anthony|date=October 4, 2018|accessdate=October 5, 2018}}</ref>
+
+A new title for the sequel, ''Trolls World Tour'', was announced in June 2018.<ref>{{Cite news |url=https://www.hollywoodreporter.com/behind-screen/emmys-trolls-holiday-lights-up-animation-race-1119149 |title=Emmys: Trolls Light Up Animation Race With Holiday Special |date=June 12, 2018 |website=The Hollywood Reporter}}</ref> In May 2017, podcasters [[Justin McElroy|Justin]], [[Travis McElroy|Travis]] and [[Griffin McElroy]] began campaigning for roles in the film via a podcast titled "The McElroy Brothers Will Be in Trolls 2".<ref>{{Cite web|url=https://trolls2.libsyn.com|title=The McElroy Brothers Will Be in Trolls 2|website=trolls2.libsyn.com|access-date=16 September 2018}}</ref> Following the campaign's success, DreamWorks confirmed in September 2018 that the McElroy brothers would make cameo appearances in ''World Tour.<ref>{{Cite news |url=https://www.vanityfair.com/hollywood/2018/09/trolls-world-tour-mcelroy-brothers-casting |title=The Unbelievable True Story of How Three Podcasters Trolled Their Way into Trolls 2 |last=Bradley |first=Laura |date=September 11, 2018 |website=[[Vanity Fair (magazine)|Vanity Fair]] |access-date=September 11, 2018}}</ref>
+
+In June 2019, along with promotional posters, new cast members have been announced, which include: [[J Balvin]], [[Mary J. Blige]], [[Rachel Bloom]], [[George Clinton (musician)|George Clinton]], [[Ester Dean]] and [[Gustavo Dudamel]].<ref>{{cite news |last1=Sarto |first1=Dan |title=DreamWorks Animation Reveals 21 Posters and Cast for ‘Trolls World Tour’ |url=https://www.awn.com/news/dreamworks-animation-reveals-21-posters-and-cast-trolls-world-tour |accessdate=19 June 2019 |work=Animation World Network |date=19 June 2019 |language=en}}</ref>
+
+===Television special===
+{{Main|Trolls Holiday}}
+''Trolls Holiday'' is a half-hour<ref name=NBCTrollsSpecial /> television special that aired on November 24, 2017 on [[NBC]].<ref>{{cite web|last1=Connelly|first1=Brendon|title=Frozen, Trolls getting new TV specials|url=http://www.denofgeek.com/uk/movies/transformers/47678/frozen-trolls-getting-new-tv-specials|publisher=Den of Geek!|accessdate=March 5, 2017|date=March 3, 2017}}</ref> Set after the film, Poppy realizes that the Bergens have no holidays to celebrate. She enlists Branch and their friends (the Snack Pack) to show their best friend Bridget and other Bergens the importance of holidays. Most of the original cast (including Kendrick, Timberlake, Deschanel, Mintz-Plasse, Corden, Funches, Nayyar and Dohrn) all reprise their roles from the film. The likely-Christmas Special is also directed by Crawford and written by Josh Bycel & Jonathan Fener with music by Jeff Morrow.<ref name=NBCTrollsSpecial>{{cite web|title=Trolls Holiday|url=http://www.nbc.com/trolls-holiday?nbc=1|publisher=NBC|accessdate=May 20, 2017}}</ref> Its soundtrack album that features seven songs was released on October 27, 2017.<ref>{{Cite news |url=https://www.amazon.com/Trolls-Holiday-Various/dp/B0761FKYBM |title=TROLLS Holiday |publisher=Amazon.com |accessdate=October 20, 2017}}</ref> It is now available on Netflix and on DVD by [[Universal Pictures Home Entertainment]]. The bonus features of the DVD also include one episode of ''[[Spirit Riding Free]]'' and two of ''[[Home: Adventures with Tip & Oh]]''.
+
+===Animated series===
+{{Main|Trolls: The Beat Goes On!}}
+A 26-episode animated series based on the film, entitled ''Trolls: The Beat Goes On!'' that airs on [[Netflix]] premiered on January 19, 2018.<ref name="FOXBTrollsEverywhere">{{cite web|last1=Schwartzel|first1=Erich|title=Trolls Everywhere: NBCUniversal Aims to Use Parent Comcast's Reach to Spawn a Franchise|url=http://www.foxbusiness.com/features/2017/10/10/trolls-everywhere-nbcuniversal-aims-to-use-parent-comcasts-reach-to-spawn-franchise.html|publisher=Fox Business|accessdate=October 13, 2017|date=October 10, 2017}}</ref><ref>{{cite web|url=https://www.broadwayworld.com/bwwtv/article/Justin-Timberlake-Anna-Kendrick-Set-for-NBC-Animated-Musical-Special-DREAMWORKS-TROLLS-HOLIDAY-20171017|title=Justin Timberlake, Anna Kendrick Set for NBC Animated Musical Special DREAMWORKS TROLLS HOLIDAY|website=''Broadwayworld.com''|accessdate=November 7, 2017}}</ref> The show stars [[Amanda Leighton]] as Poppy, [[Skylar Astin]] as Branch, and Funches who is reprising his role as Cooper, and Dohrn reprising his role as Cloud Guy.<ref>{{cite web|url=http://www.toonbarn.com/dreamworks/trolls-beat-goes-netflix-series-gets-first-image-tv-special-dated/|title=Trolls: The Beat Goes On Netflix series gets first image|date=October 21, 2017|website=''Toonbarn.com''|accessdate=November 7, 2017}}</ref>
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+{{Wikiquote}}
+{{Commons category|Trolls (film)}}
+*{{Official website|http://www.dreamworks.com/trolls/}}
+*[http://dreamworkstrollsparty.com Dreamworks Trolls Party]
+*{{IMDb title|1679335}}
+*{{bcdb title|144845}}
+*{{mojo title|trolls}}
+*{{Rotten Tomatoes|trolls}}
+*{{metacritic film|trolls}}
+*{{AllMovie title|571273}}
+
+{{Trolls}}
+{{DreamWorks animated films}}
+{{Mike Mitchell}}
+{{Portal bar|Cartoon|Animation}}
+
+[[Category:2016 films]]
+[[Category:Trolls (film)| ]]
+[[Category:2016 3D films]]
+[[Category:2016 computer-animated films]]
+[[Category:2010s American animated films]]
+[[Category:2010s fantasy films]]
+[[Category:2010s musical comedy films]]
+[[Category:20th Century Fox animated films]]
+[[Category:American 3D films]]
+[[Category:American children's animated fantasy films]]
+[[Category:American children's animated comedy films]]
+[[Category:American computer-animated films]]
+[[Category:American fantasy-comedy films]]
+[[Category:American musical comedy films]]
+[[Category:American romantic comedy films]]
+[[Category:American romantic musical films]]
+[[Category:American films]]
+[[Category:Films set in 1996]]
+[[Category:Films set in 2016]]
+[[Category:Animated comedy films]]
+[[Category:Animated musical films]]
+[[Category:Animated buddy films]]
+[[Category:English-language films]]
+[[Category:Films about trolls]]
+[[Category:Films based on toys]]
+[[Category:Jukebox musical films]]
+[[Category:DreamWorks Animation animated films]]
+[[Category:Films scored by Christophe Beck]]
+[[Category:Films directed by Mike Mitchell]]
+[[Category:Justin Timberlake]]
+[[Category:Films with screenplays by Jonathan Aibel and Glenn Berger]]

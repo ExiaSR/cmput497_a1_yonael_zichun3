@@ -1,0 +1,260 @@
+{{Use dmy dates|date=January 2018}}
+{{Infobox film
+| name           = Loving Vincent
+| image          = Loving Vincent.png
+| caption        = Theatrical release poster
+| director       = {{ubl|[[Dorota Kobiela]]|[[Hugh Welchman]]}}
+| producer       = {{ubl|Hugh Welchman|[[Ivan Mactaggart]]|Sean M. Bobbitt}}
+| writer         = {{ubl|Dorota Kobiela|Hugh Welchman|[[Jacek Dehnel]]}}
+| starring       = {{plainlist|
+* Robert Gulaczyk
+* [[Douglas Booth]]
+* [[Jerome Flynn]]
+* [[Saoirse Ronan]]
+* [[Helen McCrory]]
+* [[Chris O'Dowd]]
+* [[John Sessions]]
+* [[Eleanor Tomlinson]]
+* [[Aidan Turner]]
+}}
+| music          = [[Clint Mansell]]
+| cinematography = Tristan Oliver
+| editing        = {{ubl|[[Dorota Kobiela]]|Justyna Wierszynska}}
+| studio         = {{ubl|BreakThru Productions|Trademark Films}}
+| distributor    = {{ubl|[[Altitude Film Distribution]] {{small|(UK)}}|Next Film {{small|(Poland)}}<ref name="Poland">{{cite web |url=https://lovingvincent.com/loving-vincent-is-released-in-poland-canada-and-vietnam,286,pl.html |title=LOVING VINCENT IS RELEASED IN POLAND, CANADA AND VIETNAM |publisher=Loving Vincent |accessdate=19 November 2017 |archive-url=https://web.archive.org/web/20180210144456/http://lovingvincent.com/loving-vincent-is-released-in-poland-canada-and-vietnam,286,pl.html |archive-date=10 February 2018 |dead-url=yes |df=dmy-all }}</ref>}}
+| released    = {{Film date|df=yes|2017|06|12|[[Annecy International Animated Film Festival|Annecy]]|ref1=<ref name="annecy">{{cite web|last1=Mayorga|first1=Emilio|title=‘Loving Vincent’ Gets Standing Ovation at Annecy|url=https://variety.com/2017/film/festivals/loving-vincent-gets-standing-o-at-annecy-1202466277/|date=14 June 2017|work=Variety|accessdate=7 September 2017}}</ref>|2017|9|22|United States|2017|10|06|Poland|ref2=<ref name="Poland"/>|2017|10|13|United Kingdom|ref3=<ref>{{cite web|url=http://altitudefilment.com/film/distribution/68/loving-vincent|title=Loving Vincent|work=Altitude|accessdate=18 August 2017}}</ref>}}
+| runtime        = 95 minutes<ref>{{cite web|title=''LOVING VINCENT'' (12A)|url=http://www.bbfc.co.uk/releases/loving-vincent-film|publisher=[[British Board of Film Classification]]|accessdate=30 August 2017}}</ref>
+| country        = {{Plainlist|
+*Poland
+*United Kingdom
+*United States
+}}
+| language       = English
+| budget         = $5.5 million<ref>{{cite web | url=https://www.telegraph.co.uk/films/2016/06/27/loving-vincent-van-gogh-goes-to-hollywood/| title=Van Gogh, a new film and a tantalising question: was Vincent murdered? | work=[[The Daily Telegraph]] | date=27 June 2016| accessdate=3 July 2017}}</ref>
+| gross          = $42.1 million<ref name="TN">{{cite web |url=https://www.the-numbers.com/movie/Loving-Vincent#tab=summary|title=''Loving Vincent'' (2017) |work= [[The Numbers (website)|The Numbers]] |accessdate=21 April 2018}}</ref>
+}}
+
+'''''Loving Vincent''''' is a 2017 [[Experimental film|experimental]] [[Animated film|animated]] [[Biographical film|biographical]] [[Drama (film and television)|drama film]] about the life of a painter [[Vincent van Gogh]], and, in particular, about the circumstances of [[Death of Vincent van Gogh|his death]]. It is the first fully painted animated feature film.<ref name="Macdonald">{{cite web |first=Fiona |last=Macdonald |title=Loving Vincent: The film made entirely of oil paintings |url=http://www.bbc.com/culture/story/20171016-loving-vincent-the-film-made-entirely-of-oil-paintings |publisher=BBC |date=16 October 2017 |accessdate=21 October 2017}}</ref> The film, written and directed  by [[Dorota Kobiela]] and [[Hugh Welchman]], is a Polish-UK co-production, funded by the [[Polish Film Institute]], and partially through a [[Kickstarter]] campaign.<ref>{{cite web | url=http://www.slate.com/blogs/browbeat/2016/02/29/the_trailer_for_loving_vincent_a_vincent_van_gogh_movie_animated_with_oil.html | title=Watch the Mesmerizing Trailer for a Movie About Van Gogh Fully Animated From Oil Paintings | work=[[Slate (magazine)|Slate]] | date=29 February 2016 | accessdate=2 March 2016}}</ref>
+
+First conceived as a seven-minute short movie in 2008,<ref name="Macdonald"/> ''Loving Vincent'' was realized by Dorota Kobiela, a painter herself, after studying the techniques and the artist's story through his letters.<ref>{{Cite news|url=http://www.dailycal.org/2017/09/28/loving-vincent-dorota-kobiela/|title=An interview with ‘Loving Vincent’ director Dorota Kobiela|date=2017-09-28|work=The Daily Californian|access-date=2018-01-17|language=en-US}}</ref>
+
+Each of the film's 65,000 frames is an oil painting on canvas, using the same technique as Van Gogh, created by a team of over 100 painters.<ref>{{cite web | url=https://www.bbc.co.uk/news/uk-england-cornwall-37707160 | title=How do you paint 65,000 pictures like Van Gogh? | publisher=[[BBC]] | date=29 October 2016 | accessdate=2 December 2016}}</ref> The film premiered at the 2017 [[Annecy International Animated Film Festival]].<ref name="annecy"/> It won Best Animated Feature Film Award at the [[30th European Film Awards]] in [[Berlin]] and was nominated for [[Academy Award for Best Animated Feature|Best Animated Feature]] at the [[90th Academy Awards]].
+
+==Plot==
+One year after [[Vincent van Gogh]]'s suicide, postman  [[The Roulin Family#Joseph|Joseph Roulin]] asks his son [[The Roulin Family#Armand|Armand]] to deliver Van Gogh's last letter to his brother, [[Theo van Gogh (art dealer)|Theo]]. Roulin finds the death suspicious, as merely weeks earlier Van Gogh claimed through letters that his mood was calm and normal. Armand reluctantly agrees and heads for Paris.
+
+[[Père Tanguy]], a [[Montmartre]] art supplier, tells Armand that Theo actually died six months after Vincent. He suggests that Armand travel to [[Auvers-sur-Oise]] and look for [[Paul Gachet|Dr. Paul Gachet]], who housed Van Gogh after his release from an asylum, shared his love for art, and attended the funeral. Once there, Armand learns that the doctor is out on business. So he stays at [[Auberge Ravoux|the same inn]] that Van Gogh did during his time in the area. There he meets the temporary proprietress [[Portraits by Vincent van Gogh#Adeline Ravoux|Adeline Ravoux]], who was fond of Van Gogh and who was also surprised by his death. At her suggestion, Armand visits the local boatman, who informs him that Van Gogh kept close company with Dr. Gachet's sheltered daughter, Marguerite. When Armand visits her, Marguerite denies and is angered when Armand implies that Van Gogh's suicidal mood could have resulted from an argument with her father.
+
+Throughout the investigation, Armand begins to suspect a local boy named René Secretan, who reportedly liked to torment Van Gogh, was in possession of a gun, and had often drunkenly waved it around town. Dr. Mazery, who examined Van Gogh, also claims that the shot must have come from a few feet away, ruling out suicide. When Armand implicates René, Marguerite confesses that she was in close, but not romantic, relations with Van Gogh, but she does not believe that René was capable of murder.
+
+Dr. Gachet finally returns and promises to deliver Armand's letter to Theo's widow. He admits there was an argument between them – Van Gogh accused Gachet of being a coward for not pursuing his dreams, to which Gachet angrily accused Van Gogh of deteriorating Theo's health by overly depending on his brother. Gachet posits that this accusation drove Van Gogh to suicide in order to release Theo from the burden. After Armand returns home, Postman Roulin later receives word from Theo's widow, [[Johanna van Gogh-Bonger|Johanna]], thanking Armand for returning the letter. Johanna attaches to her letter to Armand one of van Gogh's letters to her – signed, "Your loving Vincent."
+
+==Cast==
+[[File:Avp La Passion Van Gogh.jpg|thumb|Directors Dorota Kobiela and Hugh Welchman at the film's French premiere in Paris, with actor [[Pierre Niney]] who provided the voice of Armand Roulin in the French version.]]
+The leading cast is as follows:<ref>Waring, Olivia (2016) [http://metro.co.uk/2016/03/23/this-animated-van-gogh-movie-rendered-entirely-in-paint-looks-unbelievably-stunning-5771097/ This animated Van Gogh movie rendered entirely in paint looks unbelievably stunning]; ''Metro 87.1M'', 23 March 2016. Retrieved 4 August 2016.</ref><ref>[https://fashionindustrybroadcast.com/2016/04/04/loving-vincent-starring-vincent-van-gough/ ‘Loving Vincent’ Starring Vincent van Gogh]; ''Fashion Industry Broadcast'' '''FIB''', 4 April 2016. Retrieved 4 August 2016.</ref><ref name=":0">[https://www.imdb.com/title/tt3262342/fullcredits Loving Vincent (2016) Full Cast & Crew]; '''''IMDb'''''. Retrieved 4 August 2016.</ref>
+* Robert Gulaczyk as [[Vincent van Gogh]]
+** [[Jochum ten Haaf]] as Vincent van Gogh (voice)
+* [[Douglas Booth]] as [[The Roulin Family#Armand|Armand Roulin]]
+* [[Jerome Flynn]] as [[Paul Gachet]]
+* [[Saoirse Ronan]] as Marguerite Gachet
+* [[Helen McCrory]] as Louise Chevalier
+* [[Chris O'Dowd]] as [[The Roulin Family#Joseph|Postman Joseph Roulin]]
+* [[John Sessions]] as [[Portrait of Père Tanguy|Père Tanguy]]
+* [[Eleanor Tomlinson]] as [[Portraits by Vincent van Gogh#Adeline Ravoux|Adeline Ravoux]]
+* [[Aidan Turner]] as Boatman
+
+==Production==
+The filmmakers chose classically trained painters over traditional animators. Welchman said he wanted to avoid animators with "personalised styles" and opted for people who "were very pure oil painters".<ref name="Cartoonbrew">{{cite web|last1=Vollenbroek|first1=Tunde|title=‘Loving Vincent’: 6 Facts About The First Oil Painted Animated Feature|url=http://www.cartoonbrew.com/feature-film/loving-vincent-6-facts-first-oil-painted-animated-feature-150443.html|website=Cartoon Brew|accessdate=26 October 2017}}</ref> In total there were 125 painters from over twenty countries, which was more than envisioned and due to a difficulty in obtaining funding, resulting in a shorter schedule for the crew to work within. There were, in total, about 5,000 applicants, many of whom became interested after watching an online "recruitment teaser" for the project.<ref name="Cartoonbrew" />
+
+Van Gogh paintings informed the [[storyboard]] for the project, which were modified for the screen. These modifications ranged from simple alterations to re-imaginings incorporating different weather effects or time of day.<ref name="Cartoonbrew"/> A total of 65,000 frames were painted, but since artists painted multiple frames from the same shot on a single surface, only 1,000 paintings survived.<ref name="Cartoonbrew"/>
+
+The film uses a form of [[rotoscoping]]. Production for the film began with a live-action cast filming against a [[green screen]]. After filming, editors composited Van Gogh paintings into scene backgrounds, and finally cut the movie together as usual. However, once the actual film was complete, they shot each individual frame onto a blank canvas, and artists painted over each image. The entire process, from the actual filming to completion of the paintings, took four years to finish. Even Welchman himself admitted, "We have definitely without a doubt invented the slowest form of filmmaking ever devised in 120 years."<ref>{{cite news | url=https://www.cbsnews.com/news/loving-vincent-entirely-hand-painted-film-about-vincent-van-goghs-life/ | title="Loving Vincent" Van Gogh: How the world's first hand-painted film was made | date=21 October 2017 | publisher=CBS News | accessdate=10 August 2018 }}</ref>
+
+==Reception==
+
+===Box office===
+The movie is considered a box office success, grossing over an estimated $42.1 million (in USD) worldwide on a budget of $5.5 million, with United States earnings totaling $6.7 million. The film has most notably grossed $3 million in South Korea, $2.1 million in Italy and $10.8 million in China.<ref name="variety20mill">{{cite web|last1=Hopewell|first1=John|title=‘Loving Vincent’ Passes $20 Million at Worldwide Box Office|url=https://variety.com/2017/film/global/loving-vincent-passes-20-million-worldwide-box-office-1202635407/|website=Variety|accessdate=11 December 2017}}</ref>
+
+===Critical response===
+On the review aggregator [[Rotten Tomatoes]], the film has an approval rating of 85% based on 141 reviews, with an average rating of 7.3/10. The website's critical consensus states, "''Loving Vincent''{{'}}s dazzling visual achievements make this Van Gogh biopic well worth seeking out – even if its narrative is far less effectively composed."<ref name="rt">{{cite web|url=https://www.rottentomatoes.com/m/loving_vincent/|title=Loving Vincent (2017)|publisher=[[Fandango Media]]|work=[[Rotten Tomatoes]]|accessdate=12 January 2019}}</ref> [[Metacritic]] reports a score of 62 out of 100 based on 21 critics, indicating "generally favorable reviews".<ref name="mc">{{cite web|url=http://www.metacritic.com/movie/loving-vincent|title=Loving Vincent Reviews|publisher=[[CBS Interactive]]|work=[[Metacritic]]|accessdate=14 November 2017}}</ref>
+
+[[A. O. Scott]], writing for ''[[The New York Times]]'', found the visual aspects of the film to be innovative stating: "the viewer also becomes accustomed to the images, and astonishment at the film's innovative, painstaking technique begins to fade. But its charm never quite wears off, for reasons summed up in the title."<ref>A.&nbsp;O. Scott. Film Review. ''The New York Times''. 21 September 2017.</ref> Actress [[Angourie Rice]] had similar sentiments, writing in an essay that “it was such a fascinating experience to witness the actors’ performances turned into van Gogh style paintings. The great thing about this film is that it also made me question what the merging of artforms meant for art, film, and everything in between.”<ref>{{cite web|url=https://thoughtstokeepmesane.wordpress.com/2018/01/20/loving-vincent/|title=Loving Vincent|first=|last=Angourie|date=20 January 2018|website=wordpress.com}}</ref>
+
+Giuseppe Sedia of the ''[[Krakow Post]]'' praised the impressive visual style of the movie. However, he added, "In their concern to keep the viewers interested, directors Kobiela and Welchman have built an over-narrated and spirit-dampening movie in which the preponderance of the dialogues hinders the viewers’ immersion into the violent beauty and materiality of Van Gogh’s oeuvre". <ref>{{Cite web|author= Sedia, Giuseppe|date=15 October 2017|title=Loving Vincent (2017)|url= http://www.krakowpost.com/18287/2017/10/kino-mania-loving-vincent-2017|work=[[Krakow Post]]|accessdate=11 December 2018}}</ref>
+
+==Awards and accolades==
+The film won the "Most Popular International Feature" award at the 2017 [[Vancouver International Film Festival]].<ref>{{cite press release |url=http://archive.viff.org/e-blasts/viff/2017/PR/18_VIFFAudienceAwards_PR.html |title=Indian Horse Wins Coveted VIFF Super Channel People's Choice Award |publisher=Greater Vancouver International Film Festival Society |date=13 October 2017 |accessdate=15 October 2017}}</ref> It was nominated in the [[Hollywood Music in Media Awards|Hollywood Music in Media Awards 2017]]<ref name="Pond">{{cite web |last=Pond |first= Steve |title= Hollywood Music in Media Awards Announces Nominees in Film, TV, & Video Game Music |url=https://www.shootonline.com/spw/hollywood-music-media-awards-announces-nominees-film-tv-video-game-music |accessdate= 26 October 2017 |publisher= Shoot Online |date= 26 October 2017 }}</ref> for Best Original Score in an Animated Film. It won the Audience Award at the 2017 [[Annecy International Animated Film Festival]]<ref>{{cite web|url=https://www.annecy.org/festival:en/awards/film-index-award-winner:film-20172848|title=Home > Festival > Awards > Film index Award winner|first=©|last=CITIA|date=|website=www.annecy.org}}</ref> and the Golden Goblet for Best Animation Film at the [[Shanghai International Film Festival]].<ref>{{cite web|url=http://www.siff.com/a/2017-06-25/1930.html|title=Winners Of 20th Golden Goblet Awards|author=|date=|website=siff.com|access-date=2 November 2017|archive-url=https://web.archive.org/web/20171029235358/http://www.siff.com/a/2017-06-25/1930.html|archive-date=29 October 2017|dead-url=yes|df=dmy-all}}</ref>
+It won the XII Festival de Cine Inédito de Mérida (FCIM) after obtaining the highest score among the projected films and also the highest score obtained in the history of the event.<ref>{{cite web|url=https://www.20minutos.es/noticia/3197262/0/loving-vincent-gana-xii-festival-cine-inedito-merida-con-mayor-puntuacion-historia-certamen/|title='Loving Vincent' gana el XII Festival de Cine Inédito de Mérida con la mayor puntuación de la historia del certamen|first=|last=20Minutos|date=25 November 2017|website=20minutos.es - Últimas Noticias}}</ref> On 9 December 2017, the film won Best Animated Feature Film Award at the [[30th European Film Awards]] in [[Berlin]].<ref>{{cite news|url=https://www.europeanfilmacademy.org/News-detail.155.0.html?&tx_ttnews%5Btt_news%5D=589&cHash=8f61239d31c1b537970814c94a5a0c7a |title=THE 30TH EUROPEAN FILM AWARDS: WINNERS |access-date=10 December 2017}}</ref> The film also received Best Animated Feature nominations at both the [[Academy Award]]s and [[Golden Globe Award|Golden Globes]].
+
+{| class="wikitable sortable plainrowheaders" style="width:100%;"
+|-
+! scope="col" width="5%"| Year
+! scope="col" width="22%"| Ceremony
+! scope="col" width="46%"| Category
+! scope="col" width="15%"| Recipient(s)
+! scope="col" width="9%"| Result
+! scope="col" width="3%" class="unsortable"| {{Abbr|Ref.|Reference}}
+|-
+| rowspan="4"|2017
+| [[30th European Film Awards]]
+| [[European Film Award for Best Animated Feature Film|Best Animated Feature Film]]
+| rowspan="1"|Dorota Kobiela, Hugh Welchman
+| {{won}}
+| <ref>{{cite web |url=http://deadline.com/2017/11/european-film-awards-nominations-2017-the-square-loveless-on-body-and-soul-full-list-1202201849/|title=European Film Awards Nominations: ‘The Square’, ‘Loveless’, ‘On Body And Soul’ & More|work=[[Deadline (magazine)|Deadline]]}}</ref>
+|-
+| [[Shanghai International Film Festival]]
+| Best Animation Film
+| Dorota Kobiela, Hugh Welchman
+| {{won}}
+| <ref>{{cite web|url=http://lovingvincent.com/loving-vincent-wins-best-animation-at-shanghai-film-festival,250,pl.html |title=LOVING VINCENT WINS BEST ANIMATION AT SHANGHAI FILM FESTIVAL |access-date=2019-03-10}}</ref>
+|-
+| [[Hollywood Music in Media Awards|Hollywood Music in Media Awards 2017]]
+| Best Original Score
+|[[Clint Mansell]]
+| {{nom}}
+|<ref name="Pond"/> 
+|-
+| [[Florida Film Critics Circle]]
+| [[Florida Film Critics Circle Award for Best Animated Film|Best Animated Film]]
+| ''Loving Vincent''
+| {{nominated}}
+|<ref>{{cite web|url=http://www.floridafilmcritics.com/2017/12/20/the-shape-of-water-leads-2017-florida-film-critics-awards-nominations/||work=Florida Film Critics Awards|title=‘The Shape of Water’ Leads 2017 Florida Film Critics Awards Nominations|accessdate=20 December 2017|date=23 December 2017}}</ref><ref>{{cite web|url=http://www.floridafilmcritics.com/2017/12/23/2017-ffcc-winners/|work=Florida Film Critics Awards|title=‘Dunkirk’ Wins Top Prizes in 2017 Florida Film Critics Awards|accessdate=23 December 2017|date=23 December 2017}}</ref>
+|-
+| rowspan="20" |2018
+| [[Vilnius International Film Festival]]
+| The Audience Award
+| ''Loving Vincent''
+| {{won}}
+| <ref>{{cite web|url=https://kinopavasaris.lt/en/apdovanojimai/2018/audience-choice-awards-2018|title=Audience Choice Awards 2018|publisher=[[Vilnius International Film Festival]]|date=April 2018|accessdate=12 April 2019}}</ref>
+|-
+| [[75th Golden Globe Awards]]
+| [[Golden Globe Award for Best Animated Feature Film|Best Animated Feature Film]]
+| rowspan=3| [[Dorota Kobiela]] and [[Hugh Welchman]]
+| {{nom}}
+|<ref>{{cite web|url=https://variety.com/2018/film/awards/2018-golden-globe-winners-list-1202653737/|title=Golden Globes Winners: Complete List|work=[[Variety (magazine)|Variety]]|date=7 January 2018|accessdate=8 January 2018|archiveurl=https://web.archive.org/web/20180108050125/http://variety.com/2018/film/awards/2018-golden-globe-winners-list-1202653737/|archivedate=8 January 2018|deadurl=no}}</ref>
+|-
+| [[St. Louis Film Critics Association]]
+| [[St. Louis Gateway Film Critics Association Award for Best Animated Film|Best Animated Feature]]
+| {{Nominated}}
+|<ref name="Amidi">{{cite web|last=Amidi|first=Amid|title=Annual StLFCA Awards| url=http://www.stlfilmcritics.org/awards/| accessdate=12 December 2017| publisher=Sf. Louis Film Association|date=12 December 2017}}</ref>
+|-
+| [[Washington D.C. Area Film Critics Association Awards 2017|Washington, D.C. Area Film Critics Association Awards]]
+| [[Washington D.C. Area Film Critics Association Award for Best Animated Feature|Best Animated Feature]]
+| {{Nominated}}
+|<ref>{{cite news| last1=Brown| first1=Tracy| title=The 2017 WAFCA Awards| url=http://www.dcfilmcritics.com/awards/| accessdate=6 December 2017| work=Washington D.C. Film Critics Association| date=7 December 2017}}</ref>
+|-
+| [[22nd Satellite Awards]]
+| [[Satellite Award for Best Animated or Mixed Media Feature|Best Animated or Mixed Media Feature]]
+| rowspan="2"| ''Loving Vincent''
+| {{Nominated}}
+| <ref>{{cite web|url=https://www.thewrap.com/dunkirk-the-shape-of-water-lead-satellite-award-nominations/|title=‘Dunkirk,’ ‘The Shape of Water’ Lead Satellite Award Nominations|work=[[TheWrap]]|date=28 November 2017|accessdate=29 November 2017|first=Steve|last=Pond}}</ref>
+|-
+| [[Boston Society of Film Critics]]
+| Best Animated Film
+| {{draw|2nd Place}}
+| <ref>{{cite web|url=http://www.bostonfilmcritics.org/current-winners|title=Boston Society of Film Critics - Current Winners|work=[[Boston Society of Film Critics]]|date=10 December 2017|accessdate=10 December 2017|archive-url=https://web.archive.org/web/20151207063355/http://www.bostonfilmcritics.org/current-winners|archive-date=7 December 2015|dead-url=yes|df=dmy-all}}</ref><ref>{{cite web|url=http://www.bostonfilmcritics.org/content/past-award-winners|title=Boston Society of Film Critics - Past Award Winners|work=[[Boston Society of Film Critics]]|date=10 December 2017|accessdate=10 December 2017|archive-url=https://web.archive.org/web/20131211225443/http://www.bostonfilmcritics.org/content/past-award-winners|archive-date=11 December 2013|dead-url=yes|df=dmy-all}}</ref>
+|-
+| [[23rd Critics' Choice Awards]]
+| Best Animated Feature
+| Dorota Kobiela and Hugh Welchman 
+| {{nom}}
+| <ref>{{cite web|url=https://www.hollywoodreporter.com/lists/2018-critics-choice-awards-nominations-list-full-1062824|title=Critics' Choice Awards: 'The Shape of Water' Leads With 14 Nominations|work=[[The Hollywood Reporter]]|date=6 December 2017|accessdate=6 December 2017}}</ref>
+|-
+| [[90th Academy Awards]]
+| [[Academy Award for Best Animated Feature|Best Animated Feature]]
+| Dorota Kobiela, Hugh Welchman and [[Ivan Mactaggart]]
+| {{nom}}
+| 
+|-
+| rowspan="3"|[[45th Annie Awards]]
+| Best Animated Feature — Independent
+| Hugh Welchman and Ivan Mactaggart
+| {{nominated}}
+| rowspan="3"|<ref>{{cite web|url=http://deadline.com/2017/12/annie-awards-nominations-coco-the-breadwinner-full-list-1202219487/|title=Annie Awards: Disney/Pixar's 'Coco' Tops Nominations|last=Hipes|first=Patrick|publisher=[[Deadline Hollywood]]|date=4 December 2017|accessdate=4 December 2017}}</ref>
+|-
+| Outstanding Achievement for Music in an Animated Feature Production
+| Clint Mansell
+| {{nominated}}
+|-
+| Outstanding Achievement for Writing in an Animated Feature Production
+| Dorota Kobiela, Hugh Welchman and Jacek Dehnel
+| {{nominated}}
+|-
+| [[71st British Academy Film Awards]]
+| [[BAFTA Award for Best Animated Film|Best Animated Film]]
+| Dorota Kobiela, Hugh Welchman and Ivan Mactaggart
+| {{nom}}
+| <ref>{{cite web|url=http://deadline.com/2018/01/bafta-film-awards-nominations-shape-of-water-blade-runner-three-billboards-full-list-1202239064/|title=‘The Shape Of Water’ Leads BAFTA Film Awards Nominations – Full List|last=Tartaglione|first=Nancy|publisher=[[Deadline Hollywood]]|date=9 January 2018|accessdate=9 January 2018}}</ref>
+|-
+| North Texas Film Critics Association
+| Best Animated Film
+| rowspan="2"| Dorota Kobiela and Hugh Welchman
+| {{draw|2nd Place}}
+|<ref>{{cite web|url=http://www.northtexasfilmcritics.com/home/the-best-of-2017-from-the-ntfca|title=Best of 2017 from the NTFCA|last=Tapley|first=Kristopher|date=23 December 2017|work=North Texas Film Critics Association|accessdate=23 December 2017}}</ref>
+|-
+| [[St. Louis Film Critics Association]]
+| [[St. Louis Gateway Film Critics Association Award for Best Animated Film|Best Animated Feature]]
+| {{Nominated}}
+|<ref name="Amidi"/>
+|-
+| Phoenix Film Critics Society Awards
+| Best Animated Film
+| rowspan="4"|''Loving Vincent''
+| {{nom}}
+|<ref>{{cite web|last=Amidi|first=Amid|title=Phoenix Film Critics Society|url=https://www.phoenixfilmcriticssociety.org/2017-nominees.html|accessdate=14 December 2017|publisher=2017 Awards NOMINATIONS|date=14 December 2017|archive-url=https://web.archive.org/web/20171213143403/https://www.phoenixfilmcriticssociety.org/2017-nominees.html|archive-date=13 December 2017|dead-url=yes|df=dmy-all}}</ref>
+|-
+| [[Alliance of Women Film Journalists]]
+| Best Animated Film
+| {{won}}
+| <ref>{{cite web|url=http://awfj.org/eda-awards-2/2017-awfj-eda-award-nominees/|title=2017 AWFJ EDA Award Nominees|publisher=[[Alliance of Women Film Journalists]]|date=3 January 2018|accessdate=3 January 2018|archiveurl=https://archive.today/20180103084642/http://awfj.org/eda-awards-2/2017-awfj-eda-award-nominees/|archivedate=3 January 2018|deadurl=no}}</ref>
+|-
+|Denver Film Critics Society Awards
+| Best Animated Film
+| {{nom}}
+|<ref>{{cite web| title=‘Call Me By Your Name’ Leads Denver Film Critics Society (DFCS) Nominations| url=http://awardswatch.com/2018/01/08/call-me-by-your-name-leads-denver-film-critics-society-dfcs-nominations/| accessdate=9 January 2018| publisher=Awards Watch| date=9 January 2018}}</ref>
+|-
+| [[Georgia Film Critics Association]]
+| Best Animated Film
+| {{nominated}}
+| style="text-align:center;"| <ref>{{cite web|url=http://www.georgiafilmcritics.org/p/2017-awards.html|title=2017 Awards|publisher=[[Georgia Film Critics Association]]|date=8 January 2018|accessdate=8 January 2018}}</ref>
+|-
+| [[Art Directors Guild]]
+| Production Design in an Animated Feature
+| Matthew Button
+| {{Nominated}}
+| style="text-align:center;"| <ref>{{cite web|url=https://www.hollywoodreporter.com/lists/2018-art-directors-guild-nominations-1067883/item/animated-film-art-directors-guild-awards-nominations-2018-1071548|title=Art Directors Guild Awards: 'Dunkirk,' 'Shape of Water,' 'Blade Runner 2049' Among Nominees|work=[[The Hollywood Reporter]]|date=9 January 2017|accessdate=9 January 2017}}</ref>
+|-
+| [[Golden Eagle Award (Russia)|Golden Eagle Award]] (Russia)
+| [[Golden Eagle Award for Best Foreign Language Film (Russia)|Best Foreign Language Film]]
+| ''Loving Vincent''
+| {{won}}
+| style="text-align:center;"| 
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official site|http://www.lovingvincent.com/}}
+* {{IMDb title|3262342}}
+* {{Rotten Tomatoes|loving_vincent}}
+* [http://lovingvincentpainters.com/ ''Loving Vincent'' Painters]
+
+{{Vincent van Gogh}}
+{{European Film Award for Best Animated Feature Film}}
+
+[[Category:2017 animated films]]
+[[Category:2017 films]]
+[[Category:Biographical films about artists]]
+[[Category:British films]]
+[[Category:British animated films]]
+[[Category:British avant-garde and experimental films]]
+[[Category:Films set in the 19th century]]
+[[Category:Motion capture in film]]
+[[Category:Rotoscoped films]]
+[[Category:Polish films]]
+[[Category:Polish animated films]]
+[[Category:Polish avant-garde and experimental films]]
+[[Category:Films about Vincent van Gogh]]
+[[Category:Kickstarter-funded films]]
+[[Category:2010s avant-garde and experimental films]]

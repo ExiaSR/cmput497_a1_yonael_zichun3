@@ -1,0 +1,544 @@
+{{pp-pc1}}
+{{short description|2016 animated film produced by Pixar Animation Studios}}
+{{Use mdy dates|date=September 2018}}
+{{Use American English|date=June 2016}}
+{{Infobox film
+| name           = Finding Dory
+| image          = Finding Dory.jpg
+| caption        = Theatrical release poster
+| director       = [[Andrew Stanton]]<!-- Do not add [[Angus McLane]] here. Co-director is a different credit than director and isn't provided in the infobox. See talk page for discussion. -->
+| producer       = Lindsey Collins<ref name=VarietyONeilBurrellOlson>{{cite news |title = D23: 'Finding Dory' Cast Adds Ed O'Neill, Ty Burrell and Kaitlin Olson |url = https://variety.com/2015/film/news/d23-finding-dory-ed-oneill-ty-burrell-kaitlin-olson-1201570747/ |accessdate = August 15, 2015 |work = Variety |date = August 14, 2015 }}</ref>
+| screenplay     = {{Plainlist|
+* Andrew Stanton
+* Victoria Strouse
+}}
+| story          = Andrew Stanton
+| starring       =  <!-- ORDER IS BASED ON THE BILLING BLOCK -->{{Plainlist|
+* [[Ellen DeGeneres]]
+* [[Albert Brooks]]
+* [[Hayden Rolence]]
+* [[Ed O'Neill]]
+* [[Kaitlin Olson]]
+* [[Ty Burrell]]
+* [[Diane Keaton]]
+* [[Eugene Levy]]
+}} <!-- ORDER IS BASED ON THE BILLING BLOCK -->
+| music          = [[Thomas Newman]]
+| cinematography = {{Plainlist|
+* Jeremy Lasky (camera)
+* Ian Megibben (lighting)
+}}
+| editing        = Axel Geddes
+| studio         = {{Plainlist|
+* [[Walt Disney Pictures]]
+* [[Pixar|Pixar Animation Studios]]
+}}
+| distributor    = [[Walt Disney Studios Motion Pictures|Walt Disney Studios<br />Motion Pictures]]<!-- Piping is used in this link to ensure correct formatting at all screen resolutions. -->
+| released       = {{Film date|2016|06|08|[[El Capitan Theatre]]|2016|6|17|United States}}
+| runtime        = 97 minutes<ref name="running time">{{cite web |url=http://www.metacritic.com/movie/finding-dory |title=Finding Dory|website=Metacritic |accessdate=July 6, 2016}}</ref>
+| country        = United States
+| language       = English
+| budget         = $175–200{{nbsp}}million<ref>{{cite news |last1 = McNary |first1 = Dave |title = ‘Finding Dory’ Swimming for Record $140 Million Opening |date=June 18, 2018 |url = https://variety.com/2016/film/news/finding-dory-box-office-record-breaking-opening-weekend-1201798368/ |work = [[Variety (magazine)|Variety]] |accessdate = June 23, 2018 }}</ref>
+| gross          = $1.029{{nbsp}}billion<ref name="BOM">{{cite web |url = http://www.boxofficemojo.com/movies/?id=pixar2015.htm |title = Finding Dory (2016) |work = [[Box Office Mojo]] |publisher = [[Amazon.com]]|accessdate =April 10, 2017}}</ref>
+}}
+
+'''''Finding Dory''''' is a 2016 American [[3D film|3D]] [[Computer animation|computer-animated]] [[adventure film]] produced by [[Pixar|Pixar Animation Studios]] and released by [[Walt Disney Pictures]]. Directed by [[Andrew Stanton]] with co-direction by [[Angus MacLane]],<ref name="HR1">{{cite news |last = Kit |first = Borys |title = Andrew Stanton to Direct Pixar's 'Finding Nemo' Sequel |url = http://www.hollywoodreporter.com/news/andrew-stanton-pixar-finding-nemo-sequel-350267 |accessdate = April 2, 2013 |newspaper = The Hollywood Reporter |date = July 7, 2012 }}</ref><ref name="WSJ1">{{cite news |last = Farley |first = Christopher John |title = Ellen DeGeneres to Star in 'Nemo' Sequel 'Finding Dory' |url = https://blogs.wsj.com/speakeasy/2013/04/02/ellen-degeneres-to-star-in-nemo-sequel-finding-dory/ |accessdate = April 2, 2013 |newspaper = The Wall Street Journal |date = April 2, 2013 }}</ref> the screenplay was written by Stanton and Victoria Strouse.<ref name="covered">{{cite news |url = http://wegotthiscovered.com/movies/angus-maclane-codirecting-finding-dory-andrew-stanton |title = Angus MacLane Co-Directing Finding Dory With Andrew Stanton |author = Isaac Feldberg |date = June 11, 2014 |publisher = We Got This Covered |accessdate = July 10, 2014 }}</ref> The film is a sequel/spinoff<ref>{{cite news|url=http://www.deseretnews.com/article/865656352/DisneyPixar-team-dives-into-surprising-new-depths-in-Nemo-sequel-Finding-Dory-Points-for.html?pg=all|title=Disney/Pixar Team dives into surprising new depths in 'Nemo' sequel 'Finding Dory' (+Points for parents)|date=June 17, 2016|accessdate=September 14, 2016|author=Josh Terry|newspaper=Deseret News}}</ref><ref>{{cite news|url=http://www.miamiherald.com/entertainment/movies-news-reviews/article83962477.html|title='Finding Dory' falls short of the heights of 'Finding Nemo'|date=June 15, 2016|accessdate=April 5, 2016|author=Rene Rodriguez|newspaper=Miami Herald}}</ref> to 2003's ''[[Finding Nemo]]'' and features the returning voices of [[Ellen DeGeneres]] and [[Albert Brooks]], with [[Hayden Rolence]] (replacing [[Alexander Gould]]), [[Ed O'Neill]], [[Kaitlin Olson]], [[Ty Burrell]], [[Diane Keaton]], and [[Eugene Levy]] joining the cast. The film focuses on the [[Anterograde amnesia|amnesiac]] fish Dory, who journeys to be reunited with her parents.<ref name="Dory">{{cite magazine |url = http://www.totalfilm.com/news/pixar-confirm-finding-nemo-sequel-finding-dory |title = Pixar confirm Finding Nemo sequel |last = Risley |first = Matt |date = April 2, 2013 |magazine = Total Film |accessdate = April 2, 2013 }}</ref>
+
+The film premiered at the [[El Capitan Theatre]] in [[Los Angeles]] on June 8, 2016, and was released in the United States on June 17, 2016.<ref>{{cite news|url=http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-pixar-good-dinosaur-pushed-to-2015-20130918,0,1607398.story|title='The Good Dinosaur' moved to 2015, leaving Pixar with no 2014 film|last=Keegan|first=Rebecca|date=September 18, 2013|accessdate=September 18, 2013|newspaper=Los Angeles Times}}</ref> Upon release, the film was well-received by critics and grossed over $1{{nbsp}}billion worldwide, becoming the second Pixar film to gross $1 billion after 2010's ''[[Toy Story 3]]'', the [[2016 in film#Highest-grossing films|third highest-grossing film of 2016]] and the [[List of highest-grossing films|22nd-highest-grossing of all-time]] at the time of its theatrical run. The film set numerous box office records, including the [[List of highest-grossing openings for animated films#Biggest opening weekend in U.S. and Canada for an animated film since 1982|biggest opening for an animated film in North America]], and the [[List of highest-grossing films in Canada and the United States#Not adjusted for inflation|highest-grossing animated film in North America]].
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words only. -->
+Dory, a [[Paracanthurus|regal blue tang]], gets separated from her parents as a child. As she grows up, Dory attempts to search for them, but gradually forgets them due to her short-term memory loss. In a flashback (from ''[[Finding Nemo]]''), she joins Marlin – a [[clownfish]] looking for his missing son Nemo – after accidentally swimming into him.
+
+One year after meeting Marlin and Nemo, Dory is living with them on their reef. One day, Dory has a [[flashback (psychology)|flashback]] and remembers her parents. She decides to look for them, but her memory problem is an obstacle. She suddenly remembers that they lived at the "Jewel of [[Morro Bay, California]]" across the ocean when Nemo mentions the name.
+
+Marlin and Nemo accompany Dory on her journey. With the help of Crush, their [[sea turtle]] friend, they ride the [[California Current]] to California. Upon arrival, they explore a shipwreck full of lost cargo, where Dory accidentally awakens a giant [[Humboldt squid]], who pursues them and almost devours Nemo. They manage to trap the squid in a large shipping container, and Marlin berates Dory for endangering them. Her feelings hurt, Dory travels to the surface to seek help where she is captured by staff members from the trio's nearby destination, the Marine Life Institute.
+
+Dory is placed in quarantine and tagged. There she meets a grouchy but well-meaning [[octopus]] named Hank. Dory's tag marks her for transfer to an aquarium in [[Cleveland]]. Hank, who fears being released back into the ocean, agrees to help Dory find her parents in exchange for her tag. In one exhibit, Dory encounters her childhood friend Destiny, a nearsighted [[whale shark]], who used to communicate with Dory through pipes, and Bailey, a [[beluga whale]], who mistakenly believes he has lost his ability to [[animal echolocation|echolocate]]. Dory subsequently has flashbacks of life with her parents, and struggles to recall details. She finally remembers how she was separated from her parents: she overheard her mother crying one night, left to retrieve a shell to cheer her up, and was pulled away by an [[Undertow (water waves)|undertow current]] out into the ocean.
+
+Marlin and Nemo attempt to rescue Dory. With the help of two lazy [[California sea lion]]s named Fluke and Rudder and a [[common loon]] named Becky, they manage to get into the institute and find her in the pipe system. Other blue tangs tell them that Dory's parents escaped from the institute a long time ago to search for her and never came back, leaving Dory believing that they have died. Hank retrieves Dory from the tank, accidentally leaving Marlin and Nemo behind. He is then apprehended by one of the employees and unintentionally drops Dory into the drain, flushing her out to the ocean. While wandering aimlessly, she comes across a trail of shells; remembering that when she was young, her parents had set out a similar trail to help her find her way back home, she follows it. At the end of the trail, Dory finds an empty [[brain coral]] with multiple shell trails leading to it. As she turns to leave, she sees her parents Jenny and Charlie in the distance. They tell her they spent years laying down the trails for her to follow in the hopes that she would eventually find them.
+
+Marlin, Nemo, and Hank end up in the truck taking various aquatic creatures to Cleveland. Destiny and Bailey escape from their exhibit to help Dory rescue them. Once on board the truck, Dory persuades Hank to return to the sea with her, and together, they hijack the truck and drive it over busy highways, creating havoc, before crashing it into the sea, freeing all the fish. Dory, along with her parents and new friends, return to the reef with Marlin and Nemo.
+
+In a [[post-credits scene]], the Tank Gang (from ''[[Finding Nemo]]''), still trapped inside their (now [[algae]]-covered) plastic bags, reach California one year after floating across the [[Pacific Ocean]], where they are picked up by staff members from the Marine Life Institute.
+
+== Voice cast ==
+<!-- PER CLOSING CREDITS, DO NOT CHANGE -->
+{{div col}}
+* [[Ellen DeGeneres]] as Dory, a [[Paracanthurus|regal blue tang]], who suffers from short-term memory loss.
+** Sloane Murray as young Dory. Murray is the seven-year-old daughter of producer Lindsey Collins.<ref>{{cite web |url = https://www.usatoday.com/story/life/movies/2016/06/20/finding-dory-secret-stars-baby-dory-gerald-sea-lion/86047762/ |title = Baby Dory is just one of the secret stars of 'Finding Dory' |last = Alexander |first = Bryan |work = [[USA Today]] |date = June 21, 2016 |accessdate = June 25, 2016 }}</ref>
+** Lucia Geddes as teen Dory.
+* [[Albert Brooks]] as Marlin, an overprotective [[ocellaris clownfish]], Nemo's father and Dory's friend.
+* [[Hayden Rolence]] as Nemo, a young optimistic clownfish and Marlin's son. He was previously voiced by [[Alexander Gould]] in the [[Finding Nemo|first film]].
+* [[Ed O'Neill]] as Hank, a cranky [[East Pacific red octopus]], who is called a "septopus", having lost a tentacle.<ref>{{Cite news |url=http://www.chicagotribune.com/entertainment/movies/ct-finding-dory-review-20160613-column.html |title='Finding Dory' review: Ellen DeGeneres voices the friendly fish in search of her parents |last=Phillips |first=Michael |date=June 13, 2016 |work=[[Chicago Tribune]] |access-date=September 10, 2018}}</ref>
+* [[Kaitlin Olson]] as Destiny, a [[myopia|near-sighted]] [[whale shark]] and Dory's childhood friend.
+* [[Ty Burrell]] as Bailey, a [[beluga whale]], who temporarily lost [[animal echolocation|echolocation]] due to a concussion.
+* [[Diane Keaton]] as Jenny, Dory's mother.
+* [[Eugene Levy]] as Charlie, Dory's father.
+* [[Idris Elba]] as Fluke, a [[California sea lion]] and Rudder's friend.
+* [[Dominic West]] as Rudder, a California sea lion and Fluke's friend.
+* [[Bob Peterson (filmmaker)|Bob Peterson]] as Mr. Ray, a [[spotted eagle ray]] and Nemo's schoolteacher.
+* [[Andrew Stanton]] as Crush, a [[green sea turtle]].
+* [[Sigourney Weaver]] as herself, the announcer for the recorded messages broadcast over the institute's public address system.
+* [[Bill Hader]] as Stan, a [[kelp bass]] and husband fish.
+* [[Kate McKinnon]] as Stan's wife fish.
+* Alexander Gould as Passenger Carl, a delivery truck driver who works for the institute. Gould previously voiced Nemo in the first film.
+* Torbin Xan Bullock as Gerald, a California sea lion, who wishes to lie on the rock occupied by Fluke and Rudder only to be constantly repelled by them, and Becky, a loon who helps Marlin and Nemo.
+* Katherine Ringgold as Chickenfish, named Kathy.
+* Bennett Dammann as Squirt, Crush's son.
+* [[John Ratzenberger]] as Husband Crab (Bill).
+* [[Angus MacLane]] as [[Oceanic sunfish|Sunfish]] "Charlie Back-and-Forth".
+* [[Willem Dafoe]] as Gill, a [[Moorish idol]], the leader of the "Tank Gang".
+* [[Brad Garrett]] as Bloat, a [[pufferfish]].
+* [[Allison Janney]] as Peach, a pink [[starfish]].
+* [[Austin Pendleton]] as Gurgle, a [[royal gramma]].
+* [[Stephen Root]] as Bubbles, a [[yellow tang]].
+* [[Vicki Lewis]] as Deb (& Flo), a [[Dascyllus melanurus|four-striped damselfish]].
+* [[Jerome Ranft]] as Jacques, a [[cleaner shrimp]]. <!--  He was previously voiced by Joe Ranft, Jerome's late brother, in the first film. Need source and notability -->
+{{div col end}}
+
+== Production ==
+Prior to work on ''Finding Dory'', Disney had planned to make a ''[[Finding Nemo]]'' sequel without Pixar's involvement, through [[Circle 7 Animation]], a studio Disney announced in 2005 with the intention to make sequels to Pixar properties.<ref>{{cite web |url = http://animatedviews.com/2012/bob-hilgenberg-and-rob-muir-on-the-rise-and-fall-of-disneys-circle-7-animation/ |title = Bob Hilgenberg and Rob Muir on the Rise and Fall of Disney's Circle 7 Animation |first = Josh |last = Armstrong |date = March 5, 2012 |accessdate = March 27, 2012 }}</ref><ref>{{cite web |url = http://jimhillmedia.com/editor_in_chief1/b/jim_hill/archive/2005/08/08/655.aspx |title = The Skinny on Circle Seven |first = Jim |last = Hill |date = August 7, 2005 |accessdate = March 27, 2012 }}</ref> However, due to the 2006 acquisition of Pixar by Disney, Circle 7 was shut down by Disney without ever having produced a film.<ref>{{cite web |last1 = Fischer |first1 = Russ |title = Behind The Scenes at Circle 7, the Short-Lived Studio Created to Sequelize Pixar |url = http://www.slashfilm.com/secret-history-disneys-circle-7-animation-studio-originally-created-sequels-pixar-films/ |website = /Film |accessdate = March 18, 2016 }}</ref> Although it never went into production, a script for the Circle 7 version was uploaded to the official [[Raindance Film Festival]] website. It would have involved Nemo's long lost twin brother named Remy, then Marlin gets captured so its up to Nemo, Remy, and Dory to save him.<ref>{{cite web |title =Disney Circle 7 Animation (partially found production material of cancelled direct-to-video sequels; 2005-2006)|url = https://lostmediawiki.com/Disney_Circle_7_Animation_(partially_found_production_material_of_cancelled_direct-to-video_sequels;_2005-2006) |website = Lost Media Wiki |accessdate =October 16, 2018}}</ref>
+
+[[File:Andrew Stanton.jpg|thumb|Director Andrew Stanton at the 2016 [[Annecy International Animated Film Festival]]]]
+In July 2012, it was reported that [[Andrew Stanton]] was developing a sequel to ''Finding Nemo'',<ref name="sequel">{{cite magazine |url = http://www.deadline.com/2012/07/john-carter-helmer-andrew-stanton-dives-back-into-animation-with-finding-nemo-sequel |title = 'John Carter' Helmer Andrew Stanton Dives Back into Animation With 'Finding Nemo' Sequel |magazine = Deadline.com |accessdate = July 18, 2012 }}</ref> with Victoria Strouse writing the script and a release date scheduled for 2016.<ref name="FN2">{{cite news |last = Kit |first = Borys |title = Andrew Stanton to Direct Pixar's 'Finding Nemo' Sequel |url = http://www.hollywoodreporter.com/news/andrew-stanton-pixar-finding-nemo-sequel-350267 |accessdate = July 17, 2012 |newspaper = The Hollywood Reporter |date = July 17, 2012 }}</ref> However, the same day the news of a potential sequel broke, Stanton posted a message on his personal Twitter calling into question the accuracy of these reports. The message said, "Didn't you all learn from ''[[Chicken Little]]''? Everyone calm down. Don't believe everything you read. Nothing to see here now. #skyisnotfalling."<ref>{{cite web |last = Stanton |first = Andrew |title = @andrewstanton |url = https://twitter.com/andrewstanton/status/225380771039420416 |publisher = Twitter |accessdate = August 23, 2012 }}</ref> According to a report by ''[[The Hollywood Reporter]]'' published in August 2012, [[Ellen DeGeneres]] was in negotiations to reprise her role of Dory.<ref>{{cite news |last = Rose |first = Lacey |title = Ellen DeGeneres in Talks to Return for 'Finding Nemo' Sequel (Exclusive) |url = http://www.hollywoodreporter.com/heat-vision/ellen-degeneres-finding-nemo-sequal-pixar-364553 |accessdate = August 22, 2012 |newspaper = The Hollywood Reporter |date = August 21, 2012 }}</ref> In September 2012, it was confirmed by Stanton, saying: "What was immediately on the list was writing a second ''[[John Carter (film)|Carter]]'' movie. When that went away, everything slid up. I know I'll be accused by more sarcastic people that it's a reaction to ''Carter'' not doing well, but only in its timing, but not in its conceit."<ref>{{cite news |last = Keegan |first = Rebecca |title = Director Andrew Stanton looks back on 'John Carter's' rocky path |url = http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-john-carter-director-20120908,0,4090564,full.story |accessdate = September 8, 2012 |newspaper = Los Angeles Times |date = September 8, 2012 }}</ref> In February 2013, it was confirmed by the press that [[Albert Brooks]] would reprise the role of Marlin in the sequel.<ref>{{cite news |last = Fleming Jr. |first = Mike |title = Albert Brooks Hooks Deal To Reprise In 'Finding Nemo 2′ |url = http://www.deadline.com/2013/02/albert-brooks-hooks-deal-to-reprise-in-finding-nemo-2/ |accessdate = February 12, 2013 |website=[[Deadline Hollywood]] |date = February 12, 2013 }}</ref>
+
+In April 2013, Disney announced the sequel, ''Finding Dory'', for November 25, 2015, confirming that DeGeneres and Brooks would be reprising their roles as Dory and Marlin, respectively.<ref name=THRDory2015 /> Following a long campaign for a sequel on ''[[The Ellen DeGeneres Show]]'', DeGeneres stated:
+{{quote|I have waited for this day for a long, long, long, long, long, long time. I'm not mad it took this long. I know the people at Pixar were busy creating ''[[Toy Story]] 16''. But the time they took was worth it. The script is fantastic. And it has everything I loved about the first one: It's got a lot of heart, it's really funny, and the best part is—it's got a lot more Dory.<ref name=THRDory2015>{{cite news |last = Zakarin |first = Jordan |title = Pixar's 'Finding Nemo' Sequel Titled 'Finding Dory,' Set for 2015 |url = http://www.hollywoodreporter.com/news/finding-dory-pixars-finding-nemo-432329 |accessdate = January 12, 2014 |newspaper = The Hollywood Reporter |date = April 2, 2013 }}</ref>}}
+
+In a July 2013 interview with ''[[Los Angeles Times]]'', Stanton spoke of the sequel's origin: "There was polite inquiry from Disney [about a ''Finding Nemo'' sequel]. I was always 'No sequels, no sequels.' But I had to get on board from a [[Vice president|VP]] standpoint. [Sequels] are part of the necessity of our staying afloat, but we don't want to have to go there for those reasons. We want to go there creatively, so we said [to Disney], 'Can you give us the timeline about when we release them? Because we'd like to release something we actually want to make, and we might not come up with it the year you want it.{{'"}}<ref>{{cite news |last = Keegan |first = Rebecca |title = With 'Despicable Me 2' and more, movies revisit the sequel debate |url = http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-ca-despicable-me-2-sequels-20130707,0,6099932,full.story |accessdate = August 7, 2013 |newspaper = Los Angeles Times |date = July 5, 2013 }}</ref>
+
+In a 2016 interview Stanton stated how the film's story came to be; "I don't watch my films that often after they're done because I have to watch them so many times before they come out. So about 2010 when we were getting ''Finding Nemo'' ready for the 10-year re-release in 3D, it was interesting to watch again after all that time. Something kind of got lodged in the back of my brain and started to sort of stew. I started to think about how easily Dory could get lost and not find Marlin and Nemo again. She basically was in the same state that she was when Marlin found her. I didn't know where she was from. I knew that she had spent most of her youth wandering the ocean alone, and I wanted to know that she could find her new family, if she ever got lost again. It's almost like the parental side of me was worried." Stanton additionally stated: "I knew if I ever said ''Finding Dory'' or mentioned a sequel to ''Finding Nemo'' out loud, I'd be done, [T]here would be no way I'd be able to put that horse back in the barn. So I kept it very quiet until I knew I had a story that I thought would hold, and that was in early 2012. So I pitched it to [[John Lasseter]] and he was all into it. Then I got a writer, and once we had a treatment that we kind of liked, I felt comfortable calling Ellen."<ref>{{cite web |last = Draskovic |first = Marina |title = Director Andrew Stanton Brings Dory Back |url = https://d23.com/director-andrew-stanton-brings-dory-back/ |publisher = D23.com |accessdate = June 17, 2016 |date = June 17, 2016 }}</ref>
+
+[[File:Angus-maclane Buscando a Dory premiere.jpg|thumb|upright|Co-director Angus MacLane at a ''Finding Dory'' premiere]]
+
+Stanton selected Victoria Strouse to write the screenplay. She later said, "It was always collaborative with Andrew, but really the screenwriting was me. Of course, Andrew would do passes, and he and I would brainstorm a lot together and then we would bring it to the group of story artists. People would weigh in and share ideas."<ref name="McKittrick">{{cite web |last = McKittrick |first = Christopher |title = Writing in Slow Motion: Finding Dory |url = http://creativescreenwriting.com/finding-dory/ |publisher = Creative Screenwriting |accessdate = June 26, 2016 |date = June 22, 2016 }}</ref> She pointed to Dory's forgetfulness as a challenge when writing the script, adding, "You don't realize until you sit down to write a character who can't remember things how integral memory is to absolutely everything we do, and that's what creates a narrative that people can follow. When a main character can't self-reflect and can't tell a story, that character is very difficult to design because she can't really lead. To get her to be able to lead and to get an audience to be able to trust her was the hardest thing to do."<ref name="McKittrick"/>
+
+The fictional Marine Life Institute depicted extensively in the film is based on the production team's research trips to the [[Monterey Bay Aquarium]], [[the Marine Mammal Center]] and the [[Vancouver Aquarium]].<ref name="Eagan">{{cite news|last1=Eagan|first1=Daniel|title=Ocean Odyssey: Andrew Stanton explores the backstory of Pixar's Dory|url=http://www.filmjournal.com/features/finding-dory-pixar-andrew-stanton-interview|accessdate=September 26, 2016|work=Film Journal International|publisher=Mediabistro Holdings|date=June 13, 2016|archive-url=https://web.archive.org/web/20181106191813/http://www.filmjournal.com/features/finding-dory-pixar-andrew-stanton-interview|archive-date=November 6, 2018|dead-url=yes}}</ref>
+
+The film's ending was revised after Pixar executives viewed ''[[Blackfish (film)|Blackfish]]'', a 2013 documentary film which focuses on the dangers of keeping [[Killer whale|orca whales]] in captivity. Initially, some of the characters were to end up in a [[SeaWorld]]-like marine park, but the revision gave them an option to leave.<ref>{{cite news |last = Kaufman |first = Amy |title = 'Blackfish' gives Pixar second thoughts on 'Finding Dory' plot |url = http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-blackfish-seaworld-finding-dory-pixar-20130808,0,7662071.story |accessdate = August 9, 2013 |newspaper = The Los Angeles Times |date = August 9, 2013 }}</ref><ref>{{cite news |last = Barnes |first = Brooks |title = 'Finding Nemo' Sequel Is Altered in Response to Orcas Documentary |url = http://artsbeat.blogs.nytimes.com/2013/08/09/finding-nemo-sequel-is-altered-in-response-to-orcas-documentary/?_r=0 |accessdate = August 10, 2013 |newspaper = The New York Times |date = August 9, 2013 }}</ref> On September 18, 2013, it was announced that the film would be pushed back to a June 17, 2016, release. Pixar's ''[[The Good Dinosaur]]'' was moved to the November 25, 2015, release window to allow more time for production of the film.<ref>{{cite web |url = http://www.slashfilm.com/pixar-skips-2014-as-the-good-dinosaur-shifts-to-2015-and-finding-dory-to-2016/ |title = Pixar Skips 2014 as 'The Good Dinosaur' Shifts to 2015 and 'Finding Dory' to 2016 &#124; /Film |publisher = Slashfilm.com |date = September 18, 2013 |accessdate = October 24, 2013 }}</ref>
+
+[[Angus MacLane]] was one of the first people to whom Stanton revealed his idea for the sequel. Together, with [[Bob Peterson (filmmaker)|Bob Peterson]], they discussed about different ideas for places Dory would visit during her journey — one of those ideas was the touch pool sequence. Later, during the ''[[Brave (2012 film)|Brave]]'' (2012) wrap party, Stanton invited Angus to join him in his first co-directing duty. Stanton described Angus' role as a "jack of all trades", particularly utilizing his experience in animation and story, as well as in production, having created a few short films himself.<ref name="SFWhatCoDirectorDoes">{{cite web|last1=Sciretta|first1=Peter|title=What A Co-Director Does on a Pixar Movie? 'Finding Dory' Director Andrew Stanton Explains|url=http://www.slashfilm.com/what-does-a-co-director-do-on-a-pixar-movie/|publisher=/Film|accessdate=March 8, 2017|date=June 1, 2016|archiveurl=https://web.archive.org/web/20160602053041/http://www.slashfilm.com/what-does-a-co-director-do-on-a-pixar-movie/|archivedate=June 2, 2016|deadurl=no}}</ref>
+
+In August 2015, at Disney's [[D23 (Disney)#2015|D23 Expo]], it was announced that [[Hayden Rolence]] would voice Nemo, replacing [[Alexander Gould]] from the first film, whose voice had deepened since reaching adulthood (Gould voiced a minor character in the sequel instead).<ref name=IGND232015SequelPlot>{{cite web |last1 = G. Macy |first1 = Seth |title = D23 2015: New Details on Finding Nemo Sequel Plot Revealed |url = http://www.ign.com/articles/2015/08/15/d23-2015-new-details-on-finding-nemo-sequel-plot-revealed |accessdate = August 15, 2015 |date = August 14, 2015 }}</ref><ref>{{cite news |title = Finding Nemo star loses his character's voice |url = http://www.bbc.co.uk/newsbeat/21950542 |work = BBC News |date = March 27, 2013 |accessdate = March 27, 2013 }}</ref> At the D23 expo they also announced that [[Ed O'Neill]] would be the voice of Hank.<ref name=IGND232015SequelPlot />
+
+To make the light more realistic, [[RenderMan (software)|RenderMan]] was completely re-engineered, its biggest change in 25 years.<ref>{{cite web|url=http://www.studiodaily.com/2016/07/pixar-ed-catmull-finding-dory/|title=Pixar's Ed Catmull on Animation Evolution, from Nemo to Dory – Studio Daily|publisher=|accessdate=December 30, 2016}}</ref>
+
+== Soundtrack ==
+{{Infobox album
+| name       = Finding Dory
+| type       = Soundtrack
+| artist     = [[Thomas Newman]]
+| cover      =
+| alt        =
+| released   = June 14, 2016
+| recorded   =
+| venue      =
+| studio     = DeepSleep Studios<br />[[20th Century Fox|Newman Scoring Stage]]<br />[[Sony Pictures Studios]]<br />[[The Village (studio)|The Village]]
+| genre      = Soundtrack
+| length     = 68:20
+| label      = [[Walt Disney Records|Walt Disney]]
+| producer   = {{flatlist|
+* Thomas Newman
+* Bill Bernstein
+}}
+| chronology = [[Thomas Newman]]
+| prev_title = [[Spectre: Original Motion Picture Soundtrack|Spectre]]
+| prev_year  = 2015
+| next_title = [[Passengers (2016 film)#Music|Passengers]]
+| next_year  = 2016
+| misc       = {{Extra chronology
+ | artist     = [[Pixar]] film soundtrack
+ | type       = soundtrack
+ | prev_title = [[The Good Dinosaur#Soundtrack|The Good Dinosaur]]
+ | prev_year  = 2015
+ | title      = Finding Dory
+ | year       = 2016
+ | next_title = [[Cars 3#Soundtrack|Cars 3]]
+ | next_year  = 2017
+}}{{Singles
+ | name        = Finding Dory
+ | type        = soundtrack
+ | single1     = [[Unforgettable (Nat King Cole song)|Unforgettable]]
+ | single1date = May 27, 2016
+}}
+}}
+
+The film's soundtrack entitled ''Finding Dory'' was composed by Thomas Newman and released on June 17, 2016.<ref name=WhaleNewman>{{cite news |last = Barcomb |first = James |title = Thomas Newman to score Finding Dory |url = http://www.pixarne.ws/thomas-newman-to-score-finding-dory/ |accessdate = June 6, 2014 |newspaper = The Whale |date = June 6, 2014 |archive-url = https://web.archive.org/web/20140607004401/http://pixarne.ws/thomas-newman-to-score-finding-dory/ |archive-date = June 7, 2014 |dead-url = yes |df = mdy-all }}</ref><ref>{{cite web |url = http://filmmusicreporter.com/2016/05/26/finding-dory-soundtrack-details/ |title = 'Finding Dory' Soundtrack Details |publisher = Film Music Reporter |accessdate = May 30, 2016 }}</ref> [[Louis Armstrong]]'s version of "[[What a Wonderful World]]" is played during the scene in which fish are released into the ocean as the truck Dory and Hank are driving crashes into the water.<ref name="licensed-music" /> On May 20, 2016, [[Sia (musician)|Sia]] performed a cover of [[Nat King Cole]]'s "[[Unforgettable (Nat King Cole song)|Unforgettable]]" on ''[[The Ellen DeGeneres Show]]'' following an announcement that it would be featured in the film.<ref name="licensed-music">{{cite web|url=http://www.moderntopics.com/finding-dory-forgettable-a-review/|title=Finding Dory Forgettable – A Review|author=El-ahrairah|publisher=Modern Topics|date=June 26, 2016|accessdate=July 7, 2016}}</ref>
+
+=== Track listing ===
+{{Track listing
+| collapsed=no
+| extra_column    = Performer
+| title1   = Kelpcake
+| length1  = 0:46
+| title2   = Finding Dory (Main Title)
+| length2  = 0:55
+| title3   = Lost at Sea
+| length3  = 1:36
+| title4   = One Year Later
+| length4  = 2:24
+| title5   = Migration Song
+| length5  = 0:35
+| title6   = "O, We're Going Home"
+| length6  = 1:38
+| title7   = Jewel of Morro Bay
+| length7  = 2:00
+| title8   = Gnarly Chop
+| length8  = 1:39
+| title9   = Squid Chase
+| length9  = 1:28
+| title10  = Sigourney Weaver
+| length10 = 1:21
+| title11  = Hank
+| length11 = 3:19
+| title12  = Nobody's Fine
+| length12 = 3:29
+| title13  = Rebecca Darling
+| length13 = 1:54
+| title14  = Meet Destiny
+| length14 = 1:07
+| title15  = Joker at Work
+| length15 = 1:16
+| title16  = Becky Flies
+| length16 = 3:53
+| title17  = Hands!
+| length17 = 2:24
+| title18  = Almost Home
+| length18 = 2:01
+| title19  = Open Ocean
+| length19 = 3:18
+| title20  = Two Lefts and a Right
+| length20 = 3:57
+| title21  = Everything About You
+| length21 = 1:41
+| title22  = Quarantine
+| length22 = 2:41
+| title23  = Warp
+| length23 = 1:03
+| title24  = All Alone
+| length24 = 0:53
+| title25  = ...Shells
+| length25 = 4:47
+| title26  = No Walls
+| length26 = 2:25
+| title27  = Okay with Crazy
+| length27 = 1:50
+| title28  = Hide and Seek
+| length28 = 1:51
+| title29  = Quite a View
+| length29 = 1:25
+| title30  = [[Unforgettable (Nat King Cole song)|Unforgettable]] (End Title)
+| extra30  = [[Sia (musician)|Sia]]
+| length30 = 3:17
+| title31  = Three Hearts (End Title)
+| length31 = 3:29
+| title32  = Loon Tune
+| length32 = 1:20
+| title33 = Fish Who Wander
+| length33 = 1:18
+| title34  = Release
+| length34 = 1:13
+}}
+
+== Release ==
+''Finding Dory'' premiered at the [[El Capitan Theatre]] in [[Los Angeles]] on June 8, 2016, and was theatrically released in the United States on June 17, 2016, in 2D, [[Disney Digital 3-D]] and [[RealD 3D]].<ref name="HR1" /><ref name="WSJ1" /> It was also released to select [[IMAX]] 3D theaters.<ref>{{cite web |url = https://variety.com/2015/film/news/imax-captain-america-civil-war-stars-wars-rogue-one-1201468353/ |title = 'Captain America: Civil War,' 'Star Wars: Rogue One' Secure Imax Release as Part of Disney Deal |last = Lang |first = Brent |work = [[Variety (magazine)|Variety]] |date = April 6, 2015 |accessdate = February 23, 2016 }}</ref> In April 2016, it was announced that a new Pixar short, ''[[Piper (2016 film)|Piper]]'', directed by [[Alan Barillaro]] and with music by [[Adrian Belew]], would be shown in front of the film.<ref>{{cite web |last = Giardina |first = Carolyn |url = http://www.hollywoodreporter.com/behind-screen/pixars-new-short-piper-has-881301 |title = Pixar's New Short, 'Piper,' Has a Painterly Look and Adrian Belew Score |work = [[The Hollywood Reporter]] |date = April 7, 2016 |accessdate = April 8, 2016 }}</ref> It had its UK premiere at the [[Edinburgh International Film Festival]] on June 18, 2016.<ref>{{cite web |title = Programme |url = http://www.edfilmfest.org.uk/films/2016/finding-dory |work = Edinburgh International Film Festival |accessdate = June 19, 2016 }}</ref><ref>{{cite web |title = 'Finding Dory' to Have U.K. Premiere at Edinburgh Film Festival |url = http://www.hollywoodreporter.com/news/finding-dory-have-uk-premiere-897266 |work = The Hollywood Reporter |accessdate = June 19, 2016 }}</ref>
+
+The film was re-released for Labor Day weekend in 2016.<ref>{{cite web|url=http://www.slashfilm.com/finding-dory-re-release-and-clip/|title=Finding Dory Re-release Announced; Watch an Adorable Clip|date=August 31, 2016|publisher=}}</ref>
+
+=== Home media ===
+''Finding Dory'' was released by [[Walt Disney Studios Home Entertainment]] on [[Blu-ray]] (2D and 3D) and [[DVD]] in the United States on November 15, 2016, with a [[Digital distribution|digital release]] on October 25. In addition to ''Piper'', the bonus features also included a short film, titled ''Marine Life Interviews'', featuring interviews with the inhabitants of the Marine Life Institute about their encounters with Dory.<ref>{{cite web|last1=Wolfe|first1=Jennifer|title=Pixar's 'Finding Dory' Swims to Blu-ray November 15|url=http://www.awn.com/news/pixar-s-finding-dory-swims-blu-ray-november-15|publisher=Animation World Network|accessdate=September 10, 2016|date=September 8, 2016}}</ref>
+
+==Reception==
+=== Box office ===
+''Finding Dory'' grossed $486.3&nbsp;million in the U.S. and Canada and $542.3&nbsp;million in other countries for a worldwide total of $1.029&nbsp;billion, against a budget of $200&nbsp;million.<ref name=BOM /> It had a worldwide opening of $185.7&nbsp;million, which is the [[List of highest-grossing openings for animated films|fifth-biggest of all time]] for an animated film behind ''[[The Lion King (2019 film)|The Lion King]]'' ($246 million), ''[[Toy Story 4]]'' ($244.5 million), ''[[Incredibles 2]]'' ($235.8 million) and ''[[Ice Age: Dawn of the Dinosaurs]]'' ($218.4&nbsp;million), and an IMAX global opening of $6.4&nbsp;million.<ref name="FORBESopen" /><ref>{{cite web |url = http://www.boxofficemojo.com/alltime/world/worldwideopenings.htm |title = Worldwide Openings |work = [[Box Office Mojo]] |accessdate = June 23, 2016 }}</ref><ref name="Overseas26thOpening"/> On August 16, it became the fourth film of 2016 to earn $900&nbsp;million in ticket sales,<ref>{{cite web|url=http://deadline.com/2016/08/finding-dory-worldwide-b-o-record-1201804220/|title='Finding Dory' Clears $900M at the Worldwide Box Office|author= Anthony D'Alessandro|work= Deadline|date=August 16, 2016|accessdate=August 16, 2016}}</ref> and on October 9—its seventeenth weekend—it passed the $1&nbsp;billion threshold, becoming the third film of 2016 after ''[[Captain America: Civil War]]'' and ''[[Zootopia]]'' to reach that mark, the second Pixar film (after ''[[Toy Story 3]]''), the fifth animated film (after ''Toy Story 3'', ''[[Frozen (2013 film)|Frozen]]'', ''[[Minions (film)|Minions]]'', and ''Zootopia''), the twelfth Disney film (fourth Disney animated film), and the twenty-seventh film overall in cinematic history.<ref>{{cite web|url=http://www.hollywoodreporter.com/news/box-office-milestone-finding-dory-936637|title=Box-Office Milestone: 'Finding Dory' Crosses $1B Worldwide|author=Pamela McClintock|work=[[The Hollywood Reporter]]|date=October 9, 2016|accessdate=October 10, 2016}}</ref><ref name="1B">{{cite web|url=http://deadline.com/2016/10/finding-dory-crosses-one-billion-dollars-worldwide-box-office-disney-pixar-1201833579/|title='Finding Dory' Splashes Past $1 Billion at Worldwide Box Office|author=Nancy Tartaglione|website=[[Deadline Hollywood]]|date=October 9, 2016|accessdate=October 9, 2016}}</ref>
+
+Worldwide, it is the [[2016 in film|third-highest-grossing film of 2016]] (behind ''Civil War'' and ''[[Rogue One]]''),<ref name="worldgross">{{cite web|url=http://www.boxofficemojo.com/yearly/chart/?view2=worldwide&yr=2016&p=.htm|title=2016 WORLDWIDE GROSSES|work=[[Box Office Mojo]]|accessdate=January 29, 2017}}</ref> the highest-grossing animated film of 2016,<ref name="worldgross"/> the third-highest-grossing Pixar film ever (behind ''Incredibles 2'' and ''Toy Story 3''),<ref name="Pixar">{{cite web|url=http://www.boxofficemojo.com/franchises/chart/?id=pixar.htm|title=Pixar|work=[[Box Office Mojo]]|accessdate=September 4, 2016}}</ref> the [[List of highest-grossing animated films|seventh highest-grossing animated film of all time]] (behind ''Frozen'', ''Incredibles 2'', ''Minions'', ''Toy Story 3'', ''[[Despicable Me 3]]'' and the 2019 version of ''[[The Lion King (2019 film)|The Lion King]]''), and the [[List of highest-grossing films|36th highest-grossing film of all time]]. ''[[Deadline Hollywood]]'' calculated the net profit of the film to be $296.6&nbsp;million, when factoring together all expenses and revenues for the film, making it the fourth-most profitable release of 2016.<ref name=profit>{{cite web|url=http://deadline.com/2017/03/finding-dory-box-office-profit-2016-1202055759/ |title=No. 4 'Finding Dory' Box Office Profits – 2016 Most Valuable Movie Blockbuster Tournament|last=Fleming Jr|first=Mike|website=[[Deadline Hollywood]]|date=March 31, 2017|accessdate=March 31, 2017}}</ref>
+
+==== North America ====
+In the United States and Canada, ''Finding Dory'' opened on June 17, 2016, alongside ''[[Central Intelligence]]'', with projections having the film grossing $110–120&nbsp;million<ref name="Fdoweekend">{{cite web |url = https://variety.com/2016/film/box-office/finding-dory-box-office-debut-1201789640 |title = 'Finding Dory' Could Be Pixar's Biggest Opening |author = Brent Lang |work = [[Variety (magazine)|Variety]] |date = June 6, 2016 |access-date = June 7, 2016 }}</ref><ref name="Preview">{{cite web |url = https://variety.com/2016/film/box-office/conjuring-2-box-office-warcraft-1201790728/ |title = Box Office: 'Conjuring 2' to Ward Off 'Warcraft,' 'Now You See Me 2' |website = [[Variety (magazine)|Variety]] |first = Brent |last = Lang |date = July 7, 2016 }}</ref><ref name="Deadproj">{{cite web |url = http://deadline.com/2016/06/finding-dory-central-intelligence-weekend-box-office-preview-1201772455/ |title = 'Finding Dory' To Have Shark-Size Appetite at Weekend B.O.; Second Best Opening This Summer After 'Civil War'&nbsp;– Preview |author = Anthony D'Alessandro |work = [[Deadline Hollywood]] |date = June 14, 2016 |accessdate = June 15, 2016 }}</ref><ref>{{cite web |url = http://www.hollywoodreporter.com/news/box-office-preview-finding-dory-903005 |title = Box-Office Preview: 'Finding Dory' Set to Swim Past $100M in U.S. Bow |author = Pamela McClintock |work = [[The Hollywood Reporter]] |date = June 15, 2016 |accessdate = June 15, 2016 }}</ref> in its opening weekend, with some estimates going as high as $130&nbsp;million.<ref name="FDOW">{{cite web |url = http://pro.boxoffice.com/long-range-forecast-jason-bourne-bad-moms-nerve |title = Long Range Forecast: 'Jason Bourne', 'Bad Moms' & 'Nerve' |author = Boxoffice Staff |work = BoxOffice Pro |date = June 3, 2016 |access-date = June 6, 2016 }}</ref><ref>{{cite web |url = https://variety.com/2016/film/news/box-office-finding-dory-central-intelligence-1201798028/ |title = 'Finding Dory' Set to Break Record for Biggest Animated Film Opening With $130 Million |author = Dave McNary |work = [[Variety (magazine)|Variety]] |date = June 17, 2016 |accessdate = June 18, 2016 }}</ref> It received the widest release for a Pixar film (4,305 theaters, breaking ''[[Brave (2012 film)|Brave]]''{{'}}s record), of which 3,200 venues were in 3D, along with 425 premium large format locales, approximately 100 IMAX theaters and a handful of [[Dolby Cinema]] sites.<ref name="Deadproj" /> It was [[Fandango Media|Fandango]]'s top pre-selling animated film of all time, outselling the previous record-holder, ''Minions''.<ref>{{cite web |url = http://pro.boxoffice.com/fandango-finding-dory-surpasses-minions-top-pre-selling-animated-film-time/ |title = Fandango: 'Finding Dory' Surpasses 'Minions' As Top Pre-Selling Animated Film of All Time |author = BoxOfficeStaff |work = [[Box Office (magazine)|BoxOffice]] |date = June 16, 2016 |accessdate = June 17, 2016 }}</ref> The film grossed $9.2&nbsp;million from Thursday night previews, a record for both Pixar and any animated film,<ref name="Thursday">{{cite web |url = http://www.hollywoodreporter.com/news/box-office-finding-dory-lands-903830 |title = Box Office: 'Finding Dory' Lands Strong $9.2 Million Thursday |author = Rebecca Ford |work = [[The Hollywood Reporter]] |date = June 17, 2016 |accessdate = June 17, 2016 }}</ref><ref>{{cite web |url = https://www.forbes.com/sites/scottmendelson/2016/06/17/finding-dory-box-office-a-record-9-2m-thursday-for-the-pixar-sequel/#78cf744364c5 |title = 'Finding Dory' Box Office: A Record $9.2M Thursday For The Pixar Sequel |author = Scott Mendelson |work = [[Forbes]] |date = June 17, 2016 |accessdate = June 17, 2016 }}</ref> and $54.7&nbsp;million on its opening day, marking both the [[List of highest-grossing openings for animated films#Biggest opening day in U.S. and Canada for an animated film since 1992|biggest opening day]] and single-day for an animated film. This also marks the first time that an animated film has grossed over $50&nbsp;million in a single day.<ref>{{cite web |url = https://www.forbes.com/sites/scottmendelson/2016/06/18/pixars-finding-dory-finds-record-crushing-55-million-friday-box-office/#7537e3311d49 |title = Pixar's 'Finding Dory' Finds Record-Crushing $55 Million Friday (Box Office) |author = Scott Mendelson |work = [[Forbes]] |date = June 18, 2016 |accessdate = June 18, 2016 }}</ref><ref>{{cite web |url = http://www.boxofficemojo.com/news/?id=4197 |title = 'Finding Dory' Set to Break the Animated Opening Weekend Record |author = Brad Brevet |work = [[Box Office Mojo]] |date = June 16, 2016 |accessdate = June 19, 2016 }}</ref> It went on to gross $135.1&nbsp;million in its opening weekend, finishing first at the box office and setting the record for the highest opening weekend for both Pixar (breaking ''Toy Story 3''{{'}}s record) and any animated film (out-grossing ''[[Shrek the Third]]''{{'}}s record, later out-grossed by ''[[Incredibles 2]]'') and became the third-biggest adjusted for inflation.<ref>{{cite web |url = http://bigstory.ap.org/article/19bdc11b57a444f5aa7c996ee9a77fa9/finding-dory-breaks-record-opening-animated-film |title = "Finding Dory" breaks record for opening of animated film |work = [[Associated Press]] |date = June 20, 2016 |accessdate = June 20, 2016 }}</ref> It is also the third-highest opening (excluding [[Marvel Studios|Marvel]] and ''[[Star Wars]]'' films) for [[Walt Disney Studios Motion Pictures]] behind ''[[Beauty and the Beast (2017 film)|Beauty and the Beast]]'' ($174.8&nbsp;million) and ''[[Pirates of the Caribbean: Dead Man's Chest]]'' ($135.6&nbsp;million), and is the studio's ninth-biggest debut overall.<ref name="FORBESopen">{{cite web |url = https://www.forbes.com/sites/scottmendelson/2016/06/19/box-office-finding-dory-swims-to-record-136-million-weekend/#17faded26854 |title = Box Office: 'Finding Dory' Swims To Record $136 Million Weekend |author = Scott Mendelson |work = [[Forbes]] |date = June 19, 2016 |accessdate = June 20, 2016 }}</ref><ref>{{cite web|url=https://www.forbes.com/sites/scottmendelson/2017/03/20/box-office-beauty-and-the-beast-topped-batman-v-superman-and-iron-man-3/#1592f6a6f39b|title=Box Office: Disney's 'Beauty And The Beast' Debut Topped 'Batman V Superman' And 'Iron Man 3'|author=Scott Mendelson |work=[[Forbes]]|date=March 20, 2017|accessdate=March 20, 2017}}</ref><ref>{{cite web |url = http://www.boxofficemojo.com/studio/chart/?yr=&view=company&view2=allmovies&studio=buenavista.htm&sort=opengross&order=DESC&p=.htm |title = Buena Vista All-time Openings |work = [[Box Office Mojo]] |accessdate = March 19, 2017 }}</ref> It also became the fifth animated film and the fifth film of 2016 to open above $100&nbsp;million.<ref name="DEADopen">{{cite web |url = http://deadline.com/2016/06/finding-dory-box-office-central-intelligence-captain-america-totals-1201774498/ |title = 'Dory's Record Animated Pic $135M+ Opening Is Also Second Best For June After 'Jurassic World' |author = Anthony D'Alessandro |work = [[Deadline Hollywood]] |date = June 20, 2016 |accessdate = June 21, 2016 }}</ref> Moreover, its opening also marked the second-biggest for the month of June, behind only ''[[Jurassic World]]''.<ref>{{cite web |url = http://www.boxofficemojo.com/alltime/weekends/month/?mo=06&p=.htm |title = Top Opening Weekends by Month—June |work = [[Box Office Mojo]] |accessdate = June 20, 2016 }}</ref> Its opening was 93.8% above ''Finding Nemo''{{'}}s $70.3&nbsp;million debut.<ref name="BOMopen">{{cite web |url = http://www.boxofficemojo.com/news/?id=4199&p=.htm |title = 'Finding Dory' Drowns Animated Box Office Records With $136 Million Opening |author = Brad Brevet |work = [[Box Office Mojo]] |date = June 19, 2016 |accessdate = June 20, 2016 }}</ref> It further broke the record for the biggest PLF and [[Cinemark Theatres|Cinemark XD]] opening for an animated film with $10.4&nbsp;million and $2.6&nbsp;million, respectively. In IMAX, it made $5&nbsp;million from 211 theaters,<ref name="Overseas26thOpening" /> the third-best animated IMAX opening behind ''Zootopia'' ($5.2&nbsp;million) and ''Toy Story 3'' ($8.4&nbsp;million).<ref name="BOOM">{{cite web |url = http://www.boxofficemojo.com/news/?id=4164&p=.htm |title = 'Zootopia' Scores Disney Animation's Largest Opening Ever |first = Brad |last = Brevet |work = [[Box Office Mojo]] |date = March 6, 2016 |accessdate = March 7, 2016 }}</ref>
+
+Following its record-breaking openings, it scored the biggest Monday for Pixar by grossing $19.6&nbsp;million (breaking ''Toy Story 3''{{'}}s $15.6&nbsp;million) and the best Monday in June for an animated film. However, among all animated films, it is ranked second—behind 2004's ''[[Shrek 2]]'', which made $23.4&nbsp;million on its first Monday,<ref>{{cite web |url = http://deadline.com/2016/06/finding-dory-monday-box-office-record-1201776378/ |title = 'Dory' Continues To Break B.O. Records for an Animated Film on Monday |author = Anthony D'Alessandro |work = [[Deadline Hollywood]] |date = June 21, 2016 |accessdate = June 22, 2016 }}</ref><ref>{{cite web |url = https://www.forbes.com/sites/scottmendelson/2016/06/21/box-office-finding-dory-nabs-eye-popping-19-5m-monday-for-154m-cume/#389005b65358 |title = Box Office: 'Finding Dory' Nabs Eye-Popping $19.5M Monday For $154M Cume |author = Scott Mendelson |work = [[Forbes]] |date = June 21, 2016 |accessdate = June 22, 2016 }}</ref> and it is also the biggest Tuesday for an animated film with $23.2&nbsp;million, besting ''Minions''{{'}} $16.8&nbsp;million.<ref>{{cite web |url = http://deadline.com/2016/06/finding-dory-tuesday-box-office-record-1201777702/ |title = 'Dory' Darting To $200M, Hits Tuesday Record For Animated Film – Box Office |author = Anthony D'Alessandro |work = [[Box Office Mojo]] |date = June 22, 2016 |accessdate = June 23, 2016 }}</ref> It jumped 18.5% over its Monday gross, a rare achievement for a film.<ref>{{cite web |url = https://www.forbes.com/sites/scottmendelson/2016/06/22/box-office-finding-dory-earns-jaw-dropping-23-7m-tuesday-for-177-8m-cume/#66c87e9d4a65 |title = Box Office: 'Finding Dory' Earns Jaw-Dropping $23.7M Tuesday For New $177.8M Total |author = Scott Mendelson |work = [[Forbes]] |date = June 22, 2016 |accessdate = June 23, 2016 }}</ref> It crossed the $200&nbsp;million mark in its first seven days, becoming the first (and fastest) animated film to pass the said milestone in just a week.<ref>{{cite web |url = https://www.forbes.com/sites/scottmendelson/2016/06/24/box-office-disneys-finding-dory-ends-first-week-with-213-million/#3deb98624647 |title = Box Office: Disney's 'Finding Dory' Ends Massive First Week With $213 Million |author = Scott Mendelson |work = [[Forbes]] |date = June 24, 2016 |accessdate = June 24, 2016 }}</ref> It fell only 46% in its [[Second weekend in box office performance|second weekend]] earning $73&nbsp;million to record the biggest second weekend for an animated film (breaking ''Shrek 2''{{'}}s $72.2&nbsp;million previous record), the biggest for Disney and 2016 (surpassing ''Captain America: Civil War''{{'}}s $72.6 million), and the [[List of highest-grossing second weekends for films#Biggest second weekends in the U.S. and Canada|eighth-biggest second weekend]] gross of all time overall.<ref>{{cite web|url=http://deadline.com/2016/06/independence-day-resurgence-finding-dory-shallows-free-state-of-jones-neon-demon-weekend-box-office-1201778773/|title='Dory' Posts Best Second Weekend For Animated Movie As Fireworks Die For 'Resurgence'; 'Shallows' Chomps $16M+|author=Anthony D'Alessandro|work=[[Deadline Hollywood]]|date=June 26, 2016|accessdate=June 26, 2016}}</ref><ref>{{cite web|url=http://www.boxofficemojo.com/alltime/weekends/moreweekends.htm?page=2&p=.htm|title=TOP WEEKENDS: 2ND – 12TH|work=[[Box Office Mojo]]|accessdate=June 26, 2016}}</ref> This was despite facing stiff competition from newcomer ''[[Independence Day: Resurgence]]''.<ref>{{cite web|url=http://www.hollywoodreporter.com/news/box-office-independence-day-2-906415|title=Box Office: 'Independence Day 2' Underwhelms With $41.6M; 'Finding Dory' Sprints to $73.2M|author=Pamela McClintock|work=[[The Hollywood Reporter]]|date=June 26, 2016|accessdate=June 26, 2016}}</ref> It crossed $300&nbsp;million in 12 days—a new record for an animated film, surpassing the previous record held by ''Shrek 2'' and ''Toy Story 3'' (both of which took 18 days),<ref>{{cite web|url=http://deadline.com/2016/06/finding-dory-300m-bfg-legend-of-tarzan-swiss-army-men-purge-election-year-box-office-1201781114/|title='Dory' Eats $300M+ & Will Gobble Up 'BFG', 'Tarzan' & 'Purge' Over Independence Day – Box Office Preview|author=Anthony D'Alessandro|work=[[Deadline Hollywood]]|date=June 29, 2016|accessdate=June 29, 2016}}</ref> and became the second animated film of 2016 (after ''Zootopia''), the fourth Disney film of 2016, and the sixth overall film of the year to cross the milestone.<ref>{{cite web|url=https://www.forbes.com/sites/scottmendelson/2016/06/29/box-office-finding-dory-swims-to-300-million-in-record-time/#312dbb484741|title=Box Office: Disney's 'Finding Dory' Swims To $300 Million In Record Time|author=Scott Mendelson|work=[[Forbes]]|date=June 29, 2016|accessdate=June 30, 2016}}</ref> It continued to dominate the box office for the third straight weekend, despite competitions from three new wide releases—''[[The Legend of Tarzan (film)|The Legend of Tarzan]]'', ''[[The Purge: Election Year]]'', and fellow Disney release ''[[The BFG (2016 film)|The BFG]]''—after witnessing a 42% decline to $41.8&nbsp;million in three days and $51.4&nbsp;million in four days, respectively, during the [[Independence Day (United States)|Independence Day]] holiday frame.<ref name="DEADopening">{{cite web|url=http://deadline.com/2016/07/independence-day-box-office-legend-of-tarzan-the-purge-election-year-the-bfg-1201782489/|title='Dory' Dominates, 'Tarzan' Improves, 'Purge' Excels As 'BFG' Falls: July 4th Weekend B.O. – Sunday Update|author=Anthony D'Alessandro|work=[[Deadline Hollywood]]|date=July 3, 2016|accessdate=July 3, 2016}}</ref> This made it the second time in two years and just the third time since 1992, the July 4 holiday box office was topped by a film in its third weekend of release.<ref>{{cite web|url=https://www.forbes.com/sites/scottmendelson/2016/07/03/box-office-independence-day-fails-to-make-july-4th-fireworks-finding-dory-tops-weekend/#e628e35bab85|title=Box Office: 'Independence Day' Fails To Make July 4th Fireworks, 'Finding Dory' Tops Weekend|author=Scott Mendelson|work=[[Forbes]]|date=July 3, 2016|accessdate=July 3, 2016}}</ref> It broke another record as it passed the $400&nbsp;million mark in 21 days, which is the fastest for an animated film, the fastest of 2016, the fastest for the studio, and the fifth-fastest of all time overall. Moreover, it became the second film of 2016 (after ''Captain America: Civil War''), the fifth animated film, the ninth film for the studio, and the twenty-fourth film overall to pass the milestone.<ref>{{cite web|url=https://www.forbes.com/sites/scottmendelson/2016/07/07/box-office-pixars-finding-dory-swims-past-400m-in-record-time/#704624d28f30|title=Box Office: Pixar's 'Finding Dory' Swims Past $400M In Record Time|author=Scott Mendelson|work=[[Forbes]]|date=July 7, 2016|accessdate=July 8, 2016}}</ref><ref>{{cite web|url=http://www.boxofficemojo.com/alltime/fastest.htm?page=400&p=.htm|title=FASTEST TO $100–$500 Million|work=[[Box Office Mojo]]|accessdate=July 8, 2016}}</ref> On the following day (July 8), it surpassed ''Civil War'' to become the biggest film of the year up until ''Rogue One'' took that title in January 2017.<ref>{{cite web|url=https://www.forbes.com/sites/scottmendelson/2016/07/09/box-office-finding-dory-passes-captain-america-3-to-become-top-u-s-hit-of-2016/#2af406a97e01|title=Box Office: 'Finding Dory' Passes 'Captain America 3' To Become Top U.S. Hit Of 2016|date=July 9, 2016|accessdate=July 10, 2016}}</ref><ref>{{cite web |url = http://www.newsweek.com/rogue-one-becomes-2016s-highest-grossing-us-543234 |title = 'Rogue One' Becomes 2016's Highest-Grossing Film in the U.S. |website = [[Newsweek]] |first = Tufayel |last = Ahmed |date = January 16, 2017 |accessdate = May 9, 2017 }}</ref> It dropped out of the top ten in its eighth week.<ref>{{cite web|url=http://www.boxofficemojo.com/weekend/chart/|title=Finding Dory moves out of top ten|work=[[Box Office Mojo]]|accessdate=August 4, 2016}}</ref>
+
+Although the film was finally overtaken by ''[[The Secret Life of Pets]]'' (and ''The Legend of Tarzan'' in second place) in its fourth weekend, it nevertheless passed ''[[The Lion King]]'' to become the highest-grossing Disney animated film of all time in the same weekend, surpassing the latter which held the record for 15 non-consecutive years.<ref>{{cite web|url=http://deadline.com/2016/07/weekend-box-office-secret-life-of-pets-mike-and-dave-need-wedding-dates-zac-efron-finding-dory-1201784127/|title=Toons Rule: ‘Pets’ Races To $103M+; ‘Dory’ Beats ‘Lion King’ Becoming Disney's Highest Grossing Animated Title At Domestic B.O.|author=Anthony D'Alessandro|work=[[Deadline Hollywood]]|date=July 10, 2016|accessdate=July 10, 2016}}</ref> In just 30 days, it overtook ''Shrek 2'' ($441.2&nbsp;million) to become the highest-grossing animated film of all time, breaking the latter's record of 12 years.<ref name="VVV">{{cite web|url=https://variety.com/2016/film/news/ghostbusters-box-office-1201816000/|title=Box Office: ‘Ghostbusters’ Debuts to $46 Million, ‘Secret Life of Pets’ Tops Charts|author=Brent Lang|work=[[Variety (magazine)|Variety]]|date=July 17, 2016|accessdate=July 17, 2016}}</ref><ref>{{cite web|url=http://www.ew.com/article/2016/07/18/finding-dory-biggest-domestic-animated-movie-ever|title=Finding Dory is now the biggest domestic animated movie ever|author=Devan Coggan|work=[[Entertainment Weekly]]|date=July 18, 2016|accessdate=July 18, 2016}}</ref> Four days later, on July 20, it became the first-ever animated film in cinematic history to cross the $450&nbsp;million mark.<ref>{{cite web|url=http://www.boxofficemojo.com/alltime/fastest.htm?page=450&p=.htm|title=FASTEST TO $100–$500 Million|work=[[Box Office Mojo]]|accessdate=July 22, 2016}}</ref> As with its predecessor ''Finding Nemo'', the studio expanded the theater count for the film during the [[Labor Day]] weekend from 345 theaters to 2,075 theaters, an addition of 1,730 theaters. In 2003, ''Nemo'' was expanded from 838 sites to 1,053 locations.<ref>{{cite web|url=http://deadline.com/2016/08/finding-dory-labor-day-weekend-expansion-box-office-1201811539/|title='Dory' Makes A Wide Break Before Summer Ends|author=Anthony D'Alessandro|work=[[Deadline Hollywood]]|date=August 31, 2016|accessdate=September 1, 2016}}</ref><ref>{{cite web|url=http://www.boxofficemojo.com/news/?id=4219&p=.htm|title='Don't Breathe' To Lead Labor Day Weekend Over 'Morgan' & 'Light Between Oceans'|author=Brad Brevet|work=[[Box Office Mojo]]|date=September 1, 2016|accessdate=September 3, 2016}}</ref>
+
+It became the [[List of 2016 box office number-one films in the United States|second-highest-grossing film of 2016]] (behind ''Rogue One''),<ref>{{cite web|url=http://www.boxofficemojo.com/yearly/chart/?yr=2016&p=.htm|title=2016 DOMESTIC GROSSES|work=[[Box Office Mojo]]|accessdate=January 14, 2017}}</ref> the highest-grossing Pixar film,<ref name="Pixar"/> the second-highest-grossing [[Walt Disney Pictures]] release (behind ''Beauty and the Beast''), the highest-grossing Disney animated film, the highest-grossing animated film overall,<ref>{{cite web|url=http://www.boxofficemojo.com/genres/chart/?id=animation.htm|title=Animation|work=[[Box Office Mojo]]|accessdate=July 17, 2016}}</ref> and the [[List of highest-grossing films in Canada and the United States|fourteenth-highest-grossing film of all time]].<ref>{{cite web|url=http://www.boxofficemojo.com/alltime/domestic.htm|title=Domestic Grosses|work=[[Box Office Mojo]]|accessdate=May 4, 2019}}</ref>
+
+==== Outside North America ====
+Internationally, ''Finding Dory'' received a staggered release in a span of four months from June to September, with Germany being the last country. This was done in order to take advantage of key holidays and competitive dates around the world.<ref name="Overseas27thOpening"/><ref name="Overseas28thOpening">{{cite web|url=http://deadline.com/2016/07/tarzan-independence-day-resurgence-secret-life-of-pets-finding-dory-teenage-mutant-ninja-turtles-china-international-box-office-weekend-results-1201782497/|title='Tarzan' Takes $18.8M in First Offshore Swing; 'TMNT2' Kicks Up $26M China Bow; 'Pets' Purrs – International Box Office|author=Nancy Tartaglione|work=[[Deadline Hollywood]]|date=July 3, 2016|accessdate=July 3, 2016}}</ref> It was released across 29 countries—which is 32% of its entire international release territories—the same weekend as its U.S. premiere. It made an estimated $50.7&nbsp;million to take the No. 1 spot at the international box office.<ref name="Overseas26thOpening">{{cite web |url = http://deadline.com/2016/06/finding-dory-warcraft-china-conjuring-me-before-you-x-men-apocalypse-international-box-office-weekend-results-1201775198/ |title = 'Finding Dory' Splashes Out With $50.7M Offshore Opening; 'Warcraft' Crosses $200M in China – Intl Box Office Final |author = Nancy Tartaglione |work = [[Deadline Hollywood]] |date = June 19, 2016 |accessdate = June 23, 2016 }}</ref> In its second weekend, it added $38.7&nbsp;million from 37 markets, falling in third place behind ''Independence Day: Resurgence'' and ''[[Now You See Me 2]]''.<ref name="Overseas27thOpening">{{cite web|url=http://deadline.com/2016/06/finding-dory-independence-day-resurgence-secret-life-of-pets-warcraft-now-you-see-me-international-box-office-weekend-results-1201779619/|title='Independence Day Resurgence' Lands With $100M Overseas Start; 'Dory' Nears $400M WW – Intl Box Office Final|author=Nancy Tartaglione|work=[[Deadline Hollywood]]|date=June 27, 2016|accessdate=June 28, 2016}}</ref> In the same weekend along with its $73&nbsp;million take in North America, the film helped Pixar cross the $10&nbsp;billion mark worldwide since ''[[Toy Story]]'' (1995).<ref name="Overseas27thOpening"/> By its fourth weekend, the animated film helped Disney push past the $3&nbsp;billion mark internationally and $5&nbsp;billion globally.<ref name="Overseas29thOpening">{{cite web|url=http://deadline.com/2016/07/ice-age-sultan-salman-khan-finding-dory-tarzan-cold-war-independence-day-bollywood-china-international-box-office-weekend-results-1201784674/|title='Ice Age' Leads Studio Pics; Chinese Summer & 'Sultan' Kick Off – Intl B.O. Final|author=Nancy Tartaglione|work=[[Deadline Hollywood]]|date=July 12, 2016|accessdate=July 12, 2016}}</ref><ref>{{cite web|url=http://deadline.com/2016/07/disney-finding-dory-civil-war-zootopia-5-billion-global-box-office-record-1201784690/|title=Disney Hits $5B Global, $3B International Box Office in Record Time|author=Nancy Tartaglione|work=[[Deadline Hollywood]]|date=July 10, 2016|accessdate=July 11, 2016}}</ref>
+
+It had the biggest opening for an animated film in Brazil ($7.1&nbsp;million) and the Netherlands ($2.1&nbsp;million),<ref name="Overseas28thOpening"/> and the biggest of all time for a Disney animated or Pixar film in Australia ($7.7&nbsp;million), the Philippines ($2.1&nbsp;million), Singapore ($1.3&nbsp;million), India ($1&nbsp;million), Indonesia, Peru and Central America, and in Russia it opened with $3.2&nbsp;million,<ref name="Overseas26thOpening" /><ref name="Overseas28thOpening"/> and the second-biggest in the United Kingdom and Ireland ($10.7&nbsp;million), Mexico ($9.4&nbsp;million) and Argentina ($3.5&nbsp;million), and Colombia ($2.1&nbsp;million), behind ''[[Monsters University]]''.<ref name="Overseas26thOpening" /><ref name="Overseas30thOpening">{{cite web|url=http://deadline.com/2016/07/ghostbusters-ice-age-collision-course-sultan-secret-life-of-pets-finding-dory-tarzan-independence-day-international-box-office-weekend-results-1201787698/|title='Ice Age' Charts $53.5M Course To Lead Frame; 'Ghostbusters' Calls Up $19.1M in Offshore Bow – International Box Office|author=Nancy Tartaglione|work=[[Deadline Hollywood]]|date=July 17, 2016|accessdate=July 18, 2016}}</ref><ref name="Overseas32ndOpening">{{cite web|url=http://deadline.com/2016/07/jason-bourne-star-trek-ghostbusters-bad-moms-dory-pets-league-of-gods-international-box-office-weekend-results-1201795928/|title='Jason Bourne' Supreme With $50.1M Bow & Franchise Records – Intl Box Office Update|author=Nancy Tartaglione|work=[[Deadline Hollywood]]|date=July 31, 2016|accessdate=August 1, 2016}}</ref> In the UK and Ireland, the film recorded the second-biggest animated opening of the year with £8.1&nbsp;million ($10.7&nbsp;million) from 580 theaters, behind only ''The Secret Life of Pets''. However, if previews are excluded, ''Finding Dory'' is ahead. Moreover, it also posted the second-biggest Disney/Pixar opening, behind only ''Toy Story 3'' (fourth-biggest if previews are included), and the seventh-biggest animated opening of all time overall based on pure Friday-to-Sunday gross alone.<ref name="Overseas32ndOpening"/><ref>{{cite web|url=http://m.screendaily.com/5107153.article|title='Finding Dory' swims to top of UK box office|author=Ian Sandwell|work=[[Screen International]]|date=August 1, 2016|accessdate=August 2, 2016}}</ref><ref>{{cite web|url=https://www.theguardian.com/film/2016/aug/02/finding-dory-jason-bourne-uk-box-office|title=Finding Dory surfaces atop UK box office as Jason Bourne spies second|author=Charles Gant|work=[[The Guardian]]|date=August 2, 2016|accessdate=August 3, 2016}}</ref> It added an additional 43 theaters in its second weekend, after which it added another £3.98&nbsp;million ($5.1&nbsp;million) at the weekend, thereby passing the £20&nbsp;million mark in just 10 days (among Pixar films, only ''Toy Story 3'' reached £20&nbsp;million faster). It made an impressive £8.15&nbsp;million during weekdays, from Monday to Thursday resulting in a £2.03&nbsp;million daily-average gross. According to ''[[The Guardian]]'', this was because of the school holidays that prevailed on the weekdays. Otherwise, family films earn the vast majority of their takings on Saturday and Sunday, and showtimes typically reduce on weekdays.<ref>{{cite web|url=https://www.theguardian.com/film/2016/aug/09/suicide-squad-tops-uk-box-office-finding-dory-jason-bourne|title=Crime pays: DC's Suicide Squad tops UK box office with £11.25m|author=Charles Gant|work=[[The Guardian]]|date=August 9, 2016|accessdate=August 9, 2016}}</ref> It returned to the top of the box office in its fourth weekend<ref>{{cite web|url=https://www.theguardian.com/film/2016/aug/23/uk-box-office-analysis-david-brent-on-the-road-finding-dory-suicide-squad|title=Cringe benefits: David Brent has highest new entry at UK box office|author=Charles Gant|work=[[The Guardian]]|date=August 23, 2016|accessdate=August 23, 2016}}</ref> and went on to become the highest-grossing film of the summer that year.<ref>{{cite web|url=https://www.theguardian.com/film/2016/sep/06/uk-box-office-brotherhood-sausage-party|title=Brotherhood the daddy at UK box office as Finding Dory crowned king of the summer|author=Charles Gant|work=[[The Guardian]]|date=September 6, 2016|accessdate=September 7, 2016}}</ref> In Brazil, in addition to recording the biggest Disney/Pixar opening ever, almost twice the previous record held by ''[[The Good Dinosaur]]'', it also set a new record for an all-time animated opening, on par with ''Minions'' in local currency.<ref name="Overseas28thOpening"/> In South Korea, it had the biggest opening for a Pixar film with $7.1&nbsp;million, which is also the second-biggest for a Disney animated film, behind ''Frozen''.<ref name="Overseas29thOpening"/> In Japan, the film had a two-day weekend opening of $7&nbsp;million on Saturday and Sunday from 511 screens on 571,000 admissions. For the entire three-day holiday weekend, including [[Marine Day]] on Monday July 18, the film earned $11&nbsp;million on 922,000 admissions. This made it the top western release of the weekend and the biggest foreign opening-weekend in the country of that year.<ref name="Overseas30thOpening"/><ref>{{cite web|url=https://variety.com/2016/film/asia/japan-box-office-finding-dory-swims-to-the-top-1201817928/|title=Japan Box Office: ‘Finding Dory’ Swims to the Top in Holiday Weekend|author=Mark Schilling|work=[[Variety (magazine)|Variety]]|date=July 19, 2016|accessdate=August 3, 2016}}</ref> It had further number-one openings in Spain ($4.9&nbsp;million), France ($4.7&nbsp;million), Hong Kong ($1.9&nbsp;million; $2.8&nbsp;million including previews), Taiwan ($1.9&nbsp;million), Sweden, Norway, and Denmark.<ref name="Overseas27thOpening"/><ref name="Overseas29thOpening"/><ref name="Overseas30thOpening"/> It topped the box office in the Netherlands for three<ref name="Overseas30thOpening"/> and in Spain and Australia for four consecutive weekends.<ref name="Overseas29thOpening"/> In Italy, it scored the biggest animated opening of the year with $5.8&nbsp;million.<ref name="Overseas40thOpening">{{cite web|url=http://deadline.com/2016/09/bridget-jones-baby-suicide-squad-chinese-odyssey-sully-overseas-weekend-results-international-box-office-1201821739/|title='Bridget Jones's Baby' Bows To $30M; 'Suicide Squad' Powers Past $400M – Intl Box Office|author=Nancy Tartaglione|work=[[Deadline Hollywood]]|date=September 18, 2016|accessdate=September 19, 2016}}</ref>
+
+In China, where Pixar films have been struggling to find broad audiences and accrue lucrative revenues, the film was projected to make around $30&nbsp;million in its opening weekend.<ref name=CFIUpstreamStruggle>{{cite web |url = http://chinafilminsider.com/on-screen-china-despite-upstream-struggle-pixar-dory-could-haul-it-in/ |title = On Screen China: Despite Upstream Struggle, Pixar's 'Dory' Could Haul It In |author = Jonathan Papish |work = China Film Insider |date = June 17, 2016 |accessdate = June 17, 2016 }}</ref> The film ended up grossing $17.7&nbsp;million—the highest Pixar opening in the country's history—debuting in second place behind ''[[Warcraft (film)|Warcraft]]''.<ref name="Overseas26thOpening" /> It surpassed ''Monsters University'' in just seven days to become the biggest Pixar film there with $38.1&nbsp;million.<ref name="Overseas28thOpening"/><ref name="Overseas29thOpening"/> It opened in Germany—its last market—on September 29, where the film delivered a robust opening of $8.4&nbsp;million, the biggest for any film of 2016 in the country. The film continued to benefit from [[German Unity Day]] on October 3.<ref name="Overseas42ndOpening">{{cite web|url=http://deadline.com/2016/10/miss-peregrine-deepwater-horizon-ms-dhoni-untold-story-india-lord-china-finding-dory-bridget-jones-baby-overseas-weekend-results-international-box-office-1201829684/|title='Miss Peregrine' Books $36.5M; 'Finding Dory', 'Bridget Jones' Reach Milestones; Big Frame For Local Pics – Intl Box Office|author=Nancy Tartaglione|work=[[Deadline Hollywood]]|date=October 2, 2016|accessdate=October 3, 2016}}</ref> It went on to top the box office there for three straight weekends, tying with ''[[Inferno (2016 film)|Inferno]]'' in its third weekend.<ref name="Overseas44thOpening">{{cite web|url=http://deadline.com/2016/10/inferno-tom-hanks-accountant-miss-peregringe-foreign-opening-weekend-results-international-box-office-1201837174/|title='Inferno' Ignites With $50M Offshore; 'Miss Peregrine' Tops $130M – Intl Box Office|author=Nancy Tartaglione|work=[[Deadline Hollywood]]|date=October 16, 2016|accessdate=October 17, 2016}}</ref>
+
+It is now the highest-grossing Disney animated or Pixar film in Australia (where it is also the second-highest-grossing animated film of all time behind ''Shrek 2''), Bolivia, Brazil, Central America, Colombia, India, Indonesia, New Zealand, Peru, the Philippines, and Trinidad.<ref name="Overseas29thOpening"/><ref name="Overseas30thOpening"/><ref name="Overseas31stOpening">{{cite web|url=http://deadline.com/2016/07/star-trek-beyond-lights-out-skiptrace-international-box-office-1201791877/|title='Star Trek Beyond' $30M Debut; 'Lights Out' $8.5M; Jackie Chan's 'Skiptrace' Nails $64M Bow – Int'l Box Office Final|author=Anita Busch|work=[[Deadline Hollywood]]|date=July 25, 2016|accessdate=July 26, 2016}}</ref> It also became the second-highest-grossing Pixar release of all time in South Korea behind ''[[Inside Out (2015 film)|Inside Out]]''.<ref>{{cite web|url=http://www.hollywoodreporter.com/news/south-korea-box-office-local-914573|title=South Korea Box Office: Local Zombie Film Breaks Records, Tops Hollywood Releases|author=Lee Hyo-won|work=[[The Hollywood Reporter]]|date=July 26, 2016|accessdate=July 26, 2016}}</ref> Elsewhere, the biggest markets in terms of total earnings were Japan ($66&nbsp;million), followed by the UK ($56.3&nbsp;million), China ($38.1&nbsp;million), Australia ($36.3&nbsp;million), and Brazil ($34.5&nbsp;million).<ref name="1B"/>
+
+=== Critical response ===
+On review aggregation website [[Rotten Tomatoes]], ''Finding Dory'' has an approval rating of 94% based on 318 reviews and an average rating of 7.64/10. The website's critical consensus reads, "Funny, poignant, and thought-provoking, ''Finding Dory'' delivers a beautifully animated adventure that adds another entertaining chapter to its predecessor's classic story."<ref name="RT">{{cite web |url = https://www.rottentomatoes.com/m/finding_dory |title = Finding Dory (2016) |website = [[Rotten Tomatoes]] |publisher=[[Fandango Media]]|accessdate= July 18, 2019}}</ref> On [[Metacritic]], the film has a score of 77 out of 100, based on 48 critics, indicating "generally favorable reviews".<ref name="Meta">{{cite web |url = http://www.metacritic.com/movie/finding-dory |title = Finding Dory Reviews |website = [[Metacritic]] |publisher=[[CBS Interactive]] |accessdate = June 23, 2016 }}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "A" on an A+ to F scale, while [[PostTrak]] reported filmgoers gave it a 91% overall positive score and an 81% "definite recommend".<ref>{{cite web|url=http://deadline.com/2016/06/finding-dory-box-office-central-intelligence-captain-america-totals-1201774498/ |title='Dory's Record Animated Pic $136M+ Opening Is Also Second Best For June After ‘Jurassic World’ |work= [[Deadline Hollywood]]|date=June 20, 2018}}</ref>
+
+Mike Ryan of ''[[Uproxx]]'' gave the film a positive review, saying: "I never thought I wanted a sequel to ''Finding Nemo'', but here we are and I'm pretty happy it exists. And, for me, it was a more emotional experience than the first film. ''Finding Dory'' got me—it made me cry."<ref>{{cite web |last = Ryan |first = Mike |url = http://uproxx.com/movies/finding-dory-review/ |title = 'Finding Dory' Is Just About As Good As 'Finding Nemo' And Will Probably Make You Cry |website = Uproxx |date = June 15, 2016 |accessdate = June 15, 2016 }}</ref> [[A. O. Scott]] of ''[[The New York Times]]'' said that while the film lacks "dazzling originality", he overall wrote, "it more than makes up for in warmth, charm and good humor".<ref>{{cite web |last = Scott |first = A.O. |url = https://www.nytimes.com/2016/06/17/movies/finding-dory-review-pixar.html?_r=0 |title = Review: In 'Finding Dory,' a Forgetful Fish and a Warm Celebration of Differences |newspaper = The New York Times |date = June 15, 2016 |accessdate = June 30, 2016 }}</ref> In his review for ''[[Variety (magazine)|Variety]]'', Owen Gleiberman wrote, "It's a film that spills over with laughs (most of them good, a few of them shticky) and tears (all of them earned), supporting characters who are meant to slay us (and mostly do) with their irascible sharp tongues, and dizzyingly extended flights of physical comedy."<ref>{{cite web |last = Gleiberman |first = Owen |url = https://variety.com/2016/film/reviews/finding-dory-review-ellen-degeneres-albert-brooks-pixar-1201791897/ |title = Film Review: 'Finding Dory' |newspaper = Variety |date = June 10, 2016 |accessdate = June 30, 2016 }}</ref> [[Joe Morgenstern]] of ''[[The Wall Street Journal]]'' said that "''Finding Dory'' can be touching, sweet and tender, but it's compulsively, preposterously and steadfastly funny."<ref>{{cite web |last = Morgenstern |first = Joe |url = https://www.wsj.com/articles/finding-dory-review-winning-by-losing-once-again-1466099101?tesla=y |title = 'Finding Dory' Review: Winning by Losing Once Again |newspaper = The Wall Street Journal |date = June 16, 2016 |accessdate = June 30, 2016 }}</ref> [[Peter Travers]] of ''[[Rolling Stone]]'' gave the film three-and-a-half stars out of four and said that the film "brims with humor, heart and animation miracles", despite lacking "the fresh surprise of its predecessor".<ref>{{cite web |last = Travers |first = Peter |url = https://www.rollingstone.com/movies/reviews/finding-dory-20160614 |title = 'Finding Dory' Review |newspaper = Rolling Stone |date = June 14, 2016 |accessdate = June 30, 2016 }}</ref>
+
+Todd McCarthy of [[The Hollywood Reporter]] gave the film a negative review, writing, "Its heroine may suffer from short-term memory loss, but viewers with any memory at all will realize that ''Finding Dory'' falls rather short of its wondrous progenitor."<ref>{{cite web|last=McCarthy|first=Todd|url=https://www.hollywoodreporter.com/review/finding-dory-film-review-901456|title='Finding Dory': Film Review|work=The Hollywood Reporter|date=June 10, 2016|accessdate=December 20, 2017}}</ref> Writing for the [[Los Angeles Times]], Kenneth Turan said that, "As the 13-year gap between "Nemo" and "Dory" indicates, this was not a concept that cried out to be made."<ref>{{cite news|url=http://beta.latimes.com/entertainment/movies/la-et-mn-finding-dory-review-20160613-snap-story.html#nt=oft03a-1la1|title='Finding Dory' fails to find that 'Nemo' magic, but is still occasionally entertaining|newspaper=Los Angeles Times|date=June 16, 2016|accessdate=December 20, 2017}}</ref>
+
+=== Environmental controversies and issues ===
+Conservationists warned that, very much like ''[[Finding Nemo]]'', the film could lead to uninformed customers buying [[regal blue tang]] fish, Dory’s species, for home aquariums.<ref>{{cite news|last1=Lang|first1=Brent|title='Finding Dory' Could Lead to Dangerous Demand for Blue Tangs as Pets|url=https://variety.com/2016/film/news/finding-dory-blue-tang-pets-1201801360/|accessdate=March 9, 2017|work=Variety|date=June 22, 2016}}</ref> Blue tangs cannot be bred in captivity and have to be caught in the wild.<ref>{{cite web|last1=Holmes|first1=Adam|title=Why Marine Biologists Aren't Happy With Finding Dory|url=http://www.cinemablend.com/new/Why-Marine-Biologists-Aren-t-Happy-With-Finding-Dory-131077.html|publisher=CinemaBlend|accessdate=March 9, 2017|date=May 16, 2016}}</ref> They are related to [[Acanthuridae|surgeonfish]] and exhibit razor-sharp spines on both sides of the tail that can inflict formidable wounds.<ref>{{cite web|last1=Bradford|first1=Alina|title=Facts About Regal Blue Tangs|url=http://www.livescience.com/55339-regal-blue-tangs.html|publisher=Live Science|accessdate=March 9, 2017|date=July 9, 2016}}</ref>
+
+While promoting the film, actress Ellen DeGeneres reminded audiences that Nemo and Dory's real-life home, the [[Great Barrier Reef]], is under enormous threat, mostly due to [[coral bleaching]], a process induced by [[climate change]], which has killed [[coral reef]]s on an enormous scale.<ref>{{cite web|title=Disney-Pixar and Dory partner with Foundation to protect the Reef|url=https://www.barrierreef.org/latest/news/disney-pixar-and-dory-partner-with-foundation-to-protect-the-reef|publisher=Great Barrier Reef Foundation|accessdate=March 9, 2017|date=June 9, 2016}}</ref>
+
+=== Accolades ===
+{| class="wikitable sortable" style="font-size:small"
+|- style="background:#ccc; text-align:center;"
+|+ style="background: LightSteelBlue;" | List of awards and nominations
+|- style="background:#ccc; text-align:center;"
+! Year
+! Award
+! Category
+! Recipients
+! Result
+! class="unsortable"| {{nowrap|{{Abbr|Ref(s)|References}}}}
+|-
+| rowspan="12" style="text-align:center;"| 2016
+| rowspan="2"| [[Alliance of Women Film Journalists]]
+| Best Animated Film
+| [[Andrew Stanton]] and [[Angus MacLane]]
+| rowspan="7" {{nom}}
+| rowspan="2" style="text-align:center;"|<ref>{{cite news|url=http://awfj.org/eda-awards-2/2016-awfj-eda-award-nominees/ |title=2016 AWFJ EDA Award Nominees |first=Jennifer |last=Merin |publisher=''[[Alliance of Women Film Journalists]]'' |date=December 16, 2016 |accessdate=December 17, 2016}}</ref><br /><ref>{{cite news|url=http://www.wearemoviegeeks.com/2016/12/arrival-la-la-land-hell-high-water-among-nominees-2016-awfj-eda-awards/ |title='Arrival', 'La La Land', 'Hell or High Water' Among The Nominees for the 2016 AWFJ EDA Awards |first=Michelle |last=McCue |publisher=''WeAreMovieGeeks.com'' |date=December 16, 2016 |accessdate=December 17, 2016}}</ref>
+|-
+| Best Animated Female
+| [[Ellen DeGeneres]]
+|-
+| [[British Academy Children's Awards]]
+| BAFTA Kids' Vote
+| rowspan="2"| ''Finding Dory''
+| style="text-align:center;"|<ref>{{cite web |url=http://kidscreen.com/2016/10/19/horrible-histories-truetube-lead-bafta-childrens-noms/ |title=Horrible Histories, TrueTube lead BAFTA Children's noms |last=Foster |first=Elizabeth |publisher= Kidscreen|date= October 19, 2016 |accessdate= October 23, 2016}}</ref><br /><ref>{{cite web |url=http://awards.bafta.org/award/2016/childrens/bafta-kids-vote-film |title=2016 Children's BAFTA Kids' Vote - Film |publisher= [[British Academy of Film and Television Arts]]|date= November 21, 2016 |accessdate= December 2, 2016}}</ref>
+|-
+| [[22nd Critics' Choice Awards|Critics' Choice Awards]]
+| [[Critics' Choice Movie Award for Best Animated Feature|Best Animated Feature]]
+| style="text-align:center;"|<ref>{{cite web|title=La La Land Leads with 12 Nominations for the 22nd Annual Critics' Choice Awards &#124; ''Finding Dory'' |url=http://www.criticschoice.com/critics-choice-awards |publisher=Critics' Choice |date=December 1, 2016 |accessdate=December 1, 2016}}</ref>
+|-
+| [[Hollywood Music in Media Awards]]
+| Best Original Score – Animated Film
+| [[Thomas Newman]]
+| style="text-align:center;"|<ref>{{Cite web |url=http://deadline.com/2016/11/hollywood-music-in-media-awards-justin-timberlake-alexandre-desplat-trent-reznot-1201857357/ |title=Justin Timberlake & Alexandre Desplat Among Winners at Hollywood Music in Media Awards |publication-place=Deadline |publication-date=November 18, 2016 |access-date=November 18, 2016}}</ref><br /><ref>{{cite web | url=https://variety.com/2016/film/news/la-la-land-hollywood-music-in-media-nominations-1201907464/ | title='La La Land' Scores Three Hollywood Music in Media Nominations | work=Variety | date=November 2, 2016 | accessdate=November 3, 2016 |author=McNary, Dave}}</ref>
+|-
+| [[San Francisco Film Critics Circle Awards 2016|San Francisco Film Critics Circle]]
+| [[San Francisco Film Critics Circle Award for Best Animated Feature|Best Animated Feature]]
+| rowspan="3"| ''Finding Dory''
+| style="text-align:center;"|<ref name="SFrancisco">{{cite web|url=http://www.awardsdaily.com/2016/12/09/san-francisco-film-critics-circle-nominations/ |title=San Francisco Film Critics Circle Nominations! |first=Marshall |last=Flores |publisher=AwardsDaily.com |date=December 9, 2016 |accessdate=December 10, 2016}}</ref><br /><ref name="SFFCC2016">{{cite web|url=http://www.hollywoodreporter.com/news/moonlight-named-best-picture-by-san-francisco-film-critics-circle-955302 |title='Moonlight' Named Best Picture by San Francisco Film Critics Circle |first=Kimberly |last=Nordyke |work=[[The Hollywood Reporter]] |date=December 12, 2016 |accessdate=December 12, 2016}}</ref>
+|-
+| [[St. Louis Gateway Film Critics Association Awards 2016|St. Louis Gateway Film Critics Association]]
+| [[St. Louis Gateway Film Critics Association Award for Best Animated Film|Best Animated Film]]
+| style="text-align:center;"|<ref>{{cite web |url=http://www.stlfilmcritics.org/awards |title=2016 StLFCA Annual Award Nominations |publisher=''[[St. Louis Gateway Film Critics Association]]'' |date=December 12, 2016 |accessdate=December 12, 2016}}</ref>
+|-
+| rowspan="2"| [[2016 Teen Choice Awards|Teen Choice Awards]]
+| Choice Summer Movie
+| rowspan="2" {{won}}
+| rowspan="2" style="text-align:center;"|<ref name="TeenChoice">{{cite web|url=http://www.eonline.com/news/767635/teen-choice-awards-2016-nominations-announced-see-the-first-wave-of-potential-winners |title=Teen Choice Awards 2016 Nominations Announced: See the "First Wave" of Potential Winners |last=Vulpo |first=Mike |publisher=[[E!]] |date=May 24, 2016 |accessdate=May 25, 2016 |archiveurl=https://www.webcitation.org/6hm3YMtx8?url=http://www.eonline.com/news/767635/teen-choice-awards-2016-nominations-announced-see-the-first-wave-of-potential-winners |archivedate=May 25, 2016 |deadurl=no  }}</ref>
+|-
+| Choice Summer Movie Star: Female
+| Ellen DeGeneres
+|-
+| rowspan="2"| [[Washington D.C. Area Film Critics Association Awards 2016|Washington D.C. Area Film Critics Association]]
+| [[Washington D.C. Area Film Critics Association Award for Best Animated Feature|Best Animated Feature]]
+| ''Finding Dory''
+| rowspan="8" {{nom}}
+| rowspan="2" style="text-align:center;"|<ref>{{cite web|url=http://www.wafca.com/awards/ |title=The 2016 WAFCA Awards Nominations |date=December 3, 2016 |accessdate=December 4, 2016}}</ref>
+|-
+| Best Voice Performance
+| Ellen DeGeneres
+|-
+| [[Women Film Critics Circle]]
+| Best Animated Female
+| rowspan="2"| ''Finding Dory''
+| style="text-align:center;"|<ref>{{cite web|title=Women Film Critics Circle Nominations: "Hidden Figures," "13th," & More | url=http://blog.womenandhollywood.com/women-film-critics-circle-nominations-hidden-figures-13th-more-a62fcaa87784#.idr3puzg1 | publisher =Women And Hollywood|accessdate=December 15, 2016|date=December 19, 2016}}</ref>
+|-
+| rowspan="28" style="text-align:center;"| 2017
+| rowspan="3"| [[44th Annie Awards|Annie Awards]]
+| [[Annie Award for Best Animated Feature|Best Animated Feature]]
+| rowspan="3" style="text-align:center;"|<ref>{{cite web |url=http://annieawards.org/nominees/#1 |title=44th Annie Award Nominees |publisher=International Animated Film Society |date= November 28, 2016 |accessdate= November 29, 2016}}</ref>
+|-
+| Outstanding Achievement, Character Animation in a Feature Production
+| Erick Oh
+|-
+| Outstanding Achievement, Storyboarding in an Animated Feature Production
+| Trevor Jimenez
+|-
+| [[Black Reel Awards of 2017|Black Reel Awards]]
+| [[Black Reel Award for Outstanding Voice Performance|Outstanding Voice Performance]]
+| [[Idris Elba]]
+| style="text-align:center;"|<ref>{{cite web|url=http://www.awardscircuit.com/2016/12/14/black-reel-award-nominees-moonlight-leads-13-nominations/ |title=Black Reel Award Nominees – 'Moonlight' Leads with 13 Nominations |first=Clayton |last=Davis |publisher=AwardsCircuit.com |date=December 14, 2016 |accessdate=December 15, 2016}}</ref>
+|-
+| [[70th British Academy Film Awards|British Academy Film Awards]]
+| [[BAFTA Award for Best Animated Film|Best Animated Film]]
+| Andrew Stanton
+| style="text-align:center;"|<ref>{{Cite web|url=http://www.hollywoodreporter.com/lists/bafta-2017-complete-list-nominations-962769/item/film-bafta-nominees-2017-962744 |title=BAFTA Awards: 'La La Land' Leads Nominations |first=Alex |last=Ritman |date=January 9, 2017 |work=[[The Hollywood Reporter]] |accessdate=January 10, 2017}}</ref>
+|-
+| [[Cinema Audio Society Awards 2016|Cinema Audio Society]]
+| Outstanding Achievement in Sound Mixing for a Motion Picture – Animated
+| Scott Curtis, Doc Kane, Nathan Nance, Michael Semanick and Thomas Vicari
+| rowspan="2" {{won}}
+| style="text-align:center;"|<ref>{{cite web|last1=Petski|first1=Denise|title='La La Land', 'Rogue One', 'Hacksaw Ridge' Among Cinema Audio Society Nominees|url=http://deadline.com/2017/01/la-la-land-rogue-one-hacksaw-ridge-cinema-audio-society-nominees-2016-1201882155/|website=Deadline Hollywood|accessdate=January 11, 2017}}</ref>
+|-
+| [[Empire Awards]]
+| Best Animated Film
+| ''Finding Dory''
+| style="text-align:center;"|<ref name="EmpireAwards">{{cite web|url=https://www.flickreel.com/star-wars-rogue-one-leads-empire-awards-2017-nominations/ |title=Star Wars: Rogue One Leads Empire Awards 2017 Nominations |first=Danny |last=Pape |publisher=''Flickreel.com'' |date=February 7, 2017 |accessdate=March 3, 2017}}</ref>
+|-
+| [[Georgia Film Critics Association]]
+| Best Animated Film
+| [[Andrew Stanton]] and Lindsey Collins
+| {{Nominated}}
+| style="text-align:center;"|<ref name="GeorgiaFilmCriticsAssociation">{{cite web|url=http://www.georgiafilmcritics.org/p/2016-awards.html|title=2016 Awards|publisher=''Georgia Film Critics Association'' |date=April 1, 2017|accessdate=December 12, 2016}}</ref>
+|-
+| rowspan="2"| [[Rotten Tomatoes|Golden Tomato Awards]]
+| Best Wide Release 2016
+| rowspan="4"| ''Finding Dory''
+| {{draw|7th place}}
+| rowspan="2" style="text-align:center;"|<ref>{{cite web|title=Golden Tomato Awards - Best of 2016|url=https://editorial.rottentomatoes.com/golden-tomato-awards-2016/|website=[[Rotten Tomatoes]]|date=January 12, 2017}}</ref>
+|-
+| Best Animated Movie 2016
+| {{draw|2nd Place}}
+|-
+| [[Houston Film Critics Society Awards 2016|Houston Film Critics Society]]
+| Best Animated Feature Film
+| {{nom}}
+| style="text-align:center;"|<ref>{{cite web |url=https://movieawardsplus.com/2016/12/13/houston-film-critics-nominations/ |title=Houston Film Critics Nominations for 2016 Films |publisher=MovieAwardsPlus.com |date=December 13, 2016 |accessdate=December 15, 2016 |archive-url=https://web.archive.org/web/20161220202407/https://movieawardsplus.com/2016/12/13/houston-film-critics-nominations/ |archive-date=December 20, 2016 |dead-url=yes |df=mdy-all }}</ref><br /><ref>{{cite web|url=http://www.awardscircuit.com/2016/12/13/houston-film-critics-society-nominations-nice-guys-rebecca-hall-get-deserved-boost/ |title=Houston Film Critics Society Nominations – 'The Nice Guys' and Rebecca Hall Get a Deserved Boost |publisher=AwardsCircuit.com |date=December 13, 2016 |accessdate=December 15, 2016}}</ref>
+|-
+| rowspan="4"| [[2017 Kids' Choice Awards]]
+| Favorite Animated Movie
+| rowspan="2" {{won}}
+| rowspan="4" style="text-align:center;"|<ref>{{cite web |url=https://variety.com/2017/tv/news/nickelodeon-kids-choice-awards-nominations-2017-full-list-1201975603/|title=Justin Timberlake and Kevin Hart Lead Nickelodeon's Kids' Choice Awards Nominations|work=Variety|date= February 24, 2017 |accessdate= February 24, 2017 }}</ref>
+|-
+| Favorite Voice From an Animated Movie
+| rowspan="2"| Ellen DeGeneres
+|-
+| Most Wanted Pet
+| rowspan="1" {{nom}}
+|-
+| #Squad
+| Ellen DeGeneres, [[Albert Brooks]], [[Kaitlin Olson]], [[Hayden Rolence]], [[Willem Dafoe]], [[Ed O'Neill]], [[Ty Burrell]] and [[Eugene Levy]]
+| rowspan="1" {{won}}
+|-
+| [[NAACP Image Awards]]
+| Outstanding Character Voice-Over Performance
+| Idris Elba
+| rowspan="2" {{nom}}
+| style="text-align:center;"|<ref name="NAACP">{{cite news|url=http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-2017-naacp-image-award-nominees-20161213-story.html |title='Moonlight,' 'Birth of a Nation' and 'Loving' score big with NAACP Image Award nominations |first=Libby |last=Hill |newspaper=[[Los Angeles Times]] |date=December 14, 2016 |accessdate=December 14, 2016}}</ref>
+|-
+| [[Online Film Critics Society Awards 2016|Online Film Critics Society]]
+| [[Online Film Critics Society Award for Best Animated Film|Best Animated Film]]
+| rowspan="3"| ''Finding Dory''
+| style="text-align:center;"|<ref>{{cite web|url=http://ofcs.org/awards/2016-awards-20th-annual/ |title=20th Annual Online Film Critics Society Awards Nominations |publisher=''[[Online Film Critics Society]]'' |date=December 27, 2016|accessdate=December 27, 2016}}</ref>
+|-
+| rowspan="3"| [[43rd People's Choice Awards|People's Choice Awards]]
+| Favorite Movie
+| rowspan="3" {{won}}
+| rowspan="3" style="text-align:center;"|<ref>{{cite web|url= http://www.eonline.com/news/809426/people-s-choice-awards-2017-complete-list-of-nominations|title=People's Choice Awards 2017: Complete List of Nominations|accessdate=November 15, 2016| work=E! Online}}</ref>
+|-
+| Favorite Family Movie
+|-
+| Favorite Animated Movie Voice
+| Ellen DeGeneres
+|-
+| [[Producers Guild of America Awards 2016|Producers Guild of America]]
+| [[Producers Guild of America Award for Best Animated Motion Picture|Best Animated Motion Picture]]
+| Lindsey Collins
+| rowspan="2" {{nom}}
+| style="text-align:center;"|<ref>{{cite web|last1=Lewis|first1=Hilary|title=2017 Producers Guild Film Nominations Revealed|url=http://www.hollywoodreporter.com/news/2017-pga-film-nominations-full-list-963101|website=The Hollywood Reporter|accessdate=January 10, 2017}}</ref>
+|-
+| [[21st Satellite Awards|Satellite Awards]]
+| [[Satellite Award for Best Animated or Mixed Media Feature|Best Animated or Mixed Media Feature]]
+| rowspan="3"| ''Finding Dory''
+| style="text-align:center;"|<ref>{{cite web|url=http://www.hollywoodreporter.com/news/2016-satellite-awards-nominees-listed-includes-moonlight-la-la-land-950935|title=Satellite Awards Nominees Revealed|last=Kilday|first=Gregg|work=[[The Hollywood Reporter]]|date=November 29, 2016|accessdate=November 29, 2016}}</ref>
+|-
+| [[43rd Saturn Awards|Saturn Awards]]
+| [[Saturn Award for Best Animated Film|Best Animated Film]]
+| {{won}}
+| style="text-align:center;"|<ref name="SaturnAwards">{{cite magazine|url=https://variety.com/2017/film/awards/saturn-awards-nominations-2017-rogue-one-walking-dead-1202000833/ |title=Saturn Awards Nominations 2017: 'Rogue One,' 'Walking Dead' Lead |last=McNary |first=Dave |magazine=[[Variety (magazine)|Variety]] |date=March 2, 2017 |accessdate=March 3, 2017}}</ref>
+|-
+| [[Village Voice Film Poll]]
+| Best Animated Feature
+| {{draw|7th place}}
+| style="text-align:center;"|<ref>{{cite news|url=http://www.villagevoice.com/filmpoll/cat/animated_feature/2016|title=Film Poll 2016|newspaper=The Village Voice|date=January 6, 2017|accessdate=January 27, 2017|deadurl=yes|archiveurl=https://web.archive.org/web/20170203205826/http://www.villagevoice.com/filmpoll/cat/animated_feature/2016|archivedate=February 3, 2017}}</ref>
+|-
+| rowspan="4"| [[Visual Effects Society Awards 2016|Visual Effects Society]]
+| [[Visual Effects Society Award for Outstanding Animation in an Animated Feature Motion Picture|Outstanding Visual Effects in an Animated Feature]]
+| Chris J. Chapman, Lindsey Collins, John Halstead and Angus MacLane
+| {{nom}}
+| rowspan="4" style="text-align:center;"|<ref>{{cite web|url=http://www.hollywoodreporter.com/lists/rogue-one-leads-visual-effects-society-award-nominations-2017-full-list-962893/item/outstanding-visual-effects-a-student-project-962862|title='Rogue One' Leads Visual Effects Society Feature Competition With 7 Nominations As 'Doctor Strange,' 'Jungle Book' Grab 6 Each|work=Hollywood Reporter|first=Carolyn|last=Giardina|date=January 10, 2016|accessdate=January 10, 2016}}</ref>
+|-
+| Outstanding Animated Performance in an Animated Feature
+| Hank – Jonathan Hoffman, Steven Clay Hunter, Mark Piretti and Audrey Wong
+| {{won}}
+|-
+| Outstanding Created Environment in an Animated Feature
+| Open Ocean Exhibit – Stephen Gustafson, Jack Hattori, Jesse Hollander and Michael Rutter
+| rowspan="2" {{nom}}
+|-
+| Outstanding Effects Simulations in an Animated Feature
+| Stephen Gustafson, Allen Hemberger, Joshua Jenny and Matthew Kiyoshi Wong
+|}
+
+== Possible sequel ==
+In June 2016, director [[Andrew Stanton]] talked about the possibility of a sequel, saying that he would never exclude it because of the introduction of new characters, citing the ''[[Toy Story (franchise)|Toy Story]]'' films as guides for how to expand a world through sequels.<ref>{{cite magazine|last1=Snetiker|first1=Marc|title='Finding Nemo 3'? Here's whether it could happen|url=http://www.ew.com/article/2016/06/20/finding-dory-nemo-sequel|accessdate=July 27, 2016|issue=''[[Entertainment Weekly]]''|magazine=[[Entertainment Weekly]]|date=June 20, 2016}}</ref>
+
+== See also ==
+* ''[[Exploring the Reef]]''
+* [[Finding Nemo (franchise)|''Finding Nemo'' (franchise)]]
+{{Portal bar|Animation|Cartoon|Comedy|Disney|Film in the United States}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{wikimedia|collapsible=true|wikt=no}}
+* {{Official website}}
+* {{IMDb title|2277860}}
+* {{tcmdb title|2004871|Finding Dory}}
+* {{bcdb title|143826}}
+* {{Mojo title|pixar2015}}
+* {{Rotten Tomatoes|finding_dory}}
+* {{Metacritic film|finding-dory}}
+
+{{Finding Nemo}}
+{{Andrew Stanton}}
+{{Pixar}}
+{{Saturn Award for Best Animated Film}}
+{{Teen Choice Award Choice Movie Comedy}}
+{{authority control}}
+
+[[Category:2010s adventure films]]
+[[Category:2010s American animated films]]
+[[Category:2010s children's adventure films]]
+[[Category:2010s children's animated films]]
+[[Category:2010s children's comedy films]]
+[[Category:2010s sequel films]]
+[[Category:2016 3D films]]
+[[Category:2016 computer-animated films]]
+[[Category:2016 films]]
+[[Category:American adventure comedy films]]
+[[Category:American buddy films]]
+[[Category:American children's animated adventure films]]
+[[Category:American children's animated comedy films]]
+[[Category:American computer-animated films]]
+[[Category:American films]]
+[[Category:American nonlinear narrative films]]
+[[Category:American sequel films]]
+[[Category:Animated buddy films]]
+[[Category:Animated films about fish]]
+[[Category:English-language films]]
+[[Category:Fictional fish]]
+[[Category:Films about amnesia]]
+[[Category:Films about disability]]
+[[Category:Films directed by Andrew Stanton]]
+[[Category:Films featuring anthropomorphic characters]]
+[[Category:Films scored by Thomas Newman]]
+[[Category:Films set in 2016]]
+[[Category:Films set in California]]
+[[Category:Films set in zoos]]
+[[Category:Finding Nemo]]
+[[Category:IMAX films]]
+[[Category:Pixar animated films]]
+[[Category:Films with screenplays by Andrew Stanton]]
+[[Category:Walt Disney Pictures films]]
+[[Category:3D animated films]]
