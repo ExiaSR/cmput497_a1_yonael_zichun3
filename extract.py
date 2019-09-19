@@ -63,6 +63,7 @@ class Extracter:
     
     # Goes through token and finds the plainlist and outputs the subject and object
     # TODO : remove duplicate names and maybe non-capitalized words 
+    # TODO : Add evidence
     def get_lists(self, token):
         # Gets everything from '| [text] Plainlist' to } 
         plainlist = re.findall("(\|.*?\=\s+{{Plainlist\s*[\s\S]*?(?=\}))", token)
