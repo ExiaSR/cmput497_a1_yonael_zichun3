@@ -90,7 +90,7 @@ class Extracter:
                 for subject in subjects:
                     subject = re.sub("[^a-zA-Z]", " ", subject).strip()
                     result_buffer.append(
-                        {"predicate": predicate, "object": subject, "evidence": evidence}
+                        {"predicate": predicate, "object": self.strip_brackets(subject), "evidence": evidence}
                     )
 
         unbulleted_list = re.findall(r"(\|.*?\=\s+{{ubl\s*[\s\S]*?(?=\}))", token)
@@ -135,7 +135,7 @@ class Extracter:
                 continue  # continoue to parse next relation
 
             result_buffer.append(
-                {"predicate": predicate, "object": object_name, "evidence": relation_raw}
+                {"predicate": predicate, "object": self.strip_brackets(object_name), "evidence": relation_raw}
             )
         return result_buffer
 
