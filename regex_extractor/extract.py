@@ -66,7 +66,7 @@ class Extracter:
     # TODO: rename "subject" to "object" cuz we're extracing object not subject
     def get_relations(self, token):
         # Gets everything from '| [text] Plainlist' to }
-        plainlist = re.findall("(\|.*?\=\s+{{Plainlist\s*[\s\S]*?(?=\}))", token)
+        plainlist = re.findall("(\|.*?\=\s+{{[P|p]lainlist\s*[\s\S]*?(?=\}))", token)
         result_buffer = []
         if len(plainlist) > 0:
             # goes through plainlist items
