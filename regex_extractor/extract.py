@@ -66,38 +66,37 @@ class Extracter:
 
     # Goes through token and finds the plainlist and outputs the subject and object
     # TODO : remove duplicate names and maybe non-capitalized words
-    # TODO : Add evidence
-    # TODO: rename "subject" to "object" cuz we're extracing object not subject
     def get_relations(self, token):
         # Gets everything from '| [text] Plainlist' to }
         plainlist = re.findall("(\|.*?\=\s+{{[P|p]lainlist\s*[\s\S]*?(?=\}))", token)
         result_buffer = []
         if len(plainlist) > 0:
             # goes through plainlist items
-            for i in plainlist:
+            for plainlist_item in plainlist:
 
                 # finds the predicate (located between '|' and '=' )
                 # removes non alphabetical chars
-                predicate = re.findall("(\|.*?\=)", i)
+                predicate = re.findall("(\|.*?\=)", plainlist_item)
                 evidence = predicate
                 predicate = re.sub("[^a-zA-Z]", "", predicate[0])
 
                 # splits on new lines and removes the predicate (index 0) from the list
-                subjects = i.splitlines()
-                subjects.pop(0)
+                objects = plainlist_item.splitlines()
+                objects.pop(0)
 
                 # goes through subjects
-                for subject in subjects:
-                    subject = re.sub("[^a-zA-Z]", " ", subject).strip()
+                for object_raw in objects:
+                    subject = re.sub("[^a-zA-Z]", " ", object_raw).strip()
                     result_buffer.append(
-                        {"predicate": predicate, "object": self.strip_brackets(subject), "evidence": evidence}
+                        {"predicate": predicate, "object": self.strip_brackets(object_raw), "evidence": evidence}
                     )
 
+        # math pattern like `| xxx = {{ubl`
         unbulleted_list = re.findall(r"(\|.*?\=\s+{{ubl\s*[\s\S]*?(?=\}))", token)
         for list_item in unbulleted_list:
             predicate = re.findall(r"(?<=\| )(.*)(?=\= )", list_item)[0].strip()
-            objects_raw = re.search(r"\{{ubl\|(.*)", list_item, re.DOTALL).group(1)
-            objects_list_raw = re.split(r"\|", objects_raw)
+            objects_raw = re.search(r"\{{ubl\|(.*)", list_item, re.DOTALL).group(1) # get everything after `{{ubl|`
+            objects_list_raw = re.split(r"\|", objects_raw) # split raw objects by `|`
             for object_list_item in objects_list_raw:
                 result_buffer.append(
                     {
