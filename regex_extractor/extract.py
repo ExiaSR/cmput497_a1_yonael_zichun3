@@ -64,6 +64,15 @@ class Extracter:
         object_search = re.search(r"\[\[(.*?)\]\]", object_raw)
         return object_search.group(1) if object_search else object_raw
 
+    def subst_space_by_underscore(self, object_raw):
+        return object_raw.replace(" ", "_")
+
+    def remove_star_sign(self, object_raw: str):
+        return object_raw.replace("* ", "")
+
+    def normalize_object_name(self, object_raw):
+        return self.subst_space_by_underscore(self.remove_star_sign(self.strip_brackets(object_raw)))
+
     # Goes through token and finds the plainlist and outputs the subject and object
     # TODO : remove duplicate names and maybe non-capitalized words
     def get_relations(self, token):
@@ -88,7 +97,7 @@ class Extracter:
                 for object_raw in objects:
                     subject = re.sub("[^a-zA-Z]", " ", object_raw).strip()
                     result_buffer.append(
-                        {"predicate": predicate, "object": self.strip_brackets(object_raw), "evidence": evidence}
+                        {"predicate": predicate, "object": self.normalize_object_name(object_raw), "evidence": evidence}
                     )
 
         # math pattern like `| xxx = {{ubl`
@@ -101,7 +110,7 @@ class Extracter:
                 result_buffer.append(
                     {
                         "predicate": predicate,
-                        "object": self.strip_brackets(object_list_item),
+                        "object": self.normalize_object_name(object_list_item),
                         "evidence": list_item,
                     }
                 )
@@ -129,12 +138,12 @@ class Extracter:
                 and not object_text_raw.lower().startswith("{{plainlist")
                 and not object_text_raw.lower().startswith("{{ubl")
             ):
-                object_name = object_text_raw.replace(" ", "_")
+                object_name = self.normalize_object_name(object_text_raw)
             else:
                 continue  # continoue to parse next relation
 
             result_buffer.append(
-                {"predicate": predicate, "object": self.strip_brackets(object_name), "evidence": relation_raw}
+                {"predicate": predicate, "object": object_name, "evidence": relation_raw}
             )
         return result_buffer
 
