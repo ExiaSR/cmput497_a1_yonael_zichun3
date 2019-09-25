@@ -67,8 +67,11 @@ class Extracter:
     def subst_space_by_underscore(self, object_raw):
         return object_raw.replace(" ", "_")
 
+    def remove_star_sign(self, object_raw: str):
+        return object_raw.replace("* ", "")
+
     def normalize_object_name(self, object_raw):
-        return self.subst_space_by_underscore(self.strip_brackets(object_raw))
+        return self.subst_space_by_underscore(self.remove_star_sign(self.strip_brackets(object_raw)))
 
     # Goes through token and finds the plainlist and outputs the subject and object
     # TODO : remove duplicate names and maybe non-capitalized words
