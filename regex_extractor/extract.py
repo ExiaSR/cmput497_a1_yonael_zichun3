@@ -22,7 +22,35 @@ class Extracter:
             if token.startswith("{{Infobox"):
                 relations.extend(self.get_relations(token))
 
+            elif token.startswith("[[Category:"):
+                category = self.category_relation(token)
+
+                if ("winner" or "Winner") in category:
+                    relations.append(
+                        {
+                            "predicate": "Winner",
+                            "object": self.category_relation(token),
+                            "evidence": token,
+                        }
+                    )
+                else:
+                    relations.append(
+                        {
+                            "predicate": "Category",
+                            "object": self.category_relation(token),
+                            "evidence": token,
+                        }
+                    )
         return relations
+
+    # Gets all the categories
+    def category_relation(self, text):
+        category = re.search(r"\:(.*)(.*?)\]", text)
+        category = category.group()
+        regex = re.compile("[^a-zA-Z0-9]")
+        clean_category = regex.sub(" ", category).strip()
+        return clean_category
+        # print("this is the length of category {}".format(len(category)))
 
     # finds the balanced open parantheses and brackets then matches them
     def balanced(self, text):
@@ -57,7 +85,12 @@ class Extracter:
 
     # removes all the comments like <-- -->
     def remove_comments(self, text):
+        # removes all the comments like <-- -->
         clean = re.sub("(\<![\-\-\s\w\>\/]*\>)", "", text)
+
+        # &nbsp; remove backspaces
+        clean = re.sub("&nbsp;", "", text)
+
         return clean
 
     def strip_brackets(self, object_raw):
@@ -71,7 +104,9 @@ class Extracter:
         return object_raw.replace("* ", "")
 
     def normalize_object_name(self, object_raw):
-        return self.subst_space_by_underscore(self.remove_star_sign(self.strip_brackets(object_raw)))
+        return self.subst_space_by_underscore(
+            self.remove_star_sign(self.strip_brackets(object_raw))
+        )
 
     # Goes through token and finds the plainlist and outputs the subject and object
     # TODO : remove duplicate names and maybe non-capitalized words
@@ -97,15 +132,21 @@ class Extracter:
                 for object_raw in objects:
                     subject = re.sub("[^a-zA-Z]", " ", object_raw).strip()
                     result_buffer.append(
-                        {"predicate": predicate, "object": self.normalize_object_name(object_raw), "evidence": evidence}
+                        {
+                            "predicate": predicate,
+                            "object": self.normalize_object_name(object_raw),
+                            "evidence": evidence # TODO decide whether to encode plainlist_item or just dont change #plainlist_item,
+                        }
                     )
 
         # math pattern like `| xxx = {{ubl`
         unbulleted_list = re.findall(r"(\|.*?\=\s+{{ubl\s*[\s\S]*?(?=\}))", token)
         for list_item in unbulleted_list:
             predicate = re.findall(r"(?<=\| )(.*)(?=\= )", list_item)[0].strip()
-            objects_raw = re.search(r"\{{ubl\|(.*)", list_item, re.DOTALL).group(1) # get everything after `{{ubl|`
-            objects_list_raw = re.split(r"\|", objects_raw) # split raw objects by `|`
+            objects_raw = re.search(r"\{{ubl\|(.*)", list_item, re.DOTALL).group(
+                1
+            )  # get everything after `{{ubl|`
+            objects_list_raw = re.split(r"\|", objects_raw)  # split raw objects by `|`
             for object_list_item in objects_list_raw:
                 result_buffer.append(
                     {
