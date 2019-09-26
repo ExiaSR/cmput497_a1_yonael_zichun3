@@ -61,7 +61,13 @@ class Extracter:
         return clean
 
     def strip_brackets(self, object_raw):
-        object_search = re.search(r"\[\[(.*?)\]\]", object_raw)
+        # try to match different patter
+        # 1. [[xxx|xxx]] 2. [[xxxx]]
+        object_search = (
+            re.search(r"\[\[(.*?)\|(.*?)\]\]", object_raw)
+            if re.search(r"\[\[(.*?)\|(.*?)\]\]", object_raw)
+            else re.search(r"\[\[(.*?)\]\]", object_raw)
+        )
         return object_search.group(1) if object_search else object_raw
 
     def subst_space_by_underscore(self, object_raw):
@@ -84,7 +90,6 @@ class Extracter:
         if len(plainlist) > 0:
             # goes through plainlist items
             for plainlist_item in plainlist:
-
                 # finds the predicate (located between '|' and '=' )
                 # removes non alphabetical chars
                 predicate = re.findall("(\|.*?\=)", plainlist_item)
@@ -144,21 +149,34 @@ class Extracter:
             # extract object
             # look for everything after '='
             object_raw = re.search(r"\=(.*)", relation_raw, re.DOTALL)
-            object_text_raw = object_raw.group(1).strip()
+            object_text_raw: str = object_raw.group(1).strip()
+
             if (
                 object_raw
                 and not object_text_raw.lower().startswith("{{plainlist")
                 and not object_text_raw.lower().startswith("{{Plainlist")
                 and not object_text_raw.lower().startswith("{{ubl")
                 and not object_text_raw.lower().startswith("{{unbulleted list")
+                and "<br />" not in object_text_raw
             ):
                 object_name = self.normalize_object_name(object_text_raw)
+            elif "<br />" in object_text_raw:
+                objects_list_raw = re.split(r"\<br \/\>", object_text_raw)
+                for object_list_item in objects_list_raw:
+                    result_buffer.append(
+                        {
+                            "predicate": predicate,
+                            "object": self.normalize_object_name(object_list_item),
+                            "evidence": object_text_raw,
+                        }
+                    )
             else:
                 continue  # continoue to parse next relation
 
-            result_buffer.append(
-                {"predicate": predicate, "object": object_name, "evidence": relation_raw}
-            )
+            if object_name and predicate and relation_raw:
+                result_buffer.append(
+                    {"predicate": predicate, "object": object_name, "evidence": relation_raw}
+                )
         return result_buffer
 
 
