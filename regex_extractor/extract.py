@@ -144,7 +144,7 @@ class Extracter:
 
             # extract predicate
             # look for everything between '|' and '='
-            predicate_raw = re.findall(r"(?<=\| )(.*)(?=\= )", relation_raw)
+            predicate_raw = re.findall(r"(?<=\|)(.*)(?=\= )", relation_raw)
             if predicate_raw:
                 predicate = predicate_raw[0].replace(" ", "")
             else:
