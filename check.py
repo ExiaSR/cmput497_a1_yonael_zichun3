@@ -31,28 +31,38 @@ def main():
 
             for each in out_reader:
                 if len(each) >= 3:
-                    our_output[each[1]] = each[2]
+                    our_output["{}::{}".format(each[1], each[2])] = each[2]
                 else:
                     print(each)
 
             for each in samp_reader:
                 if len(each) >= 3:
-                    sample_output[each[1]] = each[2]
+                    sample_output["{}::{}".format(each[1], each[2])] = each[2]
 
-        for predicate, object_name in sample_output.items():
+        for predicate_object_name, object_name in sample_output.items():
             # special handling for predicate "musicComposer",
             # no clue how the sample dataset name it "musicComposer"
-            if predicate == "musicComposer":
-                predicate = "music"
+            if predicate_object_name.startswith("musicComposer"):
+                predicate_object_name = "music::{}".format(object_name)
 
-            if predicate == "country":
-                object_name = object_name.replace(" ", "_")
+            if predicate_object_name.startswith("country"):
+                predicate_object_name = "country::{}".format(object_name.replace(" ", "_"))
 
-            if (
-                not our_output.get(predicate, None)
-                or not our_output.get(predicate, None) == object_name
+            if predicate_object_name.startswith("studio"):
+                predicate_object_name = "studio::{}".format(object_name.replace(" ", "_"))
+
+            if not our_output.get(predicate_object_name, []) or not our_output.get(
+                predicate_object_name, None
             ):
-                print("Missing: {} {}".format(predicate, object_name))
+                if predicate_object_name.startswith("writer") and our_output.get(
+                    "screenplay::{}".format(object_name), None
+                ):
+                    continue
+                if predicate_object_name.startswith("producer") and our_output.get(
+                    "producers::{}".format(object_name), None
+                ):
+                    continue
+                print("Missing: {}".format(predicate_object_name))
 
         print("Done comparing {} and {}\n".format(output_path, sample_path))
 
