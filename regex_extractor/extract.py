@@ -68,13 +68,28 @@ class Extracter:
             if re.search(r"\[\[(.*?)\|(.*?)\]\]", object_raw)
             else re.search(r"\[\[(.*?)\]\]", object_raw)
         )
+
+        if not object_search:
+            # try strip single double bracket `[[xxx|`
+            object_search = re.search(r"\[\[(.*?)\|", object_raw)
+
+        if not object_search:
+            object_search = re.search(r"^\[\[(.*)", object_raw)
+
+        object_search_more = re.findall(r"(.*)\[\[(.*)\]\](.*)", object_raw)
+        if object_search_more and not object_raw.startswith("[["):
+            return "".join(list(re.findall(r"(.*)\[\[(.*)\]\](.*)", object_raw)[0]))
+
+        if not object_search:
+            object_search = re.search(r"(.*)\]\]", object_raw)
+
         return object_search.group(1) if object_search else object_raw
 
     def subst_space_by_underscore(self, object_raw):
         return object_raw.replace(" ", "_")
 
     def remove_star_sign(self, object_raw: str):
-        return object_raw.replace("* ", "")
+        return re.sub(r"\*\s|\*", "", object_raw)  # object_raw.replace("* ", "")
 
     def strip_tag(self, object_raw):
         object_search = re.search(r"(.*?)<ref name=\"(.*?)\"\/>", object_raw)
@@ -82,7 +97,7 @@ class Extracter:
 
     def normalize_object_name(self, object_raw):
         return self.subst_space_by_underscore(
-            self.remove_star_sign(self.strip_brackets(self.strip_tag(object_raw)))
+            self.strip_brackets(self.strip_tag(self.remove_star_sign(object_raw)))
         )
 
     # Goes through token and finds the plainlist and outputs the subject and object
@@ -170,7 +185,7 @@ class Extracter:
                     result_buffer.append(
                         {
                             "predicate": predicate,
-                            "object": self.normalize_object_name(object_list_item),
+                            "object": self.normalize_object_name(object_list_item.strip()),
                             "evidence": object_text_raw,
                         }
                     )
