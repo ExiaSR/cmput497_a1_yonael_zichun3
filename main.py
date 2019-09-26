@@ -2,9 +2,17 @@ import re
 import csv
 import os
 import errno
+import logging
 
 from regex_extractor.extract import Extracter
 from nltk.tokenize import RegexpTokenizer
+
+logger = logging.getLogger(__name__)
+
+if os.getenv("DEBUG", False):
+    logging.basicConfig(level=logging.DEBUG)
+else:
+    logging.basicConfig(level=logging.INFO)
 
 # Taken from https://stackoverflow.com/a/600612/119527
 def mkdir_p(path):
@@ -45,15 +53,21 @@ def get_wiki_files(dir="data"):
     ]
 
 
+# Taken from https://stackoverflow.com/a/9428041
+def remove_duplicate_relations(relations: dict):
+    return [i for n, i in enumerate(relations) if i not in relations[n + 1 :]]
+
+
 def main():
     wiki_files = get_wiki_files()
     extractor = Extracter()
     for wiki_file in wiki_files:
         subject = wiki_file["name"].replace(".wiki", "")
-        print("----Start parsing {}----".format(wiki_file["name"]))
+        logger.debug("----Start parsing {}----".format(wiki_file["name"]))
         relations = extractor.file_extract(wiki_file["path"])
-        save_to_tsv(subject, relations)
-        print("----Done parsing {}----\n".format(wiki_file["name"]))
+        # save_to_tsv(subject, relations, output_dir="output_old")
+        save_to_tsv(subject, remove_duplicate_relations(relations), output_dir="output")
+        logger.debug("----Done parsing {}----\n".format(wiki_file["name"]))
 
 
 if __name__ == "__main__":
