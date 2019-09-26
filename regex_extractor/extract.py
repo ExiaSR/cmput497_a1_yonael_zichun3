@@ -22,7 +22,33 @@ class Extracter:
             if token.startswith("{{Infobox"):
                 relations.extend(self.get_relations(token))
 
+            elif token.startswith("[[Category:"):
+                category = self.category_relation(token)
+
+                relations.append(
+                    {
+                    "predicate": 'Category',
+                    "object": self.category_relation(token),
+                    "evidence": token,
+                    }
+                )
+
+
+
+
+
+
         return relations
+
+    # Gets all the categories
+    def category_relation(self, text):
+        category = re.search(r"\:(.*)(.*?)\]", text)
+        category = category.group()
+        regex = re.compile('[^a-zA-Z0-9]')
+        clean_category = regex.sub(' ', category).strip()
+        return clean_category
+        #print("this is the length of category {}".format(len(category)))
+
 
     # finds the balanced open parantheses and brackets then matches them
     def balanced(self, text):
@@ -97,7 +123,7 @@ class Extracter:
                 for object_raw in objects:
                     subject = re.sub("[^a-zA-Z]", " ", object_raw).strip()
                     result_buffer.append(
-                        {"predicate": predicate, "object": self.normalize_object_name(object_raw), "evidence": evidence}
+                        {"predicate": predicate, "object": self.normalize_object_name(object_raw), "evidence": plainlist_item}
                     )
 
         # math pattern like `| xxx = {{ubl`
