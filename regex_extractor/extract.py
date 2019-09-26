@@ -76,9 +76,13 @@ class Extracter:
     def remove_star_sign(self, object_raw: str):
         return object_raw.replace("* ", "")
 
+    def strip_tag(self, object_raw):
+        object_search = re.search(r"(.*?)<ref name=\"(.*?)\"\/>", object_raw)
+        return object_search.group(1) if object_search else object_raw
+
     def normalize_object_name(self, object_raw):
         return self.subst_space_by_underscore(
-            self.remove_star_sign(self.strip_brackets(object_raw))
+            self.remove_star_sign(self.strip_brackets(self.strip_tag(object_raw)))
         )
 
     # Goes through token and finds the plainlist and outputs the subject and object
