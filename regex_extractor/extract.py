@@ -89,7 +89,7 @@ class Extracter:
     # TODO : remove duplicate names and maybe non-capitalized words
     def get_relations(self, token):
         # Gets everything from '| [text] Plainlist' to }
-        plainlist = re.findall("(\|.*?\=\s+{{[P|p]lainlist\s*[\s\S]*?(?=\}))", token)
+        plainlist = re.findall("(\|.*?\=\s+{{[P|p]lain\s?list\s*[\s\S]*?(?=\}))", token)
         result_buffer = []
         if len(plainlist) > 0:
             # goes through plainlist items
