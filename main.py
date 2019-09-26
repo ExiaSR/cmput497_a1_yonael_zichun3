@@ -3,6 +3,7 @@ import csv
 import os
 import errno
 import logging
+import argparse
 
 from regex_extractor.extract import Extracter
 from nltk.tokenize import RegexpTokenizer
@@ -58,7 +59,7 @@ def remove_duplicate_relations(relations: dict):
     return [i for n, i in enumerate(relations) if i not in relations[n + 1 :]]
 
 
-def main():
+def main(dir="data"):
     wiki_files = get_wiki_files()
     extractor = Extracter()
     for wiki_file in wiki_files:
@@ -71,4 +72,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description='Extract relations from wiki files.')
+    parser.add_argument('--input', type=str, default="data", help='Provide path to directory of input wiki files')
+    args = parser.parse_args()
+    main(args.input)

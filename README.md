@@ -18,9 +18,17 @@ $ pip install -r requirements.txt
 
 ## Run
 
-Simply run, output `TSV` files are saved into `output/` folder.
+Simply run `python main.py`, output `TSV` files are saved into `output/` folder.
 
-`python main.py`
+```
+usage: main.py [-h] [--input INPUT]
+
+Extract relations from wiki files.
+
+optional arguments:
+  -h, --help     show this help message and exit
+  --input INPUT  Provide path to directory of input wiki files
+```
 
 ## Author
 
