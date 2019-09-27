@@ -9,12 +9,19 @@ import re
 # plainlist and after = (\|.*?\=\s+{{Plainlist\s+\|\n.+?)
 # everything in the plainlist = (\|.*?\=\s+{{Plainlist\s*[\s\S]*?(?=\}))
 
+# a collection of regex to match relations
+regex_magic = {
+    "studio": [r"produced by \[\[(.*?)\]\]"],
+    "distributor": [r"distributed by \[\[(.*?)\]\]", r"released by \[\[(.*?)\]\]"],
+    "director": [r"directed by \[\[(.*?)\]\]"]
+}
 
 class Extracter:
     def file_extract(self, fn):
+        text_raw: str = None
         with open(fn, "r") as f:
-            for line in f:
-                tokens = self.preprocess(f.read())
+            text_raw = f.read()
+            tokens = self.preprocess(text_raw)
 
         relations = []
         for token in tokens:
@@ -41,6 +48,15 @@ class Extracter:
                             "evidence": token,
                         }
                     )
+
+        main_text_raw = re.search(r"\'\'\'\'\'.*", text_raw, re.DOTALL).group()
+        sentences_raw = sent_tokenize(main_text_raw)
+        # only search first 5 sentences, since the first paragraph are more likely
+        # to only focus on the subject
+        # the furthur we go, more likely to match irrelevant relation
+        for i in range(5):
+            relations.extend(self.get_relations_from_text(sentences_raw[i]))
+
         return relations
 
     # Gets all the categories
@@ -129,6 +145,8 @@ class Extracter:
 
     def strip_tag(self, object_raw):
         object_search = re.search(r"(.*?)<ref name=\"(.*?)\"\/>", object_raw)
+        if not object_search:
+            object_search = re.search(r"(.*?)<ref>(.*?)</ref>", object_raw)
         return object_search.group(1) if object_search else object_raw
 
     def normalize_object_name(self, object_raw):
@@ -234,10 +252,25 @@ class Extracter:
                 )
         return result_buffer
 
+    def get_relations_from_text(self, sentence_raw):
+        relations = []
+        for predicate, regex_str_list in regex_magic.items():
+            objects_name = []
+            for each_regex in regex_str_list:
+                object_search = re.search(each_regex, sentence_raw)
+                if object_search:
+                    relation = {
+                        "predicate": predicate,
+                        "object": self.normalize_object_name(object_search.group(1)),
+                        "evidence": sentence_raw
+                    }
+                    relations.append(relation)
+        return relations
+
 
 def main():
     extracter = Extracter()
-    fn = "data/Loving_Vincent.wiki"
+    fn = "data/The_Incredibles.wiki"
     relatinos = extracter.file_extract(fn)
 
 

@@ -55,24 +55,42 @@ def get_wiki_files(dir="data"):
 
 
 # Taken from https://stackoverflow.com/a/9428041
-def remove_duplicate_relations(relations: dict):
-    return [i for n, i in enumerate(relations) if i not in relations[n + 1 :]]
+def remove_duplicate_relations(relations):
+    relations_buffer = {}
+    for relation in relations:
+        # slow, but better way to clean up duplicate relations
+        relations_buffer["{}::{}".format(relation["predicate"], relation["object"])] = relation[
+            "evidence"
+        ]
+
+    return [
+        {"predicate": key.split("::")[0], "object": key.split("::")[1], "evidence": value}
+        for key, value in relations_buffer.items()
+    ]
 
 
-def main(dir="data"):
+def main(dir="data", output="output"):
     wiki_files = get_wiki_files()
     extractor = Extracter()
     for wiki_file in wiki_files:
         subject = wiki_file["name"].replace(".wiki", "")
         logger.debug("----Start parsing {}----".format(wiki_file["name"]))
         relations = extractor.file_extract(wiki_file["path"])
-        # save_to_tsv(subject, relations, output_dir="output_old")
-        save_to_tsv(subject, remove_duplicate_relations(relations), output_dir="output")
+        clean_relations = remove_duplicate_relations(relations)
+        save_to_tsv(subject, clean_relations, output_dir=output)
+        logger.debug(
+            "Total: {} Duplicate: {}".format(len(relations), len(relations) - len(clean_relations))
+        )
         logger.debug("----Done parsing {}----\n".format(wiki_file["name"]))
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Extract relations from wiki files.')
-    parser.add_argument('--input', type=str, default="data", help='Provide path to directory of input wiki files')
+    parser = argparse.ArgumentParser(description="Extract relations from wiki files.")
+    parser.add_argument(
+        "--input", type=str, default="data", help="Provide path to directory of input wiki files"
+    )
+    parser.add_argument(
+        "--output", type=str, default="output", help="Provide path to save output TSV files"
+    )
     args = parser.parse_args()
-    main(args.input)
+    main(args.input, args.output)
