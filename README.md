@@ -15,7 +15,7 @@
 
 ---
 
-# 3. all execution instructions necessary for the TA to reproduce your results
+# 3. Execution Instructions
 
 ## Setup
 
