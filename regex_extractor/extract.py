@@ -13,8 +13,9 @@ import re
 regex_magic = {
     "studio": [r"produced by \[\[(.*?)\]\]"],
     "distributor": [r"distributed by \[\[(.*?)\]\]", r"released by \[\[(.*?)\]\]"],
-    "director": [r"directed by \[\[(.*?)\]\]"]
+    "director": [r"directed by \[\[(.*?)\]\]"],
 }
+
 
 class Extracter:
     def file_extract(self, fn):
@@ -33,7 +34,7 @@ class Extracter:
             elif token.startswith("[[Category:"):
                 category = self.category_relation(token)
 
-                # If it finds a token with Winner, we add a Winner relation 
+                # If it finds a token with Winner, we add a Winner relation
                 if ("winner" or "Winner") in category:
                     relations.append(
                         {
@@ -45,7 +46,7 @@ class Extracter:
 
                 else:
 
-                    # Else simply write the category & the relation 
+                    # Else simply write the category & the relation
                     relations.append(
                         {
                             "predicate": "Category",
@@ -53,26 +54,21 @@ class Extracter:
                             "evidence": token,
                         }
                     )
-            
-            # If it finds Rotten Tomatoes in the token we process it 
+
+            # If it finds Rotten Tomatoes in the token we process it
             elif "Rotten Tomatoes" in token:
                 evidence = self.approval_relation(token)
                 if evidence:
                     obj = re.search(r"\d+(\%|\s\bpercent\b)(.*?)", evidence)
                     predicate = re.search(r"(\w*approval rating\w*)", evidence)
 
-                
-                        
                     relations.append(
                         {
                             "predicate": predicate.group().replace(" ", "_"),
                             "object": obj.group(),
                             "evidence": evidence,
-
                         }
                     )
-
-                
 
         main_text_raw = re.search(r"\'\'\'\'\'.*", text_raw, re.DOTALL).group()
         sentences_raw = sent_tokenize(main_text_raw)
@@ -83,7 +79,7 @@ class Extracter:
             relations.extend(self.get_relations_from_text(sentences_raw[i]))
 
         return relations
-    
+
     # Finds the Rotten Tomatoes approval rating relation
     def approval_relation(self, text):
         approval = re.search(r"\d+(\%|\s\bpercent\b)(.*?)(\w*approval rating\w*)", text)
@@ -293,7 +289,7 @@ class Extracter:
                     relation = {
                         "predicate": predicate,
                         "object": self.normalize_object_name(object_search.group(1)),
-                        "evidence": sentence_raw
+                        "evidence": sentence_raw,
                     }
                     relations.append(relation)
         return relations

@@ -5,6 +5,7 @@ Check if our attempt to cleanup duplicate is working
 import subprocess
 import os
 
+
 def get_output_files(dir="output"):
     (dirpath, _, filenames) = next(os.walk(dir))
     return {
@@ -13,6 +14,7 @@ def get_output_files(dir="output"):
         if filename.endswith(".tsv")
     }
 
+
 def main():
     original = get_output_files()
     clean = get_output_files(dir="output_old")
@@ -20,6 +22,7 @@ def main():
     for filename, path in original.items():
         print("Running diff againt {} and {}".format(path, clean[filename]))
         subprocess.run(["diff", path, clean[filename]])
+
 
 if __name__ == "__main__":
     main()
