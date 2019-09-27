@@ -29,9 +29,11 @@ class Extracter:
             if token.startswith("{{Infobox"):
                 relations.extend(self.get_relations(token))
 
+            # Looks for relations in "Categories"
             elif token.startswith("[[Category:"):
                 category = self.category_relation(token)
 
+                # If it finds a token with Winner, we add a Winner relation 
                 if ("winner" or "Winner") in category:
                     relations.append(
                         {
@@ -40,8 +42,10 @@ class Extracter:
                             "evidence": token,
                         }
                     )
-                    
+
                 else:
+
+                    # Else simply write the category & the relation 
                     relations.append(
                         {
                             "predicate": "Category",
@@ -49,7 +53,8 @@ class Extracter:
                             "evidence": token,
                         }
                     )
-                
+            
+            # If it finds Rotten Tomatoes in the token we process it 
             elif "Rotten Tomatoes" in token:
                 evidence = self.approval_relation(token)
                 if evidence:
@@ -79,6 +84,7 @@ class Extracter:
 
         return relations
     
+    # Finds the Rotten Tomatoes approval rating relation
     def approval_relation(self, text):
         approval = re.search(r"\d+(\%|\s\bpercent\b)(.*?)(\w*approval rating\w*)", text)
         if approval:
@@ -93,7 +99,7 @@ class Extracter:
         return clean_category
         # print("this is the length of category {}".format(len(category)))
 
-    # finds the balanced open parantheses and brackets then matches them
+    # Goes through the text & finds open parantheses & it's corresponding closing parantheses and processes it as a token
     def balanced(self, text):
         open_par = 0
 
