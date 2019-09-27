@@ -50,7 +50,6 @@ class Extracter:
                     )
 
         main_text_raw = re.search(r"\'\'\'\'\'.*", text_raw, re.DOTALL).group()
-        # print(main_text_raw)
         sentences_raw = sent_tokenize(main_text_raw)
         # only search first 5 sentences, since the first paragraph are more likely
         # to only focus on the subject
