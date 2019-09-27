@@ -1,5 +1,3 @@
-# cmput497_a1_yonael_zichun3
-***
 # #1 Name & CCIDs
 - Yonael Bekele - yonael
 - Michael Lin - zichun3
