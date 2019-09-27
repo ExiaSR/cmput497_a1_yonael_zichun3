@@ -59,7 +59,7 @@ def remove_duplicate_relations(relations: dict):
     return [i for n, i in enumerate(relations) if i not in relations[n + 1 :]]
 
 
-def main(dir="data"):
+def main(dir="data", output="output"):
     wiki_files = get_wiki_files()
     extractor = Extracter()
     for wiki_file in wiki_files:
@@ -72,7 +72,12 @@ def main(dir="data"):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Extract relations from wiki files.')
-    parser.add_argument('--input', type=str, default="data", help='Provide path to directory of input wiki files')
+    parser = argparse.ArgumentParser(description="Extract relations from wiki files.")
+    parser.add_argument(
+        "--input", type=str, default="data", help="Provide path to directory of input wiki files"
+    )
+    parser.add_argument(
+        "--output", type=str, default="output", help="Provide path to save output TSV files"
+    )
     args = parser.parse_args()
-    main(args.input)
+    main(args.input, args.output)
