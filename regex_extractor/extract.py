@@ -40,6 +40,7 @@ class Extracter:
                             "evidence": token,
                         }
                     )
+                    
                 else:
                     relations.append(
                         {
@@ -48,6 +49,25 @@ class Extracter:
                             "evidence": token,
                         }
                     )
+                
+            elif "Rotten Tomatoes" in token:
+                evidence = self.approval_relation(token)
+                if evidence:
+                    obj = re.search(r"\d+(\%|\s\bpercent\b)(.*?)", evidence)
+                    predicate = re.search(r"(\w*approval rating\w*)", evidence)
+
+                
+                        
+                    relations.append(
+                        {
+                            "predicate": predicate.group().replace(" ", "_"),
+                            "object": obj.group(),
+                            "evidence": evidence,
+
+                        }
+                    )
+
+                
 
         main_text_raw = re.search(r"\'\'\'\'\'.*", text_raw, re.DOTALL).group()
         sentences_raw = sent_tokenize(main_text_raw)
@@ -58,6 +78,11 @@ class Extracter:
             relations.extend(self.get_relations_from_text(sentences_raw[i]))
 
         return relations
+    
+    def approval_relation(self, text):
+        approval = re.search(r"\d+(\%|\s\bpercent\b)(.*?)(\w*approval rating\w*)", text)
+        if approval:
+            return approval.group()
 
     # Gets all the categories
     def category_relation(self, text):
