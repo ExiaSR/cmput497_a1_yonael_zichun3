@@ -13,6 +13,8 @@
 
 -   https://dev.to/catherinecodes/a-regex-cheatsheet-for-all-those-regex-haters-and-lovers--2cj1
 
+-   https://stackoverflow.com/a/23794010
+
 ---
 
 # 3. Execution Instructions
@@ -67,5 +69,5 @@ The script added a bunch of special handling for things like `musicComposer -> m
 -   We then look at the Categories and have two cases: Winner is in the category or not. We found this an efficient way to get winner awards that is consistent throughout most cases. As well as finding other relations using the categories. (_category_relation_)
 -   We then look at tokens with "Rotten Tomatoes", and find the approval rating. (_approval_relation_)
 -   We then do another tokenize method using NLTK's sent_tokenize to find new patterns of relations
--   We search for more unique patterns using the regex_magic list (_get_relations_from_text_)
+-   We search for more unique patterns using the regex*magic list (\_get_relations_from_text*)
 -   We verified our coverage using a script to do a diff between our output and the data provided
