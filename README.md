@@ -57,7 +57,7 @@ The script added a bunch of special handling for things like `musicComposer -> m
 
 ## Notes
 
--   For evidence, we try to keep it as short as possible. e.g, `plainlist` only show the first line which contains the `predicate`, but not the objects.
+-   For evidence, we try to keep it as short as possible. e.g, `plainlist` only show the first line which contains the `predicate`, but not the objects. We could've gotten the whole line including all the plainlist items but DENILSON BARBOSA SAID IT'S OKAY. 
 
 ---
 
