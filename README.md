@@ -66,7 +66,7 @@ The script added a bunch of special handling for things like `musicComposer -> m
 -   We have an Extract class that goes through the file and extracts information while it cleans the text removing comments
 -   We first breakdown the text by matching open parantheses/brackets to closed brackets and processing as a token. (_preprocess_ & _balanced_)
 -   Most of the information we need to cover the sample cases are provided in the Infobox. So, we search for Infobox materials in our tokens and have two cases of processing: Plainlist or not. (_get_relation_ handles these two cases)
--   We then look at the Categories and have two cases: Winner is in the category or not. We found this an efficient way to get winner awards that is consistent throughout most cases. As well as finding other relations using the categories. (_category_relation_)
+-   We then look at the Categories and have 3 cases: Winner, Type or neither which results in Category. We found this an efficient way to get winner awards that is consistent throughout most cases. If Film is present we tokenize the string and find the type film as well as the other string (strictly alphabetical) which is a type that describes the movie. As well as finding other relations using the categories. (_category_relation_)
 -   We then look at tokens with "Rotten Tomatoes", and find the approval rating. (_approval_relation_)
 -   We then do another tokenize method using NLTK's sent_tokenize to find new patterns of relations
 -   We search for more unique patterns using the regex*magic list (\_get_relations_from_text*)
