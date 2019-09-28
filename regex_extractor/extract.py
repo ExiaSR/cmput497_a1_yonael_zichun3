@@ -1,4 +1,4 @@
-from nltk.tokenize import sent_tokenize
+from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.tag import pos_tag
 import re
 
@@ -20,6 +20,9 @@ regex_magic = {
 class Extracter:
     def file_extract(self, fn):
         text_raw: str = None
+
+        # checks if a film has been chosen 
+        film = 0 
         with open(fn, "r") as f:
             text_raw = f.read()
             tokens = self.preprocess(text_raw)
@@ -43,6 +46,41 @@ class Extracter:
                             "evidence": token,
                         }
                     )
+
+                # Checks for content types ex. Film, Adventure, etc
+                elif (("film" or "Film" in category) and (film == 0)):
+
+                    # info has been found that shows its a film
+                    film = 1
+
+                    # find that it is a film 
+                    films = (re.findall('film', category, flags=re.IGNORECASE))
+                    if len(films) > 0: 
+                        # append the film type 
+                        relations.append(
+                            {
+                                "predicate": "type",
+                                "object": films.pop(),
+                                "evidence": token,
+                            }
+                        )
+
+                    # removes the film and tokenizes the sentence
+                    new_category = re.sub("film", " ", category).strip()
+                    cat_tokens = word_tokenize(new_category)
+
+                    # finds the other types in the category and makes the relation
+                    for t in cat_tokens:
+                        
+                        if (t.isalpha()) and (len(t) > 1):
+                            relations.append(
+                        {
+                            "predicate": "type",
+                            "object": t,
+                            "evidence": category,
+                        }
+                    )
+
 
                 else:
 
